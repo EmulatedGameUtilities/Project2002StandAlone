@@ -1,0 +1,34 @@
+[Fri Apr 21 14:05:54 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:06:24 2023]00001:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:06:59 2023]00002:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:09:41 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:31:36 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:41:58 2023]00001:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:42:45 2023]00002:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:49:49 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:57:39 2023]00001:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:57:44 2023]00001:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:58:24 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 14:58:36 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 15:04:39 2023]00001:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 15:59:05 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Fri Apr 21 16:04:31 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Tue Apr 25 15:15:14 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+
+[Tue Apr 25 15:15:42 2023]00000:ResourceManager::CreateTexture(): unable to load "GOLHE0003.DDS" (not found)
+

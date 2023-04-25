@@ -1,0 +1,322 @@
+﻿<c "#FFFF00">EVERQUEST:  THE LEGACY OF YKESHA</c><BR>
+<BR>
+<BR>
+<c "#FFFF00">Executive Producer/Director of Development</c><BR>
+Rod Humble<BR>
+<BR>
+<c "#FFFF00">Senior Producer</c><BR>
+Robert Pfister<BR>
+<BR>
+<c "#FFFF00">Project Manager</c><BR>
+John Laurence<BR>
+<BR>
+<c "#FFFF00">Community Relations Manager</c><BR>
+Alan VanCouvering<BR>
+<BR>
+<c "#FFFF00">Design Director</c><BR>
+Rich Waters<BR>
+<c "#FFFF00">Technical Director</c><BR>
+Scott Hartsman<BR>
+<BR>
+<c "#FFFF00">Lead Artists</c><BR>
+Daniel MacGibbon and Dave Nevala<BR>
+<BR>
+<BR>
+<BR>
+<c "#FFFF00">ART</c><BR>
+<BR>
+<c "#FFFF00">Lead Artists</c><BR>
+Daniel MacGibbon and Dave Nevala<BR>
+<BR>
+<c "#FFFF00">Assistant Lead Artists</c><BR>
+James Romedy and Cory Rohlfs<BR>
+<BR>
+<c "#FFFF00">Artists, World Builders and Animators</c><BR>
+Ronnie Ashlock, Allen Bond, Robert Collier,
+Dante Fuget, Adam McMahon, Bob Painter,
+Shannon Parnell, Evan Sampson,
+Tom Tobey and Eric Webster<BR>
+<BR>
+<c "#FFFF00">Additional Art</c><BR>
+Dave Estus, Shaun Johnston,
+Charles Peters and Alfonso Villar<BR>
+<BR>
+<BR>
+<c "#FFFF00">GAME DESIGN</c><BR>
+<BR>
+<c "#FFFF00">Design Director</c><BR>
+Rich Waters<BR>
+<BR>
+<c "#FFFF00">Lead Designer, EverQuest Expansions</c><BR>
+Shawn Lord<BR>
+<BR>
+<c "#FFFF00">Lead Designer, EverQuest Development</c><BR>
+Oliver J. Smith<BR>
+<BR>
+<c "#FFFF00">Game Designers</c><BR>
+Jeremy Albert, Ryan Barker, Paul Carrico,
+Akil Hooper, Jason Mash, Jason Miller,
+John Troy, Eugene Wells and David White<BR>
+<BR>
+<c "#FFFF00">Additional Game Design</c><BR>
+Chris Cao<BR>
+<BR>
+<c "#FFFF00">Design Apprentices</c><BR>
+Thomas Blair, Jonathan Caraker,
+Norman Freeman and Carly Towle <BR> 
+<BR>
+<BR>
+<c "#FFFF00">PROGRAMMING</c><BR>
+<BR>
+<c "#FFFF00">Technical Director</c><BR>
+Scott Hartsman<BR>
+<BR>
+<c "#FFFF00">Assistant Lead Programmers</c><BR>
+Jamey Ryan and Todd Schmidt<BR>
+<BR>
+<c "#FFFF00">Programmers</c><BR>
+Roy Eltham, David Herman, Bill James,
+Alan Krause, Rusty Peltz, Jeff Petersen
+and David Sauter <BR>
+<BR>
+<c "#FFFF00">Lead Cartographers</c><BR>
+Melanie Lara, Joseph Paolinelli and Ima Somers<BR>
+<BR>
+<c "#FFFF00">Cartographers</c><BR>
+Jonathan Caraker, Patrick Duffy, Jessica Freeman,
+Norm Freeman, Juan Guzman, Jenny Kirkland,
+David Kish, Chris Lindsay, Christine McCoard,
+Lydia Pope, Ryan Robinson, Sheri Tarter,
+Carly Towle, Michael Wagner and Noel Walling<BR>
+<BR>
+<BR>
+<c "#FFFF00">MUSIC, SOUND AND VIDEO</c><BR>
+<BR>
+<c "#FFFF00">Musical Production</c><BR>
+Rob King<BR>
+<BR>
+<c "#FFFF00">Musical Score by Paul Romero and Rob King </c><BR>
+Soundtrack Recorded, Mixed & Mastered by
+Rob King @ Green Street Studios, Pasadena, CA<BR>
+<BR>
+<c "#FFFF00">Sound Engineer</c><BR>
+Play It Again Studios<BR>
+<BR>
+<c "#FFFF00">Video Production</c><BR>
+Paul Tighe<BR>
+<BR>
+<BR>
+<c "#FFFF00">Technical Operations</c><BR>
+<BR>
+<c "#FFFF00">Operations Managers</c><BR>
+Brian Blank, Jeff Bolaris, Michael Bowen,
+Michael Butler, Cameron Enfinger,
+Mark Preston and Dani Roisman<BR>
+<BR>
+<c "#FFFF00">Operations Team</c><BR>
+Timothy Arland, David Corning, Steven Davis,
+Thomas Delzer, Lisa Doleshal, Chad Folz,
+Ted Garrington, Anthony Gervais, Stacey M. Griebel,
+Michael Hardman, Chris Hatch, Greg Herzbrun,
+Sid Jaffee, Michael A. Klug, Kirk Lightfoot,
+David Prestin, Jonathan Rad, Chris Richard,
+Dominico Scaduto, Loren G. Skeels, Jeremy Siprelle,
+David Taylor, Chris Trichel, Anna Watts
+and Paul Zastoupil <BR>
+<BR>
+<c "#FFFF00">EverQuest Installer</c><BR>
+Lawrence Liberty and Casey Winn<BR>
+<BR>
+<c "#FFFF00">EverQuest Patcher</c><BR>
+Steve Lukas<BR>
+<BR>
+<BR>
+<c "#FFFF00">Customer Service and Quality Assurance</c><BR>
+<BR>
+<c "#FFFF00">Vice President of Customer Service and Quality Assurance</c><BR>
+George Scotto<BR>
+<BR>
+<c "#FFFF00">Executive Assistant</c><BR>
+Brandie Thornley<BR>
+<BR>
+<c "#FFFF00">Quality Assurance Manager</c><BR>
+Tony Rado<BR>
+<BR>
+<c "#FFFF00">Quality Assurance Supervisor</c><BR>
+Jose Araiza<BR>
+<BR>
+<c "#FFFF00">Quality Assurance Lead for EverQuest</c><BR>
+Andrew Lamp<BR>
+<BR>
+<c "#FFFF00">Quality Assurance Analysts</c><BR>
+Kent Almond, Ryan Antonelli, Ryan Barnard, Jason Biltz,
+Dominic Bindley, David Bryson, Neil Christmas,
+Jalane Crosby, Brian DeMarco, Carl Flaherty,
+Steve Pierce, Joel White and Jason Zimmerman<BR>
+<BR>
+<c "#FFFF00">Director of Customer Service</c><BR>
+Thom Terrazas<BR>
+<BR>
+<c "#FFFF00">Customer Service Managers</c><BR>
+Alan Crosby and Gary Mathews<BR>
+<BR>
+<c "#FFFF00">Customer Service Administration Team</c><BR>
+Fannie Gunton, Jennifer Moser, Aimee Rekoske
+and Zach Sheffler<BR>
+<BR>
+<c "#FFFF00">Knowledge Base Administrator</c><BR>
+Dave Mallett<BR>
+<BR>
+<c "#FFFF00">Training Specialists</c><BR>
+David Kish and Justin Almond<BR>
+<BR>
+<c "#FFFF00">Lead Game Masters</c><BR>
+Candace Bohrer, Patrick Cirelli, Christina Delzer,
+Bruce Economy, Thomas Lockard, Sharon Morris,
+Ivan Robancho and Rich Schmelter<BR>
+<BR>
+<c "#FFFF00">Game Masters</c><BR>
+Dustin Abbott, Johnny Ah Sue, Justin Allen, Thomas Blair,
+Evan Blewett, Brett Bowman, Steven Brown,
+Keith Carlsgaard, Jefferson Carpenter, William Crenshaw,
+Robert Davis, Greg Dixon, Patrick Duffy, Jessica Freeman,
+Norman Freeman, Richard Granback, Bradley Griffin,
+Heather Guthridge, Juan Guzman, Mark Halash, Eric Hall,
+Rodney Haza, Eli V. Holding, Niklas Johansson,
+Janessa Johansson, Jennifer Kirkland, Joshua Lambert,
+Melanie Lara, Christopher Lindsay, George Long,
+Jeffery Lovell, Christine McCoard, Amy McCrary,
+Leslie Moschetti, Patrick Murphy, Ian Noble,
+Benjamin Norris, Patrick O'Hara, Travis Otten,
+Suzanne Owen, Gary Panther, Joseph Paolinelli,
+Norm Perez, Lydia Pope, Rhonda Potter, Keith Rekoske,
+Ryan Robinson, Robyn Rogers, Andrea Rose,
+Leah Ruben, Ben Skelly, Olivia Skelly, Gregory Sodeman,
+Ima Somers, Laura Szigeti, Sheri Tarter, Erik Theisz,
+Carly Towle, Ruth Trombly, Joseph Tyler, Kyle Vallee,
+Michael Wagner, Noel Walling and Fryda Wolff<BR>
+<BR>
+<c "#FFFF00">Technical Support Managers</c><BR>
+Satao Minami and Victor Ramirez<BR>
+<BR>
+<c "#FFFF00">Technical Support Supervisors</c><BR>
+Luke Brody, Gordon Dapkus and Anthony Worthy<BR>
+<BR>
+<c "#FFFF00">Senior Technical Support Representatives</c><BR>
+Nate Wright<BR>
+<BR>
+<c "#FFFF00">Technical Support Representatives</c><BR>
+Adrian Alverez, Walter Brame, Jonathan Caraker,
+Andrew Chace, Daniel Clifford, Tony Flores,
+Vaughn Garvin, Chad Hartmann, Patrick Horne,
+Chris Johnson,  Michael Lafond,  Sean Michael,
+Shawn Pitman, Angelo Sanchez, Joel Sasaki,
+Roger Sewell, Jeremy Swanson, Jacob Thompson,
+Eric Wile, Paul D. Williams and Timothy Zarza<BR>
+<BR>
+<c "#FFFF00">Customer Service Localization Manager</c><BR>
+Zack Karlsson<BR>
+<BR>
+<BR>
+<c "#FFFF00">Platform Services</c><BR>
+<BR>
+<c "#FFFF00">Director of Applications And Services Engineering</c><BR>
+David Dhunjishaw<BR>
+<BR>
+<c "#FFFF00">Manager of Applications Engineering</c><BR>
+Stacey Sofia-McDaniel<BR>
+<BR>
+<c "#FFFF00">Applications Engineering Team</c><BR>
+Leo DeLeon, Dan Gorman, Devon Kim, Duy Le
+and Jason Parrott <BR>
+<BR>
+<c "#FFFF00">Manager of Systems Engineering</c><BR>
+Craig Snyder<BR>
+<BR>
+<c "#FFFF00">Systems Engineering Team</c><BR>
+Thomas Farthing, Ben Hulse, Tavish Margers,
+Ryan Smith and Taylor Steil<BR>
+<BR>
+<BR>
+<c "#FFFF00">Director of Web Presence</c><BR>
+Nathan Pearce<BR>
+<BR>
+<c "#FFFF00">Content Manager, Senior Editor</c><BR>
+Clayton Kroh<BR>
+<BR>
+<c "#FFFF00">Content Team</c><BR>
+Elliot Feldman and Steve Fuller<BR>
+<BR>
+<c "#FFFF00">Art Director, Web Production Manager</c><BR>
+Mike Murphy<BR>
+<BR>
+<c "#FFFF00">Web Production Team</c><BR>
+Travis Ball, Tim Cox, Nick Davison, Meribeth Densmore,
+Tim Dunn, Monte Green, Dan Jones, Rich Sjoberg,
+Paul Tighe and Ian Wall<BR>
+<BR>
+<c "#FFFF00">Station Store Management</c><BR>
+Bonnie Coats<BR>
+<BR>
+<BR>
+<c "#FFFF00">International Operations</c><BR>
+<BR>
+<c "#FFFF00">Vice President of International Operations</c><BR>
+Cindy Armstrong<BR>
+<BR>
+<c "#FFFF00">Localization Manager</c><BR>
+Chris Lena<BR>
+<BR>
+<c "#FFFF00">Senior Programmer for International Operations</c><BR>
+Bill Mauer<BR>
+<BR>
+<BR>
+<c "#FFFF00">Sales and Marketing</c><BR>
+<BR>
+<c "#FFFF00">Senior Vice President of Sales and Marketing</c><BR>
+Don Vercelli<BR>
+<BR>
+<c "#FFFF00">Vice President of Marketing and Public Relations</c><BR>
+Scott McDaniel<BR>
+<BR>
+<c "#FFFF00">Sales, Marketing and Public Relations Team</c><BR>
+Casey Dickenson, Adam Fiori, Christy Fritts,
+Sean Kauppinen, Lisa Leyba, Michael Lustenberger,
+Mike Meyer, Tamara Sanderson and Katie Thomas<BR>
+<BR>
+<c "#FFFF00">Events Relations Coordinator</c><BR>
+Tom Taylor<BR>
+<BR>
+<c "#FFFF00">Executive Staff - Sony Online Entertainment</c><BR>
+<BR>
+<c "#FFFF00">Chairman of the Board</c><BR>
+Yair Landau<BR>
+<BR>
+<c "#FFFF00">President</c><BR>
+John Smedley<BR>
+<BR>
+<c "#FFFF00">Chief Operating Officer</c><BR>
+Russell Shanks<BR>
+<BR>
+<c "#FFFF00">Chief Financial Officer</c><BR>
+John Needham<BR>
+<BR>
+<c "#FFFF00">Chief Technology Officer</c><BR>
+Adam Joffe<BR>
+<BR>
+<c "#FFFF00">General Counsel and Vice President of Business Affairs</c><BR>
+Andy Zaffron<BR>
+<BR>
+<BR>
+EverQuest was originally designed by Steve Clover,
+Brad McQuaid, Bill Trost and the EverQuest Team.<BR>
+<BR>
+<BR>
+Uses Miles Sound System.<BR>
+Copyright (c) 1991-2000 by RAD Game Tools, Inc.<BR>
+<BR>
+EverQuest is a registered trademark and
+The Legacy of Ykesha is a trademark of
+Sony Computer Entertainment America Inc.
+(c) 2003 Sony Computer Entertainment America Inc.
+All rights reserved.<BR>

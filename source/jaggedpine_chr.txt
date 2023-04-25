@@ -1,0 +1,9 @@
+8
+dra,dra_chr
+snk,snk
+pma,pma
+mmy,mmy_chr
+lmf,lmf_chr
+lmm,lmm_chr
+mmf,mmf_chr
+mmm,mmm_chr

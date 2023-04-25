@@ -1,0 +1,10 @@
+9
+fdr,fdr_chr
+wyv,wyv_chr
+wur,wur
+bwd,bwd_chr
+pri,pri_chr
+cst,cst
+dke,dke
+pma,pma
+tre,southkarana_chr

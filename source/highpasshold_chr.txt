@@ -1,0 +1,6 @@
+5
+hhm,highkeep_chr
+qcm,qeynos_chr
+qcf,qeynos_chr
+gnl,gnl
+mmy,mmy_chr

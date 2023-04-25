@@ -1,0 +1,4 @@
+poearthb_chr
+potactics_chr
+Tradeskill_objects.eqg
+voidportal.eqg

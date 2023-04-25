@@ -1,0 +1,18 @@
+If your machine doesn't have the latest DirectX9.0c runtimes, please go to:
+
+http://go.microsoft.com/fwlink/?linkid=56513&clcid=0x409
+
+and following the instructions there.
+
+If this fails, the following solution should work for you
+
+If you use the Windows Update to update to DirectX 9.0C, you will be unable to play the Test Server at this time due to a missing file, d3dx9_30.dll, in the Windows Update patch series.  This error manifests itself as a dialog that appears when you run testeqgame.exe (the game client) and tells the user the program could not be initialize due to being unable to find the critical file/component d3dx9_30.dll. The file itself is available as a part of the April 2006 DirectX 9.0C SDK redistributable distribution. To solve this situation, follow the following steps to reinstall DirectX 9.0C from the redistributable distribution:
+
+1. Get the April 2006 DirectX 9.0C redistributable version (Caution: Download is about 52 MB) at: http://www.microsoft.com/downloads/details.aspx?FamilyID=fb73d860-5af1-45e5-bac0-9bc7a5254203&DisplayLang=en
+
+2. Run directx_apr2006_redist.exe. Extract the files to an easily identifiable directory.
+
+3. Go to the directory the files were extracted to in step 2. Run "DXSETUP.EXE" from that directory.
+
+4. Accept the license agreement. Allow the installer to update the DirectX components.
+

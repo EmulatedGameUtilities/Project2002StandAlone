@@ -1,0 +1,6 @@
+5
+myg,myg
+pma,pma
+drg,drg
+mph,mph
+cst,cst

@@ -1,0 +1,17 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"FixTimestamps"
+		{
+			"process 1"		"%INSTALLDIR%\\FixTimestamps.exe"
+			"command 1"		"EverQuest.soe"
+			"MinimumHasRunValue"		"2"
+			"NoCleanUp"		"0"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"1a1f1f1213c5612111bb392490dd15aa9cb6a70949123ef9df9020ffc3d2a78501f3cb74fbe8886bad7cffd940debab2463dcda98b681c7acb90282ab7e84845364e16930731e57323e79e252deb89fe91c40660c8cc9b9298b259b3d9e4518e1f713a2fae889b1249642b9a8d9f4ab1ccf0ab423cb706aef739217ce562767d"
+}

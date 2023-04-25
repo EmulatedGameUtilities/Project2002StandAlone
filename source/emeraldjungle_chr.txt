@@ -1,0 +1,4 @@
+3
+pma,pma
+fud,fud_chr
+rkp,rkp

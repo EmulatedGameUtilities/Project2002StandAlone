@@ -1,0 +1,345 @@
+Credits
+
+EVERQUEST: OMENS OF WAR
+
+Dedicated to the Memory of Rick Johnson
+1960 to 2003
+Talented Artist, Valued Colleague, Cherished Friend
+
+
+
+Vice President, Development
+Rod Humble
+
+Director of Development
+John Donham
+
+Studio One Executive Assistant
+Fannie Gunton
+
+Executive Producer
+Robert Pfister
+
+Associate Producer
+Craig Knapp
+
+Project Manager
+Chris Lena
+
+
+EverQuest Development Leads
+Alan Crosby, Shawn Lord, Dave Nevala, Cory Rohlfs and Jamey Ryan
+
+
+
+
+
+ART
+
+Lead Artist: Environments
+Dave Nevala 
+
+Lead Artist: Characters
+Cory Rohlfs
+
+Artists, World Builders and Animators
+Ronnie Ashlock, Allen Bond, Robert Collier, Robert Cuenca, Dante Fuget, Diane Gerard, Shaun Johnston, Kevin Lydy, Adam McMahon, Bob Painter, Shannon Parnell, Stone Perales, Hans Piwenitzky, John Roy, Evan Sampson, Tom Tobey, Alfonso Villar, Ian Wall and Eric Webster
+
+Additional Art Assistance
+Christine Chugon
+
+
+GAME DESIGN
+
+Lead Designer
+Shawn Lord
+
+Assistant Lead Designer
+Paul Carrico and Jason Mash
+
+Game Designers
+Camille Abdnor, Ryan Barker, Harvey Burgess, Jonathan Caraker, Norm Freeman, Akil Hooper, Holly Longdale, Jason Mash, Travis McGeathy, Jason Miller, Carly Towle, John Troy, Alan VanCouvering and Terrence Yee
+
+Apprentice Game Designers
+Kevin Carter, Brian Motisko and Ian Noble
+
+Additional Lead Game Design
+Oliver J. Smith
+
+
+COMMUNITY RELATIONS
+
+Community Relations Manager
+Alan Crosby
+
+Community Relations Representatives
+Christina Delzer and Aimee Rekoske
+
+
+PROGRAMMING
+
+Lead Programmer
+Jamey Ryan
+
+Assistant Lead Programmers
+Eric Cosky and Todd Schmidt
+
+Programmers
+Roy Eltham, David Herman, Jason Jacobitz, Bill James, Alan Krause, Eric Le Saux, Terry Michaels, Scott Mitchell and Rusty Peltz
+
+Additional Graphics Programming
+Bart Rothwell
+
+
+MUSIC, SOUND AND VIDEO
+
+Music and Sound Production
+Musical Score by Paul Romero and Rob King 
+Orchestrations: Paul Romero
+Sound Design: Rob King
+Soundtrack Recorded, Mixed & Mastered by Rob King @ Green Street Studios, Sherman Oaks, CA
+
+
+TECHNICAL OPERATIONS
+
+Executive Director
+Michael Bowen
+
+Project Management
+Cameron Enfinger, Marie Harrington
+
+Director of Production Systems
+Mark Preston
+
+Production Systems Team
+David Corning, Kirk Lightfoot, Sid Jaffee, Bryan Glogowski and Kevin Ying
+
+Director of Network Engineering
+Dani Roisman
+
+Network Engineering Team
+Brett Hawn and Geoff Wade
+
+Director of SOE Security
+Bryan Blank
+
+Manager of Office Operations
+Jeff Bolaris
+
+Office Operations Team
+Lisa Doleshal, Michael Hardman, Jonathan Rad, Domenico Scaduto, Loren G. Skeels and Jeremy Siprelle
+
+Manager of Operations
+Jeremy Johnson
+
+Operations Team Leads
+Stephen Davis, Thomas Delzer, Greg Herzbrun, Rob Matzker and David Prestin
+
+Operations Team
+Ben Cole, Eric Flynn, Anthony Gervais, Rob Matzker, Robert Maul, Chris Richard, Roger Sewell, Chris Trichel and Jesus Zarzosa
+
+Manager of Operational Engineering
+Wilson Yeung
+
+Operational Engineering Developers
+Jordan Albert, Timothy Arland, Chad Folz, Ted Garrington, Jeff Jones, Patrick McCuller, David Taylor, Gordon Tetlow, Matthew Reynolds and Casey Winn 
+
+
+Installer
+Patrick McCuller and Casey Winn
+
+Patcher
+Dan Gorman
+
+
+CUSTOMER SERVICE AND QUALITY ASSURANCE
+
+Vice President of Customer Service and Quality Assurance
+George Scotto
+
+CS/QA Office Manager
+Brandie Thornley
+
+CS/QA Coordinator
+Allison Needham 
+
+Director of Quality Assurance
+Tony Rado
+
+Quality Assurance Manager
+Ed Hocking
+
+Quality Assurance Supervisors
+Will Figgins, Jason Boone and Rob Thompson
+
+Technical Liaison
+Jennifer Gerull
+
+Quality Assurance Lead for EverQuest
+Andrew Lamp
+
+Quality Assurance Analysts
+Kent Almond, Eric Simpson, Charles Bryant, Neil Christmas, Marlena Liebl, Chris Clements, Billy Winter, and Brian Motisko 
+
+Compatibility Lab
+Ryan Antonelli, Gary Binkley, Chris Johnson 
+
+Platform Quality Assurance
+Carl Flaherty, Heather Guthridge, Eric Shell, Emily Smith and Adam Stevens 
+
+Executive Director of In-Game Support
+Scott Matson
+
+In-Game Support Manager
+Satao Minami
+
+Guide Liaison
+Zack Sheffler
+
+Guide Coordinator
+Robyn Rogers
+
+Training Specialists
+Justin Allen, Patrick Horne, Robert Nelson and Sean Michael
+
+Customer Service Supervisors
+Jesse Ciener, Dean Graf, Olivia Skelly and Michael Woods
+
+Game Masters
+Sarah Airington, John Borders, Juan Cardenas, Keith Carlsgaard, Robert Davis, Richard Granback, Amy Leo, Christine McCoard, Ian Noble, Joseph Paolinelli, Lydia Pope, Robert Robertson, Angelo Sanchez and Gregory Sodeman
+
+Director of Customer Service
+Thom Terrazas
+
+Customer Service Manager
+Victor Ramirez
+
+Technical Support Supervisors
+Gordon Dapkus and Nate Wright
+
+Senior Technical Support Representatives
+Dan Clifford and Timothy Zarza
+
+Technical Support Representatives
+David Bauer, Ron Corning, Robert Ellison, Tony Flores, Brad Griffin, Shawn Holmes, Geoffrey Kressel, Michael Lafond, Derek Livingston, Rowena Luansing, 
+Aaron Mckenna, Joseph Nelson, Eric Rabelas, Christopher Reeves, 
+Stephen Rodgers, Joel Sasaki, Jacob Thompson and Chad Toews
+
+Customer Service Localization Manager
+Ima Somers
+
+Customer Service Localization Specialists
+Ryan Robinson and Douglas Wright
+
+
+PLATFORM SERVICES
+
+Vice President of Technology
+Christopher Yates
+
+Director of Platform Engineering
+David Dhunjishaw
+
+Project Management
+Bonnie Davison, Wayne Kao and Jenne McPherson 
+
+Manager of Application Engineering
+Mick Giles
+
+Application Engineering Team
+Pierce Courtney, Devon Kim, Duy Le, Grant Olson, Brad Omaraie, Jason Parrott, Michael W. Tucker II and John Van Roekel
+
+Manager of Systems Engineering
+Thomas Farthing
+
+Systems Engineering Team
+Brian Buhr, Ron Grierson, Pablo Herrero, Graeme Ing, Bob Kline, Tavish Margers, Chris Rosa, Rick Smith and Jose Rodriguez
+
+
+Creative Director, Web Presence
+Nathan Pearce
+
+Director of Operations, Web Presence
+Greg Short
+
+Web Designer
+Travis Ball
+
+Project Manager
+Steve Fuller
+
+Content Team
+Elliot Feldman and Adam Stevens
+
+Web Art Team
+Jacob Robinson, Tim Dunn, Dan Jones, Jeremy Jiao and Paul Tighe 
+
+Web Production Team
+Tim Cox, Nick Davison and Monte Green 
+
+Director of Database Services
+Deepak Thapliyal
+
+Database Services Team
+Archana Pansuria, John McGovern, Aaron Valdes,
+David Green, Natik Ameen, Taylor Steil and Stefan Ward
+
+Station Store Management
+Bonnie Davison
+
+
+INTERNATIONAL OPERATIONS
+
+Director of International Operations
+Matt Sivertson
+
+Project Manager
+David Kim
+
+Technical Lead for International Operations
+Bill Mauer
+
+Localization Team
+Stacy Griebel, Christopher Lee, Robert McEntee, Jason Polk, Steven Riley and Stacey Sofia-McDaniel
+
+
+SALES AND MARKETING
+
+Senior Vice President of Sales 
+Don Vercelli
+
+Vice President of Marketing
+Michael Lustenberger
+
+Sales, Marketing and Public Relations Team
+Jen Belfield, Casey Dickinson, Christina Greenberg, Sean Kauppinen, Chris Kramer, Kirsten Kinney, Mike Meyer, Laura Naviaux, Brian Patience, Tamara Sanderson, Christopher E. Sturr, Thomas Taylor, Katie Thomas, Debysue Wolfcale,  Lauren Zeiger and Ari Ziegel
+
+
+EXECUTIVE STAFF- SONY ONLINE ENTERTAINMENT
+
+Chairman of the Board
+Yair Landau
+
+President
+John Smedley
+
+Senior Vice President and COO
+Russell Shanks
+
+Senior Vice President of Finance and CFO
+John Needham
+
+Senior Vice President of Information Technology and CTO
+Adam Joffe
+
+Senior Vice President and General Counsel
+Andy Zaffron
+
+
+Special Thanks to
+The EverQuest Guide Program; Steve Weiss; Glenn and Sherie Suss; Julie Inmon; Rock and Maya Webster; Fred and Margaret Abdnor; Frances and Michael Caraker; the Gumbies; Lyndon Chabelal; Kacey Helms; Lynn, Rufus; Nan; the Bonds; the Williams; the Barnetts; Vena and Chance Alexander; Ikue Freeman; Paule Gerard; Heather McKinney; Tony Danza; Hiromi Saitoh; Lanny and Bonnie Ashlock; Janine Coursey; the Hooper Family; Bob Niderhost; Darlene; Doug, Cindy and Lindsay Miller;  David H. Nathan; Kathy Coleman; Ham and Jen Marashi; Tim and Lisa Petty; Stacey McMahon; Nan
+
+Uses Miles Sound System. Copyright © 1991-2000 by RAD Game Tools, Inc.  
+
+EverQuest, The Ruins of Kunark and The Scars of Velious are registered trademarks and The Shadows of Luclin, The Planes of Power, The Legacy of Ykesha, Lost Dungeons of Norrath, and Gates of Discord are trademarks of Sony Computer Entertainment America Inc.
+© 1999-2004 Sony Computer Entertainment America Inc. All rights reserved.

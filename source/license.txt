@@ -1,0 +1,145 @@
+WARNING:  READ BEFORE PLAYING<BR>
+<BR>
+Wayfarers Haven is not affliated with Daybreak Games, LLC.<BR>
+<BR>
+These Rules are in place to ensure the community has a safe and enjoyable play experience. The rules are outlined to clear up any confusion and provide a backing for Administrator actions. We are not trying to limit your playability or become “Rule Nazis” but we need to ensure that clear-cut boundaries are established for enforcement.<br />
+<br />
+A single individual may only play a MAXIMUM of 3 characters at a time. You can make unlimited game accounts----it is against the rules to have multiple forum accounts. Multiple people in a household will require an IP exemption submitted via petition (either on forums or /guide, include any forum accounts involved). No exceptions, no excuses.<br />
+<br />
+<br />
+1:Exploits<br />
+<br />
+Please promptly report any exploit bug via PM to GMs/Moderators/Admins on the forums or using the in game petition system.<br />
+<br />
+Be careful you know who you are trading with. If it seems too good to be true, it probably is. We have trades monitored and logged. If a player has violated this, any and all trades prior to this suspension and character emptying are subject to reversal or items from trades being deleted.<br />
+<br />
+2: Automation<br />
+<br />
+AFK, The only afk sanctioned activities are sitting/standing doing nothing, trader mode (when bazaar is in), and bard songs in non-populated areas.<br />
+<br />
+All automation software is banned. That includes Keyboard automation software (E.G. G15, Razer Synapse, Corsair software, etc.).<br />
+<br />
+The general rule of thumb is. 1 Physical Input on a keyboard shall only produce 1 virtual input on only 1 client. E.G. No key mirroring. No mouse mirroring. No Macro software/hard to produce any combination of the above mentioned prohibited actions.<br />
+<br />
+Software that is not allowed includes but it not limited to: InnerSpace, IS Boxer, MQ2 or any similar memory modifying software.<br />
+<br />
+This is a zero tolerance policy and will result in a permanent ban<br />
+<br />
+3: Client modifications<br />
+<br />
+Alteration or use of said alterations of the EverQuest client or of the data it uses and stores in system memory, cache, or on your hard drive is prohibited and is subject to immediate ban, only 1 warning will be given for this offense. It is at the GM, Moderator, or Admin's discretion if a warning or instant ban is appropriate.<br />
+<br />
+- You may change the graphic on the login and loading screens, however you may not change their functionality in the process.<br />
+- You also may use custom UIs in-game, provided the client's functionality is not changed, and the UI adheres to the rules of this server.<br />
+- You may replace or alter in-game textures provided the outcome is purely aesthetic, and does not alter gameplay at all. etc..., Turning a wall into a window is NOT aesthetic and is considered hacking/exploiting.<br />
+<br />
+Use of any third party program used in conjunction with the EverQuest client is strictly prohibited with the exception of:<br />
+<br />
+- STOCK FPS limiters<br />
+- STOCK builds of WinEQ2<br />
+- STOCK builds of EQPlayNice<br />
+- Log parsing programs such as EQ Companion or Yalp are permitted.<br />
+<br />
+Map programs are not allowed. If determined you have this running GMs will take actions on the spot.<br />
+<br />
+4: Player or server disruptions<br />
+<br />
+You may not disrupt the normal playability of a zone or area.<br />
+<br />
+Zone/Area Disruption is defined as any activity designed to harm or inconvenience a number of groups rather than a specific player or group of players. This includes, but is not limited to:<br />
+<br />
+- Shakerpaging/aoe'ing enough mobs to cause others to crash/zone crashes, or unplayable lag.<br />
+- Making excessive or inappropriate use of public channels of communications (/shout, /ooc, etc.).<br />
+- Intentionally or accidentally causing excessive zone latency or server bandwidth usage (using third party programs, creating excessive corpses, abusing spell effects, etc.)<br />
+- Purposely causing or attempting to cause world or a zone to crash.<br />
+- Causing or attempting to cause intentional experience, loot, or progress loss to other players (deliberately impeding fleeing players by blocking their escape route, intentionally training NPCs on other players, etc.) The exception to this, of course is consensual PVP play.<br />
+- Causing or attempting to cause scripts, events, or security measures to fail and/or have a result different than the one expected and/or written by the devs.<br />
+- Using large characters to block doorways, either large classes, toons on a horse, or growth spells.<br />
+<br />
+5: Harassment and player to player interactions<br />
+<br />
+Harassment (including sexual harassment) of other players, Server Operators, Developers, GMs, or Guides (hereby collectively known as server staff) is strictly prohibited. This includes in-game chat (including private channels), and any in-game action (included but not limited to: training NPCs, kill stealing, flag stealing, camp stealing, ninja looting, impeding movement), and any forum thread or PM here on the forums. Doxxing, or any such form of personal attack is prohibited. This is not a troll server if you wish to troll do it elsewhere. If you would like to report someone for harassment, please contact the staff.<br />
+<br />
+No personal attacks, witch-hunts, or inflammatory language - Whether against any member/admin of this server, any other EverQuest server (Custom or Live) or any other social media EverQuest Community. Inciting harassment on any individual or group is not acceptable under any circumstances and will result in a ban. This includes (but is not limited to) doxxing, starting witch hunts, or making accusations or personal attacks that are either off topic or without evidence ("<X> is a hussy!" or "<X> is corrupt!"). While arguing is unavoidable, personally attacking individuals is never okay. Namecalling ("You're a moron."), bad implications ("Yeah, a troll would say that."), accusations ("You're just a shill!"), inflammatory language ("Anyone who thinks this is a moron!"), etc. are not helping anyone and should be avoided. Generally, keep your tone civil and try to avoid ad hominem attacks. This rule applied to both Administrative Staff and Users.<br />
+<br />
+Consensual PVP play is partially exempt to this, however deliberate or extreme cases of harassment is still prohibited. It is up to the GM's judgment whether the situation is deliberate or extreme. Corpse camping is not allowed in PvP.[/size]<br />
+<br />
+6: KSing, Camps, Spawn claims<br />
+<br />
+We encourage a play nice policy, for both general play and raids. This will limit the amount of GM interaction needed on a daily basis.<br />
+Please ask for a "camp check" when you enter zones and are looking to go to a specific mobset.<br />
+If someone has a mob engaged please do not try to "kill steal" it.<br />
+Work together with your fellow players to come to a resolution for camps and spawns.<br />
+GM intervention will happen if necessary, but try to avoid this at all costs as the result will not be favorable.<br />
+Groups can claim 1 camp. That camp must share with adjacent camps in the event that the zone is heavily populated. Camps cannot claim full zone camps even if their kill range extends that far.<br />
+<br />
+<br />
+7: Public Chat and names<br />
+<br />
+Vile, profane, rude, offensive, or racist language, including common swear words, anatomical references, racial slurs, terrorism references, and homonyms (sound-alike) of such words are not allowed in any public communication channel. These channels are reserved for public viewing and should not contain messages that can insult or otherwise bother another player. Also including political arguments of real world issues that we all know can flare up into nasty confrontations.<br />
+<br />
+Public is defined as Say, Shout, OOC, Auction, Alliance.<br />
+<br />
+The above also applies to character names. Also any name that bugs the client will be changed..ie NPC names, zone names ect.(Karana, Veksar, Tunare) Any offending toon will have its name changed at a GM's discretion, or will be deleted.<br />
+<br />
+8: Account limits<br />
+<br />
+One forum account per person is the limit. Extra accounts for household members is subject to approval and will be monitored for violations of the 3 box limit.<br />
+<br />
+Account sharing IS allowed with the following rules/exceptions to keep in mind:<br />
+That you are responsible for any actions taken on your account and for actions of those on their own account you have access.<br />
+Also, for those who are sharing an IP address you are responsible for everything that happens with your account being tied to any one particular IP, if records show that accounts were shared across that IP.<br />
+If one account or IP is guilty of something the Admins/Devs reserve the right to ban/suspend all accounts that have touched that IP address.<br />
+<br />
+<br />
+9: Bug reports, petitions, reporting<br />
+<br />
+Please use /guide to report any issues in game that need immediate assistance, any other bugs you find please post on the forums.<br />
+<br />
+10: RMT aka real money trading<br />
+<br />
+Real world currency or currency transactions outside of the server and the discussion thereof are strictly not allowed on this service.<br />
+- Including any transactions done past present and future.<br />
+- By using this service you agree to hold harmless the service and staff of any and all disallowed transactions of this type.<br />
+- Account or character trading/selling is not allowed. No exceptions.<br />
+<br />
+<br />
+11: Interaction with staff and GMs<br />
+<br />
+-Gms DO NOT reimburse accidental looting of items on wrong toons, nor do GM's reimburse accidental deleting of items.<br />
+GMs do not change the sex/race of characters.<br />
+Rules regarding interactions with GMs on their GM toon and/or play toons.<br />
+- Harassing tells for assistance in obtaining any advantage. Meaning asking for anything to assist in testing.<br />
+- Openly debating or researching who GM play toons are, as well as disclosing to the public if you know.<br />
+- GMs that are available at the time of disciplinary actions have their own discretion within the rules to enforce. At no time is it allowed to try to play one GM against another to get a lighter penalty.<br />
+<br />
+12: Obtaining the client<br />
+<br />
+Any and ALL discussions public or private on the service about obtaining the client illegally is not allowed. No warnings will be given; this is a strict ban able offense.<br />
+<br />
+13: Raiding<br />
+<br />
+Staff will NOT enforce nor participate in Guild rotation agreements. This needs to be handled by the players.<br />
+<br />
+Raiding rules are Free For All, GM's will not babysit guilds, it is up to the active raiding guilds to decide how they wish to engage mobs.(Much like Live).<br />
+<br />
+If users are disrupting other guilds raid activities they will be actioned appropriately. If blatant disregard for rules is displayed by guild members the guild can be disciplined as a whole proportional to the offence. We prefer that GM intervention is not required and stiff penalties will be levied.<br />
+<br />
+For information on Raid instancing rules:<br />
+http://p2002.com/forums/viewtopic.php?f=6&t=5323<br />
+<br />
+14: Rule changes<br />
+<br />
+The server operators reserve the right to change, add, or remove any of these rules. Rule changes will be posted on the forums. Players are required to adhere to these alterations immediately.<br />
+<br />
+15: Excuses for violations<br />
+<br />
+"Role-playing", misinterpretation, or ignorance does not grant license to violate any of these rules.<br />
+<br />
+16: Casinos (added 7/31/2016)<br />
+<br />
+There has been a recent discussion regarding casinos. Player run casinos in any shape or form are not allowed. Casinos are a prime source for enabling RMT, and the negatives of allowing them completely outweigh the positives.<br />
+<br />
+17: Advertisement of the server<br />
+<br />
+We encourage users to tell friends and family about Wayfarers Haven, we also encourage our users to stream their enjoyable experiences. However we do not allow spamming or malicious advertisements. This includes but is not limited to, advertising in another party's stream. Posting more than 1 post on any forum that allows discussion of another server. Generally posting on a servers forum about another server is considered rude and many times against their policies. Any users found to of been doing this or reported by the community (With reliable proof) will be actioned. This can and will lead to a permanent ban.

@@ -1,0 +1,4 @@
+poearthb_chr
+potactics_chr
+solrotower_chr
+gus_anims.eqg
