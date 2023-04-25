@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Ichor</c><br>
+Vendor: NPC Drop<br>
+Location: Giant Wooly Spiders in Everfrost<br>
+Poison: Sweet Lathyris<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

@@ -1,0 +1,48 @@
+nt
+Loth's Pottery Compendium v1.01
+<br>
+(01 July 2003)
+<br><br>
+<c "#66CCFF">Most information comes from the recipe guides found at http://www.eqtraders.com and cross referenced at http://www.magelo.com.  There has been extensive research put into getting the *real* in-game name of the finished products as well as the ingredients and implements used. Please don't be alarmed if the names aren't exactly as they appear on EQTraders because the item names shown here are the most correct.</c>
+<br><br>
+
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Recipe</c>]=========== </c> <br>
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbyitem.txt"> Alphabetical </a> </c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Trivial</c>]============ </c> <br>
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbytrivialasc.txt"> Ascending </a> </c>&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbytrivialdes.txt"> Descending </a> </c><br>
+<c "#66CCFF"> ==================================== </c> <br>
+
+<c "#66CCFF"> ============[<c "#FFFFFF">List Stat Items</c>]============ </c> <br>
+<c "#0099CC"> 
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAC.txt">AC</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyHP.txt">HP</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMana.txt">Mana</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTA.txt">STA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTR.txt">STR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAGI.txt">AGI</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyWIS.txt">WIS</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyINT.txt">INT</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDEX.txt">DEX</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCHA.txt">CHA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCR.txt">CR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyFR.txt">FR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMR.txt">MR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyPR.txt">PR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDR.txt">DR</a>
+</c>
+<br>
+<c "#66CCFF"> ==================================== </c> <br>
+
+<c "#66CCFF"> ============[<c "#FFFFFF">List By State</c>]============= </c> <br>
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbyunfin.txt"> Unfinished/Unfired </a> </c>&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbyfinal.txt"> Fired/Finished</a> </c><br>
+<c "#66CCFF"> ==================================== </c> <br>
+
+<c "#66CCFF"> ==========[<c "#FFFFFF">List Special Recipes</c>]========= </c> <br>
+<c "#0099CC"> <a href="file:///storyline/il/eqtraders/pottery/orderbyglaze.txt"> Glaze </a> </c><br>
+<c "#66CCFF"> ==================================== </c> <br><br>
+
+<c "#66FFFF">All text on EQTraders is copyright by the respective authors. The game EverQuest is a registered trademark of Sony Computer Entertainment America, Inc. This site is not meant to represent official EQ policy, and neither EQTraders nor the creator of this work are responsible for errors/omissions that occur due to changes in EverQuest trade skills.</c>

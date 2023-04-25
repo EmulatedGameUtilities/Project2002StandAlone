@@ -1,0 +1,13 @@
+Fishing
+<BR>
+<BR>
+<br>
+<BR><c "#9900CC">April 4, 2003</c>
+<BR>
+<BR><c "#9900CC">All information comes from the fishing guides found at http://www.eqtraders.com</c>
+<BR>
+<BR>
+<c "#00CC00"> ========================= </c> <br>
+<a href="file:///storyline/il/eqtraders/zonefish.txt">Zone and what you can reel in</a><br>
+<a href="file:///storyline/il/eqtraders/tacklebox.txt">Tackle box recipes</a><br>
+<c "#00CC00"> ========================= </c> <br>

@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Twilight Worms</c><br>
+Vendor: NPC Drop<br>
+Location: Centi's in Akheva / Maiden's Eye<br>
+Poison: Dreams of Drusella / Oozing Irritation<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

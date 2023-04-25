@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Nodding Blue Lilly</c><br>
+Vendor: NPC Drop<br>
+Location: Frogloks in Sebelis<br>
+Poison: Confusing Dreams / Dreams of Drusella<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,221 @@
+Planes of Power Slowable List (upgraded - Vulcon)
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br><br>
+<c "#FFFF00">Air, See Eryslai</c><br>
+<br>
+<c "#FFFF00">Bastion of Thunder</c><br>
+Agnarr the Stormlord  - Magic - Mostly<br>
+Auliffe Chaoswind - Immune - <br>
+Brynju Thunderclap*** - Magic - Mitigates<br>
+Eindride Icestorm - Magic - Mitigates<br>
+Emmerik Skyfury - Magic - Mitigates<br>
+Evynd Firestorm  - Magic - Mitigates<br>
+Gaukr Sandstorm - Magic - Slightly<br>
+Hreidar Lynhillig - Magic - Mitigates<br>
+Kuanbyr Hailstorm - Magic - Mitigates<br>
+Laef Windfall - Immune - <br>
+Oreen Wavecrasher - Magic - Mitigates<br>
+<br>
+<c "#FFFF00">Disease</c><br>
+Aramin - Magic - <br>
+Grummus - Immune - <br>
+Gryme - Immune - <br>
+<br>
+<c "#FFFF00">Doomfire, The Burning Lands (Fire)</c><br>
+Arch Mage Yozanni - Magic - Slightly<br>
+Azobian the Darklord - Magic - Mitigates<br>
+Babnoxis the Spider Queen - Magic - Slightly<br>
+Blazaax the Omnifiend - Magic - Slightly<br>
+Chancellor Kirtra - Magic - Mitigates<br>
+Chancellor Traxom - Magic - Mitigates<br>
+Criare Sunmane - Magic - Slightly<br>
+Fennin Ro, the Tyrant of Fire - Magic - Slightly<br>
+General Druav Flamesinger - Magic - Slightly<br>
+General Reparm - Magic - Partially<br>
+Guardian of Doomfire - Magic - Mitigates<br>
+Hebabbilys the Ragelord - Magic - Mitigates<br>
+Javonn the Overlord - Magic - Mitigates<br>
+Jaxolyz Dawneyes - Magic - Slightly<br>
+Magmaton - Immune - <br>
+Omni Magus Crato - Magic - Mitigates<br>
+Pyronis - Magic - Slightly<br>
+Quavonis Firetail - Magic - Slightly<br>
+Reaxnous the Chaoslord - Magic - Mitigates<br>
+Warlord Prollaz - Magic - Mitigates<br>
+<br>
+<c "#FFFF00">Drunder Fortress of Zek (Tactics)</c><br>
+Anival the Blade - Magic - <br>
+Rallos Zek the Warlord - Magic - Mitigates<br>
+Rallos Zek - fake - Magic - Partial<br>
+Tallon Zek - Immune - <br>
+Vallon Zek - fake/RZ script (Clone 1) - Magic - <br>
+Vallon Zek - fake/RZ script (Clone 2) - Immune - <br>
+Vallon Zek - real - Magic - Varies by clone<br>
+<br>
+<c "#FFFF00">Earth - see Vegarlson (A), Ragrax (B)</c><br>
+<br>
+<c "#FFFF00">Eryslai, The Kingdom of the Wind (Air)</c><br>
+an Elemental Masterpiece - Magic - Mitigates<br>
+Arch Mage Alchtonion - Magic - Mitigates<br>
+Avatar of Dust - Magic - Mitigates<br>
+Avatar of Mist - Magic - Mostly<br>
+Avatar of Smoke - Magic - Mitigates<br>
+Avatar of Wind - Magic - Mostly<br>
+Calebgrothiel - Magic - Mitigates<br>
+Chamberlain Escalardian - Magic - Mostly<br>
+Gakamenail Fir`Disralsi - Magic - Mostly<br>
+Inlokher the Warlord - Magic - Mostly<br>
+Melernil Faal`Armanaa - Magic - Mostly<br>
+Pherlondien Clawpike - Magic - Mostly<br>
+Queen Silandria - Magic - Mostly<br>
+Rinturian Windblade - Magic - Mitigates<br>
+Sigismond Windwalker - Magic  - Mitigates<br>
+Xegony, the Queen of Air - Magic - Mostly<br>
+<br>
+<c "#FFFF00">Fire, see Doomfire</c><br>
+<br>
+<c "#FFFF00">Halls of Honor</c><br>
+Rydda'Dar** - Magic - Slightly <br>
+<br>
+<c "#FFFF00">Halls of Honor B, see Temple of Marr</c><br>
+<br>
+<c "#FFFF00">Innovation</c><br>
+An Archiac Model - Immune - <br>
+Junk Beast - Magic - <br>
+Manaetic Behemoth - Immune - <br>
+Manaetic Prototypes - Magic - <br>
+Xanamech Nexmirthafen - Magic - <br>
+<br>
+<c "#FFFF00">Justice</c><br>
+Prime Executioner - Magic/IMMUNE - Mitigates<br>
+<br>
+<c "#FFFF00">Nightmare</c><br>
+Hobgoblin Anguish Lord - Immune - <br>
+Mujaki - Magic - <br>
+Terror Matriarch - Immune - <br>
+Vhaksiz the Shade - Immune - <br>
+<br>
+<c "#FFFF00">Ragrax, Stronghold of the Twelve (Earth B)</c><br>
+Avatar of Earth - Magic  - Partially<br>
+The Rathe Council (Councilmen) - Magic - Mostly<br>
+War Chiefton Awsano - Magic - Mitigates<br>
+War Chiefton Birak - Magic - Mitigates<br>
+War Chiefton Galronar - Magic - Mitigates<br>
+Warlord Gintolaken** - Disease - <br>
+<br>
+<c "#FFFF00">Reef of Corinav (Water)</c><br>
+Coirnav, the Avatar of Water - Magic  - Mostly<br>
+Gigadon - Magic - Slightly<br>
+Grioihin the Wise - Magic - <br>
+Hammertooth - Magic - Slightly<br>
+Hydrotha - Magic - Partial<br>
+Krziik the Mighty - Immune - <br>
+Ofossaa the Enlightened - Magic - Mitigates<br>
+<br>
+<c "#FFFF00">Ruins of Lxanvom (Crypt of Decay)</c><br>
+Akkapan Adan - Magic - <br>
+Avhi Escron - Immune - <br>
+Bertoxxulous - Immune -   <br>
+Bishop Toluwon - Magic - <br>
+Bhaly Adamn - Immune -   <br>
+Breddan Rutyl - Magic - <br>
+Carprin Deatharn - Immune - <br>
+Darwol Adan - Immune - <br>
+Eviscerator Fwexar - Immune - <br>
+Feig Adan - Magic - <br>
+Fran Prisoal - Magic - <br>
+Greater Corrupted Pusling - Immune - <br>
+Greater Foul Pusling - Immune - <br>
+High Priest Ultor Szanvon - Immune - <br>
+Kavilis Adan - Magic - <br>
+Knight of Decay - Immune - <br>
+Magus of Decay - Immune -   <br>
+Meedo Adan - Immune - <br>
+Overlord Bamford Paffa  - Magic - <br>
+Pzo Adan - Immune - <br>
+Qezzen Adan - Immune - <br>
+Raddi Adan - Immune - <br>
+Raex Pwodill - Immune - <br>
+Vindor Mawnil - Magic - <br>
+Wavadizzik Adan - Magic - <br>
+Xhut Adan  - Magic - <br>
+Zandal Adan - Immune - <br>
+<br>
+<c "#FFFF00">Storms</c><br>
+Drornok Tok Vo`Lok - Immune - <br>
+Falto Lord of Thunder - Immune - <br>
+Faruek the Bold - Immune - <br>
+Gurebk Lord of Krendic - Immune - <br>
+Koka`Vor Chieftans - Immune - <br>
+Koka`Vor Elders - Immune - <br>
+Laruken the Rigid - Immune - <br>
+Paruek the Strong  - Immune - <br>
+Pendubk the Turbulent - Immune - <br>
+Solnebk the Unruly  - Immune - <br>
+Ston'Ruak Ancient of the Trees  - Immune - <br>
+Zertuken the Unyielding - Immune - <br>
+<br>
+<c "#FFFF00">Tactics, see Drunder</c><br>
+<br>
+<c "#FFFF00">Temple of Marr (Honor B)</c><br>
+Edium Guardian of Marr  - Magic - Mitigates<br>
+Halon of Marr - Magic - Mitigates<br>
+An Honoroable Protector  - Magic - Mitigates<br>
+Lord Mithaniel Marr *** - Magic - Slightly <br>
+Ralthazor Champion of Marr - Magic - <br>
+<br>
+<c "#FFFF00">Terris Thule's Lair (Nightmare B)</c><br>
+Sentry of Nightmare - Immune - <br>
+Sustainer of Nightmare  - Immune - <br>
+Terris Thule - Magic - Partially<br>
+<br>
+<c "#FFFF00">Time</c><br>
+Quarm - Magic - Mostly<br>
+<br>
+<c "#FFFF00">Torment</c><br>
+a burok tormentor - Immune - <br>
+a construct of pain - Immune - <br>
+a glistening blood raven - Immune - <br>
+a kaniz flayer - Immune - <br>
+a kaniz tormentor - Immune - <br>
+Baraguj Szuul - Magic - Partially<br>
+Blood Soaked Guards  - Immune - <br>
+Maareq the Prophet  - Magic - Mitigates<br>
+Keeper of Sorrows - Immune - <br>
+Salczek the Fleshgrinder - Magic - Slightly<br>
+Saryn - Magic - Partially<br>
+Sorrowsong - Magic - Mitigates<br>
+Ta`Grush the Abomination - Immune - <br>
+The Acolyte of Affliction - Magic - <br>
+<br>
+<c "#FFFF00">Tower of Solusek Ro</c><br>
+Arlyxir - Magic - <br>
+Balrezu - Magic - <br>
+Galremos - Magic -   <br>
+Grezou - Magic - <br>
+Instadis - Magic - <br>
+Jiva - Magic -   <br>
+Naelizar - Magic - <br>
+Quazlith - Magic -   <br>
+The Protector of Dresolik - Magic - <br>
+Rizlona - Magic - <br>
+Solusek Ro - Magic - <br>
+Veleroth - Magic - <br>
+Xuzl - Magic - <br>
+Zrexul - Magic - <br>
+<br>
+<c "#FFFF00">Valor</c><br>
+Aerin'dar - Magic - <br>
+The Sleep Walker - Magic - <br>
+<br>
+<c "#FFFF00">Vegarlson, the Earthen Badlands (Earth A)</c><br>
+A Monsterous Mudwalker - Magic - Mostly<br>
+A Mystical Arbitor of Earth - Magic - Mostly<br>
+A Perfected Warder of Earth - Magic - Mostly<br>
+Derugoak Bloodwalker - Magic - Mostly<br>
+Peregrin Rockskull - Magic - Mostly<br>
+Tantisala Jaggedtooth - Magic - Mostly<br>
+<br>
+<c "#FFFF00">Water, see Reef of Coirnav</c><br>
+<br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

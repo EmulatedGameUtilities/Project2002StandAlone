@@ -1,0 +1,70 @@
+<a href="file:///storyline/il/Faction/T.txt">Faction Lists >> T</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <c "#FFFF00">T</c> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">Tserrina Syl Tor</c>
+<br>Description: The mistress of the Tower of Frozen Shadow, Tserrina Syl Tor commands the, for the most, undead denizens within this bleak fortress.
+<br>
+<br><c "#F17C0D">Monsters That Lower This Faction</c>
+<br>Ancient Mummy
+<br>Angry Librarian
+<br>Armored Shadow
+<br>Cara Omica
+<br>Daman
+<br>Enraged Undead Gnoll Cook
+<br>Ghostly Scholar
+<br>Ghostly Student
+<br>Golem Usher
+<br>Isopca
+<br>Large Undead Gnoll
+<br>Librarian
+<br>Maggot Infested Flesh
+<br>Narmak Borreka
+<br>Nosja
+<br>Oozing Flesh
+<br>Priest Majes Medory
+<br>Shadow
+<br>Shadow Beast
+<br>Shadow Beast Cook
+<br>Shadow Beast Servant
+<br>Shadowbone
+<br>Skeleton Sleeper
+<br>The Head Usher
+<br>Undead Bridesmaid
+<br>Undead Dancer
+<br>Zombie Butler
+<br>Zombie Maid
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>None
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>Tower of Frozen Shadow

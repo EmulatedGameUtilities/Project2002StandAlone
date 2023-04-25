@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Drops of Mercury</c><br>
+Skill: Poison Making<br>
+Combine: 1x Mercuric Ore & 1x Gnomish Spirits<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: <br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

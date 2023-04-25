@@ -1,0 +1,93 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFff00">Part 6: Fletching</c> <br>
+<br>
+Skill Requirement: 220 (or higher) Fletching <br>
+<br>
+Flag Requirement: Rallos Zek<br>
+Your Flag MUST say - The parchment of Rallos are scribed in a language you cannot comprehend; they do however have detailed drawings of the manaetic behemoth you have already destroyed. (Or something roughly to that extent) <br>
+<br>
+Now that the evil robe is done, on to Fletching! If you don't know a tinkerer, this step will be even more annoying. Otherwise it is as difficult as making a Featherwood Compound Bow. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I am skilled with a fletching knife' <br>
+Aid Grimel says 'Aye I can see you are skilled with the fletching knife _____. It is good too, I need to replace Councilman Taldarius's bow from Plane of Air. Combine a planing tool, two wind metal bow cams, an air arachnid silk string, a featherwood staff and the signet. I hope the bow will be up to his standards, he sure loved his old bow.' <br>
+Turn in text: <br>
+<br>
+Aid Grimel says 'Masterful work _____! I can see your skill in the curves of the bow. Take this as a sign of my respect for your skill. The last item I need before we can be off is some food. I warn you this will truly test your skills. Do you fancy yourself a master chef?' <br>
+Item Statistics: <br>
+<br>
+<c "#FFFF00">Runed Signet</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 15<br>
+STR: +15   DEX: +15   STA: +15   WIS: +15   INT: +15   AGI: +15   <br>
+HP: +100   MANA: +100   <br>
+SV FIRE: +10   SV DISEASE: +10   SV COLD: +10   SV MAGIC: +10   <br>
+SV POISON: +10   <br>
+Effect: Aura of Regeneration (Worn)<br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<br>
+<c "#FFFF00">Signet Featherwood Bow</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: RANGE<br>
+WT: 3.0   Size: LARGE<br>
+Class: NONE<br>
+Race: NONE<br>
+<br>
+
+<c "#FFFF00">Recipes</c> <br>
+<br>
+<c "#FFFF00">Air Archnid Silk String: (Planar Sewing Kit/Loom, Trivial <= 173)</c> <br>
+Air Arachnid Silk <br>
+Air Arachnid Silk <br>
+Clump of Wax <br>
+<br>
+<c "#FFFF00">Wind Metal Bolts and Wind Metal Gears: (Forge, Trivial = ?)</c> <br>
+Wind Metal <br>
+Cam Parts mold <br>
+File <br>
+<br>
+<c "#FFFF00">Jar of Clockwork Grease (Small Clay Jar, no-fail combine):</c> <br>
+Clockwork Grease <br>
+Clockwork Grease <br>
+<br>
+<c "#FFFF00">Wind Metal Bow Cam: (Toolbox, Trivial > 234)</c> <br>
+Wind Metal Bolts <br>
+Wind Metal Gears <br>
+Jar of Clockwork Grease <br>
+<br>
+<c "#FFFF00">Signet Featherwood Bow: (Planar Fletching Kit, Trivial > 250) </c><br>
+Air Archnid Silk String <br>
+Featherwood bow staff <br>
+Wind Metal Bow Cam<br>
+Wind Metal Bow Cam<br>
+planing tool <br>
+Marked Signet (from part 5) <br>
+<br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

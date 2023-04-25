@@ -1,0 +1,40 @@
+<a href="file:///storyline/il/Faction/U.txt">Faction Lists >> U</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <c "#FFFF00">U</c> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">Undead of Kithicor</c>
+<br>Description: A clan of Undead residents of Kithicor Forest.
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>None
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>None

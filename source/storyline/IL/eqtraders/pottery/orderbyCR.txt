@@ -1,0 +1,11 @@
+<c "#66CCFF">Recipes Listed By Stat (CR)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/939.txt">Ceramic Incense Burner of Ro</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 10 AGI: 12 WIS: 8 INT: 8 CR: <c "#66CCFF">15</c> HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/937.txt">Ceramic Rod of Storms</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(FR: 15 CR: <c "#66CCFF">15</c> MANA: 35)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/964.txt">Planar Peridot Encrusted Stein</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 3CHA: 6 CR: <c "#66CCFF">15</c> MANA: 15)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/858.txt">Star Ruby Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 5 PR: 10 MR: 10 DR: 10 FR: 10 CR: <c "#66CCFF">10</c> MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/826.txt">Golden Idol of Prexus</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4INT: 5 CR: <c "#66CCFF">9</c> MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/911.txt">Idol of Prexus</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(INT: 2 CR: <c "#66CCFF">3</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/912.txt">Idol of Quellious</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(INT: 2 CR: <c "#66CCFF">3</c>)<br>

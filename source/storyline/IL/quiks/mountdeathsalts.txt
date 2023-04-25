@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Mount Death Salts</c><br>
+Vendor: NPC Drop<br>
+Location: Goblins in the Temple of Droga<br>
+Poison: Mind Melt<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

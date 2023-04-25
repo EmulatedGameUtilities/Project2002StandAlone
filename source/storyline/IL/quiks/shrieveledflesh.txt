@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Shrieveled Flesh</c><br>
+Vendor: NPC Drop<br>
+Location: Zombies in Kithicor Woods<br>
+Poison: Horrendous Atrophy<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

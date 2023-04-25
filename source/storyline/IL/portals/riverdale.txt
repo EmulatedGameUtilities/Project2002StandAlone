@@ -1,0 +1,13 @@
+PoP Portal Locations - Riverdale <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Rivervale<br>
+Portal Zone: Misty Thicket<br>
+Zone Location: -513, -1260<br>
+Description: Follow the path from the city and take the first left branch<br>
+<c "#00CC00">========================== </c><br>

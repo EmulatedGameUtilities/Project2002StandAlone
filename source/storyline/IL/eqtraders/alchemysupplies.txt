@@ -1,0 +1,165 @@
+Alchemy Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* medicine bag - clockwork weaponsmith (1313,-886), clockwork weaponsmith (1330,-708 (inside metal building)) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c><br>
+
+* medicine bag, Yvonne's Guide to Alchemy, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Jaxxtz (West, -37, 518) <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Klok Scaleroot (West, 400, 515, near necro guild)  <br>
+* sandalwood - Jondin (West, -35, 511) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c><br>
+
+* bat fur - Katha Firespinner (Erudite in building next to 3rd inn) 
+<br><br>
+
+<c "#00CC00">Felwithe </c><br>
+
+* sandalwood - Merchant Yisasan (shop just inside S. Felwithe zone) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) (Kunark) </c><br>
+
+* medicine bag - Shelae Wolfkin (building at -3898, 1663)  <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Marlyn McMerin (building at -3898, 1663) 
+<br><br>
+
+<c "#00CC00">Freeport </c><br>
+
+* sandalwood - Olyna Midel , Torlig Mudel (79, -899, W. Freeport)  <br>
+* medicine bag - Klan Smith, Gord Smith (Gord's Smithy, E. Freeport) 
+<br><br>
+
+<c "#00CC00">Grobb </c><br>
+
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Blergagg (Shaman guild)  <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, clover, dhea, heliotrope, oakmoss, sandalwood - Grabah (Shaman guild)  <br>
+* medicine bag - Zumzal (Shaman's Guild)  <br>
+* sandalwood - Raztara (loc 448, -396, near shaman guild)  <br>
+* medicine bag - Hartok (Krungs Clubs & Junk) 
+<br><br>
+
+<c "#00CC00">Halas </c><br>
+
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Dargon (outside Shaman guild)  <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Spirita (outside Shaman guild)  <br>
+* medicine bag - Holana O'Leary (Yee Majik)  <br>
+* sandalwood - Murtog MacYee (Yee Majik) 
+<br><br>
+
+<c "#00CC00">High Keep </c><br>
+
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton) 
+<br><br>
+
+<c "#00CC00">Highpass Hold </c><br>
+
+* medicine bag - Mardon Smith (Greenbane's Weapons) 
+<br><br>
+
+<c "#00CC00">Kaladim </c><br>
+
+* sandalwood - Baldoleky Rockfinder (252, -191, S. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c><br>
+
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss, sandalwood - Margy O'Koyle (233, -1163)  <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, night shade, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwart, agrimony, celandine herb - Morfesh O'Koyle (252, -1147)  <br>
+* medicine bag, maliak leaf, tri-fern leaf, star reach clover, sickle leaf, violet tri-tube sap, betherium bark, yerbhimba, duskglow vine - Sharra O'Koyle (277, -1170) 
+<br><br>
+
+<c "#00CC00">Kerra Isle </c><br>
+
+* lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, night shade, mullein - Melixis (522, 183) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c><br>
+
+* balm leaves, elf leaf, larkspur, dragonwort - Elsbyth (-768. 3081) 
+<br><br>
+
+<c "#00CC00">North Karana </c><br>
+
+* balm leaves, elf leaf, larkspur, dragonwort - Romella (-677, -197, gypsy camp) 
+<br><br>
+
+<c "#00CC00">Oasis of Marr </c><br>
+
+* balm leaves, elf leaf, larkspur, dragonwort - Isslana (513, 66, gypsy camp) 
+<br><br>
+
+<c "#00CC00">Oggok </c><br>
+
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, madenhair fern, mandrake root, allspice, benzoin, night shade, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Garakbar (unlabeled room with skull floating in the middle of it)  <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Pordopa (unlabeled room with skull floating in the middle of it)  <br>
+* medicine bag, Letters of Jonas (Vol. 1-5)- Rora Dirtstamp (unlabeled room with skull floating in the middle of it) 
+<br><br>
+
+<c "#00CC00">Paineel </c><br>
+
+* medicine bag, Yvonne's Guide to Alchemy, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Yvonne Ani (The Poisoned Petal, upstairs from Superior Supplies) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c><br>
+
+* sandalwood - Mirao Frostpouch (-88, -207)  <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb, tanaan gingko, erudition vine - Severg ODanos (-22, 1375)  <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, clover, dhea, heliotrope, oakmoss, sandalwood - Serin ODanos (-45, 1362), Derin ODanos (-65, 1375) 
+<br><br>
+
+<c "#00CC00">Plane of Tranquility (PoP) </c><br>
+
+* sandalwood - Adrania Fireyese (736, -1888) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c><br>
+
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Ukla (ogre/troll camp, 1730, 1300) used to make dye 
+<br><br>
+
+<c "#00CC00">Rivervale </c><br>
+
+* sandalwood - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c><br>
+
+* sandalwood - Kolburn Inglewort (176, 632), Zimloro Jalobottle (-414, 1426)  <br>
+* Medicine Bag, Lucerne, Sage Leaf, Birthwart, Fenugreek, Maidenhair Fern, Mandrake Root, Allspice, Benzoin, Night Shade, Mullein, Wolf Blood, Blue Vervain Bulb, Valerian Root, Yarrow, Figwort, Agrimony, Celandine Herb - Callowolf MacFuller (122, 1236), Lemsen Frostherb (122, 1216)  <br>
+* Medicine Bag, Mercury, Comfrey, Sumbul, Fennel, Bladderwrack, Eucalyptus Leaf, Clubmoss, Echinacea, Lady's Mantle, Hyssop, Jatamasi, * Hydrangea, Mystic Ash, Elderberry, Clover, Dhea, Heliotrope, Oakmoss, Sandalwood - Polson Medicinal (133, 1196)  <br>
+* medicine bag, Maliak Leaf, Tri-Fern Leaf, Star Reach Clover, Sickle Leaf, Violet Tri-Tube Sap, Betherium Bark, Blade Leaf, Yerbhimba, Duskglow * Vine - Steaon Alarenier (272, 1560)  <br>
+* balm leaf, elf leaf, larkspur, dragon wart - Sneathe (-64, 24)  <br>
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Smithy Firehand (33, 1306), Hardam Stonegrinder (-314, 1460), Smithy Edcar (128, 136) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c><br>
+
+* Alkanet Root, Mugwart, Yebamante, Reucoat's, Sticklewort, Bistort, Boneset, Vox's Dust, Eyebright, Sea Spirit, Burdock Root, Stinging Nettle, Damiana, Ground Figwort, Horehound, Vetiver Root, Bugbane, Feverfew, Woundwart, Medicine Bag - Spiritist Ragnar (-284, -368), Kanaad (shaman guild), Mydi Darjik (-254, -389) note that Mydi's prices are far cheaper than the other two vendors, but you must wait until she walks to the back right corner to buy and sell with her  <br>
+* sandalwood - Alchemist Hikal (building at -284, -368) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c><br>
+
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Godbin Strumharp (windmill at /loc 51, -611) used to make dye 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c><br>
+<br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Hulda (bank) <br> 
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Brynjar (bank) <br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

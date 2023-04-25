@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Iron Sulphide</c><br>
+Skill: Poison Making<br>
+Combine: 1x Brimstone and 2x Small Pieces of Ore<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: Iron Dimethy<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

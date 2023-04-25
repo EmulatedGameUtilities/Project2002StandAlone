@@ -1,0 +1,56 @@
+Component Locations<br>
+Last Updated <c "#FF0000">8/1/03</c><br>
+Created for the EverQuest StoryWindow by: <br>
+<c "#FFFF00">Faennil Triestecuore</c> - Legion of the Dead - Zebuxoruk <br>
+<br>
+All information comes from: <br>
+www.eqtraders.com <br>
+www.thesafehouse.org <br>
+http://home.comcast.net/~corinari/index.htm<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br> 
+<br>
+<c "#00CC00"> ============================= </c> <br>
+Purchasable Poison Components <br>
+<c "#00CC00"> ============================= </c> <br>
+<br>
+<c "#ffff33">Name - NPC - Zone - Loc</c> <br>
+<c "#33CC33">Advanced Vial Sketch</c> - Gligo Muddypants - PoK - p385, p868 <br>
+<c "#33CC33">Amber</c> - Ciren Darkbog - PoK - n100, p1400 <br>
+<c "#33CC33">Celestial Solvent</c> - Darius Gandril - PoK - p52, p1530 <br>
+<c "#33CC33">Gnomish Spirits</c> - Caden Zharik - PoK - n344, p756 <br>
+<c "#33CC33">Mercuric Ore</c> - Ciren Darkbog - PoK - n100, p1400 <br>
+<c "#33CC33">Mistletoe</c> - Miran Frostpouch - PoK - p88, n207 <br>
+<c "#33CC33">Scent of Marr</c> - Loran Thu'leth - PoK - n100, p1400 <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+Dropped Poison Components <br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<c "#ffff33">Name - NPC - Zone - Rarity</c> <br>
+<c "#33CC33">Acrylia Grubs</c> - Mutant Dregs - Fungus Grove - ? <br>
+<c "#33CC33">Autumn Crocus</c> - Various Mobs/Undead and Rats - Sanctus Seru/CoD - Rare <br>
+<c "#33CC33">Dust of Decay</c> - Various Mobs - Howling Stones, PoV, KC, PoN - Common <br>
+<c "#33CC33">Fungus Clump</c> - Shriekers/Various mobs - Fungus Grove, The Deep, BoT - Common <br>
+<c "#33CC33">Golden Ember Powder</c> - Various Mobs - NToV, ToV, PoI - Semi-common <br>
+<c "#33CC33">Nardoo</c> - Sun Revenants/Knight of the Dread Sun - Scarlet Desert/Grey - ? <br>
+<c "#33CC33">Nodding Blue Lilly</c> - Frogloks - Sebelis - ? <br>
+<c "#33CC33">Ocean Ink</c> - Sea Horse - SG,Kedge - ? <br>
+<c "#33CC33">Phosphorous Powder</c> - Giants, Wurms, Wyverns - Burning Woods, LGuk, WW - ? <br>
+<c "#33CC33">Plage Mites</c> - Various Mobs - KC, Kael, CoD - Common <br>
+<c "#33CC33">Rock Fern</c> - Various mobs - PoD, Kael - Common <br>
+<c "#33CC33">Smashed War Grubs</c> - Various Mobs - PoTact - Semi-common <br>
+<c "#33CC33">Shissar Venom Sack</c> - Shissar - Grey, Ssra - ? <br>
+<c "#33CC33">Tainted Planar Essence</c> - Various Mobs - PoD, PoN, CoD - ? <br>
+<c "#33CC33">Twilight Worms</c> - Centi - Akheva, ME - ? <br>
+<c "#33CC33">Undead Shissar Venom Sack</c> - Shissar - Grey, Ssra - ? <br>
+<c "#33CC33">Wax Flowers</c> - Various Mobs - Sebelis, Velks - ? <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br>

@@ -1,0 +1,294 @@
+<c "#66CCFF">Recipes Listed By Trivial (Descending)<br>
+=============================================================================<br>
+Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Item<br>
+=============================================================================</c><br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/280.txt">Anaconda Melt</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/523.txt">Blood Raven Stew</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/524.txt">Boar Chops</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/765.txt">Bristlebanes Party Platter</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/529.txt">Bucket Of Crab Legs</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/507.txt">Candied Tae Ew</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/305.txt">Cheesy Anaconda Casserole</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/306.txt">Cheesy Griffon Casserole</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/307.txt">Cheesy Vegetable Casserole</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/766.txt">Grandmaster Baker's Spoon</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/536.txt">Hero Sandwich</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/537.txt">Hobgoblin Surprise</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/538.txt">Jord Meat Pie</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/539.txt">Justice Fruit Pie</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/540.txt">Mephit Meat Pie</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/541.txt">Mephit Sandwich</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/387.txt">Misty Thicket Picnic</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/544.txt">Slarghilug Stuffed Poppers</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/545.txt">Slarghilug Stuffed Poppers</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/543.txt">Slarghilug Stuffed Poppers</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/549.txt">Swamp Rat Crunchies</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/509.txt">Tae Ew Pie</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/550.txt">Tormentor Stir Fry</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/551.txt">Triloun Tail Soup</a></c>]<br>
+<c "#FFFFFF">>250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/552.txt">Vann Toe Stew</a></c>]<br>
+<c "#FFFFFF">>249</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/360.txt">Griffon Melt</a></c>]<br>
+<c "#FFFFFF">244</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/361.txt">Griffon Stir Fry</a></c>]<br>
+<c "#FFFFFF">242</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/468.txt">Dragon Steaks</a></c>]<br>
+<c "#FFFFFF">242</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/365.txt">Holy Cake</a></c>]<br>
+<c "#FFFFFF">242</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/508.txt">Tae Ew Soup</a></c>]<br>
+<c "#FFFFFF">>240 <=247</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/281.txt">Anaconda Stir Fry</a></c>]<br>
+<c "#FFFFFF">236</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/379.txt">Lotus Pie</a></c>]<br>
+<c "#FFFFFF"><=230</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/532.txt">Cracked Regrua Meat</a></c>]<br>
+<c "#FFFFFF">226</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/363.txt">Halas 10Lb Meat Pie</a></c>]<br>
+<c "#FFFFFF"><225</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/1100.txt">Green Gill In Cream</a></c>]<br>
+<c "#FFFFFF">222</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/525.txt">Breaded Giant Halibut</a></c>]<br>
+<c "#FFFFFF">222</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/526.txt">Breaded Giant Snapper</a></c>]<br>
+<c "#FFFFFF">215</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/527.txt">Breaded Storm Salmon</a></c>]<br>
+<c "#FFFFFF">>212 <=215</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/505.txt">Tae Ew Roll</a></c>]<br>
+<c "#FFFFFF">208</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/530.txt">Buttered Crawdad</a></c>]<br>
+<c "#FFFFFF">208</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/534.txt">Giant Halibut Steak</a></c>]<br>
+<c "#FFFFFF">208</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/535.txt">Giant Snapper Steak</a></c>]<br>
+<c "#FFFFFF">202</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/531.txt">Candied Cockroach</a></c>]<br>
+<c "#FFFFFF">202</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/472.txt">Ohabah Truffles</a></c>]<br>
+<c "#FFFFFF">202</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/423.txt">Pixie Powder Cinnesticks</a></c>]<br>
+<c "#FFFFFF">202</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/548.txt">Storm Salmon Fillet</a></c>]<br>
+<c "#FFFFFF">>199 <=250</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/373.txt">Large Slumberfish Pie</a></c>]<br>
+<c "#FFFFFF"><=196</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/403.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/334.txt">Dryad Pate</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/357.txt">Gnoll Chops</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/410.txt">Pasta With Cheese</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/411.txt">Pasta With Meat Sauce</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/412.txt">Patty Melt</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/413.txt">Patty Melt</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/414.txt">Patty Melt</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/422.txt">Pinemyer Pasta</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/424.txt">Potameid Pate</a></c>]<br>
+<c "#FFFFFF">191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/450.txt">Vegetable Pasta</a></c>]<br>
+<c "#FFFFFF"><=191</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/323.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">188</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/501.txt">Centi Steaks</a></c>]<br>
+<c "#FFFFFF">188</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/502.txt">Centi Toe Stew</a></c>]<br>
+<c "#FFFFFF">188</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/503.txt">Mind Worm Steaks</a></c>]<br>
+<c "#FFFFFF">>185 <=188</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/506.txt">Tae Ew Sandwich</a></c>]<br>
+<c "#FFFFFF">182</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/380.txt">Lucky Cabbage</a></c>]<br>
+<c "#FFFFFF">180</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/488.txt">Shellcracker's Seaside Salad</a></c>]<br>
+<c "#FFFFFF">166</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/368.txt">Jumjum Cake</a></c>]<br>
+<c "#FFFFFF">162</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/295.txt">Birthday Cake</a></c>]<br>
+<c "#FFFFFF">162</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/546.txt">Smoked Hero Parts</a></c>]<br>
+<c "#FFFFFF">162</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/547.txt">Spiced Hero Parts</a></c>]<br>
+<c "#FFFFFF">162</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/453.txt">Wedding Cake</a></c>]<br>
+<c "#FFFFFF"><=162</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/504.txt">Tae Ew Skewers</a></c>]<br>
+<c "#FFFFFF"><=156</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/462.txt">Weary Wrass in Cream</a></c>]<br>
+<c "#FFFFFF">155</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/310.txt">Chocolate Muffins</a></c>]<br>
+<c "#FFFFFF">155</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/556.txt">Grilled Eel</a></c>]<br>
+<c "#FFFFFF">155</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/457.txt">White Chocolate Muffins</a></c>]<br>
+<c "#FFFFFF">152</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/348.txt">Bear Fillet In Cream</a></c>]<br>
+<c "#FFFFFF">152</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/349.txt">Lion Fillet In Cream</a></c>]<br>
+<c "#FFFFFF">152</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/350.txt">Mammoth Fillet In Cream</a></c>]<br>
+<c "#FFFFFF">152</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/347.txt">Wolf Fillet In Cream</a></c>]<br>
+<c "#FFFFFF"><=152</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/555.txt">Dried Seaweed</a></c>]<br>
+<c "#FFFFFF">151</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/359.txt">Green Gill Juice</a></c>]<br>
+<c "#FFFFFF"><=151</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/542.txt">Phoenix Dough</a></c>]<br>
+<c "#FFFFFF">148</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/308.txt">Chocolate Cookies</a></c>]<br>
+<c "#FFFFFF">148</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/558.txt">Sea Urchin Stew</a></c>]<br>
+<c "#FFFFFF">148</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/456.txt">White Chocolate Cookies</a></c>]<br>
+<c "#FFFFFF"><=148</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/553.txt">Abalone Steaks</a></c>]<br>
+<c "#FFFFFF"><=148</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/557.txt">Sea Cucumber Soup</a></c>]<br>
+<c "#FFFFFF">147</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/449.txt">Thunder Salmon In Cream</a></c>]<br>
+<c "#FFFFFF"><=147</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/352.txt">Fish In Cream Sauce</a></c>]<br>
+<c "#FFFFFF">143</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/338.txt">Filleted Bear</a></c>]<br>
+<c "#FFFFFF">143</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/339.txt">Filleted Lion</a></c>]<br>
+<c "#FFFFFF">143</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/340.txt">Filleted Mammoth</a></c>]<br>
+<c "#FFFFFF">143</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/337.txt">Filleted Wolf</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/284.txt">Batwing Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/293.txt">Beetle Eye Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/294.txt">Berry Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/469.txt">Frost Giant Steak</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/470.txt">Frost Giant Steak</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/354.txt">Fruit Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/367.txt">Hot Cross Buns</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/370.txt">Jumjum Salad</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/386.txt">Meat Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/383.txt">Muskie Marinade</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/512.txt">Rat Ear Pie</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/432.txt">Rat Ear Turnovers</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/484.txt">Rolled Cutlassfish</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/491.txt">Storm Giant Steak</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/490.txt">Storm Giant Steak</a></c>]<br>
+<c "#FFFFFF">142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/451.txt">Vegetable Pie</a></c>]<br>
+<c "#FFFFFF"><=142</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/480.txt">Pickled Unicorn</a></c>]<br>
+<c "#FFFFFF">138</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/467.txt">Dark Chocolate Creme</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/466.txt">Cobalt Cup Cakes</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/331.txt">Cup Cakes</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/353.txt">Fish Rolls</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/355.txt">Gator Rolls</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/388.txt">Muffin</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/425.txt">Pound Cake</a></c>]<br>
+<c "#FFFFFF">135</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/439.txt">Shark Rolls</a></c>]<br>
+<c "#FFFFFF">128</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/568.txt">Caynar Nut Stuffed Trout</a></c>]<br>
+<c "#FFFFFF">128</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/569.txt">Caynar Nut Stuffed Trout</a></c>]<br>
+<c "#FFFFFF">128</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/304.txt">Caynar Nut Stuffed Trout</a></c>]<br>
+<c "#FFFFFF">128</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/570.txt">Caynar Nut Stuffed Trout</a></c>]<br>
+<c "#FFFFFF">128</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/309.txt">Chocolate Marr Cherries</a></c>]<br>
+<c "#FFFFFF"><=122</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/522.txt">Snow Griffin Souffle</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/327.txt">Animal Shaped Cookie</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/328.txt">Barbarian Shaped Cookie</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/336.txt">Elven Veal</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/329.txt">Gnome Shaped Cookie</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/300.txt">Loaf Of Bread</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/474.txt">Pickled Dragon</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/330.txt">Troll Shaped Cookie</a></c>]<br>
+<c "#FFFFFF">115</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/492.txt">Vegetable Roughy</a></c>]<br>
+<c "#FFFFFF"><=114</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/515.txt">Panther Pate</a></c>]<br>
+<c "#FFFFFF">111</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/528.txt">Brown Gravy</a></c>]<br>
+<c "#FFFFFF">102</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/326.txt">Cookies</a></c>]<br>
+<c "#FFFFFF">102</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/473.txt">Orange Flavored Cod</a></c>]<br>
+<c "#FFFFFF">102</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/486.txt">Sea Green Cookies</a></c>]<br>
+<c "#FFFFFF">>101 <=141</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/444.txt">Thick Lotus Paste</a></c>]<br>
+<c "#FFFFFF">>101 <=141</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/446.txt">Thick Lotus Paste</a></c>]<br>
+<c "#FFFFFF">>101 <=141</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/447.txt">Thick Lotus Paste</a></c>]<br>
+<c "#FFFFFF">>101 <=141</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/445.txt">Thick Lotus Paste</a></c>]<br>
+<c "#FFFFFF">>100 <=105</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/448.txt">Thunder Salmon Glue</a></c>]<br>
+<c "#FFFFFF">99</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/282.txt">Apricot Marmalade</a></c>]<br>
+<c "#FFFFFF">99</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/384.txt">Marmalade Sandwich</a></c>]<br>
+<c "#FFFFFF">95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/440.txt">Smoked Shark</a></c>]<br>
+<c "#FFFFFF">95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/441.txt">Smoked Wood Elf</a></c>]<br>
+<c "#FFFFFF">95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/521.txt">Ulthork Meat Pie</a></c>]<br>
+<c "#FFFFFF">95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/455.txt">White Chocolate</a></c>]<br>
+<c "#FFFFFF">95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/458.txt">Winter Chocolate</a></c>]<br>
+<c "#FFFFFF">>95 <=105</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/372.txt">Kunzar Glue</a></c>]<br>
+<c "#FFFFFF">>93 <=139</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/554.txt">Crispy Gourami</a></c>]<br>
+<c "#FFFFFF">88</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/303.txt">Candied Spider</a></c>]<br>
+<c "#FFFFFF">88</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/477.txt">Pickled Frost Giant</a></c>]<br>
+<c "#FFFFFF">88</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/479.txt">Pickled Storm Giant</a></c>]<br>
+<c "#FFFFFF">88</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/485.txt">Salty Whitefish Fillets</a></c>]<br>
+<c "#FFFFFF">84</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/385.txt">Mature Cheese</a></c>]<br>
+<c "#FFFFFF">83</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/324.txt">Cream</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/342.txt">Carp Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/571.txt">Chub Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/343.txt">Chub Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/341.txt">Fish Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/572.txt">Pike Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/344.txt">Pike Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/345.txt">Salmon Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/573.txt">Salmon Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/438.txt">Shark Fillet</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/487.txt">Shark Fillet</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/520.txt">Spicy Ulthork Meat</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/564.txt">Trout Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/565.txt">Trout Fillets</a></c>]<br>
+<c "#FFFFFF">82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/346.txt">Trout Fillets</a></c>]<br>
+<c "#FFFFFF"><=82</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/489.txt">Sifaye Pickles</a></c>]<br>
+<c "#FFFFFF">>82 <=95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/431.txt">Ranger's Omelet</a></c>]<br>
+<c "#FFFFFF">>82 <=95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/427.txt">Ranger's Omelet</a></c>]<br>
+<c "#FFFFFF">>82 <=95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/430.txt">Ranger's Omelet</a></c>]<br>
+<c "#FFFFFF">>82 <=95</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/429.txt">Ranger's Omelet</a></c>]<br>
+<c "#FFFFFF"><=79</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/500.txt">Pot Of Spicy Fish Stew</a></c>]<br>
+<c "#FFFFFF">76</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/436.txt">Royal Mints</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/325.txt">Creamy Fennel Sauce</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/475.txt">Pickled Drake</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/476.txt">Pickled Faun</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/481.txt">Pickled Wurm</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/482.txt">Pickled Wyvern</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/478.txt">Siren Pickles</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/493.txt">Yakman Steak</a></c>]<br>
+<c "#FFFFFF">75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/494.txt">Yakman Steak</a></c>]<br>
+<c "#FFFFFF">70</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/375.txt">Liquidised Gator</a></c>]<br>
+<c "#FFFFFF">70</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/376.txt">Liquidised Rat</a></c>]<br>
+<c "#FFFFFF">70</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/377.txt">Liquidised Snake</a></c>]<br>
+<c "#FFFFFF">>69 <=75</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/419.txt">Pickled Gnoll</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/287.txt">Beer Braised Bear</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/288.txt">Beer Braised Gator</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/290.txt">Beer Braised Lion</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/289.txt">Beer Braised Mammoth</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/463.txt">Beer Braised Mammoth</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/291.txt">Beer Braised Rat</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/464.txt">Beer Braised Wolf</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/292.txt">Beer Braised Wolf</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/351.txt">Fish Head Soup</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/426.txt">Rabbit Stew</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/519.txt">Snow Bunny Stew</a></c>]<br>
+<c "#FFFFFF">68</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/452.txt">Vegetable Soup</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/405.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/406.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/409.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/407.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/404.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF">66</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/408.txt">Omelette Du Fromage</a></c>]<br>
+<c "#FFFFFF"><=63</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/518.txt">Saucy Bunnymeat</a></c>]<br>
+<c "#FFFFFF">62</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/465.txt">Blackened Panther</a></c>]<br>
+<c "#FFFFFF">62</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/299.txt">Blackened Teir'Dal</a></c>]<br>
+<c "#FFFFFF">62</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/332.txt">Deadly Medley</a></c>]<br>
+<c "#FFFFFF">>60 <=70</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/416.txt">Pickled Dryad</a></c>]<br>
+<c "#FFFFFF">57</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/362.txt">Grilled Cheese Sandwich</a></c>]<br>
+<c "#FFFFFF">56</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/358.txt">Gnome Kabobs</a></c>]<br>
+<c "#FFFFFF">56</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/366.txt">Hot-N-Spicy Toelings</a></c>]<br>
+<c "#FFFFFF">56</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/378.txt">Lizard-On-A-Stick</a></c>]<br>
+<c "#FFFFFF">54</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/302.txt">Butter</a></c>]<br>
+<c "#FFFFFF">54</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/533.txt">Dressing</a></c>]<br>
+<c "#FFFFFF">53</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/301.txt">Bug Bites</a></c>]<br>
+<c "#FFFFFF">51</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/415.txt">Pickled Bixie</a></c>]<br>
+<c "#FFFFFF">51</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/417.txt">Pickled Froglok</a></c>]<br>
+<c "#FFFFFF">51</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/418.txt">Pickled Gator</a></c>]<br>
+<c "#FFFFFF">51</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/420.txt">Pickled Lizard</a></c>]<br>
+<c "#FFFFFF">51</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/442.txt">Snake Pickles</a></c>]<br>
+<c "#FFFFFF">51 or 52</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/364.txt">Hearty Meat Sauce</a></c>]<br>
+<c "#FFFFFF">51 or 52</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/566.txt">Hearty Meat Sauce</a></c>]<br>
+<c "#FFFFFF">46</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/283.txt">Batwing Crunchies</a></c>]<br>
+<c "#FFFFFF">46</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/298.txt">Bixie Crunchies</a></c>]<br>
+<c "#FFFFFF">46</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/499.txt">Boiled Rockhopper Egg</a></c>]<br>
+<c "#FFFFFF">46</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/461.txt">Wooly Spider Crunchies</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/286.txt">Bear Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/356.txt">Gator Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/371.txt">Kobold Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/374.txt">Lion Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/382.txt">Mammoth Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/471.txt">Mammoth Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/497.txt">Owlbear Steaks</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/483.txt">Raptor Steak</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/443.txt">Snake Steak</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/498.txt">Sonic Wolf Steak</a></c>]<br>
+<c "#FFFFFF">41</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/460.txt">Wolf Steaks</a></c>]<br>
+<c "#FFFFFF"><=40</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/516.txt">Saucy Bearmeat</a></c>]<br>
+<c "#FFFFFF"><=40</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/517.txt">Tundrabear Sandwich</a></c>]<br>
+<c "#FFFFFF">36</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/333.txt">Dwarf Chops</a></c>]<br>
+<c "#FFFFFF">36</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/433.txt">Rat Ear Sandwich</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/285.txt">Bear Sandwich</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/381.txt">Mammoth Sandwich</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/392.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/391.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/394.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/390.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/393.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/402.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/397.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/398.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/396.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/399.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/400.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/389.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/395.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/401.txt">Noodles</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/495.txt">Owlbear Sandwich</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/496.txt">Sonicwolf Sandwich</a></c>]<br>
+<c "#FFFFFF">31</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/459.txt">Wolf Sandwich</a></c>]<br>
+<c "#FFFFFF">28</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/567.txt">Uncooked Rat Ear Pie</a></c>]<br>
+<c "#FFFFFF">28</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/511.txt">Uncooked Rat Ear Pie</a></c>]<br>
+<c "#FFFFFF">27</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/369.txt">Slice Of Jumjum Cake</a></c>]<br>
+<c "#FFFFFF">26</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/434.txt">Rat Kabobs</a></c>]<br>
+<c "#FFFFFF">26</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/435.txt">Rat Sandwich</a></c>]<br>
+<c "#FFFFFF">26</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/437.txt">Scorpion Sandwich</a></c>]<br>
+<c "#FFFFFF">21</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/335.txt">Edible Goo</a></c>]<br>
+<c "#FFFFFF">>21 <=45</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/514.txt">Spine Poison Extract</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/316.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/318.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/322.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/321.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/314.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/319.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/317.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/315.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/313.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/311.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">17</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/320.txt">Clump Of Dough</a></c>]<br>
+<c "#FFFFFF">15</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/296.txt">Birthday Cake Slice</a></c>]<br>
+<c "#FFFFFF">15</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/297.txt">Birthday Cake Slice</a></c>]<br>
+<c "#FFFFFF">15</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/454.txt">Wedding Cake Slice</a></c>]<br>
+<c "#FFFFFF">Unknown</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/1071.txt">Catfish Croak Sandwich</a></c>]<br>
+<c "#FFFFFF">Unknown</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/513.txt">HEHE Meat</a></c>]<br>
+<c "#FFFFFF">Unknown</c>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/421.txt">Pickled Troll</a></c>]<br>

@@ -1,0 +1,103 @@
+<c "#FF2400">From Eqtraders</c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Part 3: Jewelcraft</c><br>
+<br>
+
+Skill requirement: 220 (or higher) Jewelcraft <br>
+<br>
+Flag requirement: Saryrn.<br>
+Your Flag MUST say - Tylis has been removed from his agony. <br>
+<br>
+At this point, Grimel will give you Etching Dust and ask that you make him a new ring from the previous signet. You will need to head to Velious to gather some velium bars that are needed, and will also need to head to Eastern Wastes, locate Tain Hammerfrost, and do his quest in order to procure a Coldain Smithy Hammer. After combining, you will get a rather tempting Velium Blue Diamond Ring with Enduring Breath on it to hand in--and NOT have returned--for a Wooden Signet and some experience. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I would like to put my jewel craft skills to the test.' <br>
+Aid Grimel says 'My hand was crushed when I used it to deflect a blow from a War Boar that was headed towards Taldarius's back. For some time afterwards my hand was crippled but Brell saw to it I regained full use of it. The ring I used to wear was damaged beyond repair and my hand was never steady enough to etch a new one. If you would make me a new one by combing a mounted blue diamond, the etching dust and etching tools in a jewelry kit. Then take the faceted gem and combine it with a bar of pure enchanted velium and my signet. I have no idea how the pure bars are made. You may want to seek the help of the ice dwarves.' <br>
+Going to Velious and in Thurgadin, hail Meg Tucker with the appropriate trigger text for a clarifying response. <br>
+<br>
+You say, 'what bar of pure enchanted velium' <br>
+Meg Tucter says 'Wow that is an odd request Yalum. Very rarely do we make an item that requires a pure bar of metal. Pure enchanted velium bars are made by combing three enchanted velium bars in a forge along with a coldain velium temper, pure water and a Coldain smithy hammer. Tis quite expensive but it enables the crafter to obtain pure working materials.' <br>
+Meg also gives you the Etching tools. <br>
+<br>
+You say, 'I need a set of Etching Tools' <br>
+Meg Tucter says 'Oh, really? There are not many that work in faceting gems. I am surprised to see your interest. You can have this old set of mine. If you are working with Royal Velium and want to give it to someone else, you can use these etching tools and your jewelers kit to engrave the piece for them. Be careful though, because once the armor is engraved you cannot remove it and it will be useless to the Dain. There is no need to return the tools, Talem recently made me a new sturdy set. Brell bless him.' <br>
+And when you finally hand in the ring, the text Grimel gives is: <br>
+<br>
+Aid Grimel grins. 'Quite a nice ring you have made for me _____. May it serve me as well as my old ring. Here take this signet. We seem to be finishing the tasks on my list at a nice pace. Tell me when you are ready to use some clay.' <br>
+<br>
+<c "#FFFF00">Velium Blue Diamond Ring</c><br>
+MAGIC ITEM NO DROP <br>
+Slot: FINGER<br>
+AC: 10<br>
+HP: +65   MANA: +65   <br>
+SV FIRE: +5   SV DISEASE: +5   SV COLD: +5   SV MAGIC: +5   <br>
+SV POISON: +5   <br>
+Effect: Enduring Breath<br>
+WT: 0.1   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<c "#FFFF00">Wooden Signet</c><br>
+LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 6<br>
+STR: +6   STA: +6   WIS: +6   INT: +6   HP: +20   MANA: +20   <br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<br>
+<br>
+<c "#FFFF00">Items given to you by Grimel: </c><br>
+Etching Dust <br><br>
+<c "#FFFF00">Items given to you by Meg:</c> <br>
+Etching Tools <br>
+<br>
+<c "#FFFF00">Recipes: </c><br>
+<br>
+<c "#FFFF00">Purified Water: (Brew Barrel, Trivial 58) </c><br>
+Celestial Essence<br>
+Flask of Water<br>
+Flask of Water<br>
+<br>
+<c "#FFFF00">Mounted Blue Diamond: (Jewelry Kit, Trivial <=100)</C> <br>
+Bar of Velium<br>
+Bar of Velium<br>
+Blue Diamond<br>
+<br>
+<c "#FFFF00">Faceted Blue Diamond: (Planar Jewelry Kit, Trivial > 250) </c><br>
+Mounted Blue Diamond<br>
+Etching Tools<br>
+Etching Dust <br>
+<br>
+<c "#FFFF00">Bar of Enchanted Pure Velium: (Forge, Trivial > 250)</c> <br>
+Enchanted Bar of Velium<br>
+Enchanted Bar of Velium<br>
+Enchanted Bar of Velium<br>
+Purified Water<br>
+Coldain Velium Temper<br>
+Coldain Smithy Hammer <br><br>
+<c "#FFFF00">Velium Blue Diamond Ring: (Planar Jewelry Kit, trivial > 250)</c> <br>
+Faceted Blue Diamond<br>
+Bar of Enchanted Pure Velium<br>
+Clay Signet (from part 2) <br>
+<br>
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

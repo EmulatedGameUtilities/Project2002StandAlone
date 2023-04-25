@@ -1,0 +1,32 @@
+<HTML>
+
+<HEAD>
+<TITLE>LOY Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Legacy of Ykesha</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+Crypt of Nadox <FONT COLOR="#8080FF">Hermit Crab</FONT>  Bait, gives fishing modifier <br>
+Crypt of Nadox <FONT COLOR="#8080FF">Rock Crab</FONT>     Bait, gives fishing modifier <br>
+Crypt of Nadox <FONT COLOR="#8080FF">Snail Shell</FONT>   <br>     
+Dulak <FONT COLOR="#8080FF">Piece of Coral</FONT>   Sells for 5ish gold   <br>
+Dulak <FONT COLOR="#8080FF">Broken Skull Barnacle</FONT>   Sells for 5ish gold <br>
+Dulak <FONT COLOR="#8080FF">Sand Dollar </FONT>  Sells for gold <br>
+Gulf of Gunthak <FONT COLOR="#8080FF"> Nifilik Egg </FONT>  Baking <br> 
+Gulf of Gunthak <FONT COLOR="#8080FF">Hermit Crab</FONT>  Bait, gives fishing modifier <br>
+Gulf of Gunthak <FONT COLOR="#8080FF">Bay Seaweed</FONT>   Baking  <br>  
+Gulf of Gunthak <FONT COLOR="#8080FF">Gunthhak Gulf Water</FONT>   Use in Pure Blood Spell Quest <br>
+Gulf of Gunthak <FONT COLOR="#8080FF">Cave Moss </FONT>  <br>     
+Togiran Mines <FONT COLOR="#8080FF">Sand Dollar</FONT>   Sells for Gold <br>
+Togiran Mines <FONT COLOR="#8080FF">Snail Shell</FONT> <br>      
+
+
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,85 @@
+Kelethin Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* bread, water - Merchant Kanoldar (749, 358), Innkeep Anisyla (Inn, -249, -427), Innkeep Wuleran (Inn, -336, 135), Innkeep Linen (Sleepy Willow Inn), Innkeep Larya (Inn near orc lift, 942, 309) <br>
+* oven (391, 343) <br>
+* milk - Merchant Iiudarae (newbie lift platform, -34, -143), Merchant Aianya (Goods shop, 242, 608), Merchant Kwein (PoD lift platform, 155, 340) <br>
+* spit - Merchant Uaylain (near Packwearers Goods) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* cask, bottle - Merchant Tilluen(Packwearers Goods, -81, 269), Merchant Aluuvila (Packwearers Goods, -91, 224), Merchant Aildien (-492, -133) <br>
+* bottle - Merchant Iludarae (next to first lift), Merchant Kwein (155, 332) <br>
+* shotglass, bottle, cask - Barkeep Lysslan (Tavern, 130, 800), Merchant Malawen (Heartwood Tavern, 332, 540), Merchant Ulianu (Heartwood Tavern, 288, 520) <br>
+* grapes, shotglass, bottle, cask, kiola sap - Barkeep Tuviena (Tavern, 130, 800) <br>
+* cask, shotglass - Barkeep Sissya (-559, -556), Barkeep Myrisa (400, 677), Barkeep Syntan (872, 93) <br>
+* brew barrel - near Soldiers of Tunare, -525, 199 <br>
+* royal jelly - Merchant Kanoldar (753, 256) <br>
+* gnomish spirits - Barkeep Aanlawen ("Tavern", 603, 688) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Merchant Iludarae (next to first lift, -27, -150), Merchant Kwein (next to Priest of Discord lift,155, 332), Merchant Aianya (Goods, 244, 612)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3)- Merchant Tiladnya (Trueshot Bows, -361, -610), Merchant Neaien (Fletcher, -413, 452) <br>
+* bow staff (5), whittling blade, planing tool, standard bow cam, hemp twine, linen & silk string, A Bowyers Guide, fletching kit - Merchant Sylnis (-411, -520) <br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), Fletching book - Merchant Lanin (412, 328)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Merchant Kweilli (Sparkling Glass, 414, 293) <br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Merchant Laedar (610, 537)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel (-189, -540) <br>
+* kiln (-179, -547) <br>
+* blocks of clay (3), firing sheet (3), glass shard, Basic Pottery, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Merchant Legweien (418, 373) <br>
+* pottery sketches - Merchant Nildar (near orc lift, 860, 199)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* thimble & needle mold - Merchant Gaeadin (-116, -130) <br>
+* container, lantern, hinge & file molds, Basic Blacksmithing, Armor & Weapons Guide, weapon molds (pommel, hilt, dual-edged blade, heavy steel blade, spiked ball), Dirge of Forgefire - Merchant Nluolian (-107, -563) <br>
+* forge (-249, 62) <br>
+* Fier'dal forge (-480, 79) <br>
+* cookie molds, other cooking molds, skewer mold, Basic Blacksmithing - Merchant Uaylain (near Packwearers Goods, -25, 114) <br>
+* banded armor molds, lantern casing mold, Basic Blacksmithing, Armor & Weapon Guide, sheet metal - Merchant Linolyen (near Priest of Discord Lift, 108, 343) <br>
+* small chainmail patterns - Merchant Ninwiny (-191, 133)<br> 
+* arrow shaft mold - - Merchant Lanin (412, 328)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns, small sewing kit, How To Sew (medium) - Merchant Aluwendae (-331, -122; across rope bridge from first lift) <br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), Tailoring book, How to Sew (3), Mithril Leathers of the Fier'Dal book - Merchant Gaeadin (-116, -130) <br>
+* How to Sew (medium), small sewing kit - Merchant Linadian (-142, -545) <br>
+* loom at loc 905, 575<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* water, large lantern, bottle - Merchant Iludarae (next to first lift), Merchant Alanya ("Goods" shop on platform between bank and Priest of Discord lift) <br>
+* bottle - Merchant Tilluen & Merchant Aluuvila (Packwearers Goods), Merchant Aildien (-492, -133), Merchant Kwein (153, 332) <br>
+* gnomish spirits - Barkeep Aanlawen ("Tavern", 603, 688) <br>
+* medium platemail helm - Merchant Tegdian (945, 55)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,288 @@
+Tailoring Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c>
+
+<br>* small sewing kit - clockwork tailor (-1312, -915) 
+<br>* small sewing kit, How to Sew (small) - clockwork tailor (766,173 near entrance), two clockwork tailors (bottom floor of 968, -64), clockwork tailor (1307, -915) 
+<br>* some patterns (cap/gorget/tunic/sleeves/gloves/pants/boot), small sewing kit, How To Sew (small sizes) - 2 clockwork tanners (976,-38 on 1st floor of 2nd tower past palace) 
+<br>* scroll of gather shadows - Clockwork Merchant (2100,-390 necromancer guild in Mines of Malfunction) 
+<br>* 10-slot loom - left from Falls and PoD (772, 159) 
+<br><br>
+
+<c "#00CC00">Bazaar (Luclin) </c>
+
+<br>* patterns (mask, cap, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Dolsoj Warrebs (-601, -19) 
+<br>* How to Sew (small, medium, large), Tailoring, Tailoring Quivers, small sewing kit, Master Wu's Tailoring Secrets - Domalisar Cournoyer (-613, -19) 
+<br>* loom - loc -384, -89 
+<br><br>
+
+<c "#00CC00">Butcherblock </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), How to Sew (3) - Alga Bruntbuckler (-1183, -1951) 
+<br>* patterns (Cap, Gorget, Tunic, Sleeve, Glove, Pant, Boot), small sewing kit, How to Sew (small) - Fugan Mumfur (-1946, 2878: south of docks, on edge of water) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c>
+
+<br>* all clothing patterns - Klok Wartol (East, 97, -297) 
+<br>* quiver pattern (2), backpack pattern, large sewing kit, How to Sew (3) - Klok Stitch (East, 125, -15) 
+<br>* small sewing kit, How to Sew Medium Sizes - Klok Tempar (East, 135, -22) 
+<br>* small sewing kit, erudite sewing kit (don't ask me why!), silver/gold/platinum thread, On Terrorantula Silk - Kamzar (West, 190, 542) 
+<br>* loom - East (59, -83) 
+<br>* mandrake root - Klok Scaleroot (West, 400, 515, near necro guild) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c>
+
+<br>* sm sewing kit - tailor in each of the 3 inns on the main path out from Freeport to W. Commonlands and in the inn near the orc camp 
+<br><br>
+
+<c "#00CC00">East Karana </c>
+
+<br>* small sewing kit, How to Sew (medium sizes) - Merchant Silvia (shop at 1315, -2547) 
+<br>* 10-slot loom (-850, -130) 
+<br><br>
+
+<c "#00CC00">Erudin </c>
+
+<br>* patterns (cap, gorget, tunic, sleeve, glove, pant, and boot), sm. sewing kit, How To Sew (med) - Demicla Tanner (street vendor at loc -689, -104, near temple of Quellious) 
+<br>* sm. sewing kit, How To Sew (med) - Monita Weaver (street vendor near Erudin Surplus, loc -899, -160) 
+<br>* large sewing kit, mask, gorget, belt, cloak, wrist, and shoulderpad patterns, backpack, whip & quiver patterns (2), How to Sew (3) Gayle Weaven (street vendor near Port Authority) 
+<br>* 10-slot loom - next to Erudin Surplus (-870, -60) 
+<br>* silver/gold/platinum thread, sm. sewing kit, How To Sew (med), erudite sewing kit - Galbasi Weaver? (street vendor at loc -753, -104, near temple of Quellious) 
+<br><br>
+
+<c "#00CC00">Everfrost </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), - Seria O'Danos (in cave between Everfrost and Halas) 
+<br><br>
+
+<c "#00CC00">Feerrott </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), Tailoring quivers (scroll), How to Sew (3), Tailoring book - Murga (1139, -134) 
+<br><br>
+
+<c "#00CC00">Felwithe </c>
+
+<br>* patterns, small sewing kit - Merchant Tissan (Faydark's Bane, N. Felwithe) 
+<br>* small sewing kit, How to Sew (Medium) - Merchant Silvenspin (Shop of All Holds, N. Felwithe), Merchant Moonthread (building just inside entrance to S. Felwithe) 
+<br>* 10-slot loom - next to Merchant Yisasan (S. Felwithe) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) (Kunark) </c>
+
+<br>* all clothing patterns - Erica Swiftwear (building at -3644, 2054) 
+<br>* quiver patterns (2), backpack pattern, whip pattern, Tailoring book, How to Sew (3), large sewing kit, some clothing patterns (mask, gorget, cloak, belt, wristband), Master Wu's Tailoring Secrets - Dionin Needlespin (building at -3644, 2054) 
+<br>* loom (building at -3644, 2054) 
+<br>* mandrake root - Marlyn McMerin (building at -3898, 1663) 
+<br><br>
+
+<c "#00CC00">Freeport </c>
+
+<br>* all tailoring patterns, large sewing kit - Winsa Tanner (Leather & Hide, E. Freeport) 
+<br>* basic patterns (cap, gorget, tunic, sleeve, glove, pant, boot), small sewing kit, How To Sew: Medium - Winlar Tanner, Sanhan Tanner, Sissin Tanner (Leather & Hide, E. Freeport) 
+<br>* small sewing kit, How To Sew - Svinal Wyspin & Lystin Wyspin (The Emporium, N. Freeport), Wahnig Nooz & Jallen Nooz (unlabeled building South of bank, N. Freeport), Winlar Tanner, Winsa Tanner, Sanhan Tanner & Sissin Tanner (Leather & Hide, E. Freeport) 
+<br>* 10-slot loom - second floor, Velithe & Bardo's Imported Goods (E. Freeport) 
+<br>* Tailoring Quivers (book) - Valla Strongbranch (-79, -41, N. Freeport) 
+<br><br>
+
+<c "#00CC00">Grobb </c>
+
+<br>* patterns (cap, gorget, tunic, sleeve, glove, pant, boot), How to Sew: Large, small sewing kit - Jarlok (Krungs Clubs & Junk) 
+<br>* 10-slot loom - near shaman guild (460, -411) 
+<br>* mandrake root - Blergagg (Shaman guild) 
+<br><br>
+
+<c "#00CC00">Halas </c>
+
+<br>* basic patterns (cap, gorget, tunic, sleeve, glove, pant, boot), How To Sew (Med/Large Sizes) - Cindi (Macs Kilts) 
+<br>* small sewing kit - Greta Terrilon (street merchant near MacPherson's Bloody Blades) 
+<br>* small sewing kit, How To Sew (Med/Large Sizes) - Mac (Macs Kilts) 
+<br>* 10-slot loom - to the north of Mac's Kilts (386, -159) 
+<br>* mandrake root - Dargon (Shaman's guild) 
+<br><br>
+
+<c "#00CC00">Highpass Hold </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), Tailoring book, How to Sew (3)- Dyona Rossook (Serpent Supply) 
+<br><br>
+
+<c "#00CC00">Kaesora </c>
+
+<br>* loom at loc 202, -168, -126 (lower floor in "the passageway from the Reaver of Xalgox Room to the back yard area of the Library) 
+<br><br>
+
+<c "#00CC00">Kaladim </c>
+
+<br>* patterns (cap, tunic, gorget, sleeve, glove, pant, boot), small sewing kit, How To Sew (small) - Kalameky Darkfoam (Tanned Assets, S. Kaladim) 
+<br>* small sewing kit, How To Sew (small) - Gurtha Yaptongue (Gurtha's Ware, S. Kaladim) 
+<br>* 10 slot loom at loc 33, 187 (S. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c>
+
+<br>* How To Sew (Small, medium & large), Tailoring, Tailoring Quivers, Small Sewing Kit, Vah Shir Tailoring, Vah Shir Silken Products - Raesha Dawneyes (633, -110) 
+<br>* large sewing kit, patterns: cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeves, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver - Shay Aristos (644, -107) 
+<br>* loom at loc 649, -252 
+<br>* mandrake root - Morfesh O'Koyle (252, -1147) 
+<br><br>
+
+<c "#00CC00">Kelethin </c>
+
+<br>* patterns, sewing kit, How To Sew (medium), small sewing kit - Merchant Aluwendae (-331, -122; across rope bridge from first lift) 
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), Tailoring book, How to Sew (3), Mithril Leathers of the Fier'Dal book - Merchant Gaeadin (-116, -130) 
+<br>* How to Sew Medium Sizes, small sewing kit - Merchant Linadiane (-142, -545) 
+<br>* loom at loc 905, 575 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c>
+
+<br>* patterns, small sewing kit, Tailoring book - Lena Leatherspinner (-325, 3879) 
+<br><br>
+
+<c "#00CC00">Misty Thicket </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2) - Tipa Lighten, /loc 581.00, -2201.00 
+<br>* small sewing kit, leather armor patterns - Sonsa Fromp, /loc 672.00, -2210. NOTE: Sonsa's prices are considerably higher than those in town, and you should only shop with her if there's a reason you can't go into town (i.e., you don't want to lose wolf form/illusion/pet, etc.). 
+<br><br>
+
+<c "#00CC00">Neriak </c>
+
+<br>* sm sewing kit , How to Sew (3) - Mordant & Jasma Tather (Silk Underground NFQ), ___ (The Dashing Form COM) 
+<br>* sm sewing kit, patterns, How to Sew books - Medropn Ylask (Furrier Royale 3D), Jarvah (shop at bottom of entrance ramp SFQ, -232, -370) 
+<br>* 10-slot loom - Silk Underground NFQ 
+<br>* all tailoring patterns, large sewing kit - Garren D'vek (The Dashing Form, COM) 
+<br><br>
+
+<c "#00CC00">Northern Desert of Ro </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), Tailoring book - Spoolie Gee (Inn south of Freeport) 
+<br><br>
+
+<c "#00CC00">Oggok </c>
+
+<br>* basic patterns (cap, gorget, tunic, sleeve, glove, pant, boot), small sewing kit, How To Sew (large) - Juk Hidebeater (Lether Armer) 
+<br>* small sewing kit, How To Sew (large) - Duuga Tearstopper (Lether Armer) 
+<br>* 10-slot loom (on way to shaman guild) 700, 700 
+<br>* patterns (cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Gretamog (630, 700) 
+<br>* mandrake root - Garakbar (unlabeled room with skull floating in the middle of it) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c>
+
+<br>* quiver patterns (2), backpack pattern, whip pattern, Tailoring (book), How to Sew (3), large sewing kit, some clothing patterns (mask, gorget, cloak, belt, wristband, shoulderpad) - Tin Merchant IX, 2673, 2613 
+<br>* 10-slot loom (2846, 2376) 
+<br><br>
+
+<c "#00CC00">Paineel </c>
+
+<br>* small sewing kit, erudite sewing kit, On Terrorantula Silk, silver/gold/platinum thread - Pardas Nalue (Sinfully Handsome) 
+<br>* 10-slot loom - Sinfully Handsome 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c>
+
+<br>* all tailoring patterns, large sewing kit - Higwyn Matrick (128, 1480) 
+<br>* tanaan loom at 142, 1457, at 85, 1477 
+<br>* patterns: fleeting quiver, quiver, backpack, mask, gorget, cloak, belt, shoulderpad, whip, wristband; How To Sew (3), Planar Sewing Kit - Tratlan Matrick (124, 1461) 
+<br>* How To Sew (3), Tailoring book, Tailoring Quivers book, small sewing kit, Master Wu's Tailoring Secrets, Tanaan Embroidery Needle - Sherin Matrick - 85, 1477 
+<br>* clump of wax - Ellis Cloudchaser (-132, 1457) 
+<br><br>
+
+<c "#00CC00">Qeynos </c>
+
+<br>* patterns, sm. sewing kit - Fhara Semhart (Fhara's Leather & Thread, S. Qeynos) 
+<br>* sm. sewing kit, quiver & backpack patterns, Tailoring book, How to Sew (3) - Iala Lendard (street vendor outside Lions Mane Inn, S. Qeynos) 
+<br>* sm. sewing kit - Solani Dayadil (street vendor south of Fire Prides, S. Qeynos) 
+<br>* 10-slot loom - near Lion's Mane Inn (S. Qeynos) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c>
+
+<br>* patterns, small sewing kit, How To Sew (large sizes) - Chizzlik (ogre camp, 1723, 1301) 
+<br><br>
+
+<c "#00CC00">Rivervale </c>
+
+<br>* basic armor patterns, small sewing kit, Leathers of the Vale - Twippie Diggs (near Fools Gold) 
+<br>* small sewing kit, recipe book for silk thread, etc. - Meeka Diggs (near Fools Gold) 
+<br>* 10-slot loom - next to Meeka Diggs (loc 0, -234) 
+<br>* Tailoring Quivers - Joana Jinklebelly (-229, -79) 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c>
+
+<br>* loom at loc -171, -939 
+<br>* large sewing kit, backpack pattern, quiver pattern, fleeting quiver pattern, whip pattern, clothing patterns (cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot) - Laren Goldthimble (-131, -960) 
+<br><br>
+
+<c "#00CC00">Shadeweaver's Thicket (Luclin) </c>
+
+<br>* Thimble Mold, Needle Mold, Fleeting Quiver Pattern, Quiver Pattern, Backpack Pattern, Large Sewing Kit, Cap Pattern, Mask Pattern, Gorget Pattern, Tunic Pattern, Shoulderpad Pattern, Cloak Pattern, Belt Pattern, Sleeve Pattern, Wristband Pattern, Whip Pattern, Pant Pattern, Boot Pattern, Glove Pattern - Tiamon Aroo (hut at -1427, -2790) 
+<br>* hand Tiamon Aroo (hut at -1427, -2790) 4 claws off needle clawed hoppers in order to receive a claw needle needed to make shaded hopper armor 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c>
+
+<br>* small sewing kit, How to Sew Large Sizes - Wawker (157, 384) 
+<br>* small sewing kit, How to Sew Medium Sizes - Kytley (138, 349) 
+<br>* loom - loc 131, 59 
+<br>* small sewing kit, large sewing kit, How to Sew (small, medium, large), Tailoring - Eastring Fashing (147, 659) 
+<br>* clothing patterns: cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot - Rowl Tanner (150, 638) 
+<br>* small sewing kit, some clothing patterns: cap, gorget, tunic, sleeve, glove, pant, boot - Hobolor Peltskinner (-391, 1421) 
+<br>* small sewing kit, How to Sew (Small, Medium, Large), Tailoring, fleeting quiver pattern, quiver pattern, backpack pattern, whip pattern - Gelson (154, -48) 
+<br>* mandrake root - Callowolf MacFuller (122, 1236), Lemsen Frostherb (122, 1216) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c>
+
+<br>* How To Sew: Medium Sizes, How To Sew: Small Sizes, How To Sew: Large Sizes, Tailoring, Tailoring Quivers, Vah Shir Tailoring, Vah Shir Silken Products - Librarian Almasa (125, 67) 
+<br>* Fleeting Quiver Pattern, Quiver Pattern, Backpack Pattern, Tailoring, How To Sew: Medium Sizes, How To Sew: Small Sizes, How To Sew: Large Sizes, Large Sewing Kit, Mask Pattern, Gorget Pattern, Cloak Pattern, Belt Pattern, Shoulderpad Pattern, Whip Pattern, Wristband Pattern - Jala (upstairs, 302, -367) 
+<br>* loom - loc 279, -375 (upstairs) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c>
+
+<br>* loom on second floor at 286, -485 
+<br>* patterns (mask, cap, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Purveyor Stitch (second floor, -477, 44) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), - Freed Fimplefur (2nd building from left of entrance to Ak'Anon) 
+<br><br>
+
+<c "#00CC00">Surefall Glade</c>
+
+<br>* "Tailoring Quivers" - Jarse Kedison (Archery Range), Livam T'Lant (inside Druid guild) 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c>
+
+<br>* quiver patterns (2), backpack pattern, whip pattern, How To Sew (3), large sewing kit, leather armor patterns (mask, gorget, cloak, belt, shoulderpad, wristband), Fine Furs, coldain tanning kit - Rexx Frostweaver (bank) 
+<br>* all leather armor patterns, coldain tanning kit, Frostweavers Silken Garments - Betti Frostweaver (bank) 
+<br>* small sewing kit, How to Sew (small), Velium Leatherworking, robe pattern, silver thread, gold thread, platinum thread - Kyla Frostbeard, Cobi Frostbeard (Frostbeards Furs and Leathers) 
+<br>* small sewing kit, How to Sew (small), patterns (cap, gorget, tunic, sleeve, glove, pant, boot) - Mauren Frostbeard (Frostbeards Furs and Leathers) 
+<br><br>
+
+<c "#00CC00">West Commonlands </c>
+
+<br>* small sewing kit - Sorsha Hobbitfriend (inn near toll gate - her name is misleading - she dislikes halflings who have not got Freeport faction adjustments), Peron Threadspinner (inn near lake) 
+<br><br>
+
+<c "#00CC00">West Karana </c>
+
+<br>* large sewing kit, mask, gorget, belt, cloak, wrist, and shoulderpad patterns, backpack, whip & quiver patterns (2), How to Sew (3) - Alysa (425, -4362) 
+<br>* small sewing kit, How to Sew (Medium) - Silna Weaver OR Minya Coldtoes (847, -1824; NW corner of the zone, a tent behind the buildings) -- these women seem to take turns manning the booth, and sometimes nobody will be there. <br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

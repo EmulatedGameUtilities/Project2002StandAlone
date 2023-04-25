@@ -1,0 +1,16 @@
+<c "#FFff00">Fun</c><c "#FF8000"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/fun/fun.txt">Fun</a><br><br>
+
+<a HREF="file:///storyline/il/fun/EBayBabies.txt">E-Bay Babies (get 911 on the way this will kill ya)</a><br>
+<a HREF="file:///storyline/il/fun/lucane.txt">The Turning of Sir Lucan</a><br>
+<a HREF="file:///storyline/il/fun/hobbit.txt">The Halfling; or Tolkien's Hobbit in EQ </a><br>
+<a HREF="file:///storyline/il/fun/LOTR1.txt">EQ's Lord of the Ring 1</a><br>
+<a HREF="file:///storyline/il/fun/LOTR2.txt">EQ's Lord of the Ring 2</a><br>
+<a HREF="file:///storyline/il/fun/Quon1.txt">How NOT to keep the Quon in your group!</a><br>
+<a HREF="file:///storyline/il/fun/Quon2.txt">Level 62 Cleric <Quon> Looking for guild !</a><br>
+<a HREF="file:///storyline/il/fun/PactofZeranon.txt">The Pact of Zeranon</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>

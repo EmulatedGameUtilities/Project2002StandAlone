@@ -1,0 +1,21 @@
+Coldain Ring quest 1-10
+<br>
+Last Updated <c "#FF0000">3/21/03</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<br>
+
+<a href="file:///storyline//il/Coldring/ring1.txt">1st Copper Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring2.txt">2nd Silver Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring3.txt">3rd Gold Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring4.txt">4th Platinum Coldain Insignia Ring</a><br>
+<a href="file:///storyline//il/Coldring/ring5.txt">5th Obsidian Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring6.txt">6th Mithril Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring7.txt">7th Adamantium Coldain Insignia Ring</a><br>
+<a href="file:///storyline//il/Coldring/ring8.txt">8th Velium Coldain Insignia Ring </a><br>
+<a href="file:///storyline//il/Coldring/ring9.txt">9th Coldain Hero's Insignia Ring</a><br>
+<a href="file:///storyline//il/Coldring/ring10.txt">10th Ring of Dain Frostreaver IV</a><br>
+<a href="file:///storyline//il/Coldring/fight.txt">End Fight</a><br>
+
+
+
+<br><br>Information taken from the quest lists at <c "#64879F">Allakhazams' Magical Realm</c> (http://everquest.allakhazam.com) 

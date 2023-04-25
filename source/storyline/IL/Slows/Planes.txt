@@ -1,0 +1,58 @@
+Altered Planes Slowable List
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br>
+<br>Plane of Air
+<br>----------------------------
+<br><c "#0069FF">Bladestorms -- Slowable</C>
+<br><c "#FF0000">Gorgalosk -- Unslowable</C>
+<br><c "#FF0000">Gwan -- Unslowable</C>
+<br><c "#0069FF">Heart Harpie -- Slowable</C>
+<br><c "#0069FF">Overseer of Air -- Slowable</C>
+<br><c "#0069FF">Protector of Sky -- Slowable</C>
+<br><c "#0069FF">Spiroc Guardian -- Slowable</C>
+<br><c "#0069FF">Thunder Princess -- Slowable</C>
+<br>
+<br>Plane of Fear
+<br>----------------------------
+<br><c "#FF0000">Cazic Thule -- Unslowable</C>
+<br><c "#0069FF">Dracoliche -- Slowable</C>
+<br><c "#0069FF">Dread -- Slowable</C>
+<br><c "#FF0000">Enraged Golem -- Unslowable</C>
+<br><c "#0069FF">Fright -- Slowable</C>
+<br><c "#00FF00">Terror -- Disease</C>
+<br><c "#FF0000">A Tempest Reaver -- Unslowable</C>
+<br>
+<br>Plane of Growth
+<br>----------------------------
+<br><c "#0069FF">Ali the Elder -- Slowable</C>
+<br><c "#0069FF">Fayl Everstrong -- Slowable</C>
+<br><c "#0069FF">Keeper of the Glades -- Slowable</C>
+<br><c "#0069FF">Treah Greenroot -- Slowable</C>
+<br><c "#0069FF">Tunare -- Slowable but high MR</C>
+<br>
+<br>Plane of Hate
+<br>----------------------------
+<br><c "#0069FF">Ashenbone Broodmaster -- Slowable</C>
+<br><c "#0069FF">Ashenbone Drakes -- Slowable</C>
+<br><c "#0069FF">Avatar of Abohorrence -- Slowable</C>
+<br><c "#00FF00">Coercer T'Vala -- Disease</C>
+<br><c "#0069FF">Grandmaster R'tal -- Slowable</C>
+<br><c "#0069FF">High Priest of M'Kari -- Slowable</C>
+<br><c "#0069FF">Innoruuk -- Slowable</C>
+<br><c "#0069FF">Lord of Ire -- Slowable</C>
+<br><c "#00FF00">Lord of Loathing -- Disease</C>
+<br><c "#0069FF">Maestro of Rancor -- Slowable (not confirmed)</C>
+<br><c "#0069FF">Magi P'tasa -- Slowable</C>
+<br><c "#0069FF">Mistress of Scorn -- Slowable</C>
+<br><c "#00FF00">Spite Golem -- Disease</C>
+<br>
+<br>Plane of Mischief
+<br>----------------------------
+<br><c "#0069FF">Bristlebane -- Slowable</C>
+<br><c "#0069FF">Ferjeneror -- Slowable</C>
+<br><c "#FF0000">Lithiniath -- Unslowable</C>
+<br><c "#0069FF">My Right Hand -- Slowable</C>
+<br><c "#0069FF">Stomples -- Slowable</C>
+<br><c "#00FF00">White Stallion -- Disease  Magic is possible</C>
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

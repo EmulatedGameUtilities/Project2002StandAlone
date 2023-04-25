@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Scorpico Venom</c><br>
+Vendor: NPC Drop<br>
+Location: Scorpikis in Overthere<br>
+Poison: Soul Burn<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

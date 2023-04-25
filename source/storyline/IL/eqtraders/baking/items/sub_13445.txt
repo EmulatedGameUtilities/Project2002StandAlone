@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/382.txt">Mammoth Steaks</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)&nbsp;&nbsp;&nbsp;(Jug of Sauces, Mammoth Meat, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/471.txt">Mammoth Steaks</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)&nbsp;&nbsp;&nbsp;(Algae Spices, Jug of Oyster Sauces, Mammoth Meat) <br>

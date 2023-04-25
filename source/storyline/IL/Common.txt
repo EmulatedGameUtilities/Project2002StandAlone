@@ -1,0 +1,108 @@
+<c "#FFff00">from allakhazam.com </c><c "#FF8000">Common Chat Terms</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+Common Chat Terms<BR>
+<BR>
+The following terms are commonly used in EQ chat.  Some you may be familiar with because they are general internet chat or are general RPG game terms.  Some are specific to Everquest.<BR>
+<BR>
+10 - 20 - 30 - etc.:  When stated by a caster in the group, tells the group what percentage of mana that caster has left.<BR>
+afk:  Away from Keyboard.  The person is going to be away from his keyboard for a while.  If you are in a group be ready to protect the afk person and don't go attack something you can't kill without his help.<BR>
+bait:  person who lures a monster in to a group and gets attacked first (see fetch)<BR>
+bind:  Bind is a spell that changes where you will appear when you die or gate.  A magic user with the spell can bind himself anywhere or bind a group member within a town zone.<BR>
+Blue:  A term for a monster that looks risky when you consider it, but is usually killable.  The message text comes in blue lettering.  So a player might say that its "blue to me"<BR>
+brb:  Be right back.  Usually typed by a person who needs to run away from the keyboard for a quick soda, beer, relief, etc.<BR>
+brt:  Be right there.<BR>
+BSM:  Blood Stained Mantle.<BR>
+BST:  Blood Stained Tunic.<BR>
+BTM:  Blue to me.  Describes a consider of a monster.  See blue above.<BR>
+BTW:  By the way.<BR>
+Bubble:  Refers to the 5 sections on the colored bars for Experience, Stamina, Health and Mana.  When someone says that they only have one bubble to go to 11th level, or that are only at 2 bubbles of mana that is what they are referring to.<BR>
+Buff or Buffing: Refers to casting skill or ability enhancing spells onto someone.<BR>
+Camp:  Refers to the practice of sitting at a spawn point and waiting for monsters to regenerate and then picking them off as they appear.  Also, you exit the game by camping, so if a person says they are going to camp, they are leaving.<BR>
+Con:  Typing /con or right clicking on a creature, NPC or player lets you consider it and tells you how they compare to you in level and how they feel about you.  You will often hear players talking about how a monster cons.<BR>
+Corpse:  Seems obvious, but when a person dies he leaves behind a corpse which he need to find to get his stuff back.  People often shout to see if anyone has seen their corpse.  A good deed is to /tell someone if you have stumbled upon his corpse since it is highly possible he doesn't know exactly where it is.<BR>
+CU or Cya:  See you.  Good Bye.<BR>
+DD: Direct Damage spell.<BR>
+DoT:  Damage over Time spell<BR>
+EBW:  Electrum Bladed Wakazashi<BR>
+EP:  Experience Points  (also XP)<BR>
+EVAC: when a Wizard casts a group evacuation spell to get the party out of a sticky situation..if someone yells this chances are either they are about to die (along with everybody else) or they have just seen something big and scary enough to make them wet themselves..(like Lord Nagafen..)<BR>
+FBR:  Flowing Black Robe<BR>
+Fetch or Fetcher: Refers to a member of a group that 'fetches' or gets a monster to chase them to an ambush spot where the other members of the party are ready to attack it. Used to avoid being surrounded deep in hostile territory.<BR>
+FM:  Full Mana.<BR>
+FYI:  For Your Information.<BR>
+Green:  A term for a monster that looks easy when you consider it.  The message comes in green text.<BR>
+Grif:  Short for Griffin, one of the nastier monsters which roam through lower level areas killing people.<BR>
+GTG:  Good To Go.  Normally used to signal when you are ready to fight or move.<BR>
+GTM:  Green to me.  Describes a consider of a monster (see green above).<BR>
+HG:  Hill Giant. Big bad NPC's fond of killing people, particularly in Commons and Karanas zones.  If someone shouts that a HG is coming toward a landmark near you, locate the HG and stay away.<BR>
+IMHO:  In My Humble Opinion.<BR>
+Inc:  Incoming.  Shouted when a member of your group has lured a monster and is bringing it back to be killed.<BR>
+J/K:  Just Kidding.<BR>
+K:  OK.  Yeah it is pretty lazy to skip the O, but many peoople do it.<BR>
+Kill stealing:  The act of taking a kill from another player by attacking a creature they have already engaged and doing  enough damage to get the experience and treasure.  One of the most hated acts in the game.  Kill stealing is a good way to make sure your name gets trashed by everyone on your server.<BR>
+Kite:  The use of a combination of spells which allow the caster to immobilize target, DoT, then meditate or run while the target attempts to reach the caster.<BR>
+KOS:  Killed on Site.  Referrs to the welcome, or rather lack of welcome, some players get from NPC's of opposite factions.<BR>
+LD:  Linkdead.  If a person is linkdead, they are still in the game, but cannot defend themselves do to lag or another computer error.<BR>
+loc:  referrs to the /loc command coordinates which give you an X-Y location within the zone.<BR>
+LOL:  Laughing out Loud  (That was funny)<BR>
+LOM:  Low on Mana.<BR>
+loot:  The process of stripping a kill of all it's useful possessions.  Most groups start out by determining a loot order.<BR>
+Lowlies:  What some two name characters call people under 20th level<BR>
+Med:  Meditate.  If a magic user says he has to Med it means he is low on mana and has to regenerate it.  Remember that magic users cannot see anything but their spellbook when they are medding.<BR>
+MOB:  Short for Mobile Object.  Basically, any computer controlled creature which moves, which describes most EQ monsters.<BR>
+Newbie:  Anyone new to the game, and thus unfamiliar with the rules.  Also refers to low level characters.<BR>
+NP:  Short for "No Problem" usually used after someone gets thanked.<BR>
+NPC:  Non Player Character.  Any character that can be interacted with that is handled by the computer or even a GM rather than another player.<BR>
+Nuke:  The process of unleashing the most powerful spells someone has.  A group in trouble will often yell for its wizard to nuke the monster for all he's worth in hopes of avoiding a complete wipeout.<BR>
+OMW:  Short for "On My Way" to let someone know you are coming to meet them.<BR>
+OOM:  Out of Mana.  If your spell caster syas this in battle, get ready to run.<BR>
+OOS:  Out of Stamina.  Your tank needs to rest and recover some stamina.<BR>
+Pet:  A creature summoned by one of the summoning magic classes such as magician or necromancer who will obey and fight for him.<BR>
+PGT:  Polished Granite Tomahawk<BR>
+PH:  Placeholder.  The creature that spawns in place of the creature you really want to kill.<BR>
+PK:  Player Kill.  Done by those who have chosen to be plus PVP.<BR>
+Port: instantanious transportation of people around the world using Wizard or Druid teleport spells.  You will here people shouting stuff like "Need port to Greater Faydark" and such.<BR>
+Powerleveling:  Tanking or healing a lower level friend while he gets the experience.  Not particularly kosher play.<BR>
+Pull:  Same thing as baiting:  bringing a MOB to a more defensible position so your party can beat the snot out of it in relative safety. People that do this are called "Pullers", or "MOB Meat" (depending on which dungeon yer in).<BR>
+PVP:  Player versus Player.  Those who choose to be plus PVP can attack and be attacked by other players.  A plus PVP player can's be healed or aided by non PVP players.<BR>
+R:  Ready.  Signals readiness to attack or move on.<BR>
+Red:  Term for a monster that looks deadly when considered.  Also called a tombstone.  The message comes in red text.<BR>
+ROFL:  Rolling on the floor laughing  (That was really funny)<BR>
+ROFLMAO:  Rolling on the Floor Laughing My Ass Off  (That was simply hilarious)<BR>
+Root:  Root is a spell which keeps a person or monster from moving.  If someone is Rooted, he can't move, and if that's your group member you had better go help him or watch him die.<BR>
+RTM:  Red to me.  Describes a consider of a monster.  See red description above.<BR>
+RTS:  Runed Totem Staff.<BR>
+SBH:  Shiny Brass Halberd.<BR>
+SG:   Sand Giant.  Big bad NPC's fond of killing people, particularly in Ro Deserts and Oasis zones. If someone shouts that a SG is coming toward a landmark near you, locate the SG and stay away.<BR>
+SOW:  Spirit of Wolf.  A spell much in demand since it makes you run very fast and thus travel relatively safely.  People often shout for someone to SOW them.  SOW is castable by 14 druids, 9 shamen or 39 rangers.<BR>
+Spamming: sending the same message over and over again rapidly much to the displeasure of everyone else..particularly irritating if done in<BR>
+/shout, /ooc, or /auction (where everyone can hear it)  Don't expecet to make any friends doing this one.<BR>
+Stun:  If a person is stunned, he can't move or attack.  Also, this disrupts the spells of spell casters.  Alas, monsters stun far too often in EQ.<BR>
+Tank or Tanking: Refers to one person in a group that usually takes the brunt of an attack from a MOB while the others in the group attack with spells or from different angles.  Usually the group member with the highest AC and melee skills such as a Warrior, Paladin or Monk.<BR>
+Tombstone:  Term for a monster that looks deadly when considered.  The message comes in red text.<BR>
+TPW:  Total party Wipeout.  Nuff said.<BR>
+Train:    Anyone running and followed by one or more bad guys has created a train.  If you find yourself in the way, you will most likely be attacked and die.  Some perverted people deliberately try to start a train of high level creatures and lead them to low level areas.  May they rot for their efforts!<BR>
+Twinking:  The process of giving decent items from your high level character to your new character, thus puffing him up far beyond the abilities he should have.  Not illegal, but many people frown on this practice.<BR>
+twist:  This is done by singing two bard songs back and forth in succession, thus getting the effects of both during the brief overlap period.<BR>
+WB:  Welcome Back<BR>
+WT:  Wrong Tell.  Used when you accidentally send a tell to the wrong person to let him know it was not meant for him.  (not ususual with the reply button).<BR>
+WTB: Want To Buy.<BR>
+WTF:  What the fu**.  No more need be said about this.<BR>
+WTT:  Want To Trade.<BR>
+WTS:  Want To Sell<BR>
+Yellow:  Term for a monster that looks very risky when you consider it, and is a higher level to you but not a tombstone.  The message comes in yellow text.<BR>
+YTM:  Yellow to me.  Describes a consider of a monster.  See yellow above.<BR>
+XP:  Experience Points (Also EP)<BR>
+White:  A creature that is the same level as you.<BR>
+Zone:  If someone yells this in the middle of battle, they want everyone in the party to hightail it to the nearest zone border.  Better listen since it's a cinch that whoever yelled this is already on his way.  Also, if this is shouted (i.e. "Dorn to zone"), you can be sure that someone is running <BR>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

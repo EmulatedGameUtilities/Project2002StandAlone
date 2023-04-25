@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Celestial Essence</c><br>
+Skill: Poison Making<br>
+Combine: 1x Celestial Solvent & 1x Scent of Marr<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: <br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

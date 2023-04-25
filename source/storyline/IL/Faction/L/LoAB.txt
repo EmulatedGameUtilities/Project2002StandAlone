@@ -1,0 +1,96 @@
+
+<a href="file:///storyline/il/Faction/L.txt">Faction Lists >> L</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <c "#FFFF00">L</c> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">League Of Antonican Bards</c>
+<br>Description: Bard faction for all of Norrath.
+<br>
+<br><c "#F17C0D">Monsters That Raise This Faction</c>
+<br>Avenging Caitiff, An
+<br>Butler Syncall
+<br>Cloaked Dhampyre
+<br>Dark Elf Noble
+<br>Dark Offerer
+<br>Dark Ritualist
+<br>Dark Sacrificer
+<br>Deathly Harbinger
+<br>Deathly Herald
+<br>Deathly Usher
+<br>Enynti
+<br>Flouting Gargoyle
+<br>Ghastish Ancille
+<br>ghostly ancille
+<br>Ghoulish Ancille
+<br>Glyphed Aegis
+<br>Glyphed Custodian
+<br>Glyphed Familiar
+<br>Glyphed Forbidder
+<br>Glyphed Guard
+<br>Glyphed Sentry
+<br>Gypsy Ambassador
+<br>Gypsy Dancer
+<br>Gypsy Musician
+<br>Initiate Familiar
+<br>Jeering Gargoyle
+<br>Lasna Cheroon
+<br>Leering Gargoyle
+<br>Maid Issis
+<br>Mistmoore Guard
+<br>Negotiator
+<br>pledge familiar
+<br>Severilous
+<br>Shadowy Sage
+<br>Shadowy Scribe
+<br>shadowy scrivener
+<br>Sneering Gargoyle
+<br>Spectral Ancille
+<br>Thought Spoiler
+<br>Vampiric Ancille
+<br>Werewolf (SK)
+<br>Will Pillager
+<br>
+<br>
+<br><c "#F17C0D">Monsters That Lower This Faction</c>
+<br>Cordelia Minster
+<br>Dark Deathsinger
+<br>Drizda Tunesinger
+<br>Vhalen Nostrolo
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>Emerald Jungle
+<br>Mistmoore
+<br>South Karana
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>Feerrott
+<br>Innothule
+<br>South Karana

@@ -1,0 +1,60 @@
+<c "#66CCFF">Item:       </c>&nbsp;&nbsp;Planar Pearl Encrusted Stein<br>
+<c "#66CCFF">Lore:       </c>&nbsp;&nbsp;MAGIC ITEM<br>
+<c "#66CCFF">Trivial:    </c>&nbsp;&nbsp;>250<br>
+<c "#66CCFF">Ingredients:</c>&nbsp;&nbsp;<a HREF="file:///storyline/il/eqtraders/Pottery/items/919.txt">Crystalline Valor Glaze</a>, High Quality Firing Sheet, Lacquered Pearl, <a HREF="file:///storyline/il/eqtraders/Pottery/items/963.txt">Unfired Planar Stein</a><br>
+<c "#66CCFF">Implement:  </c>&nbsp;&nbsp;Kiln<br>
+<c "#66CCFF">Yield:      </c>&nbsp;&nbsp;1<br>
+<c "#66CCFF">Stats:      </c>&nbsp;&nbsp;AC: 2CHA: 3 PR: 15 MANA: 10<br>
+<c "#66CCFF">Slot:       </c>&nbsp;&nbsp;PRIMARY SECONDARY<br>
+<c "#66CCFF">Weight:     </c>&nbsp;&nbsp;0.6<br>
+<c "#66CCFF">Size:       </c>&nbsp;&nbsp;Small<br>
+<c "#66CCFF">Race:       </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Class:      </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Required Level: </c>&nbsp;&nbsp;10<br>
+<c "#66CCFF">Quest:      </c>&nbsp;&nbsp;<br>
+<c "#66CCFF">Era:        </c>&nbsp;&nbsp;Planes of Power<br>
+<c "#66CCFF">MageloID:   </c>&nbsp;&nbsp;29167<br>
+<c "#66CCFF">Note:       </c><br><br>
+<br><br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Recipe</c>]=========== </c> <br>
+<c "#66FFFF"> <a href="file:///storyline/il/eqtraders/pottery/orderbyitem.txt"> Alphabetical </a> </c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Trivial</c>]============ </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbytrivialasc.txt">Ascending</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbytrivialdes.txt">Descending</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> ===============[<c "#FFFFFF">List Stats</c>]============= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAC.txt">AC</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyHP.txt">HP</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMana.txt">Mana</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTA.txt">STA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTR.txt">STR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAGI.txt">AGI</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDEX.txt">DEX</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyWIS.txt">WIS</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyINT.txt">INT</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCHA.txt">CHA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCR.txt">CR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyFR.txt">FR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMR.txt">MR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyPR.txt">PR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDR.txt">DR</a>&nbsp;
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By State</c>]============= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyunfin.txt">Unfinished/Unfired</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyfinal.txt">Fired/Finished</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> ==========[<c "#FFFFFF">List Special Recipes</c>]========= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyglaze.txt">Glaze</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+

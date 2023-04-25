@@ -1,0 +1,14 @@
+nt
+<br>
+Poison Making Tables (10-22-03)
+<br><br>
+<a HREF="file:///storyline/il/storyIL.txt">Table of Contents</a><br><br>
+Quikfingers of Zebuxoruk v1.1<br>
+<br><br>
+<a href="file:///storyline/il/quiks/beginner.txt">Beginner Skill Poisons</a><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=<br>
+<a href="file:///storyline/il/quiks/intermediate.txt">Intermediate Skill Poisons</a><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=<br>
+<a href="file:///storyline/il/quiks/advanced.txt">Advanced Skill Poisons</a><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=<br>
+<a href="file:///storyline/il/quiks/pop.txt">Planes of Power Skill Poisons</a><br>

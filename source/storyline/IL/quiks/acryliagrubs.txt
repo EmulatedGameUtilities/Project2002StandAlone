@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Acrylia Grubs</c><br>
+Vendor: NPC Drop<br>
+Location: Mutant Dregs in Fungus Grove<br>
+Poison: Mayong's Bane<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

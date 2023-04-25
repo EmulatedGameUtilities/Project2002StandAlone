@@ -1,0 +1,39 @@
+Surefall Glade Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* spit - Frannie (just inside entrance) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Grathin Nilm (inside ranger guild) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* groove nocks (3), bow staff (6), whittling blade, planing tools, standard bow cam, hemp twine, linen string, silk string, fletching kit, Bowyers Guide - Tonsia (inside Ranger guild) <br>
+* arrowheads (3), arrow shafts (4), fletches (3), arrow vanes (3), "Fletching" book, fletching kit - Jarse Kedison (Archery Range), Livam T'Lant (inside Druid guild) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* cooking molds (cookie, muffin tin, cake round, skewer, pot, bread tin, smoker support, standing legs, smoker base, hinge, scaler, pie tin), lantern casing mold, Basic Blacksmithing - Frannie (inside glade on right) <br>
+* arrow shaft mold - Livam T'Lant (inside Druid guild), Jarse Kedison (archery range)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* "Tailoring Quivers" - Jarse Kedison (Archery Range), Livam T'Lant (inside Druid guild)<br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

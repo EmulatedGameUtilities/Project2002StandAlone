@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Kings Thorn</c><br>
+Vendor: Ennixy Frennor (+1380, -830)<br>
+Location: Steamfont Mountains<br>
+Poison: Calcium Rot / Temporal Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

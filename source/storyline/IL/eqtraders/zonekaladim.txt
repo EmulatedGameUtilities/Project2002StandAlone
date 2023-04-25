@@ -1,0 +1,96 @@
+Kaladim Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Baldoleky Rockfinder (252, -191, S. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* oven - outside Gurtha's Ware (S. Kaladim, loc 239, -234), outside Greybloom Farm (N. Kaladim, loc 660, -202) <br>
+* mixing bowl - Tissin Greybloom & Serenk Greybloom (Greybloom Farm, N. Kaladim, loc 693, -164) <br>
+* short beer - Dura Darkfoam (Pub Kal, S. Kaladim, loc 98, 235), Hanamaf Darkfoam (Pub Kal, S. Kaladim, loc 88, 228) <br>
+* bread - Greta Mottle (Irontoe's Eats, S. Kaladim, 195, 296) <br>
+* water flask, milk - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim, 710, 87) <br>
+(other supplies in Butcherblock)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* Brewers Limericks (book), cask, shot glass, short beer, gnomish spirits, brandy - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim) <br>
+* bottle, cask, grapes, kiola sap, shot glass, brandy, mead, red wine, white wine - Tumpy Irontoe (Irontoe's Eats, S. Kaladim) <br>
+* bottle, cask - Aarina Ratsbone (unmarked bldg., S. Kaladim at 181, -146)) <br>
+* brew barrel (Pub Kal, S. Kaladim), inside Greybloom Farm (N. Kaladim) <br>
+* grapes - Tisin Greybloom, Serenk Greybloom (Greybloom Farm, N. Kaladim) <br>
+* dwarven ale (for earth temper) - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim) <br>
+* water flask, mead, bottle - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) <br>
+* underfoot mushroom (blue mushroom ground spawn icon), a strange dark fungus (red mushroom ground spawn icon) - ground spawn next to Greybloom Farm (N. Kaladim) <br>
+* mistletoe - Baldoleky Rockfinder (252, -191, S. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Alanury Stormhammer (Staff & Spear, S. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Aanina Rockfinder (Everhot Forge, N. Kaladim) <br>
+* malachite, lapis lazuli, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jeweler's kit, Legacy of Jewelcraft - Bonaf Norkhitter (inside mine, N. Kaladim) <br>
+* Imbue Ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* Miner's Guide to Toxicology, limestone, lead sulphide, cinnabar - Myre (near bank, North Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Dooni (Gurtha's Ware, S. Kaladim) <br>
+* pottery wheel, kiln - beside bridge, east section of S. Kaladim; near mine entrance, N. Kaladim <br>
+* kiln - near bank, N. Kaladim <br>
+* Imbue Ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild) <br>
+* water flask - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - outside Redfists Metal (S. Kaladim), outside Everhot Forge (N. Kaladim) <br>
+* Dwarven forge - outside Redfists Metal <br>
+* small plate armor molds, small shield molds, Ikthar's Fine Steel Skin, Firepride's Guide to Shield Craft, "Rings, Chains & Arrowheads" (book) - Tortuk Everhot (Everhot Forge, N. Kaladim) <br>
+* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, oak shaft) - Bndainy Everhot (second floor, Everhot Forge, N. Kaladim) <br>
+* Imbue Ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild) <br>
+* bricks, blocks, and sheets of Brellium, Dwarven Smithy Hammer, small piece of ore, small/large bricks of ore, sharpening stone - Bloarn Norkhitter (inside mine, N. Kaladim) <br>
+* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), water flask, smithy hammer - Harnoff Splitrock (inside mine, N. Kaladim) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest <br>
+* water flask - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) <br>
+* sandalwood - Baldoleky Rockfinder (252, -191, S. Kaladim) <br>
+(other molds found out in nearby Butcherblock, ore in Steamfont Mountains)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns (cap, tunic, gorget, sleeve, glove, pant, boot), small sewing kit, How To Sew (small) - Kalameky Darkfoam (Tanned Assets, S. Kaladim) <br>
+* small sewing kit, How To Sew (small) - Gurtha Yaptongue (Gurtha's Ware, S. Kaladim) <br>
+* 10 slot loom at loc 33, 187 (S. Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* gnomish spirits - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

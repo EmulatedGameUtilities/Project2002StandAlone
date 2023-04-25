@@ -1,0 +1,2 @@
+Summon Horse
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Horse: SumHorseWhFast<br><br><c "#66CCFF">Casting Time:</c> 0.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Location:</c> Outdoors<br><c "#66CCFF">Recast Time:</c> 0.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Innate<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> 6 hours<br><br><br>♥<br>

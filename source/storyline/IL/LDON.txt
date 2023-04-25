@@ -1,0 +1,801 @@
+<c "#FF2400">Ldon Merchants</c><c "#FFFF00">(From safehouse)</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Deepest Guk</c><br><br>
+<br><c "#FF0000">-1492-</c>
+<br><c "#B94343">Ring of Mold:</c> 8 dex, sta, wis, int, 85 hp/mana, type1, type2, type3
+<br><c "#B94343">Muscus-Drenched Gloves:</c> AC: 17 Str: +8 Sta: +6 Agi: +5 HP: +75 Mana: +75 Sv Disease: +7 Sv Cold: +7 Sv Poison +7 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Mucus-Drenched Leggings:</c> AC: 23 Str: +10 Wis: +6 Agi +10 HP: +85 Mana: +80 Sv Cold: +13 Sv Magic: +13 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Muscus-Drenched Manacle:</c> AC: 15 Str: +5 Sta: +4 Agi: +5 HP: +70 Mana: +70 Sv Fire: +3 Sv Disease: +3 Sv Cold: +3 Sv Poison: +5 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Muscus-Drenched Sandals:</c> AC: 17 Sta: +5 Cha: +4 Wis: +4 Agi: +6 HP: +70 Mana: +80 Sv Fire: +7 Sv Cold: +7 Sv Magic: +7 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Muscus-Drenched Tunic:</c> AC:30 Sta: +13 Cha: +11 Wis: +10 HP: +100 Mana: +100 Sv Fire: +12 Sv Disease: +12 Sv Poison: +12 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Muscus-Drenched Headband:</c> AC: 17 Str: +6 Sta: +6 Agi: +6 HP: +75 Mana: +75 Sv fire: +7 Sv disease: +7 Sv Magic: +7 type2, type2, type3 DRU/MNK/BST
+<br><c "#B94343">Muscus-Drenched Sleeves:</c> AC: 17 Sta: +6 Cha: +6 Wis: +6 HP: +80 Mana: +70 Sv Magic: +4 Sv Fire: +4 Sv Cold: +4 Sv Disease: +4 Sv Poison: +4 type2, type2, type3 DRU/MNK/BST
+<br><br>
+<br><c "#FF0000">-1150-</c>
+<br><c "#B94343">Reinforced Thick-Banded Belt:</c> WAIST, AC10 Dex15 Sta15 Hp55 Mana45 SvAll4, WT1.0, type1, type2, type3
+<br><c "#B94343">Chipped Froglok Mask:</c> FACE, AC8 Sta12 Cha12 Wis8 Int8 Hp65 Mana65, WT0.9, type1, type2, type3
+<br><c "#B94343">Curse-Smelted Long Blade:</c> PRIMARY/SECONDARY, 1H Slash, 14/19, AC8 Dex7 Agi7 Hp75 Mana50 SvCold7 SvMagic7 SvPoison7, WT2.0, WAR/RNG/BRD/ROG, type1, type4, type6
+<br><c "#B94343">Type All:</c> Ooze-Covered Pebble of Perfection, Hp20 Mana20, EAR/FACE/NECK/SHOULDERS/BACK/RANGE/PRIMARY/SECONDARY/FINGERS/WAIST
+<br><c "#B94343">Type 6:</c> Mangled Slimestone, Dam 4, Weapons only, Min Delay 40, RANGE/PRIMARY/SECONDARY
+<br><c "#B94343">Type 3:</c> Pristine Limestone of Hatred, Vengeance III (Worn), WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST
+<br><c "#B94343">Type 2:</c> Smokey Quartz of Peculiarity, Str10, Agi10.
+<br><c "#B94343">Type 2:</c> Glowing Prism of Brawling, Dex5 Sta5 Hp20, HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET
+<br><c "#B94343">Type 2:</c> Magnetite Prism of Stoutness, Str7 Cha7 Wis7 Int7.
+<br><br>
+<br><c "#FF0000">-994-</c>
+<br><c "#B94343">Spirit Imbued Whetstone:</c> RANGE, AC10 Sta10 Agi8 Hp65 Mana50 SvMagic15, Wt0.6, WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST, type1, type1, type3
+<br><c "#B94343">Mud-Soaked Earring:</c> EAR, AC6 Dex5 Agi7 Hp70 Mana35 SvPoison7, Wt0.3, WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST, type1, type1, type1
+<br><br>
+<br><c "#FF0000">-760-</c>
+<br><c "#B94343">Necklace of Hardened Mud:</c> NECK, AC11 Str7 Dex7 Sta7 Cha7 Hp60 Mana35, Wt0.8, WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST, type2, type2
+<br><c "#B94343">Ancient Cursed Summoner's Crook:</c> PRIMARY/SECONDARY, 1H Blunt, 13/19, Hp45 Mana45 SvAll5, Wt1.0, WAR/RNG/MNK/BRD/ROG/BST, type1, type2, type6
+<br><c "#B94343">Belt of Mottled Troll Hide:</c> WAIST, AC8 Sta12 Wis10 Int10 Agi10 Hp55 Mana45, Wt0.1, CLR/DRU/SHM/NEC/WIZ/MAG/ENC, type2, type2
+<br><c "#B94343">Rotting Helm of Black Mire:</c> HEAD, AC26 Str5 Sta5 Agi5 Hp60 Mana60 SvFire5 SvDisease5 SvCold5, Wt2.0, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Vambraces of Black Mire:</c> ARMS, AC26 Sta5 Cha5 Wis5 Hp65 Mana55 SvDisease5 SvMagic5 SvPoison5, WT2.5, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Bracer of Black Mire:</c> WRIST, AC21 Str4 Sta3 Agi4 Hp55 Mana55 SvDisease2 SvCold2 SvMagic4 SvPoison2, Wt6.0, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Gloves of Black Mire:</c> HANDS, AC22 Str6 Sta5 Agi4 Hp60 Mana60 SvAll3, Wt2.0, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Boots of Black Mire:</c> FEET, AC22 Sta4 Cha3 Wis3 Agi5 Hp55 Mana65 SvFire5 SvCold5 SvPoison5, WT2.0, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Chainmail of Black Mire:</c> CHEST, AC55 Sta10 Cha9 Wis8 Hp75 Mana75 SvCold9 SvMagic9 SvPoison9, WT2.5, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Greaves of Black Mire:</c> LEGS, AC34 Str8 Wis5 Agi8 Hp70 Mana65 SvFire10 SvDisease 10, WT4.5, RNG/ROG/SHM, type1, type2, type3
+<br><c "#B94343">Type 4:</c> Slimestone Fragment of Dread, Proc: Force of Ykesha
+<br><c "#B94343">Type 3:</c> Limestone Shard of Battle Cries, Effect: Brass Instruments
+<br><c "#B94343">Type 2:</c> Magnetite Shard of Stalwartness, Dex6 Agi12.
+<br><c "#B94343">Type 2:</c> Greenish Magnetite of Immunity, SvAll 4, FACE/NECK/SHOULDERS/BACK/RANGE/WAIST,
+<br><c "#B94343">Type 2:</c> Yellowish Magnetite of Vitality, Hp30, HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET.
+<br><br>
+<br><c "#FF0000">-660-</c>
+<br><c "#B94343">Spore Cloud Shield:</c> SECONDARY, AC25 Sta10 Int10 Hp55 Mana55, Wt0.1, ALL/ALL, type1, type1, type2
+<br><c "#B94343">Troll Skin Cape:</c> BACK, AC11 Cha10 Wis6 Int6 Hp50 Mana50, SvFire5, Wt0.1, ALL/ALL, type1, type1, type3
+<br><br>
+<br><c "#FF0000">-650-</c>
+<br><c "#B94343">Spell:</c> Protection of Calliav(NEC)
+<br><c "#B94343">Spell:</c> Feral Form(RNG)
+<br><c "#B94343">Spell:</c> Bullwark of Vie(CLR)
+<br><br>
+<br><c "#FF0000">-510-</c>
+<br><c "#B94343">Type 4:</c> Slimestone Fragment of Shock, Proc: Strike of Ykesha
+<br><br>
+<br><c "#FF0000">-450-</c>
+<br><c "#B94343">Spell:</c> Blessing of Austrity(PAL)
+<br><br>
+<br><c "#FF0000">-442-</c>
+<br><c "#B94343">Chestplate of Viscous Ooze:</c> AC: 54, STA 7, CHA 6, WIS 8, INT 8, HP 55, Mana 55, FR/DR/CR/MR 4, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Greaves of Viscous Ooze:</c> AC: 38, STR 6, DEX 6, WIS 5, INT 5, HP 50, Mana 45, DR 5, CR 5, MR 5, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Helm of Viscous Ooze:</c> AC: 30 STA 6, CHA 6, HP 40, mana 40, CR/PR 5, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Vambraces of Viscous Ooze:</c> AC 27, DEX 7, WIS 6, INT 6, HP 45, Mana 35, FR 5, CR 5, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Boots of Viscous Ooze:</c> AC: 27, DEX 6, STA 6, HP 35, mana 45, DR/CR 5, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Gauntlets of Viscous Ooze:</c> AC: 27, CHA 4, WIS 4, INT 4, AGI 4, HP 40, Mana 40, FR/PR 5, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Wrist Plate of Viscous Ooze:</c> AC: 22, STR 4, AGI 6, HP 35, Mana 35, DR/CR/MR 3, type2, type3 WAR CLR PAL SHD BRD
+<br><br>
+<br><c "#FF0000">-410-</c>
+<br><c "#B94343">Spell:</c> Protection of Alendar(ENC)
+<br><c "#B94343">Spell:</c> Reflect(MAG, NEC)
+<br><br>
+<br><c "#FF0000">-340-</c>
+<br><c "#B94343">Type 3:</c> Limestone of Suffocation, Worn Effect: Enduring Breath
+<br><br>
+<br><c "#FF0000">-200-</c>
+<br><c "#B94343">Spell:</c> Rizlona's Embers(BRD)
+<br><c "#B94343">Spell:</c> Scythe of Darkness(SHD)
+<br><br>
+<br><c "#FF0000">-180-</c>
+<br><c "#B94343">Spell:</c> Magi Ward(WIZ)
+<br><br>
+<br><c "#FF0000">-150-</c>
+<br><c "#B94343">Type 4:</c> Cracked Slimestone of Guarding, Proc: Guard I
+<br><c "#B94343">Type 1:</c> Spore-Covered Pebble of Warding, 4AC Face/Neck/Shoulder/Back/Waist RNG/ROG/SHM
+<br><br>
+<br><c "#FF0000">-72-</c>
+<br><c "#B94343">Spell:</c> Odium(SHM)
+<br><br>
+<br><c "#FF0000">-60-</c>
+<br><c "#B94343">Decayed Adventurer's Ring:</c> AC:6, Str:4, Dex:4, Sta:4, Wis:4, Int:4, Agi:4, HP:25, type1, type1 WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST
+<br><c "#B94343">Ooze-Smeared Shoulder Pads:</c> AC:5, Wis:3, Int:3, HP:20, FR:6, MR:6, type1, type1 WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST
+<br><c "#B94343">Spore-Covered Great Staff:</c> 2hb, 24/39, Dex:7, Agi:7, type1,type1,type1 WAR, PAL, RNG, SHD, MNK, BST
+<br><c "#B94343">Type 3:</c> Broken Limestone of Focus, Worn Effect: SpellHasteII, HEAD, ARM, WRIST, HAND, CHEST, LEG, FEET
+<br><br>
+<br><c "#FF0000">-52-</c>
+<br><c "#B94343">Lost Explorer's Lute:</c> PRIMARY, Stringed Instruments, HP:20, Mana:20, FR:7, MR:7, type1, type3 BRD
+<br><c "#B94343">Spore Covered Face Mask:</c> AC:4, Str:6, Cha:6, HP:20, Mana:20, CR:7, type1, type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-48-</c>
+<br><c "#B94343">Spore-Covered Leggings:</c> AC:8, Mana:10, FR:5, CR:5, MR:5, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Bracelet:</c> AC:5, FR:4, DR:4, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Hat:</c> AC:6, Int:3, MR:3, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Robe:</c> AC:9, Sta:5, Int:5, HP:10, Mana:10, type2, type3 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Gloves:</c> AC:6, Str:4, PR:4, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Slippers:</c> AC:6, Cha:4, Agi:4, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Spore-Covered Sleeves:</c> AC:6, Agi:4, CR:4, type1, type2 NEC, WIZ, MAG, ENC
+<br><c "#B94343">Type 2:</c> Microcline Shard of Quickness, Dex:4, CR:2
+<br><c "#B94343">Spell:</c> Spirit of the Shrew(BST)
+<br><br>
+<br><c "#FF0000">-36-</c>
+<br><c "#B94343">Slimy Threads:</c> AC:3, Sta:2, Agi:2, type1, type2 CLR, DRU, SHM, NEC, WIZ, MAG, ENC
+<br><c "#B94343">Mildewed Necklace:</c> AC:6, Str:6, Dex:4, HP:10, CR:3, MR:3, type1, type3 WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST 
+<br><br>
+<br><c "#FF0000">-30-</c>
+<br><c "#B94343">Mossy Shield:</c> AC:15, HP:20, Mana:20, FR:10, type1, type1 all/all
+<br><c "#B94343">Grimy Blade:</c> 1hs, 12/29, AC:5, Agi:5, DR:5, type2, type4 WAR, RNG, BRD, ROG 
+<br><br>
+<br><c "#FF0000">-26-</c>
+<br><c "#B94343">Green Slime Shawl:</c> AC:11, Agi:6, type2 CLR, DRU, SHM, NEC, WIZ, MAG, ENC
+<br><c "#B94343">Marshland Ring:</c> Sta:3, Mana:30, type2 CLR, DRU, SHM, NEC, WIZ, MAG, ENC 
+<br><br>
+<br><c "#FF0000">-24-</c>
+<br><c "#B94343">Spell:</c> Spirit of the Shrew(SHM)
+<br><c "#B94343">Spell:</c> Remove Lesser Curse(DRU)
+<br><br>
+<br><c "#FF0000">-20-</c>
+<br><c "#B94343">Undead Froglok's Bone Wand:</c> PRIMARY, Cha:5, Wis:5, HP:10, MR:5, PR:15, type1, type1 CLR, DRU, SHM, NEC, WIZ, MAG, ENC 
+<br><c "#B94343">Dripping Ooze Veil:</c> AC:6, Str:5, Mana:15, type1, type1 CLR, DRU, SHM, NEC, WIZ, MAG, ENC
+<br><c "#B94343">Sludge-Covered Dagger:</c> 1hp, 9/27, Str:4, Wis:2, type1, type4 WAR, RNG, BRD, ROG, BST 
+<br><c "#B94343">Sludge-Covered Boots:</c> AC:6, MR:1, PR:1, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Wristband:</c> AC:5, Dex:2, PR:2, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Cap:</c> AC:6, Str:2, FR:2, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Armband:</c> AC:6, Wis:2, CR:2, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Hand Wraps:</c> AC:6, Agi:2, DR:2, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Tunic:</c> AC:11, Str:4, Wis:3, MR:4, type1, type3 DRU, MNK, BST
+<br><c "#B94343">Sludge-Covered Pants:</c> AC:8, Sta:4, Agi:4, FR:1, DR:1, CR:1, type1, type1 DRU, MNK, BST
+<br><c "#B94343">Type 4:</c> Cold Slimestone Fraglemt, Proc: Blast of Frost
+<br><br>
+<br><c "#FF0000">-16-</c>
+<br><c "#B94343">Froglok Rescue Plans:</c> RANGE, AC:4, DR:10, type1, type1 all/all
+<br><c "#B94343">Earring of Sludge:</c> AC:2, Sta:3, Wis:2, Int:2, type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-12-</c>
+<br><c "#B94343">Spell:</c> Remove Minor Curse (CLR)
+<br><br>
+<br><c "#FF0000">-10-</c>
+<br><c "#B94343">Corroded Gorget:</c> AC:3, Sta:4, Mana:10, type1, type1 CLR, DRU, SHM, NEC, MAG, WIZ, ENC
+<br><c "#B94343">Spore Girdle:</c> AC:5, Sta:5, MR:5, type1, type1 WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST 
+<br><br><br>
+
+
+
+<c "#FFFF00">Miragul's Menagerie</c><br><br>
+<br><c "#FF0000">-1492-</c>
+<br><c "#B94343">Incorporeal Boots of the Specter:</c> AC: 24, STR: 6, DEX: 6, AGI: 6, Hp: 70, Mana: 80, Sv Fire: 7, Sv Disease: 7, Sv Poison: 7, Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Gauntlets of the Specter:</c> AC: 24, STA: 6, CHA: 5, AGI: 8, Hp: 75, Mana: 75, Sv Fire: 4, Sv Cold: 4, Sv Poison: 4, Sv Disease: 4, Sv Magic: 4, Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Wristband of the Specter: </c>AC: 23, CHA: 4, WIS: 4, AGI: 6, Hp: 70, Mana: 70, Sv Fire: 3, Sv Magic: 3, Sv Cold: 3, Sv Poison: 3, Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Helm of the Specter:</c> AC: 29, STR: 6, DEX: 5, STA: 4, WIS: 4, Hp: 75, Mana: 75, Sv Disease: 7, Sv Magic: 7, Sv Poison: 7, Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Arms of the Specter:</c> AC: 29, DEX: 6, STA: 6, CHA: 6, HP: 80, Mana: 70, Sv Fire: 7, Sv Cold: 7, Sv Magic: 7, Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Chain of the Specter:</c> AC: 61 Str: +13, Dex: +11, Wis: +10, HP +100, Mana +100 Sv Fire: +12, Sv Cold: +12, Sv Poison: +12 Rec. level: 65 type2, type2, type 3 RNG ROG SHM
+<br><c "#B94343">Incorporeal Greaves of the Specter:</c> AC: 38 Sta: +10, Cha: +10, Wis: +6, HP +85, Mana +80 Sv Disease: +13, Sv Magic: +13 Rec. level of 65, type2, type2, type3 RNG ROG SHM
+<br><br>
+<br><c "#FF0000">-1150-</c>
+<br><c "#B94343">Malevolent Dirk of Deception:</c> 1h Piercing, 14/19, Skill Mod: Backstab +9%, DEX +10 STA +10 CHA +10 HP: +75 MANA: +50, Rec. Lvl: 65, type1, type4, type6 WAR RNG BRD ROG BST
+<br><c "#B94343">Club of the Mad Researcher:</c> 1H Blunt, 15/20, AGI: +15 HP: +75 MANA: +40, SV FIRE: +10 SV DISEASE: +10, Rec. Lvl: 65, type1, type4, type6 WAR RNG MNK BRD ROG BST
+<br><c "#B94343">Type 6:</c> Permafrost Chunk of Marring, Dmg:3 PRI, SEC, RANGE 1 hand only, Min delay 30
+<br><c "#B94343">Type 4:</c> Sphere of Ice, Proc: Anger III
+<br><c "#B94343">Type 3:</c> Ice Prism of Sense, Worn Effect: FlowingThought II
+<br><c "#B94343">Type 2:</c> Glacial Ice of Toughness, Str:7, Dex:7, Agi:7
+<br><c "#B94343">Type 2:</c> Tundra Ice of Impovement, Str:3, Int:3, Wis:3, Dex:3, Agi:3, Cha:3
+<br><c "#B94343">Type 2:</c> Polar Ice of Virtue, Dex:10, Cha:10
+<br><br>
+<br><c "#FF0000">-760-</c>
+<br><c "#B94343">Malevolent Helm of Suffering:</c> 35ac, 5str, 4dex, 3sta, 3wis, 3int, 60hp, 60mana, 5fr, 5dr, 5mr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Vambraces of Suffering:</c> 31ac, 5dex, 5sta, 5cha, 65hp, 55mana, 5dr, 5cr, 5pr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Bracer of Suffering:</c> 25ac, 3cha, 2wis, 3int, 5agi, 55hp, 55mana, 2fr, 2dr, 2cr, 4pr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Gauntlets of Suffering:</c> 31ac, 5sta, 4cha, 6agi, 60hp ,60mana, 5fr, 5cr, 5mr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Breastplate of Suffering:</c> 63ac, 10str, 9dex, 8wis, 7int, 75hp, 75mana, 9fr, 9dr, 9pr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Greaves of Suffering:</c> 44ac, 8sta, 8cha, 5wis, 5int, 70hp, 65mana, 10cr, 10mr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR
+<br><c "#B94343">Malevolent Boots of Suffering:</c> 31ac, 5str, 5dex, 5agi, 55hp 65mana, 3cr, 3mr, 3pr, 3dr, 3fr, type1, type2, type3, BRD, CLR, PAL, SHD, WAR 
+<br><c "#B94343">Type 6:</c> Flattened Permafrost, ColdDmg: 2
+<br><c "#B94343">Type 4:</c> Radiant Permafrost, Proc: Permafrost
+<br><c "#B94343">Type 3:</c> Ice Prism of Avoidance: Worn Effect: Dodge +8%
+<br><c "#B94343">Type 2:</c> Ice Shard of Keenness, Mana: 30
+<br><c "#B94343">Type 2:</c> Ice of Insight, INT: 8, FR: 4, PR: 2
+<br><br>
+<br><c "#FF0000">-650-</c>
+<br><c "#B94343">Orb of Haunting Visions:</c> Primary wis9 int9 agi6 hp60 mana60 sv dis9 sv mag9 ALL/ALL type1, type1, type3
+<br><c "#B94343">Type 2:</c> AC: 8 cha: 5 wis: 6 int: 6 agi: 10 hp: 50 mana: 50 sv fire: 5 ALL/ALL type1, type1, type2
+<br><c "#B94343">Spell:</c> Horror (NEC)
+<br><c "#B94343">Song:</c> Call of the Muse (BRD)
+<br><br>
+<br><c "#FF0000">-510-</c>
+<br><c "#B94343">Trapped Specimen's Pitchatka:</c> Prim/Second H2h dam14 delay20 cha5 hp40 mana35 sv fire8 sv cold8 sv mag8 effect: Icicle Claw, MNK/BST, type1, type2, type6
+<br><c "#B94343">Vial of Chaotic Mana:</c> Range AC10 sta7 agi10 hp55 mana35 sv fire6 MELEE classes type1, type1
+<br><c "#B94343">Ice Sigil Earring:</c> Ear Ac3 sta8 cha5 hp60 mana30 svdis5 svmag5 svpois5 MELEE classes type1, type1
+<br><c "#B94343">Type ALL</c>  Smooth Marble of Prowress, AC: 4 FACE/NECK/SHOULDER/BACK/WAIST, NEC, WIZ, MAG, ENC
+<br><c "#B94343">Type 6:</c> Grainy Permafrost of Maiming, DMG 2, weapons only, minimum delay 30, range/primary/secondary
+<br><c "#B94343">Type 4:</c> Marble Sphere of Disgust, Proc: Anger II
+<br><c "#B94343">Type 3:</c> Brilliant Enchanted Prism, Worn Effect: Flowing Thought II CHEST
+<br><c "#B94343">Type 2:</c> Frigid Shard of Acuteness, CHA7 sv cold7
+<br><c "#B94343">Type 2:</c> Icy Shard of Illness Protection, sv dis7 sv pois7
+<br><c "#B94343">Type 2:</c> Eroded Soil of Tenacity, HP: 25
+<br><c "#B94343">Type 1:</c> Smooth Marble Sphere of Prowess, 4AC Face/Neck/Shoulder/Back/Waist NEC/WIZ/MAG/ENC
+<br><br>
+<br><c "#FF0000">-410-</c>
+<br><c "#B94343">Spell:</c> Guard of Calliav(BST)
+<br><c "#B94343">Spell:</c> Reflect(WIZ)
+<br><c "#B94343">Spell:</c> Guard of Calrena(WIZ)
+<br><c "#B94343">Spell:</c> Vengeance of Nature(DRU)
+<br><c "#B94343">Spell:</c> Call of Darkness(SHD)
+<br><br>
+<br><c "#FF0000">-340-</c>
+<br><c "#B94343">Type 4:</c> Jagged Permafrost Chunk, Proc: Icicle Claw
+<br><c "#B94343">Type 3:</c> Eternal Ice of Replenishment, Worn Effect: Regeneration II
+<br><c "#B94343">Type 2:</c> Heated Shard of Protection, DR: 6, MR: 6
+<br><c "#B94343">Type 2:</c> Think Soil of Vitality, Hp: 20 FACE/NECK/SHOULDER/BACK/WAIST
+<br><c "#B94343">Type 2:</c> Frigid Shard of Cleverness, CHA: 6, Mana: 10
+<br><br>
+<br><c "#FF0000">-294-</c>
+<br><c "#B94343">Frozen Ring of Oddities:</c> 5 AC +7 Sta +7 Cha +4 Wis +4 Int +45 HP +40 Mana, Wt 0.2, Rec Level 53, Type1 Type3 all/all
+<br><c "#B94343">Mantle of Madness:</c> SHOULDERS, 7 AC +5 Cha +7 Wis +7 Int +35 HP +35 Mana +5 SvFire, Wt 0.5, Rec Level 53, Type1, Type2 all/all
+<br><br>
+<br><c "#FF0000">-220-</c>
+<br><c "#B94343">Mask of Pure Chaos:</c> 8 AC +12 Cha +6 Wis +6 Int +40 Mana +15 SvPoison, Wt 0.7, Rec Level 50, Type1, Type1 all/all
+<br><c "#B94343">Stolen Neriak Wizard Tome:</c> PRIMARY, STR: +2, INT: +8, Mana: +50, Wt 0.9, Rec Level 50, Type1, Type1 all/all
+<br><c "#B94343">Gilded Lance of Magic:</c> 2h Piercer, 24 dmg 31 dly, +8 Wis +8 Int +30 HP +30 Mana +10 SvCold, Wt 10.0, Rec Level 50, Type4, Type5 WAR PAL RNG SHD
+<br><c "#B94343">Type 5:</c> Lethal Permafrost Chunk, Dmg +2, 1h Weapons only, Min delay 16
+<br><c "#B94343">Type 3:</c> Eternal Ice of Reconstruction, Regeneration II, all but Charm
+<br><c "#B94343">Type 2:</c> Crushed Frozen Shard of Brillance, +8 Cha +2 Wis +2 Int, all but Charm
+<br><c "#B94343">Type 2:</c> Cracked Icy Shard of Research, +9 Int, all but Charm
+<br><br>
+<br><c "#FF0000">-200-</c>
+<br><c "#B94343">Spell:</c> Pack Shrew(RNG)
+<br><br>
+<br><c "#FF0000">-150-</c>
+<br><c "#B94343">Type 3:</c> Eternal Ice of Avoidance, Worn Effect: Dodge +5%
+<br><c "#B94343">Type 2:</c> Black Diamond of Advantage, DR: 8
+<br><c "#B94343">Type 2:</c> Black Diamond of Knowledge, CHA: 4, WIS: 4
+<br><c "#B94343">Type 1:</c> Jagged Marble Sphere of Protection, 5AC Face/Neck/Shoulder/Back/Waist WAR/CLR/PAL/SHD/BRD
+<br><c "#B94343">Spell:</c> Ward of Calliav (NEC)
+<br><br>
+<br><c "#FF0000">-100-</c>
+<br><c "#B94343">Type 4:</c> Glowing Permafrost, Proc: Icicle Strike
+<br><c "#B94343">Type 3:</c> Crushed Ice Fragment of Visions, Worn Effect: Serpent Sight
+<br><br>
+<br><c "#FF0000">-72-</c>
+<br><c "#B94343">Spell:</c> Bounce(ENC)
+<br><c "#B94343">Spell:</c> Summon: Orb of Exploration(MAG)
+<br><c "#B94343">Spell:</c> Guard of Vie(CLR)
+<br><br>
+<br><c "#FF0000">-60-</c>
+<br><c "#B94343">Glowing Solvent:</c> AC:5, Cha:4, Agi:3, Mana:25, type1, type1 CLR, DRU, SHM, NEC, WIZ, MAG, ENC
+<br><c "#B94343">Sparkling Short Axe:</c> 1hs, 13/29, ColdDMG:2, Str:4, Dex:4, FR:4, type1, type2 WAR RNG BRD ROG
+<br><c "#B94343">Type 2:</c> Icy Bone Chip of the Elements, FR: 3, CR: 3
+<br><br>
+<br><c "#FF0000">-52-</c>
+<br><c "#B94343">Frosty Buckled Belt:</c> AC:10, Dex:5, Cha:5, HP:40, type1, type1, type1 all/all
+<br><c "#B94343">Cracked Jeweled Choker:</c> AC:5, Dex:7, Cha:7, HP:15, Mana:15, type1, type3 all/all 
+<br><br>
+<br><c "#FF0000">-48-</c>
+<br><c "#B94343">Bone-Dust Gloves:</c> AC:8, Str:4, PR:4, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Sandals:</c> AC:8, Cha:4, Agi:4, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Armbands:</c> AC:8, Agi:4, CR:4, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Headband:</c> AC:8, Wis:3, MR:3, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Britches:</c> AC:11, HP:10, FR:5, CR:5, MR:5, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Tunic:</c> AC:14, Sta:5, Wis:5, HP:10, Mana:10, type1, type2 DRU MNK BST
+<br><c "#B94343">Bone-Dust Bangle:</c> AC:7, FR:4, DR:4, type1, type2 DRU MNK BST
+<br><c "#B94343">Spell:</c> Pack Shrew(DRU)
+<br><br>
+<br><c "#FF0000">-40-</c>
+<br><c "#B94343">Conjuration Teachings:</c> SECONDARY, AC:15, Mana:20, FR:12, type1, type1 all/all
+<br><c "#B94343">Hooded Cloak of Lunacy:</c> AC:8, FR:5, MR:5, CR:5, type1, type1 all/all 
+<br><c "#B94343">Type 2:</c> Black Diamond of Deception, CHA: 3, INT: 3 
+<br><br>
+<br><c "#FF0000">-36-</c>
+<br><c "#B94343">Icy Rites Ring:</c> AC:3, Dex:5, Agi:3, HP:35, DR:5, CR:5, type1, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Mantle of Dark Visions:</c> AC:4, Int:5, type1, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Spell:</c> Remove Lesser Curse(PAL)
+<br><br>
+<br><c "#FF0000">-30-</c>
+<br><c "#B94343">Ice-Fragment Faceplate:</c> AC:4, Str:7, Cha:7, HP:10, Mana:10 type1, type1 all/all
+<br><c "#B94343">Drum of Dark Omens:</c> PRIMARY, Percussion Instrument, AC:5, Wis:2, Int:2, Mana:20, type1, type1
+<br><c "#B94343">Stolen Bone Wand:</c> 1hb, 11/27, type2, type4 WAR RNG MNK BRD ROG BST 
+<br><c "#B94343">Type 4:</c> Permafrist Chunk of Resilience, Proc: Mirror I
+<br><br>
+<br><c "#FF0000">-26-</c>
+<br><c "#B94343">Icy Earring:</c> AC:2, Str:3, Dex:3, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Mystical Bag of Bones:</c> RANGE, Dex:3, HP:10, FR:10, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><br>
+<br><c "#FF0000">-24-</c>
+<br><c "#B94343">Spell:</c> Ward of Alendar (ENC)
+<br><br>
+<br><c "#FF0000">-20-</c>
+<br><c "#B94343">Icy Magical Belt:</c> AC:5, Dex:3, Int:3, HP:10, type3 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Lost Halas Guard Spear:</c> 2hp, 15/41, AC:5, Agi:5, type1, type4 WAR PAL RNG SHD
+<br><c "#B94343">Necromancer Grimoire:</c> SECONDARY AC:10, CR:10, type1, type1 all/all
+<br><c "#B94343">Frosty Jeweled Necklace:</c> AC:4, Dex:7, Sta:7, HP:10, type3 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Mana-Woven Arms:</c> AC:10, Str:2, MR:2, type1, type1 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Bracer:</c> AC:8, Agi:2, DR:2, type1, type1 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Gloves:</c> AC:9, CR:1, MR:1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Chain Boots:</c> AC:9, Dex:2, FR:2, type1, type1 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Chestplate:</c> AC:22, Dex:4, Wis:3, PR:4, type1, type3 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Leggings:</c> AC:13, Str:4, Sta:4, FR:1, DR:1, PR:1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Mana-Woven Hat:</c> AC:10, Wis:2, CR:2, type1, type1 RNG ROG SHM
+<br><br>
+<br><c "#FF0000">-16-</c>
+<br><c "#B94343">Cursed Cloak:</c> AC:5, Sta:4, Cha:4, Agi:4, CR:4, type1, type1 all/all 
+<br><br>
+<br><c "#FF0000">-12-</c>
+<br><c "#B94343">Spell:</c> Remove Lesser Curse(SHM)
+<br><br>
+<br><c "#FF0000">-10-</c>
+<br><c "#B94343">Frozen Ring:</c> AC:2, Int:2, Mana:10, type1, type3 CLR DRY SHM NEC WIZ MAG ENC
+<br><c "#B94343">Stolen Troll Shawl:</c> AC:4, Mana:10, FR:2, DR:2, CR:2, MR:2, PR:2, type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><br><br>
+
+
+
+
+<c "#FFFF00">Mistmoore Catacombs</c><br><br>
+<br><c "#FF0000">-1492-</c>
+<br><c "#B94343">Immortal's Bloodied Robe:</c> AC: 18, STR: 13, DEX: 11, INT: 10, HP: 90, Mana: 110, fr/dr/mr: 12 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Bracelet:</c> AC: 10, CHA: 4, INT: 4, AGI: 6, HP: 65, Mana: 75, fr/dr/mr/pr: 3 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Gloves:</c> AC: 12, STA: 6, CHA: 5, AGI: 8, HP: 65, Mana: 85, dr/cr/mr: 7 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Leggings:</c> AC: 17, STA: 10, CHA: 10, INT: 6, HP: 75, Mana: 90, cr/pr: 13 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Sandals:</c> AC: 12, STR: 6, DEX: 6, AGI: 6, HP: 65, Mana: 85, dr/cr/pr: 7 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Skullcap:</c> AC: 13, STR: 6, DEX: 5, STA: 4, INT: 4, HP: 75, Mana: 75, SvAll: 4 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Immortal's Bloodied Sleeves:</c> AC: 13, DEX: 6, STA: 6, CHA: 6, HP: 70, Mana: 80, fr/mr/pr: 7 type2, type2, type3 NEC WIZ MAG ENC
+<br><c "#B94343">Ritual Claws of the Scion:</c> PRIMARY STR: 5, STA: 8, WIS: 10, INT: 10, HP: 80, Mana: 80, SvCold: 20, Rec Level: 65 type1, type2, type3 Focus Effect: Improved Damage IV, all/all
+<br><c "#B94343">Trinket of Cured Flesh:</c> NECK, AC: 12, STR: 10, HP: 75, Mana: 75, sf/sm: 15, Rec Level: 65 type1, type2, type3 all/all
+<br><br>
+<br><c "#FF0000">-1150-</c>
+<br><c "#B94343">Shadow Agent Death Bow:</c> 37/36, DEX: 8, WIS: 7, HP: 60, Mana: 60, sc/sm: 7, Rec Level: 65, range: 200 type1, type4, type6 WAR PAL RNG SHD ROG
+<br><c "#B94343">Orb of the Sundered Spirit:</c> PRIMARY, CHA: 10, WIS: 7, INT: 7, AGI: 10, HP: 65, Mana: 85, sf/sm: 8, Rec Level: 65 type1, type2, type2 all/all
+<br><c "#B94343">Trueborn Cloak of Gray Flesh:</c> AC: 12, CHA: 10, WIS: 6, INT: 6, AGI: 6, HP: 75, Mana: 55, SvDisease: 5, Rec Level: 65, type1, type2, type2 all/all
+<br><c "#B94343">Type All:</c> Blood Ruby of Understanding, 40mana HEAD/ARMS/CHEST/LEGS/FEET Rec Level: 65
+<br><c "#B94343">Type 4:</c> Black Diamond of Regeneration, Proc: Vampire Kiss
+<br><c "#B94343">Type 3:</c> Gravestone Fragment of Battle Mastery, Worn Effect: Aura of Battle
+<br><c "#B94343">Type 3:</c> Gravestone Fragment of Flailing Dead, Worn Effect: Haste (36%) HEAD/BACK/RANGE/WAIST WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST
+<br><c "#B94343">Type 2:</c> Crypt Stone of Resilience, SvAll: 5, FACE/NECK/SHOULDERS/BACK/RANGE/WAIST, Rec Level: 65
+<br><c "#B94343">Type 2:</c> Bloodied Soil of Wit, 40mana HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET Rec Level: 65
+<br><br>
+<br><c "#FF0000">-994-</c>
+<br>
+<br><c "#B94343">Band of Eternal Slumber:</c> FINGERS AC: 6, CHA: 9, WIS: 7, INT: 7, HP: 55, Mana: 70, sf/sc: 5, Rec Level: 65 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br>
+<br><c "#B94343">Gilded Progeny Mantle:</c> AC: 8, WIS: 10, INT: 10, HP: 40, Mana: 40, sf/sc/sm: 10, Rec Level: 65, type1, type1, type3 CLR DRU SHM NEC WIZ MAG ENC
+<br><br>
+<br><c "#FF0000">-760-</c>
+<br><c "#B94343">Immortal Blood-Tainted Sleeves:</c> AC: 15, DEX: 5, STA: 5, CHA: 5, HP: 65, Mana: 65, SvAll: 3, WT: 2.0, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Immortal Blood-Tainted Bracelet:</c> AC: 13, CHA: 3, WIS: 3, AGI: 5, HP: 55, Mana: 55, sf/sd/sm/sp: 2, WT: 1.0, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Immortal Blood-Tainted Gloves:</c> AC: 15, STA: 5, CHA: 4, AGI: 6, HP: 60, Mana: 60, sf/sm/sp: 5, WT: 0.6, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Immortal Blood-Tainted Skullcap:</c> AC: 15, STR: 5, DEX: 4, STA: 3, WIS: 3, HP: 60, Mana: 60, sd/sc/sm: 5, WT: 1.5, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Immortal Blood-Tainted Pants:</c> AC: 21, STA: 8, CHA: 8, WIS: 5, HP: 70, Mana: 65, sc/sp: 10, WT: 0.5, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Immortal Blood-Tainted Shoes:</c> AC: 15, STR: 5, DEX: 5, AGI: 5, HP: 55, Mana: 65, sd/sc/sp: 5, WT: 2.0, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">mmortal Blood-Tainted Tunic:</c> AC: 28, STR: 10, DEX: 9, WIS: 8, HP: 75, Mana: 75, sf/sd/sm: 9, WT: 0.3, Rec Level: 65, type1, type2, type3 DRU MNK BST
+<br><c "#B94343">Scion Face Mask:</c> AC: 9, DEX: 10, CHA: 10, WIS: 10, INT: 10, HP: 50, Mana: 60, Rec Level: 65, type2, type2 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Bloodied Tome of the Exorcist:</c> PRIMARY, STA: 5, WIS: 8, INT: 8, HP: 55, Mana: 75, sf/sd: 10, Rec Level 65, type2, type2 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Bloodstained Axe of the Catacombs:</c> PRI/SEC, 15/21, STR: 10, CHA: 5, WIS: 5, HP: 65, Mana: 30, SvDisease: 10, Rec Level: 65, type1, type1, type6 WAR RNG BRD ROG
+<br><c "#B94343">Type 4:</c>: Black Diamond of Absorption, Proc: Spell Guard III
+<br><c "#B94343">Type 3:</c> Bloodied Gravestone of Cunning, Worn Effect: Flowing Thought I, Rec Level: 65
+<br><c "#B94343">Type 2:</c> Fetid Soil of Hardness, STR: 10, STA: 5, CHA: 5, Rec Level: 65
+<br><c "#B94343">Type 2:</c> Gory Crypt Stone of Strength, STR: 12, SvFire: 6, Rec Level: 65
+<br><c "#B94343">Type 2:</c> Noxious Soil of Stability, Dex: 6, sc/sp: 6, Rec Level: 65
+<br><br>
+<br><c "#FF0000">-750-</c>
+<br>
+<br><c "#B94343">Scion Face Mask:</c> AC:9, Dex:10, Cha:10, Wis:10, Int:10, HP:50, Mana:60, type2, type2 CLR DRU SHM NEC WIZ MAG ENC
+<br><br>
+<br><c "#FF0000">-660-</c>
+<br><c "#B94343">Earring of Gray Flesh:</c> AC: 4, STR: 10, AGI: 5, HP: 60, Mana: 60, sf/sc/sm: 5, Rec Level: 63, type1, type1, type2 all/all
+<br><c "#B94343">Pouch of Pale Flesh:</c> AC: 8, STA: 10, HP: 50, Mana: 50, SvAll: 4, Rec Level: 63, type1, type1, type2 all/all
+<br><br>
+<br><c "#FF0000">-650-</c>
+<br><c "#B94343">Spell:</c> Bulwark of Alendar(ENC)
+<br><c "#B94343">Spell:</c> Burning Sand(MAG)
+<br><c "#B94343">Spell:</c> Mana Ward(WIZ)
+<br><c "#B94343">Spell:</c> Ice Meteor(WIZ)
+<br><c "#B94343">Spell:</c> Guidance(PAL)
+<br><c "#B94343">Spell:</c> Aura of Reverence(CLR)
+<br><br>
+<br><c "#FF0000">-510-</c>
+<br><c "#B94343">Belt of Grey Flesh:</c> AC8 12sta 10wis/int/agi 55hp 45mana type1, type3 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Runed Sacraficial Dagger:</c> PRI/SEC 14/22, AC: 10, Dex: 7, STA: 7, INT: 10, HP: 40, Mana: 40, SvPoison: 7, Rec Level: 55, type1, type2, type6 WAR RNG BRD ROG BST Skill Mod: Backstab +3%
+<br><c "#B94343">Sacraficer's Wand:</c> PRI/SEC 14/21, STR: 10, STA: 10, AGI: 10, HP: 40, Mana: 40, Rec Level: 60, type2, type4 WAR RNG MNK BRD ROG BST
+<br><c "#B94343">Necklace of the Trueborn:</c> AD: 8, STA: 8, WIS: 8, INT: 8, HP: 30, Mana: 60, Rec Level: 60, type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Type All:</c> Billiant Blood Ruby of Prowess, AC: 10, FACE/NECK/SHOULDERS/BACK/WAIST, Rec Level: 60, WAR CLR PAL SHD BRD
+<br><c "#B94343">Type 4:</c>: Blessed Black Diamond, Proc: Guard II
+<br><c "#B94343">Type 3:</c> Dusty Gravestone of Destruction, Focus Effect: Burning Affliction III, HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET, Rec Level: 60
+<br><c "#B94343">Type 2:</c> Eroded Soil of Tenacity, HP: 25, HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET, Rec Level: 60
+<br><c "#B94343">Type 2:</c> Rotted Soil of Avoidance, INT: 7, AGI: 7, Rec Level: 60
+<br><c "#B94343">Type 2:</c> Tainted Soil of Battle Stance, STR: 7, STA: 7, Rec Level: 60
+<br>
+<br><c "#B94343">Type 1:</c> Brilliant Ruby of Prowess, 10AC FACE/NECK/SHOULDERS/BACK/WAIST WAR/CLR/PAL/SHD/BRD
+<br><br>
+<br><c "#FF0000">-450-</c>
+<br><c "#B94343">Spell:</c> Guard of Calliav(MAG)
+<br><br>
+<br><c "#FF0000">-442-</c>
+<br><c "#B94343">Hooded Black Cape:</c> AC: 10, HP: 50, Mana: 50, SvAll: 8, Rec Level: 58, type1, type2 all/all
+<br><c "#B94343">Sir Brontha's Lost Writings:</c> SECONDARY, AC: 38, Mana: 40, SvAll: 10, Rec Level: 58, type1, type2 all/all
+<br><c "#B94343">Ghastly Chestplate of Sacrafice:</c> AC: 47, STA: 7, CHA: 6, WIS: 8, HP: 55, Mana: 55, sf/sd/sc/sm: 4, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Greaves of Sacrafice:</c> AC: 29, DEX: 6, STA: 6, WIS: 5, HP: 50, Mana: 45, sd/sc/sm: 5, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Boots of Sacrafice:</c> AC: 19, STR: 6, DEX: 6, HP: 35, Mana: 45, sd/sc: 5, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Gauntlets of Sacrafice:</c> AC: 19, CHA: 4, WIS: 4, AGI: 4, HP: 40, Mana: 40, sf/sp: 5, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Bracer of Sacrafice:</c> AC: 18, STR: 4, AGI: 6, HP: 35, Mana: 35, sd: 4, sc/sm: 3, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Vambraces of Sacrafice:</c> AC: 23, DEX: 7, WIS: 6, HP: 45, Mana: 35, sf/sm: 5, Rec level: 58, type2, type3 RNG ROG SHM
+<br><c "#B94343">Ghastly Helm of Sacrafice:</c> AC: 23, STA: 6, CHA: 6, HP: 40, Mana: 40, sc/sp: 5, Rec level: 58, type2, type3 RNG ROG SHM
+<br><br>
+<br><c "#FF0000">-410-</c>
+<br><c "#B94343">Spell:</c> Anathema(SHM)
+<br><c "#B94343">Spell:</c> Scythe of Death(SHD)
+<br><c "#B94343">Spell:</c> Fire Swarm(RNG)
+<br><br>
+<br><c "#FF0000">-340-</c>
+<br><c "#B94343">Ring of Gray Flesh:</c> FINGERS, AC: 6, HP: 20, SvAll: 8, Rec Level: 55, type1, type1, type1 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Crypt Master's Shawl:</c> AC: 10, STA: 5, AGI: 8, HP: 30, Mana: 30, Rec Level: 55, type1, type1, type1 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Type 4:</c>: Rejuvenating Bone Fragment, Proc: Vampire Talon
+<br><c "#B94343">Type 3:</c> Night Agent Gravestone Fragment, Worn Effect: Ultravision
+<br><c "#B94343">Type 2:</c> Thick Soil of Vitality, Hp: 20, HEAD/ARMS/WRIST/HANDS/CHEST/LEGS/FEET, Rec Level: 55
+<br><c "#B94343">Type 2:</c> Putrid Soil of Essence, HP: 10, Mana: 10, EAR/FACE/NECK/SHOULDERS/BACK/RANGE/PRI/SEC/FINGERS/WAIST, Rec Level: 55
+<br><br>
+<br><c "#FF0000">-292-</c>
+<br><c "#B94343">Orb of the Dark Ritualist:</c> Primary INT/WIS 7, AGI 6, HP 30, Mana 35, FR/CR/MR 6 Recommended 53,Wt 0.9, all/all, type1, type2
+<br><c "#B94343">Blood Mask of the Vampire:</c> Face AC 8, FR/DR 10, CR/MR/PR: 5 Recommended 53, Wt 0.2, all/all, type1, type2
+<br><br>
+<br><c "#FF0000">-250-</c>
+<br><c "#B94343">Spell:</c> Rizlona's Fire(BRD)
+<br><c "#B94343">Spell:</c> Feral Pack(DRU)
+<br><br>
+<br><c "#FF0000">-220-</c>
+<br><c "#B94343">Sword of the Damned:</c> 1HS, 12/22, AC 7, Primary/Secondary Recommended 50, Wt 2.0, War/Rng/Brd/Rog type1, type2, type5
+<br><c "#B94343">Bloodstained Memoirs:</c> Range AC 5, INT/Wis 8, Mana 25, FR 15 Recommended 50, Wt 0.4, all/all, type1, type1
+<br><c "#B94343">Crypt Robbers Earring:</c> Ear AC 3, HP 20, FR/DR/CR/PR 5 Recommended 50, Wt 0.3, all/all, type1, type1
+<br><c "#B94343">Type 5:</c> Black Diamond of Crippling, DMG 3 Range/Primary/Secondary, Weapons Only, Rec. Lvl: 50, Min Delay 30
+<br><c "#B94343">Type 3:</c> Gravestone of Dire Melodies, Worn Effect: Wind Instruments
+<br><c "#B94343">Type 2:</c> Crypt Stone of Mind Enhancement, Mana +15 Recommended 50, Head/Arms/Wrist/Hands/Chest/Legs/Feet All/All
+<br><br>
+<br><c "#FF0000">-192-</c>
+<br><c "#B94343">Bloodguards Bone Girdle:</c> Waist AC 13, sta/int/agi 5, hp/mana 15, PR 10 Recommended 48, Wt 0.3, all/all, type1, type1, type1
+<br><c "#B94343">Amulet of Black Vampire Blood:</c> Neck AC 5, hp/mana 20, fr/mr 15 Recommended 28, Wt 0.3, all/all, type1, type1
+<br><br>
+<br><c "#FF0000">-150-</c>
+<br><c "#B94343">Spiked Club of the Damned:</c> 1HB, Primary/Secondary 12/23, AC 5, agi 11, HP 15, FR 12 Recommended 45, wt 1.0 war/rng/mnk/brd/rog/bst, type2, type5
+<br><c "#B94343">Death Embalmers Boots:</c> AC 19, STR 3, AGI 5, HP 10, Mana 15, MR 7, Wt 3.5,Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Death Embalmers Gloves:</c> AC 19, sta 5, wis/int 3, mana 20, PR 4, Wt 3.5, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Death Embalmers Chestplate:</c> AC 40, str/sta/int/wis 6, hp/mana 25, fr/dr 5, Wt 3.0, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type3
+<br><c "#B94343">Death Embalmers Leggings:</c> AC 28, dex/agi 5, cha 3, hp/mana 20, cr/mr 4, Wt 4.0, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Death Embalmers Bracer:</c> AC 16, dex 5, hp 15, mana 10, dr/cr 2, mr 3, Wt 4.0, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Death Embalmers Sleeves:</c> AC 19, str 5, int/wis 3, hp/mana 10, cr 4, Wt 2.5, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Death Embalmers Helmet:</c> AC 22, dex 5, hp 20, fr 4, dr 3, Wt 3.5, Recomended 45, War/Clr/Pal/SK/Brd type1, type1, type1
+<br><c "#B94343">Shield of Broken Souls:</c> Secondary AC 25, str/agi 5, hp 40, fr/dr/cr 10 Recommended 45, Wt 0.3, all/all type1, type1
+<br><c "#B94343">Rags of the Crypt Creeper:</c> Back AC 8, STA 10, HP 30, MR 10 Recommended 45, Wt 0.4, All/All type1, type1
+<br><c "#B94343">Type All:</c> Plain Blood Ruby of Defense, AC: 3 FACE/NECK/SHOULDER/BACK/WAIST DRU MNK BST
+<br><c "#B94343">Type 5:</c> Glowing Black Diamond, Magic DMG +3 Range/Primary/Secondary, Weapons Only, Min Delay 30 Recommended 45
+<br><c "#B94343">Type 3:</c> Worn Gravestone of Awareness, Worn Effect: See Invisible
+<br><c "#B94343">Type 2:</c> Corroded Crypt Stone of Protection, FR/CR/MR 3 , Any slot but Ammo/Charm Recommended 45, all/all
+<br><c "#B94343">Type 1:</c> Plain Blood Ruby of Defense, AC3 FACE/NECK/SHOULDERS/BACK/WAIST DRU/MNK/BST
+<br><c "#B94343">Type 3:</c> Worn Gravestone of Awareness, Worn Effect: See Invisible
+<br><br>
+<br><c "#FF0000">-130-</c>
+<br><c "#B94343">Bloodguard Band of Flesh:</c> AC:5, Wis:5, Int:5, HP:35, Mana:35, CR:7, MR:7, type1, type2 all/all 
+<br><c "#B94343">Steward Bloodstained Mantle:</c> AC:9, Sta:11, CR:11, type1, type2 Clickable Effect: Speed (4 seconds)
+<br><br>
+<br><c "#FF0000">-100-</c>
+<br><c "#B94343">Vampire Skin Drum:</c> PRIMARY, Percussion Instruments, AC:10, Cha:20, type1, type1 BRD
+<br><c "#B94343">Bloodstained Spear:/c> 2hp, 31/42, Agi:8, CR:4, FR:4, DR:4, PR:4, type1, type2 WAR PAL RNG SHD Proc: Vampire Claw
+<br><c "#B94343">Steward Nightmare Mask:</c> AC:8, Str:7, Wis:5, Int:5, FR:6, DR:6, CR:6, type3 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Type 5:</c> Black Diamond of Preservation, DiseaseDMG:1, MinimumDelay16, PRI SEC RANGE
+<br><c "#B94343">Type 2:</c> Broken Crypt Stone of Fortitude, Sta:6
+<br><c "#B94343">Type 2:</c> Burning Crypt Stone Fragment, FR:6
+<br><br>
+<br><c "#FF0000">-84-</c>
+<br><c "#B94343">Vampire's Bloodied Earring:</c> AC:3, Dex:3, HP:30, Mana:25, type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-78-</c>
+<br><c "#B94343">Spell:</c> Pack Shrew(BST)
+<br><br>
+<br><c "#FF0000">-48-</c>
+<br><c "#B94343">Spell:</c> Dark Soul(NEC)
+<br><br>
+<br><c "#FF0000">-36-</c>
+<br><c "#B94343">Spell:</c> Pack Shrew(SHM)
+<br><br>
+<br><c "#FF0000">-12-</c>
+<br><c "#B94343">Spell:</c> Remove Lesser Curse(CLR)
+<br><br><br>
+
+
+
+
+<c "#FFFF00">Rujarkan Hills</c><br><br>
+<br><c "#FF0000">-1492-</c>
+<br><c "#B94343">Steelslaves Emblazoned Shield:</c> AC: 40 DEX: +7 STA: +7 HP: +70 MANA: +70 SV DISEASE: +10 SV MAGIC +10 Rec. level: 65, type1, type2, type3 all/all
+<br><c "#B94343">Silver Face Mask of the Steelslaves:</c> AC: 12 HP: +75 MANA: +75 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 SV DISEASE: +7 SV POISON: +7 Rec. Level: 65, type1, type2, type3 all/all
+<br><br>
+<br><c "#FF0000">-1150-</c>
+<br><c "#B94343">Slave's hidden eitchatka:</c> h2h, 15/19, +1 poison damage, +7 wis/sta, +5 agi, +70 hps, +40 mana, +5 fire/poson/desease, type1, type4, type6 MNK BST
+<br><c "#B94343">Fissured orb of rock:</c> 30 ac, 10 int/wis, 60 hps, 50 mana, 10 svc, type1, type2, type3 all/all
+<br><c "#B94343">Golden hoop earring of the masters:</c> 5 ac, 8 sta/wis/int/agi, 65 hps/mana, type1, type2, type2 all/all
+<br><c "#B94343">Type ALL:</c> Solid coal of prowess, +40 hps, restriction: head arms chest leggs and feet. all/all
+<br><c "#B94343">Type 4:</c> Gold flecked crystal of negation, Proc: Spell Guard IV, restiction: PRI, SEC, RANGE all/all
+<br><c "#B94343">Type 3:</c> Glowing ore of rapid thought, Worn Effect: Spell Haste IV, WIZ MAG ENC NEC SHM DRU CLR
+<br><c "#B94343">Type 2:</c> Crystal prism of perception, + 10 sta/wis, all/all
+<br><c "#B94343">Type 2:</c> Glowing crystal of endowments, +20 hps/mana, all/all
+<br><br>
+<br><c "#FF0000">-994-</c>
+<br><c "#B94343">Weathered Necklace of the Steelslaves:</c> 9ac 40hp 65mana 7fr 7dr 7cr 7mr 7pr type1, type1, type1 CLR/DRU/SHM/NEC/WIZ/MAG/ENC
+<br><c "#B94343">Granite Girdle of a Warlord:</c> 6ac 8sta 8wis 65hp 5cr type1, type1, type1 WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST 
+<br><br>
+<br><c "#FF0000">-760-</c>
+<br><c "#B94343">Boots of the Rujarkian Slave:</c> 11ac 4sta 3cha 3int 5agi 50hp 70mana 5dr 5mr 5pr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Leggings of the Rujarkian Slave:</c> 15ac 8str 5int 8agi 60hp 75mana 10dr 10mr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Robe of the Rujarkian Slave:</c> 17ac 10sta 9cha 8int 65hp 85mana 9fr 9cr 9pr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Gloves of the Rujarkian Slave:</c> 11ac 6str 5sta 4agi 50hp 70mana 5fr 5dr 5pr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Bracer of the Rujarkian Slave:</c> 9ac 4str 3sta 4agi 50hp 60mana 2fr 4cr 2mr 2pr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Sleeves of the Rujarkian Slave:</c> 12ac 5sta 5cha 5int 55hp 65mana 5fr 5cr 5mrtype1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Helm of the Rujarkian Slave:</c> 12ac 5str 5sta 5agi 60hp 60mana 3fr 3dr 3cr 3mr 3pr type1, type2, type3 NEC/WIZ/MAG/ENC
+<br><c "#B94343">Steelcrown War Mace:</c> 34/32 10ac 15str 8agi 85hp 55mana 15mr type1, type4, type6 2hb WAR/PAL/RNG/SHD/MNK/BST
+<br><c "#B94343">Carved Stone Rujarkian Emblem:</c> SECONDARY 30ac 50hp 50mana 5fr 5dr 5cr 5pr type2, type3 WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST
+<br><c "#B94343">War Cloak of the Masters:</c> 13ac 60hp 40mana 20fr 20dr 10cr type2, type3 WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST
+<br><c "#B94343">Type 6:</c> Preserved Pyrite Crystal, DMG: +1, Disease DMG: +1 1h weapons min delay 16
+<br><c "#B94343">Type 3:</c> Translucent Ore of Courage, Worn Effect: Aura of Courage
+<br><c "#B94343">Type 3:</c> Refined Ore of Wellness, Worn Effect: Regeneration III
+<br><c "#B94343">Type 2:</c> Adamantine Orb of Intensity, 15hp 15mana ear/face/neck/shoulders/back/range/primary/secondary/fingers/waist
+<br><c "#B94343">Type 2:</c> Bastnasite Fragment of Might, 5str 10cha 5mr
+<br><br>
+<br><c "#FF0000">-660-</c>
+<br><c "#B94343">Rujarkian Spaulders of War:</c> 8ac 8str 8wis 8int 8agi 50hp 50mana 8fr 8dr 8cr 8mr 8pr type1, type1, type2 all/all
+<br><c "#B94343">Skull Ring of the Masters:</c> 6ac 4wis 4int 4agi 50hp 50mana 3fr 3dr 3cr 3mr 3pr type1, type1, type3 all/all
+<br><br>
+<br><c "#FF0000">-650-</c>
+<br><c "#B94343">Spell:</c> Color Cloud(ENC)
+<br><c "#B94343">Spell:</c> Bane (SHM)
+<br><c "#B94343">Spell:</c> Protection of Calliav(MAG)
+<br><br>
+<br><c "#FF0000">-510-</c>
+<br><c "#B94343">Thorned Whip of the Taskmaster:</c> 20/22 10str 50hp 35mana 20mr Pal/SK 1hs Effect: Rujarkian Poison, reclvl 60 type2, type6
+<br><c "#B94343">Rujarkian Lute of Battle:</c> Stringed Instrument 15int 6agi 30hp 35mana type1, type3
+<br><c "#B94343">Miner's Face Mask:</c> 12ac 5str 6sta 9agi 40hp 35mana 6mr 6pr war/pal/rng/sk/mnk/brd/rog/bst type1, type1
+<br><c "#B94343">Type ALL:</c> Brittle Coal of Prowess, 8ac face/neck/shoulders/waist rng/rog/shm
+<br><c "#B94343">Type 4:</c> Silver-Flecked Crystal of Agony, Effect: Rujarkian Bile
+<br><c "#B94343">Type 3:</c> Slippery Ore of Velocity, Effect: Haste head/back/range/waist rec lvl 60 
+<br><c "#B94343">Type 2:</c> Feldspar Fragment of Tolerance, 5sta 5cha 5agi
+<br><c "#B94343">Type 2:</c> Obsidian Orb of Endurance, 3vs all 
+<br><c "#B94343">Type 2:</c> Sparkling Sphere of Resistance, 5cr 5fr 5mr face/neck/shoulders/back/range/waist
+<br><br>
+<br><c "#FF0000">-442-</c>
+<br><c "#B94343">Battle-Worn Boots of the Spiritbound:</c> 13ac 6str 6sta 35hp 45mana 5dr 5cr type2, type3 DRU/MNK/BST
+<br><c "#B94343">Battle-Worn Leggings of the Spiritbound:</c> 18ac 6str 5wis 6agi 50hp 45mana 5dr 5cr 5mr type2, type3 DRU/MNK/BST 
+<br><c "#B94343">Battle-Worn Tunic of the Spiritbound:</c> 24ac 7sta 6cha 8wis 55hp 55mana 4fr 4dr 4cr 4mr type2, type3 DRU/MNK/BST
+<br><c "#B94343">Battle-Worn Straps of the Spiritbound:</c> 13ac 4cha 4wis 4agi 40hp 40mana 5fr 5pr type2, type3 DRU/MNK/BST hands
+<br><c "#B94343">Battle-Worn Armlet of the Spiritbound:</c> 12ac 4str 6agi 35hp 35mana 4dr 3cr 3mr type2, type3 DRU/MNK/BST wrist
+<br><c "#B94343">Battle-Worn Sleeves of the Spiritbound:</c> 13ac 7dex 6wis 45hp 35mana 5fr 5mr type2, type3 DRU/MNK/BST
+<br><c "#B94343">Battle-Worn Headband of the Spiritbound:</c> 13ac 6sta 6cha 40hp 40mana 5cr 5pr type2, type3 DRU/MNK/BST
+<br><c "#B94343">Rujarkian War Idol:</c> RANGE 5ac 35hp 30mana 15mr 15pr type1, type2
+<br><c "#B94343">Earring of the Echoing Caverns:</c> 3ac 11str 11agi 45hp 45mana 9mr type1, type2
+<br><br>
+<br><c "#FF0000">-340-</c>
+<br><c "#B94343">Spiritbound Battle-Worn Staff:</c> 11/19 10ac 25sta 5wis 35hp 35mana 5dr type1, type6 WAR/RNG/MNK/BRD/ROG/BST 1hb 1.0wt
+<br><c "#B94343">Tormented Slave Sash:</c> 20ac 15sta 15int type1, type1, type1 CLR/DRU/SHM/NEC/WIZ/MAG/ENC
+<br><c "#B94343">Threaded Stone Neck Piece:</c> 8ac 7str 40hp 20mana 2fr 2dr 2cr 10mr 10pr type1, type1, type3 WAR/PAL/RNG/SHD/MNK/BRD/ROG/BST
+<br><c "#B94343">Type 6:</c> Freezing Nickel Fragment, Cold DMG: 2 Bane DMG: Undead +1
+<br><c "#B94343">Type 3:</c> Jagged Ore of Foresight, Focus Effect: Extended Range III
+<br><c "#B94343">Type 2:</c> Raw Quartz Crystal of Peculiarity, 10str
+<br><c "#B94343">Type 2:</c> Cylindrical Shard of Acuity, 20mana head/arm/wrist/hands/chest/legs/feet
+<br><br>
+<br><c "#FF0000">-292-</c>
+<br><c "#B94343">Gladiator's Ribcage:</c> SECONDARY Cha:5, Wis:10, HP:10, PR:25, type1, type2 all/all
+<br><c "#B94343">Orcish Battle Master's Cloak:</c> AC:6, Wis:5, Int:5, Mana:25, type1, type2 all/all
+<br><br>
+<br><c "#FF0000">-200-</c>
+<br><c "#B94343">Spell:</c> Vengeance of the Wild (DRU)
+<br><br>
+<br><c "#FF0000">-180-</c>
+<br><c "#B94343">Spell:</c> Ordinance(ENC)
+<br><c "#B94343">Spell:</c> Impreciation(NEC)
+<br><br>
+<br><c "#FF0000">-150-</c>
+<br><c "#B94343">Stone-Linked Bracer:</c> AC:13, Dex:5, HP:15, Mana:10, DR:2, CR:2, MR:3, type1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Stone-Linked Gloves:</c> AC:14, Sta:5, Wis:3, Mana:20, PR:4, type1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Stone-Linked Boots:</c> AC:14, Str:3, Agi:5, HP:10, Mana:15, MR:7, type1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Stone-Linked Helm:</c> AC:17, Dex:5, HP:20, FR:4, DR:3, type1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Stone-Linked Chestplate:</c> AC:35, Str:6, Sta:6, Wis:6, HP:25, Mana:25, FR:5, DR:5, type1, type1, type3 RNG ROG SHM
+<br><c "#B94343">Stone-Linked Vambraces:</c> AC:17, Str:5, Wis:3, HP:10, Mana:10, CR:4, type1, type1, type1 RNG ROG SHM
+<br><c "#B94343">Spiritbound Stone Hoop:</c> AC:3, HP:20, Mana:20CR:10, PR:10, type1, type1 all/all
+<br><c "#B94343">Captive Coin Battle Beads:</c> RANGE, AC:6, Str:10, HP:15, Mana:15, CR:10, type1, type1 all/all
+<br><c "#B94343">Type ALL:</c> Loose Coal of Guarding, AC: 2 FACE/NECK/SHOULDER/BACK/WAIST NEC WIZ MAG ENC
+<br><c "#B94343">Type 5:</c> Blazing Flecked Crystal, FireDMG: 2 1h weapons only, min delay 16
+<br><c "#B94343">Type 2:</c> Notched SHard of Lost Spirits, STA: 4, INT: 4
+<br><c "#B94343">Type 2:</c> Opaque Crystal of Deftness, AGI: 8
+<br><c "#B94343">Type ALL:</c> Loose Coal of Guarding, 2AC Face/Neck/Shoulder/Back/Waist NEC/WIZ/MAG/ENC
+<br><c "#B94343">Spell:</c> Ward of Calliav(BST)
+<br><c "#B94343">Spell:</c> Ward of Calrena(WIZ)
+<br><br>
+<br><c "#FF0000">-100-</c>
+<br><c "#B94343">Type 3:</c> Refined Ore of Regeneration, Worn Effect: Regeneration I
+<br><br>
+<br><c "#FF0000">-84-</c>
+<br><c "#B94343">Steelcrown Shale Mantle:</c> AC: 12 STA: +2 SV COLD: +2 Rec level: 38 WT: 0.8 type1, type2 all/all
+<br><c "#B94343">Worn Miner Ring:</c> AC: 5 STA: +4 AGI: +4 HP: +30 Rec level: 38 WT: 0.8 type1, type2 all/all
+<br><c "#B94343">Type 2:</c> Prismatic Crystal of Intellect, WIS: 2, INT: 2, MR: 4
+<br><br>
+<br><c "#FF0000">-72-</c>
+<br><c "#B94343">Spell:</c> Bounce(WIZ)
+<br><c "#B94343">Spell:</c> Spirit of the Shrew(RNG)
+<br><br>
+<br><c "#FF0000">-60-</c>
+<br><c "#B94343">Dust Covered Cranite Orb:</c> PRIMARY CHA: +5 WIS: +4 MANA: +30 SV FIRE: +5 Rec level: 35 WT: 1.0 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Chiseled Stone Mask:</c> AC:6, Sta:6, Wis:4, Int:4, Mana:30, type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Type 5:</c> Freezing Flake of Pyrite, FireDMG: 2
+<br><br>
+<br><c "#FF0000">-52-</c>
+<br><c "#B94343">Bone Dust Goblin Earring:</c> AC: 4 STA: +3 CHA: +2 HP: +20 SV DISEASE: +5 SV COLD: +3 Rec level: 33 WT: 0.9 type1, type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-48-</c>
+<br><c "#B94343">Aggressor's Boots:</c> AC: 16 CHA: +4 AGI: +4 Rec level: 32 WT: 2.5 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Greaves:</c> AC: 22 HP: +10 SV FIRE: +5 SV COLD : +5 SV MAGIC: +5 Rec level: 32 WT: 3.5 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Breastplate:</c> AC: 32 STA: +5 WIS: +5 HP: +10 MANA: +10 Rec level: 32 WT: 4.0 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Gauntlets:</c> AC: 16 STR: +4 Rec level: 32 WT: 5.5 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Wrist Guard:</c> AC: 13 SV COLD : +4 SV DISEASE: +4 Rec level: 32 WT: 3.5 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Vambraces:</c> AC: 16 AGI: +4 SV COLD : +4 Rec level: 32 WT: 3.0 type1, type2 WAR CLR PAL SHD BRD
+<br><c "#B94343">Aggressor's Helmet:</c> AC: 19 WIS: +3 INT: +3 SV MAGIC: +3 Rec level: 32 WT: 3.5 type1, type2 WAR CLR PAL SHD BRD
+<br><br>
+<br><c "#FF0000">-40-</c>
+<br><c "#B94343">Rujarkian Lance:</c> 2H Piercing 25/44 SV MAGIC: +10 SV POISON : +5 Rec level: 30 WT: 10.0 type1, type1, type4 WAR PAL RNG SHD
+<br><c "#B94343">Orc's Earthen Belt:</c> WAIST AC: 2 Rec level: 30 WT: 0.1 type1, type1 all/all
+<br><c "#B94343">Orc-Tooth Necklace:</c> NECK AC: 4 HP: +20 SV FIRE: +4 SV DISEASE: +4 SV COLD: +4 SV MAGIC: +4 Rec level: 30 WT: 0.8 type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-36-</c>
+<br><c "#B94343">Slavemasters Spiked Stone Buckler:</c> SECONDARY AC: 15HP: +20 MANA: +20 SV FIRE: +10 Rec level: 28 WT: 0.8 type1, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Granite Lined Cloak:</c> BACK AC: 7 AGI: +5 HP: +15 Rec Level: 28 WT: 0.3 type1, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Song</c> Selo's Rythm of Speed(BRD)
+<br><c "#B94343">Spell:</c> Spirit of the Shrew(DRU) 
+<br><c "#B94343">Spell:</c> Dark Tempation(SHD)
+<br><br>
+<br><c "#FF0000">-30-</c>
+<br><c "#B94343">Tattered Rags of the Slayer:</c> SHOULDERS AC: 9 INT: +7 Rec level: 25 WT: 0.5 type1, type1 all/all
+<br><c "#B94343">Trained Boar Snout Ring:</c> FINGERS AC: 4 SV DISEASE: +5 SV COLD: +5 SV POISON: +5 Rec level: 25 WT: 0.3 type1, type1 all/all
+<br><c "#B94343">Type 3:</c> Refined Ord of Nimbleness, Worn Effect: Haste (13%) HEAD WAIST Rec level: 25
+<br><br>
+<br><c "#FF0000">-26-</c>
+<br><c "#B94343">Stone War Drum: </c>PRIMARY Percussion Instruments DEX: +5 INT: +5 HP: +20 Rec level: 23 WT: 0.6 type2 BRD
+<br><c "#B94343">Battle Mask:</c> FACE AC: 5 HP: +15 SV COLD: +5 SV MAGIC: +5 Rec level: 23 WT: 0.6 type1, type2 WAR PAL RNG SHD MNK BRD ROG BST
+<br><br>
+<br><c "#FF0000">-20-</c>
+<br><c "#B94343">Orc-Tooth Earring:</c> EAR AC: 2 WIS: +2 INT: +2 SV COLD: +5 Rec level: 20 WT: 0.6 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Rujarkian War Report:</c> RANGE AC: 3 WIS: +2 INT: +2 AGI: +2 Rec level: 20 WT: 0.7 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Rujarkian Short Bow:</c> 20/45, STR: +4 DEX: +4 Rec level: 20 WT: 2.0 Range : 75 type1, type4 WAR PAL RNG SHD ROG
+<br><c "#B94343">Type 2:</c> Gypsum Flake of Improvement, DEX: +1 AGI: +2, All Slots except CHARM, AMMO Rec level: 20
+<br><br>
+<br><c "#FF0000">-16-</c>
+<br><c "#B94343">Granite Amulet:</c> NECK AC: 4 DEX: +5 WIS: +4 INT: +4 AGI: +5 Rec level: 18 WT: 0.5 type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-12-</c>
+<br><c "#B94343">Spell:</c> Remove Minor Curse(SHM, PAL)
+<br><c "#B94343">Spell:</c> Ward of Vie(CLR)
+<br><br>
+<br><c "#FF0000">-10-</c>
+<br><c "#B94343">Slavemasters Whip:</c> PRIMARY SECONDARY 7/23 Rec level: 15 WT: 2.0 type1, type4 WAR RNG BRD ROG
+<br><c "#B94343">Slave's Journal:</c> SECONDARY AC: 12 HP: +10 Mana: +10 SV FIRE: +10 Rec level: 15 WT: 0.7 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Dusty Slaver's Cape:</c> BACK AC: 4 WIS: +2 INT: +2 HP: +10 Rec level: 15 WT: 0.5 type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><br><br>
+
+
+
+
+<c "#FFFF00">Takihs'Hiz</c>
+<br><br>
+<br><c "#FF0000">-1492-</c>
+<br><c "#B94343">Royal Attendant Bracer of the Sand:</c> AC:28, Str:5, Sta:4, Agi:5, HP:70, Mana:70, DR:3, PR:3, CR:3, MR:5, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Gauntlets of the Sand:</c> AC:34, Str:8, Sta:6, Agi:5, HP:75, Mana:75, DR:7, FR:7, CR:7, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Breastplate of the Sand:</c> AC:69, Sta:13, Cha:11, Wis:10, Int:10, HP:100, Mana:100, CR:12, MR:12, PR:12, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Helmet of the Sand:</c> AC:39, Str:6, Sta:6, Agi:6, HP:75, Mana:75, FR:7, CR:7, PR:7, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Greaves of the Sand:</c> AC:48, Str:10, Wis:6, Int:6, Agi:10, HP:85, Mana:80, FR:13, DR:13, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Sleeves of the Sand:</c> AC:34, Sta:6, Cha:6, Wis:6, Int:6, HP:80, Mana:70, DR:7, MR:7, PR:7, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><c "#B94343">Royal Attendant Boots of the Sand:</c> AC:34, Sta:5, Cha:4, Wis:4, Int:4, Agi:6, HP:70, Mana:80, FR:4, CR:4, MR:4, PR:4, DR:4, type2, type2, type3 WAR CLR PAL SHD BRD
+<br><br>
+<br><c "#FF0000">-1150-</c>
+<br><c "#B94343">Timeworn Desert Spear:</c> 2hp, Rec. Level: 65, 35/32 +10 int, + 10 wis, 85 hp, 50 mana, 8svc, 10svm, type1, type4, type6, WAR PAL SHD RNG
+<br><c "#B94343">Flowkeepers Gemsetting Toolset:</c> Rec. Level: 65 9 ac, 8 str, 8 sta, 10 cha, 70 hp, 70 mana, 25svc type1, type2, type2 all/all
+<br><c "#B94343">Jeweled Ring of Ro Deserts:</c> Rec. Level: 65 8 AC, 8 cha, 75 hp, 75 mana, 5 svc, 5svm, 5svf, 5svp, 5svd, type1, type2, type3 all/all
+<br><c "#B94343">Type 6:</c> Pristine Emerald of Harm +2 dmg; must be 1h weapon with 16+ dly RANGE PRI SEC all/all
+<br><c "#B94343">Type 4:</c> Sparkling Emerald of Protection, Proc: Guard III Weapons only, PRI, SEC, RANGE
+<br><c "#B94343">Type 3:</c> Glowing Sandstone of Focus Worn Effect: Extended range IV CLR DRU SHM WIZ ENC NEC MAG
+<br><c "#B94343">Type 2:</c> Pristine White Saphire of Sense +10 sta, + 10 int
+<br><c "#B94343">Type 2:</c> Glowing Saphire of Courage +40 hp Head Arms Wrist Hands Chest Legs Feet
+<br><br>
+<br><c "#FF0000">-994-</c>
+<br><c "#B94343">Horn of the lost traveler:</c> PRIMARY, Brass Instrument, DEX +15, CHA +10, INT +15, HP +65, MANA +65, type1, type1, type1
+<br><c "#B94343">Mask of Eternal Sands:</c> Worn Effect: Vengeance II, DEX +8, WIS +5, INT +5, HP +55, Mana +35, SV COLD +8, SV POSION +8, type1, type1, type1 WAR RNG ROG MNK SHD PAL
+<br><br>
+<br><c "#FF0000">-800-</c>
+<br><c "#B94343">Spell:</c> Remove Greater Curse
+<br><br>
+<br><c "#FF0000">-760-</c>
+<br><c "#B94343">Type ALL:</c> Diamond Prism of Companionship, PRI SEC RANGE Worn Effect: Summoner's Boon
+<br><br>
+<br><c "#FF0000">-650-</c>
+<br><c "#B94343">Spell:</c> Protection of Calrena (WIZ)
+<br><c "#B94343">Spell:</c> Scythe of Innoruuk (SHD)
+<br><c "#B94343">Spell:</c> Vengeance of Tunare (DRU)
+<br><c "#B94343">Spell:</c> Wind of the Desert (MAG)
+<br><br>
+<br><c "#FF0000">-510-</c>
+<br><c "#B94343">Type ALL:</c> Fractured Diamond Prisom of Prowes, 5AC Face/Neck/Shoulder/Back/Waist DRU MNK BST
+<br><c "#B94343">Type 3:</c> Dull Sandstone of Ire, Worn Effect: Vengeance II
+<br><c "#B94343">Type 3:</c> Shiny Sandstone of Reconstruction, Worn Effect: Regeneration V CHEST
+<br><br>
+<br><c "#FF0000">-450-</c>
+<br><c "#B94343">Spell:</c> Fufil's Diminishing Dirge(BRD) 
+<br><c "#B94343">Spell:</c> Reflect(ENC) 
+<br><c "#B94343">Spell:</c> Guard of Calliav(NEC) 
+<br><c "#B94343">Spell:</c> Austerity(PAL) 
+<br><c "#B94343">Spell:</c> Protection of Vie(CLR) 
+<br><c "#B94343">Spell:</c> Call of Ice(RNG)
+<br><br>
+<br><c "#FF0000">-340-</c>
+<br><c "#B94343">Eroded Mask of Coalesced Sand:</c> AC:9, Sta:7, Wis:9, Int:9, Agi:5, HP:30, type1, type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Sword of Solitude:</c> 1hs, 11/19, Str:10, Sta:5, Agi:15, HP:40, PR:5, type1, type4 WAR RNG BRD ROG
+<br><c "#B94343">Earthen Golem Remnant:</c> PRIMARY AC:4, Int:10, HP:30, Mana:30, type1, type1, type1 CLR DRU SHM NEC WIZ MAG ENC
+<br><c "#B94343">Type 6:</c> Searing Flawed Emerald Fragment, FireDMG: 3, MIn Delay: 40
+<br><c "#B94343">Type 2:</c> Warm Ruby of Wellness, FR: 6, DR: 6
+<br><c "#B94343">Type 2:</c> Finely Cut Ruby of Capability, STR: 6, AGI: 6
+<br><c "#B94343">Type 3:</c> Grainy Sandstone of Clarity, Worn Effect: Flowing Thought I
+<br><br>
+<br><c "#FF0000">-292-</c>
+<br><c "#B94343">Formed Sand Sculpture:</c> RANGE, AC:7, Str:5, Sta:5, Cha:5, Int:5, FR:2, CR:2, MR:2, PR:2, DR:2, type1, type3 all/all
+<br><c "#B94343">Earring of Searing Heat:</c> AC:5, Str:5, HP:40, Mana:40, type1, type2 all/all
+<br><br>
+<br><c "#FF0000">-220-</c>
+<br><c "#B94343">Buckled Desert Scarab Belt:</c> AC:2, Wis:4, HP:8, type1, type1 all/all
+<br><c "#B94343">Forgotten Mummy Wraps:</c> H2h, 16/26, Dex:7, Wis:7, HP:25, Mana:25, type4, type5 MNK BST
+<br><c "#B94343">Glass Shard Necklace:</c> AC:10, Sta:8, HP:30, Mana:30, DR:8, MR:8, type1, type3 all/all
+<br><c "#B94343">Type 5:</c> Raw Emerald Shard of Malevolence, DMG:4, MinDelay: 40
+<br><c "#B94343">Type 2:</c> Dusty Ruby Shard of Prowess, Cha:5, Agi:5
+<br><c "#B94343">Type 2:</c> Fractured Ruby Shard of Wellness, CR:2, FR:2, MR:2, DR:2, PR:2 FACE/NECK/SHOULDER/BACK/RANGE/WAIST 
+<br><br>
+<br><c "#FF0000">-192-</c>
+<br><c "#B94343">Cloak of Cohesive Sand:</c> AC:8, HP:20, SvF:7, DR:7, CR:7, MR:7, type1, type3 all/all
+<br><c "#B94343">Shield of the Royals:</c> AC:25, Wis:8, Int:8, Mana:45, DR:5, CR:5, type1, type1, type1 all/all
+<br><br>
+<br><c "#FF0000">-150-</c>
+<br><c "#B94343">Mantle of Fanciful Mirages:</c> AC:12, HP:20, PR:10, type1, type1 all/all
+<br><c "#B94343">Gemmed Luminescent Ring:</c> AC:5, Sta:3, Agi:4, HP:30, Mana:30, FR:4, DR:4, CR:4, MR:4, type1, type1 all/all
+<br><c "#B94343">Jeweled Guard Staff:</c> 2hb, 33/44, Sta:8, Wis:6, Int:6, HP:35, Mana:35, CRC:10, type4, type5 WAR PAL RNG SHD MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Sandals:</c> AC:10, Str:3, Agi:5, HP:10, Mana:15, MR:7, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Gloves:</c> AC:10, Sta:5, Wis:3, Mana:20, PR:4, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Britches:</c> AC:13, Dex:5, Cha:3, Agi:5, HP:20, Mana:20, CR:4, MR:4, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Wrapping:</c> AC:17, Str:6, Sta:6, Wis:6, HP:25, Mana:25, FR:5, DR:5, type1, type3 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Sleeves:</c> AC:10, Str:5, Wis:3, HP:10, Mana:10, CR:4, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Manacle:</c> AC:8, Dex:5, Hp:15, Mana:10, DR:2, CR:2, MR:3, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Geomancer's Sandshaping Cowl:</c> AC:10, Dex:5, HP:20, FR:4, DR:3, type1, type1, type1 DRU MNK BST
+<br><c "#B94343">Type 5:</c> Enhanced Emerald of Destruction, DMG: 1, 1h weapons only, min delay 16
+<br><c "#B94343">Type 3:</c> Cracked Sandstone of Health, Worn Effect: Regeneration I
+<br><c "#B94343">Type 2:</c> Flawed Ruby SHard of Victory, STR: 4, DEX: 4
+<br><c "#B94343">Type 2:</c> Raw Ruby Shard of the Arcane, MR: 8
+<br><c "#B94343">Spell:</c> Blessing of Temperence(CLR)
+<br><br>
+<br><c "#FF0000">-130-</c>
+<br><c "#B94343">Tome with Diamond Dust:</c> PRIMARY, Wis:7, Int:7, HP:15, Mana:30, type1, type2 all/all
+<br><c "#B94343">Sunstone Face Covering:</c> AC:10, Sta:10, Wis:5, Int:5, DR:10, type1, type2 all/all
+<br><br>
+<br><c "#FF0000">-100-</c>
+<br><c "#B94343">Mottled Glass Lantern:</c> RANGE, AC:3, Str:5, Agi:5, HP:20, FR:3, CR:3, type1, type1 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Geomancer's Ritual Hoop:</c> EAR, AC:8, Str:8, Dex:8, type1, type1 WAR PAL RNG SHD MNK BRD ROG BST
+<br><c "#B94343">Glassy Short Sword:</c> 1hs, 12/24, Str:5, Agi:5, DR:10, type1, type1 WAR ROG BRD
+<br><c "#B94343">Type 3:</c> Jagged Slate of Battle Prowess, Effect:Haste (21%) HEAD/BACK/WAIST 
+<br><c "#B94343">Type 2:</c> Brittle Ruby Fragment of Brawn, Str:5
+<br><br>
+<br><c "#FF0000">-84-</c>
+<br><c "#B94343">Dazzling Gemmed Belt:</c> AC:5, Dex:5, Wis:3, Int:3, HP:25, type1, type2
+<br><c "#B94343">Flowkeeper's Gorget:</c> AC:5, Dex:7, Cha:7, HP:20, Mana:20, type1, type2 
+<br><br>
+<br><c "#FF0000">-72-</c>
+<br><c "#B94343">Spell:</c> Guard of Alendar(ENC)
+<br><c "#B94343">Spell:</c> Bounce(MAG, NEC)
+<br><br>
+<br><c "#FF0000">-40-</c>
+<br><c "#B94343">Type 4:</c> Warm Emerald Shard, Proc: Heated Blade
+<br><br>
+<br><c "#FF0000">-36-</c>
+<br><c "#B94343">Spell:</c> Curse(SHM)
+<br><br>
+<br><c "#FF0000">-12-</c>
+<br><c "#B94343">Spell:</c> Remove Minor Curse(DRU)
+<br> 
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

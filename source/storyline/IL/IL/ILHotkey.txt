@@ -1,0 +1,54 @@
+<c "#FF2400">Hotkeys </c><c "#FFFF00"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+Hotkeys in raid channel need to be our main source of easy communication. Below is a list of some suggested hotkeys that I need certain classes to have ready every raid. On some raids these will vary. Myself, I have a normal everyday hotkey panel, and for raids I switch over to a ready made raid panel of keys so my hoykey calls are always ready.<br><br>
+
+<c "#FFFF00"> EVERYONE:</c> (((name has RAMPAGE)))<br>
+It's for rampage use on named mobs, and can be used if you need a heal in general, during clearing.<br><br>
+
+<c "#FFFF00"> PULLERS:</c> <<<INC %T PLEASE STAND>>><br>
+
+-tank keys:addtank: name is addtanking <<< %t >>><br>
+-attack: ATTACK <<< %T >>><br>
+-/disc defensive (for warriors only) EFENSIVE ON, 3 minutes<br>
+-Area Taunt (again, warriors only):AREA TAUNTING, ALL MELEE OFF <br>
+-Aggro: name has AGGRO, using disc for 10 seconds <br>
+(use fortitude or riposte with this depending on mob)<br><br>
+
+The last one (aggro call) can also be used to inform of an MT switch. Just add "start CH on me" and/or "all melee disengage". <br>
+
+Can also switch out invulnerable disc for defensive depending on mob.<br><br>
+
+<c "#FFFF00"> ALL OTHER MELEE:</c>name has AGGRO, using disc for 10 sec<br><br>
+
+<c "#FFFF00"> Clerics:</c><br>
+
+Completely Healing -> { %T }<br>
+Supernal Healing -> { %T }<br>
+Ethereal Elixer –> { %T }<br><br>
+
+***Cleric dead, adjust rotation, start splash heals on MT*** (here we want to avoid missing a CH if a cleric goes down, need secondary healers to help with adjustment by using splash heals) <br><br>
+
+<c "#FFFF00"> DEBUFFERS:</c> [NAME OF DEBUFF] name of target<br><br>
+
+<c "#FFFF00"> Important:</c> Please get these hotkeys uniform so they are easily recognized in battle spam.<br> ALSO, Please limit yourself to these calls. During a big fight it can get exciting and chaotic, but plz try and refrain from calling another classes Hotkey. <br><br>
+
+During a fight, we should see only these keys from assigned classes, plus info on positioning if needed. Less talk = more Efficiency. Learn to rely on your teammates!! <br><br>
+
+PS. If you are a Buff class I highly recomend these two macros. If people know you are doing your job you will be quicker to get an invite.<br><br>
+
+For buffing from a tell<br>
+/sit off<br>
+/pause 5,/rt<br>
+/cast 6 (or where ever you keep Your Buff)<br>
+/ttell { %T } BuffName<br><br>
+
+For Buffing the Rezzed (target them first)<br>
+/sit off<br>
+/cast 6 (or where ever you keep Your Buff)<br>
+/ttell { %T } BuffName<br><br>
+
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

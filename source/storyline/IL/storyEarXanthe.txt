@@ -1,0 +1,198 @@
+Earring of Xanthe, PoTC, 9 Gifts (crafted)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<br><font color="#008000">Earring of Xanthe, PoTC, 9 Gifts (crafted)</font>
+<br>This information is from EQtraders.com and was from the combined efforts of many players across all the servers.
+<br><br>
+<br><c "#00FF00">Xanthe's Earring of Nature</c>
+<br>AC 5, str 8, sta 8, wis 10, hp 55, mana 55, sv fire/cold/magic 7
+<br>Lore - Druid Only
+<br>Effect: Circle of Combines
+<br>
+<br><c "#00FF00">Earring of the Solstice</c>
+<br>AC 5, STA 5, WIS 8, INT 8, HP 55, mana 55, sv fire 5, sv cold 5, sv magic 5
+<br>recommended level 51
+<br>Effect: Flowing Thought 1
+<br>wt 0.1
+<br>no drop and lore
+<br>ALL/ALL
+<br>------------------------------------------
+<br>Earring of Xanthe quest is also known as the POTC Earring, Nine Gifts, and Earring Nature/Solstice quest.
+<br>This quest requires you to make (or buy from opther players) 9 gifts that you then combine into one large gift. You can do the quest for the Earring of the Solstice and then do it again for Xanthe's Earring of Nature (Druid Only).
+<br>------------------------------------------
+<br>
+<br><font color="#00FF00">POTC - Earring Nature/Solstice</font>
+<br> 
+<br><c "#00C000">Earring of Xanthe</c>
+<br>
+<br>Before you start this quest be aware that the tradeskill trivials on some of the items listed below are very high. If you are just starting out with tradeskills please do not try this quest.
+<br>You say, 'Hail, Rebecca Cabbageleaf'
+<br>Rebecca Cabbageleaf seems lost in thought and looks up only briefly from her work. ''Oh, hello Spiritual, welcome to the New Thicket Inn! If you'll excuse me, I'm a bit busy copying this [scroll]. I'll be with you in a moment to chat, or to trade if you've come about the [earring]''
+<br>You say, 'what earring'
+<br>Rebecca Cabbageleaf looks up again, ''Oh, have you come about the earring then? That's wonderful! As you probably know, the druids have recently completed an ancient ceremony, and some delightful people who weren't druids were able to participate. Sadly though, only druid's were able to use the Earrings of Nature that were created with the ceremony. I've been collecting spare earrings of Nature from those who can't use them, and giving an Earring of the Solstice in return. It's a good deal all around, as we both can benefit from the trade. If you have an earring of Nature to trade, just give it to me and I'll happily swap you, and if you don't like it, you can give it back.''
+<br>
+<br>To receive the Earring of Xanthe you need to make 9 gifts that you then combine into one large gift.
+<br>
+<br>The gifts and their components are here:
+<br>
+<br><c "#00C000">First Gift of the Elves: Demi-Sec Champagne:</c>
+<br>
+<br>First you need to make a champagne magnum. Combine 1 enchanted gold bar + 1 opal + 1 bottle in a jewelry kit.
+<br>Next you need to make soda water. This is made by combining 1 soda and 1 water in a brew barrel.
+<br>Then take the magnum + soda water + 1 wine yeast + 2 grapes and combine in a brew barrel. This will give you Demi-Sec champagne if successful.
+<br>
+<br><c "#00C000">Second Gift of the Elves: Mistletoe Cutting Sickle</c>
+<br>
+<br>To make the sickle you must first make the parts.
+<br>First you need to make some components to make the parts with.
+<br>You will need 3 each of the following:
+<br>Celestial Essence: Celestial Solvent + 1 High End Research component (rune, word, Scent of Marr) combined in a mortar and pestle
+<br>Mistletoe Temper: 1 Celestial Essence + 1 Elven Wine + 1 Mistletoe combined in a brew barrel.
+<br>Blessed dust of Tunare: 1 Imbued Emerald + 1 Celestial Essence + 1 Jar of Acid combined in a kiln.
+<br>
+<br>The blade is made by combining Sheet of Metal + Smithy Hammer + Emerald + Curved Blade Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper in a forge.
+<br>The hilt is made by combining Sheet of Metal + Smithy Hammer + Ruby + Hilt Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper in a forge.
+<br>The blessed pommel is made by combining Sheet of Metal + Smithy Hammer + Sapphire+ Pommel Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper in a forge.
+<br>
+<br>Now combine all three parts of the sickle in a forge and you will receive
+<br>
+<br>Mistletoe Cutting Sickle
+<br>Weapon: Primary 
+<br>1HS 
+<br>DMG: 8 DLY: 22 
+<br>WIS: +5 MANA: +20 SV MAGIC: +5 
+<br>None 
+<br>WT: 5.4 Size: SMALL 
+<br>DRU 
+<br>ALL 
+<br>
+<br>As a side note. This weapon is also a fairly decent druid wieldable 1hs.
+<br>
+<br><c "#00C000">Third Gift of the Elves: Golden Idol of Tunare</c>
+<br>
+<br>Next you must make the Golden Idol of Tunare.
+<br>
+<br>First you need to have some components. You will need:
+<br>Celestial Essence: 1 Celestial Solvent + 1 High End Research component (rune, word, Scent of Marr) combined in a mortar and pestle.
+<br>Divine Crystalline Glaze: 1 Permafrost Crystals + 1 Iron Oxide + 1 White Lead + 1 water combined in a mortar and pestle
+<br>White Lead: Lead Sulfide + Limestone combined in a mortar and pestle.
+<br>
+<br>To make the unfired Golden Idol of Tunare you combine 1 Gold Bar+ 1 Idol Sketch + 1 Large Magic Block of Clay + 1 water + 1 Celestial Essence + Sculpting Tools + 1 Vial of Distilled Mana + 1 Imbued Emerald in a pottery wheel.
+<br>Next combine the unfired Golden Idol of Tunare with the following Divine Crystalline Glaze + High Quality Firing Sheet in a kiln.
+<br>
+<br>If successful you will have the Golden Idol of Tunare:
+<br>
+<br>Golden Idol of Tunare
+<br>Tunare Only
+<br>AC 4
+<br>Wis +5 Mana 40 Sv Disease +6 Sv Poison +6
+<br>All/All
+<br>
+<br>Again this item is a nice primary, offhand, range equip able item.
+<br>
+<br><c "#00C000">First Gift of Mankind: Blessed Fishing Pole</c>
+<br>
+<br>Now it is time to start on the gifts of mankind. First you will make the Blessed Fishing pole.
+<br>The components you will need to make ahead of time are:
+<br>
+<br>Celestial Essence: 1 Celestial Solvent + 1 High End Research component (rune, word, Scent of Marr) combined in a mortar and pestle.
+<br>Blessed Dust of Karana: 1 Imbued Plains Pebble + Celestial Essence + Jar of Acid combined in a kiln.
+<br>Spool: 1 Sandalwood + 2 Velium Bits combined in a forge.
+<br>Dragon Egg Oil: Dragon Egg + water (brew barrel)
+<br>Silk Threads: 2 spiderling silks combined in a sewing kit
+<br>Silk Cord: 3 Silk Threads combined in a sewing kit.
+<br>Line: Silk Cord + Dragon Egg Oil combined in a sewing kit.
+<br>
+<br>Now combine the following in a tackle box: Branch of Planar Oak + Celestial Essence + Blessed Dust of Karana + Spool + Line and if you are successful you will recieve:
+<br>
+<br>Blessed Fishing Pole
+<br>+5% to your fishing and str +10
+<br>
+<br><c "#00C000">Second Gift of Mankind: Star Ruby Encrusted Stein</c>
+<br>
+<br>Now it is time to make your next gift of mankind.
+<br>The components you will need are:
+<br>
+<br>Lacquered Star Ruby: 1 Star Ruby + Jar of Lacquer combined in a jewelry kit
+<br>Celestial Essence: Celestial Temper and research component in a mortar and pestle
+<br>
+<br>To make the unfired Star Ruby Encrusted Stein combine the following in a pottery wheel:
+<br>Lacquered Star Ruby + Large Block of Magic Clay + Sculpting Tools + Ceramic Lining Sketch + water + Celestial Essence
+<br>
+<br>Now take the unfired Stein and combine it with a high quality firing sheet in a kiln to receive:
+<br>
+<br>Star Ruby Encrusted Stein:
+<br>CHA: +5 MANA: +20 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
+<br>Primary or Secondary slots
+<br>
+<br><c "#00C000">Third Gift of Mankind: Ceremonial Solstice Robe</c>
+<br>
+<br>First you will need the following components:
+<br>
+<br>Gem Studded Chain: Worked Silver Chain + Sapphire + Ruby + Emerald combined in a Jewelry kit
+<br>Worked Silver Chain: 1 Enchanted Bar of Silver + 1 Metal Bits + water combined in a forge
+<br>Tunarean Silk: 1 Silk Swatch + Celestial Essence + Blessed Dust of Tunare combined in a sewing kit
+<br>Celestial Essence: 1 Celestial Solvent + 1 High End Research component (rune, word, Scent of Marr) combined in a mortar and pestle
+<br>Blessed Dust of Tunare: 1 Imbued Emerald + 1 Celestial Essence + 1 Jar of Acid combined in a kiln
+<br>Embroidery Needle: Needle Mold + water + Metal Bits + Celestial Essence combined in a forge
+<br>
+<br>When you have those components made combine the following Gem Studded Chain + 3 Sacred Tunarean Silks (unstacked) + Tunic Pattern + Embroidery Needle in a sewing kit. If you are successful you will receive: Ceremonial Solstice Robe
+<br>
+<br><c "#00C000">First Gift of the Halflings: Lotus Pie</c>
+<br>
+<br>First you will need to make the following items:
+<br>
+<br>Dairy Spoon: 2 Metal Bits (unstacked) + Scalar Mold + water combine in a forge
+<br>Cream: Benzoin + 2 Milk (unstacked) + Dairy Spoon combine in a mixing bowl
+<br>Dough: 1 Egg (any egg will work) + Milk + Flour combine in a mixing bowl
+<br>Thick Lotus Paste: 1 Sweet Lotus Sap (Lotus Petal and Sticky Sap work too) + Allspice + Flour + Cream combine in an oven or a spit
+<br>
+<br>Now combine the following Thick Lotus Paste + Dough + Pie Tin in an oven or spit to receive Lotus Pie
+<br>
+<br><c "#00C000">Second Gift of the Halflings: Misty Thicket Picnic</c>
+<br>
+<br>To make the Misty Thicket Picnic you will first need to make the following components:
+<br>
+<br>Woven Mandrake: 2 Mandrake Roots (unstacked) combine in a sewing kit
+<br>Steel Boning: 1 Small Brick of Ore + 1 File + water combine in a forge
+<br>Picnic Basket: 1 Woven Mandrake + 1 Steel Boning combine in a sewing kit
+<br>Apricot Marmalade: 3 Frosting (unstacked) + 1 Fruit combine in a oven
+<br>Marmalade Sandwich: 1 Apricot Marmalade + 1 Loaf of Bread combine in a mixing bowl
+<br>Jumjum Spiced Beer: Barley + Hops + Spices + Water + Bottle + Jumjum Stalk combine in a brew barrel
+<br>Jumjum Salad: 1 Vegetables + 1 Lettuce + 1 Fennel + 1 Jumjum Stalk combine in a mixing bowl
+<br>Royal Mints: Eucalyptus + Frosting combine in a mixing bowl
+<br>Mature Cheese: Rennet + 2 Milk (unstacked) + Dairy Spoon combine in a mixing bowl
+<br>Dairy Spoon: 2 Metal Bits (unstacked) + Scalar Mold + water combine in a forge
+<br>Winter Chocolate: 1 Brownie Parts + 2 Frosting (unstacked) combine in a mixing bowl
+<br>Jumjum Cake: Jumjum Stalk + Frosting + Clump of Dough + Winter Chocolate + Cake Round combine in a spit or oven
+<br>Slices of Jumjum Cake: 1 Jumjum Cake combine in a oven or spit
+<br>
+<br>When you have all those parts finished, combine the following: Picnic Basket + 1 Marmalade Sandwich + 1 Jumjum Spiced Beer + 1 Jumjum Salad + 1 Royal Mints + 1 Mature Cheese + 2 Slices of Jumjum Cake. If successful you will receive the Misty Thicket Picnic
+<br>
+<br>
+<br><c "#00C000">Third Gift of the Halflings: Lucky Cabbage</c>
+<br>
+<br>The lucky cabbage is one of the easiest parts to make. 
+<br>Combine a foraged cabbage with a blessed dust of Karana to receive: Lucky Cabbage: + 10 cha
+<br><br>
+<br><c "#00C000">Complete the quest</c>
+<br>
+<br>Now take your Demi-Sec Champagne + Mistletoe Cutting Sickle + Golden Idol of Tunare + Blessed Fishing Pole + Star Ruby Encrusted Stein + Ceremonial Solstice Robe + Lotus Pie + Misty Thicket Picnic + Lucky Cabbage and combine them in a forge. If successful you will receive:
+<br>
+<br><c "#00FF00">Xanthe's Earring of Nature
+<br>AC 5, str 8, sta 8, wis 10, hp 55, mana 55, sv fire/cold/magic 7
+<br>Lore - Druid Only
+<br>Effect: Circle of Combines
+<br>
+<br>Now if you are not a druid, or want the second ring, you can find Rebecca Cabbageleaf in Fungus grove. Hand her your Xanthe's Earring of Nature and you will receive back:
+<br>
+<br><c "#00FF00">Earring of the Solstice:</c>
+<br>AC 5, STA 5, WIS 8, INT 8, HP 55, mana 55, sv fire 5, sv cold 5, sv magic 5
+<br>recommended level 51
+<br>Effect: Flowing Thought 1
+<br>wt 0.1
+<br>no drop and lore
+<br>ALL/ALL
+<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+

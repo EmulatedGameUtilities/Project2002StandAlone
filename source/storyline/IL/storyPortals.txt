@@ -1,0 +1,33 @@
+PoP Portal Locations
+<br>
+<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+Information taken from <c "#64879F">Allakhazams' Magical Realm</c> http://everquest.allakhazam.com
+<br>Story Window PoP Portals mod by <c "#64879F">Adrastea Xia'Ssin, Lanys T'Vyl server</c>
+<br>Last Updated: March 24th, 2003
+<br>
+<br><c "#FFFFFF">Planes of Power Portals</c>
+<br>
+<c "#00CC00">-=-=-=-=-=-=-=-=-=-=-=-=-=-</c> <br>
+<a href="file:///storyline/il/portals/akanon.txt">Ak'Anon</a><br>
+<a href="file:///storyline/il/portals/cabilis.txt">Cabilis</a><br>
+<a href="file:///storyline/il/portals/erudin.txt">Erudin</a><br>
+<a href="file:///storyline/il/portals/felwithe.txt">Felwithe</a><br>
+<a href="file:///storyline/il/portals/firiona.txt">Firiona Vie</a><br>
+<a href="file:///storyline/il/portals/freeport.txt">Freeport</a><br>
+<a href="file:///storyline/il/portals/greatdivide.txt">Great Divide</a><br>
+<a href="file:///storyline/il/portals/grobb.txt">Grobb</a><br>
+<a href="file:///storyline/il/portals/halas.txt">Halas</a><br>
+<a href="file:///storyline/il/portals/kaladim.txt">Kaladim</a><br>
+<a href="file:///storyline/il/portals/kelethin.txt">Kelethin</a><br>
+<a href="file:///storyline/il/portals/neriak.txt">Neriak</a><br>
+<a href="file:///storyline/il/portals/nexus.txt">Nexus</a><br>
+<a href="file:///storyline/il/portals/oggok.txt">Oggok</a><br>
+<a href="file:///storyline/il/portals/overthere.txt">Overthere</a><br>
+<a href="file:///storyline/il/portals/paineel.txt">Paineel</a><br>
+<a href="file:///storyline/il/portals/potranquility.txt">Plane of Tranquility</a><br>
+<a href="file:///storyline/il/portals/qeynos.txt">Qeynos</a><br>
+<a href="file:///storyline/il/portals/riverdale.txt">Riverdale</a><br>
+<a href="file:///storyline/il/portals/sharvahl.txt">Shar Vahl</a><br>
+<c "#00CC00">-=-=-=-=-=-=-=-=-=-=-=-=-=-</c> <br>
+

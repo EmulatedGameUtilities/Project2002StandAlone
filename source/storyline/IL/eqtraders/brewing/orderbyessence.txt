@@ -1,0 +1,21 @@
+<c "#66CCFF">Essence Recipes<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/656.txt">Butcherblock Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/664.txt">Cabilis Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(186)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/655.txt">Clockwork Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/651.txt">Erud's Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=132)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/665.txt">Everfrost Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(186)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/660.txt">Faydark Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/657.txt">Fetid Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/649.txt">Gukta Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/652.txt">Innothule Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(186)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/659.txt">Marr Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/658.txt">Nektulos Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=127)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/654.txt">Paineel Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=124)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/650.txt">Shar Vahl Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(187)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/661.txt">Spiteful Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/653.txt">Thunder Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/663.txt">Vale Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/662.txt">Vital Essence</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>

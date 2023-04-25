@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/573.txt">Salmon Fillets</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Jug of Sauces, Thunder Salmon) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/345.txt">Salmon Fillets</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Greengill salmon, Jug of Sauces) <br>

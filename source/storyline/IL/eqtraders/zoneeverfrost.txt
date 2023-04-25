@@ -1,0 +1,23 @@
+Everfrost Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Smithing </c><br>
+* large banded armor molds - Dansie McVicker (in cave between Everfrost and Halas, loc 3637, 692) <br>
+* needle & thimble molds - Seria O'Danos (in cave between Everfrost and Halas, loc 3611, 699)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2) - Seria O'Danos (in cave between Everfrost and Halas, loc 3611, 699) <br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

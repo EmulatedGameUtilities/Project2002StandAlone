@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/296.txt">Birthday Cake Slice</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)&nbsp;&nbsp;&nbsp;(<a HREF="file:///storyline/il/eqtraders/Baking/items/295.txt">Birthday Cake</a>) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/297.txt">Birthday Cake Slice</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)&nbsp;&nbsp;&nbsp;(2 <a HREF="file:///storyline/il/eqtraders/Baking/items/295.txt">Birthday Cake</a>) <br>

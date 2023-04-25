@@ -1,0 +1,68 @@
+Spell Research Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* parchment, quill, On Languages, lexion and wizard research books- clockwork merchant next to Useah Harnbock (Library Mechanamagica) <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - clockwork merchant near Tergon Brenclog (Library Mechanamagica) <br>
+* parchment, quill, elemental grimoire, mage spell research books -  clockwork merchant near Tergon Brenclog (Library Mechanamagica) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c><br>
+
+* parchment, quill, elemental grimoire, mage spell research books - Lyth Spellstar (next to 3rd inn out from Freeport, loc 269, 4906) 
+<br><br>
+
+<c "#00CC00">Erudin  </c><br>
+
+* parchment, quill, elemental grimoire, mage spell research books - Harbon Ranflash (Mage Guild, Erudin Palace)  <br>
+* parchment, quill, lexicon, wizard spell research books - Andan Starinen (Wizard Guild, Erudin Palace)  <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - Gwynore Armista (Enchanter Guild, Erudin Palace) 
+<br><br>
+
+<c "#00CC00">Felwithe  </c><br>
+
+* elemental grimoire, Malagil's Compendium Vol 1, Malagil's Compendium Vol 2, Telryd's Writ, Telryd's Expansive Writ - Merchant Jewyln (outside mage guild, S. Felwithe) 
+<br><br>
+
+<c "#00CC00">Freeport  </c><br>
+
+* parchment, quill, elemental grimoire, mage spell research books - Mekoma Buma (Academy of Arcane Sciences, W. Freeport)  <br>
+* parchment, quill, lexicon, wizard spell research books - Voglan Dransed (Academy of Arcane Sciences, W. Freeport)  <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - Dulia Jestes (outside Academy of Arcane Sciences, W. Freeport)  <br>
+* parchment, quill, Book of Dark Bindings, necromancer spell research books - Banor Raglesin (necromancer guild, E. Freeport) 
+<br><br>
+
+<c "#00CC00">Neriak  </c><br>
+
+* parchment, quill, elemental grimoire, mage spell research books - Genzal R'Jyen (basement of magic guild, COM)  <br>
+* parchment, quill, lexicon, wizard spell research books - Mirzna N'Mar (basement of magic guild, COM)  <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - Veca S'Karn (basement of magic guild, COM)  <br>
+* parchment, quill, Book of Dark Bindings, necromancer spell research books - Xantis Ixtax (necromancer guild) 
+<br><br>
+
+<c "#00CC00">Qeynos  </c><br>
+
+* quill, parchment, various tomes - Hanlore Escaval (The Herb Jar, S. Qeynos) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin)  </c><br>
+
+* Tome of Endless Enchantments, Book of Ancient Restoration, Elemental Grimoire, Lexicon - Sahrona Sorisnali (1328, 111, caster guild, first floor) 
+<br><br>
+
+<c "#00CC00">Toxxulia Forest  </c><br>
+
+* parchment, quill, wizard books - Islan Hetstan (shop near ocean)  <br>
+* parchment, quill, enchanter & mage books - Xylania Rainsparkle (shop to left of entrance to hunting area) <br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

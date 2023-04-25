@@ -1,0 +1,322 @@
+Pottery Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c>
+
+<br>* pottery wheel, kiln - clockwork merchant inside Akanon's castle (727, -148) 
+<br>* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall) 
+<br>* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol) - clockwork sketcher (756, -145) 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, sketches (small deity, vial, lined vial, sealed vial, ceramic lining), sculpting tools, glaze mortar - Clockwork Potter (754, -173) 
+<br>* clay (small block, block, large block) - clockwork miner (756, -145) 
+<br><br>
+
+<c "#00CC00">Bazaar (Luclin)  </c>
+
+<br>* pottery wheel - loc -638, -94 
+<br>* kiln - loc -637, -191 
+<br>* water flask - Gliblixl Rocktok (-685, -33), Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) 
+<br>* jar of acid - Sateal Deirosap (-670, -35) 
+<br><br>
+
+<c "#00CC00">Butcherblock  </c>
+
+<br>* block of clay (3), firing sheet (3), glass shard, Basic Pottery book, vial sketches (3) - Izbal Brightblade (-1281, -1967) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark)  </c>
+
+<br>* blocks of clay (3) - Klok Toren (East, 198, -300) 
+<br>* kiln - East, 256, -224 
+<br>* pottery wheel - East, 237, -197 
+<br>* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery, vial sketches - Klok Hoga (East, 250, -200) 
+<br>* water - Lybar (West, 290, 531) 
+<br>* sketches - Klok Grots (East, 240, -273) 
+<br>* scroll of imbue: amber [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild) 
+<br><br>
+
+<c "#00CC00">East Commonlands  </c>
+
+<br>* clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3) - Merra Clayfinger (1st Inn, loc -136, 25) 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin)  </c>
+
+<br>* water flask - Echo Tradesman (1385, -609) 
+<br><br>
+
+<c "#00CC00">Erudin  </c>
+
+<br>* pottery wheel, kiln - beside Erudin Surplus 
+<br>* blocks of clay (3) - Shinan Orefinder (outside City Armory) 
+<br>* imbue topaz [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious) 
+<br><br>
+
+<c "#00CC00">Felwithe  </c>
+
+<br>* pottery wheel, kiln - behind Faydark's Bane 
+<br>* enchant clay spell - Alicia Starshimmer (Enchanters Guild, S. Felwithe) 
+<br>* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) 
+<br>* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol) - Alladria Skyetcher (Shop of All Holds, N. Felwithe) 
+<br>* clay (small block, block, large block) - Bedida Claygrinder (upstairs, Shop of All Holds, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Freeport  </c>
+
+<br>* blocks of clay (sm/med/lg) - Kyrin Steelbone (Groflah's Forge, N. Freeport, loc -21, 474) 
+<br>* kiln - near monk's guild (W. Freeport, loc -214, -670), across from Hogcaller's Inn (W. Freeport, loc -241, -348), outside unlabeled inn near bank (N. Freeport, loc -171, 35), outside condemned building (E. Freeport, -112, -214) 
+<br>* pottery wheel - near monk's guild (W. Freeport, loc -220, -671), inside unlabeled weapon shop (W. Freeport, across from Hogcaller's Inn, loc -223, -339), outside unlabeled inn near bank (N. Freeport, loc -148, 39), outside condemned building (E. Freeport, -122, -231) 
+<br>* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Temple of Marr, N. Freeport, loc 105, 287) 
+<br>* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch - Jynsa Smithson (W. Freeport, -172, -338), Winoyn (inside unmarked building to south of bank, N Freeport) 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketches (vial, lined vial, sealed vial), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Gurb Smithson (W. Freeport, -178, -329) 
+<br>* enchant steel [enchanter] spell - Voglan Dransed (Academy of Arcane Sciences, W. Freeport) 
+<br>* jar of acid - Trudie Steelbone (Groflah's Forge, N. Freeport, loc -31, 472) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin)  </c>
+
+<br>* water flask - Cen Snoworb (-1216, -988), Thar Anson (-1339, -800) 
+<br><br>
+
+<c "#00CC00">Grimling Forest (Luclin)  </c>
+
+<br>* water flask - Merchant Hammar (-482, -1197) 
+<br><br>
+
+<c "#00CC00">Grobb  </c>
+
+<br>* clay (block, small block, large block)) - Okun (outside Night Keep) 
+<br>* imbue: amber spell [Cazic-Thule] - Barsk (shaman guild) 
+<br>* pottery wheel at loc 447, -140 (near Krungs Clubs & Junk) 
+<br>* kiln at loc 484, -150 (near Krungs Clubs & Junk) 
+<br>* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, idol), cookie templates (barbarian, troll, gnome, animal) - Vynugga (outside Krungs Clubs & Junk) 
+<br><br>
+
+<c "#00CC00">Halas  </c>
+
+<br>* sketches - Skoni (next to dock) 
+<br>* kiln - behind Golden Torc 
+<br>* pottery wheel - inside the Golden Torc 
+<br>* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Merin (Dok's Cigars) 
+<br>* Imbue Ivory spell [shaman: The Tribunal] - Boraskor (shaman guild) 
+<br>* clay (small block, block, large block) - Greta O'Reilly (70, -245) 
+<br><br>
+
+<c "#00CC00">High Keep  </c>
+
+<br>* blocks of clay (3) - Miner Harton (basement, 43, -274) 
+<br>* jar of acid - Graham Embersmith (basement) 
+<br><br>
+
+<c "#00CC00">Highpass Hold  </c>
+
+<br>* pottery wheel, kiln - outside Serpent Supply, in smuggler area (58, 316) 
+<br>* kiln (/loc 198, 515) 
+<br>* pottery sketches, cookie cutter templates - Min Greyeagle (shop at /loc 202, 507) 
+<br>* pottery wheel - inside shop at /loc 202, 507 
+<br>* clay (3), firing sheets (3), glass shard, Basic Pottery, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Winn Greenbane (Greenbane's Weapons) 
+<br>* water flask - Sernn Rosook (Serpent Supply), Maign Greyeagle (shop at /loc 202, 507) 
+<br><br>
+
+<c "#00CC00">Hollowshade Moor (Luclin)  </c>
+
+<br>* flask of water - Tokk Smippah (1058, 1997), Rittuh Purrik (1069, 2027) 
+<br><br>
+
+<c "#00CC00">Jaggedpine Forest  </c>
+
+<br>* sketches (large bowl, bowl, skewers, small jar, medium jar, large jar, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, casserole dish) - Morgan Wetstone (1100, 2000), Karka (-1122, 3269, Brell gnoll temple) 
+<br><br>
+
+<c "#00CC00">Kaladim  </c>
+
+<br>* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Dooni (Gurtha's Ware, S. Kaladim) 
+<br>* pottery wheel, kiln - beside bridge, east section of S. Kaladim; near mine entrance, N. Kaladim 
+<br>* kiln - near bank, N. Kaladim 
+<br>* Imbue Ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild) 
+<br>* water flask - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin)  </c>
+
+<br>* Kiln - loc -332, -679 
+<br>* Pottery wheel - loc -310, -663 
+<br>* water flask - Kitty Barleou (225, -1115) 
+<br>* clay (small block, block, large block) - Gundal Bronzebrow (-404, -662) 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketch, lined vial sketch, sealed vial sketch, scultping tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Arabella Augustleaf (-403, -676) 
+<br>* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, idol; barbarian template, gnome template, troll template, animal template - Dianna Dilsm (-368, -680) 
+<br>* jar of acid - Bole Bricktop (52, -1530) 
+<br><br>
+
+<c "#00CC00">Kelethin  </c>
+
+<br>* pottery wheel (-189, -540) 
+<br>* kiln (-179, -547) 
+<br>* blocks of clay (3), firing sheet (3), glass shard, Basic Pottery, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting- Merchant Legweie (418, 373) 
+<br>* pottery sketches - Merchant Nildar (near orc lift, 860, 199) 
+<br><br>
+
+<c "#00CC00">Misty Thicket  </c>
+
+<br>* blocks of clay (3), firing sheets (3), Basic Pottery book, glass shard, vial sketches (3) - Topper Drodo, /loc 585.00, -2356.00 
+<br><br>
+
+<c "#00CC00">Neriak  </c>
+
+<br>* kiln & pottery wheel - outside Smuggler's Inn NFQ 
+<br>* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery , vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Chon Chon (Smuggler's Inn NFQ) 
+<br>* blocks of clay (3) - Glazin D'Unnar (Blind Fish, Neriak Down Under COM) 
+<br>* Enchant: Clay (spell) - - Mizr N'Mar (Library, 3G) 
+<br>* imbue sapphire spell (cleric: Innoruuk) - Svlia C'Luzz (next to Cleric Guildmaster, 3G) 
+<br>* Jar of Acid - Treven Rue'Soe (45, -902, COM) 
+<br><br>
+
+<c "#00CC00">North Karana  </c>
+
+<br>* imbue plains pebble spell [druid/cleric: Karana], imbue emerald [druid/cleric: Tunare] - Tak Whistler (druid circle) 
+<br><br>
+
+<c "#00CC00">Oggok  </c>
+
+<br>* pottery wheel, kiln - inside first tunnel on left (facing the wall of tunnels) 
+<br>* imbue jade spell [shaman: Rallos Zek] spell - Barsk (shaman guild) 
+<br>* clay (small block, block, large block) - Blergerda (195, 910, near the Oggok cultural forge) 
+<br>* sketch, sealed vial sketch, sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small diety sketch - Helgara Dirtcarver (230, 740) 
+<br>* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, idol) - Kerplooe Dirtcarver (245, 750) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark)  </c>
+
+<br>* clay (3), firing sheets (3), glass shard, Basic Pottery, vial sketches (3) - Tin Merchant VI, 2612, 2568 
+<br>* pottery wheel - 2873, 2399 
+<br>* kiln - 2870, 2373 
+<br><br>
+
+<c "#00CC00">Paineel  </c>
+
+<br>* blocks of clay (3), firing sheets (3), glass shard, vial sketches, Basic Pottery, sculpting tools, glaze mortar, Art of Idol Sculpting - Tara Clayspinner, Evus Dovcamal (False Idols) 
+<br>* blocks of clay (3) - Tentus Brackmar (False Idols) 
+<br>* kiln - False Idols 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP)  </c>
+
+<br>* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch - Bemil Takoth (-49, 329 ) 
+<br>* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch, advanced vial sketch - Gligo Muddypants (385, 868) 
+<br>* tanaan kiln at 336, 819, at 372, 989, at 353, 999 
+<br>* tanaan pottery wheel at 336, 796 
+<br>* small block of clay, block of clay, large block of clay, firing sheet (3), glass shard, Basic Pottery book, vial sketch, lined vial sketch, sealed vial sketch, sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, glaze lacquer - Elisha Dirtyshoes (392, 940) 
+<br>* small block of clay, block of clay, large block of clay - Szrix Hammertail (129, 1377) 
+<br>* small block of clay, block of clay, large block of clay, block of Tanaan clay - Tallis Paerk (67, 1388) 
+<br>* Planar Steins (recipe book) - Caden Zharik (-344, 756) 
+<br>* jar of acid - Kanio Paerk (15, 1367) 
+<br><br>
+
+<c "#00CC00">Qeynos  </c>
+
+<br>* kiln, pottery wheel - inside Bag N Barrel, (S. Qeynos) 
+<br>* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) 
+<br>* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433) 
+<br><br>
+
+<c "#00CC00">Rivervale  </c>
+
+<br>* pottery wheel - /loc -159.08, -77.75 
+<br>* pottery wheel & kiln - /loc 391.65, -468.49 (near deputy Shelmy) 
+<br>* Imbue Peridot spell [Bristlebane] - Blippo Stumbletoe (Cleric guild) 
+<br>* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, idol) and cookie cutter templates (barbarian, gnome, troll, animal) - Marta Claytoe (-160. -84) 
+<br>* water flask - Daleen Leafsway - druid area, Wibble Bramblebush (next to dock) 
+<br>* clay (small block, block, large block) - Bodbin Gimple (druid guild, -87, -367) 
+<br>* spell: lesser succor - Staria Longhair (druid guild, -65, -403) 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin)  </c>
+
+<br>* Skewers Sketch, Small Jar Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch - Rhowick Dragur (loc not available) 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketches (vial, lined vial, sealed vial), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small diety sketch - Thecia Sulter (-748, -953) 
+<br>* pottery wheel at loc -672, -985 
+<br>* kiln at loc -681, -926 
+<br>* jar of acid - Wulan Goldsmith (7, 1016), Melda Goldsmith 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin)  </c>
+
+<br>* water flask - Adept Delf (28, -250), Merchant: Sanderson (-78, 31), Innkeep Alviva (25, 431), Granger Kenforth (16, 1166), Henriala Hobialon (232, 1786), Innkeep Zara (33, 1741), Hintol Balkortak (-436, 1385), Talida Furrytoes (-437, 1756), Fitonas Galaofon (1215, -239), Healian (1213, 0), Sneathe (-65, 12), Sanderson (-78, 37), Eiles (163, -46) 
+<br>* Small Jar Sketch, Skewers Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch - Oxon Essencebinder (199, 629) 
+<br>* clay (small block, block, large block), - Smithy Firehand (33, 1306), Hardam Stonegrinder (-314, 1460) 
+<br>* kiln at loc -392, 1405 
+<br>* pottery wheel at loc -404, 1371 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketches (vial, lined vial, sealed vial), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small diety sketch - Wayke Mudhands (-415, 1584) 
+<br>* Skewers Sketch, Small Jar Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch, River's Hastily Scribbled Note - River Mudhands (-424, 1378) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin)  </c>
+
+<br>* Basic Pottery - Librarian Almasa (125, 67) 
+<br>* water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Jharia & Ulman Talmil (370, -20), Mahj Hujara (443, -53) 
+<br>* Skewers Sketch, Small Jar Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch - Larken (building at 273, -455) 
+<br>* clay (block, small block, large block) - Nocia (building at 273, -455) 
+<br>* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), Glass Shard, Basic Pottery, Vial Sketch, Lined Vial Sketch, Sealed Vial Sketch, Sculpting Tools, Glaze Mortar, Idol Sketch, Ceramic Lining Sketch, Small Deity Sketch - Gherick Alarhun (building at 273, -455), Chogar (-483, -313) 
+<br>* 3 pottery wheels, 3 kilns - building at 273, -455 
+<br>* pottery wheel - loc -488, -312 
+<br>* Vah Shir model sketch - Merchant Ayyad (240, -187) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious)  </c>
+
+<br>* kiln at 320, -488 
+<br><br>
+
+<c "#00CC00">Solusek B  </c>
+
+<br>* imbue fire opal spell [Solusek Ro] Zordak Ragefire (merchant that spawns in Nagafen's spot after Nagafen dies) 
+<br><br>
+
+<c "#00CC00">Southern Desert of Ro  </c>
+
+<br>* clay (3), firing sheets (3), glass shard. Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Merchant Ulyssa (128, 478) [dark elf, but humans have no problems dealing with her] 
+<br>* pottery sketches - Artist Kassia (141, 443) [dark elf, but humans have no problems dealing with her] 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains  </c>
+
+<br>* block of clay (3), jar of acid - Godbin Strumharp (windmill at /loc 51, -611) 
+<br>* imbue plains pebble [druid/cleric spell: Karana] - merchant at druid ring (name?) 
+<br><br>
+
+<c "#00CC00">Stonebrunt Mountains  </c>
+
+<br>* block of clay (3) - Kevar Claypaws (1386, -578) 
+<br>* block of clay (3), vial sketch (3), glass shard, firing sheet (3), sculpting tool, Basic Pottery, sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Jaimou Claypaws (1391, -540) 
+<br>* kiln - 1360, -531 
+<br>* pottery wheel - 1390, -564 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious)  </c>
+
+<br>* Pottery wheel - bank (-267, 192) 
+<br>* Kiln - bank (-265, 171) 
+<br>* all pottery sketches other than vials - Brina Snowfox (bank) 
+<br>* block of clay (3), firing sheet (3), glass shard, Basic Pottery, vial sketch (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Gilthan Brittleblade (bank) 
+<br>* block of clay (3) - Nimren Stonecutter (shop at 41, -111) 
+<br>* water - Mordin Frostcleaver (Mordin's Meats) 
+<br><br>
+
+<c "#00CC00">Twilight Sea (Luclin)  </c>
+
+<br>* water flask- Bella Stremi (-231, -885) 
+<br><br>
+
+<c "#00CC00">West Karana  </c>
+
+<br>* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Tarnar (1002, -2079) <br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

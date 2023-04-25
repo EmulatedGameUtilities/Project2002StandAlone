@@ -1,0 +1,13 @@
+PoP Portal Locations - Plane of Tranquility <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Plane of Tranquility<br>
+Portal Zone: Plane of Tranquility<br>
+Zone Location: +774, -1463<br>
+Description: Seek and ye shall find<br>
+<c "#00CC00">========================== </c><br>

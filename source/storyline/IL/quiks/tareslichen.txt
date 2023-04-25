@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Tare's Lichen</c><br>
+Vendor: NPC Drop<br>
+Location: Permafrost Goblins<br>
+Poison: Amnesic Lolium<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

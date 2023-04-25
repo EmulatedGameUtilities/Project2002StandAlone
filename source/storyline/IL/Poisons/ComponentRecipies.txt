@@ -1,0 +1,30 @@
+Component Recipies<br>
+Last Updated <c "#FF0000">8/1/03</c><br>
+Created for the EverQuest StoryWindow by: <br>
+<c "#FFFF00">Faennil Triestecuore</c> - Legion of the Dead - Zebuxoruk <br>
+<br>
+All information comes from: <br>
+www.eqtraders.com <br>
+www.thesafehouse.org <br>
+http://home.comcast.net/~corinari/index.htm<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br> 
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<c "#ffff33">Advanced Poison Vial (yields 2)</c> - <c "#33CC33">Advanced Vial Sketch, Large Block of Magic Clay, Purified Water, Old world pelt or skin medium quality or better, including zombie skins, HQ Firing Sheet</c> - Pottery (196) <br>
+<c "#ffff33">Advanced Poison Vial (Alternate)</c> - <c "#33CC33">Sealed Poison Vial, Peridot</c> - Tinkering (70) <br>
+<c "#ffff33">Amber Resin (yields 2)</c> - <c "#33CC33">Amber, Gnomish Spirits</c> - Poison (No Fail) <br>
+<c "#ffff33">Celestial Essence</c> - <c "#33CC33">Celestial Solvent, High level word/rune/page</c> - Poison (No Fail) <br>
+<c "#ffff33">Celestial Suspension</c> - <c "#33CC33">Celestial Essence, Ethereal Suspension</c> - Poison (<=200) <br>
+<c "#ffff33">Drop of Mercury (yields 2)</c> - <c "#33CC33">Mercuric Ore, Gnomish Spirits</c> - Poison (200) <br>
+<c "#ffff33">Purified Water</c> - <c "#33CC33">Celestial Essence, Water Flask x 2</c> - Brewing (58) <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br>

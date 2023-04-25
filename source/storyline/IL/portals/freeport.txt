@@ -1,0 +1,13 @@
+PoP Portal Locations - Freeport <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Freeport<br>
+Portal Zone: West Freeport<br>
+Zone Location: -658, +76<br>
+Description: Inside the secret tunnel on the left wall (facing out) in the Newbie area<br>
+<c "#00CC00">========================== </c><br>

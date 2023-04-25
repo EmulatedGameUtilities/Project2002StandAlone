@@ -1,0 +1,353 @@
+Nurga Quests
+<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<br><br>
+Put Together by Alricrahl Paingiver of Luclin.
+<br>
+Info taken from The Safehouse, Allakhazam and a few other places.
+<br><br>
+<br><br>
+In Nurga, there is a slave of some sort at loc -2125, -933, -220. Just zone in from FM, take the first drop and then hug the left wall. If no slave is up, then that means all of them have already been freed on your server.
+<br><br>
+The slave respond to the phrases "Where is your home" and "I will help you escape." Text with the slave is useless if you have read this post.
+<br><br>
+Each asks for an Iron Shackle Key (from Overseer Prockib, loc -1127, 148, -187), a Pouch of Supplies (from Taskmaster Yajo, loc -1702, 1455, -275) and a Strong Restorative (from Slave Master Nimol, loc -1959, 1327, -318 ).
+<br><br>
+When you hand in all 3 items, 5 mobs spawn, 4 goblin reavers and a goblin sergeant. Each one partially mitigates slow, but the hits are rather weak overall. Sergeants have a lot of hp to em, and a 65 can single pull them all easily.
+<br><br>
+For the fights you want to sit back near the wall behind the quest mob so you won't aggro everything right away nor get adds. On the 6th wave of these (new wave spawns instantly upon completion of prior wave) you get a named (Mine Master Narrik or something like that, MM for now). MM has a lot more hp than any of the others, mitigates slow the same way and flurries... of course, that is he got out 4 flurries in 6 minutes fighting him. (so far, the most we have ever seen is 11 flurries... we were so proud that the MM managed to break into double digits that we threw him a party.)
+<br><br>
+For a level 65 sham, level 65 SK, level 56 SK and a level 46 wizzie, it took us about 72 minutes to complete the entire event, you get 2 hours time limit supposedly. All mobs had very low AC and resists, only delay was the rather high hp to them, but still with 30 mobs that is just over 3 minutes per kill.
+<br><br>
+There is NO LOOT in the quest itself. Except for cash loot off the reavers (just pp, and we got 1 flame emerald I think in the 30 mobs). When you finish the quest, the NPC you aided will despawn and be immediately replaced by a new one. The NPC that despawned will now show up wherever they said was their home.
+<br><br>
+--------------------------------------------------------------------------------
+<br><br>
+<br><c "#FF0000">Pungub Brawlum (Ogre)</c>
+<br>
+Overthere: 2354, 2579
+<br>
+Wants: 3 Nurgan Taskmaster Whips (goblin taskmasters) 1 Dagger of the Sneak (Thabis)
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Dingy Pauldron of Brawling</c>
+<br>
+MAGIC LORE NO DROP
+<br>
+AC: +14
+<br>
+STR: +10, AGI: +10, HP: +40
+<br>
+SV FIRE: +10, SV COLD: +10, SV MAGIC: +10
+<br>
+WT: 2.3, Size: MEDIUM
+<br>
+Class: WAR CLR PAL SHD BRD
+<br>
+Race: ALL
+<br>
+Recommended level of 45. 
+<br><br>
+<br><c "#FF0000">Osvima K'Matim (Dark Elf Female)</c>
+<br>
+Overthere: 2352, 2508
+<br>
+Wants: 3 Rings of Flame Chanting (goblin flame chanters), 1 Writ of Flame Chanting (Flame Chanter Breplish)
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Black Cord of the Virtuous</c>
+<br>
+MAGIC LORE NO DROP 
+<br>
+Slot: WAIST 
+<br>
+AC: +12 
+<br>
+DEX: +5, STA: +5, WIS: +5, HP: +45, MANA: +45 
+<br>
+SV FIRE: +5, SV COLD: +5, SV MAGIC: +5 
+<br>
+WT: 1.3, Size: SMALL 
+<br>
+Class: CLR DRU SHM 
+<br>
+Race: ALL 
+<br>
+Recommended level of 50. 
+<br>
+<br><c "#66CCFF">Focus Effect: Extended Enhancement III</c><br>
+<br><br>
+<br><c "#FF0000">Xiokai Rissthrum (Iksar Female)</c>
+<br>
+Lake of Ill Omen: 6222, -6952 
+<br>
+Wants: 3 Bracers of Blood (A goblin Blood Knight) 1 Scrolls of Joepla
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Crafty Mask of Awareness</c>
+<br>
+MAGIC, LORE, NODROP 
+<br>
+Slot: FACE
+<br>
+AC: +8 
+<br>
+DEX: +6, CHA: +6, INT: +8, HP: +25, MANA: +40 
+<br>
+SV DISEASE: +12, SV POISON: +12 
+<br>
+Recommended level of 45. 
+<br>
+WT: 1.1, Size: SMALL 
+<br>
+Class: NEC WIZ MAG ENC 
+<br>
+Race: ALL 
+<br><br>
+<br><c "#FF0000">Doovix Mruzzik (Iksar Male)</c>
+<br>
+Lake of Ill Omen: 6175, -6898
+<br>
+Wants: 3 Blackguard Caps (goblin blackguards), 1 Malam's Lucky Charm
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Silver Bracelet of the Heavens</c>
+<br>
+MAGIC, LORE, NODROP 
+<br>
+Slot: WRIST
+<br>
+AC: +8
+<br>
+DEX: +8, STA: +5, CHA: +8, WIS: +5, INT: +5, HP: +40, MANA: +40
+<br>
+WT: 0.2, Size: TINY
+<br>
+Class: ALL 
+<br> 
+Race: ALL
+<br>
+Recommended level of 50.
+<br><br>
+<br><c "#FF0000">Rock Shaper Dritam (Burnyai)</c>
+<br>
+Frontier Mountains: -1677, 2103 
+<br>
+Wants: 3 Flame Dancer Beads (Goblin Flame Dancers) 1 Blood Thirsty Rat Hide
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Earthen Gloves of Wisdom</c>
+<br>
+MAGIC LORE NO DROP 
+<br>
+Slot: HANDS 
+<br>
+AC: +12 
+<br>
+WIS: +15, HP: +35, MANA: +35, 
+<br>
+SV DISEASE: +10, SV MAGIC: +5, SV POISON: +10 
+<br>
+WT: 1.5, Size: SMALL 
+<br>
+Class: CLR DRU SHM 
+<br>
+Race: ALL 
+<br>
+Recommended level of 45. 
+<br><br>
+<br><c "#FF0000">Cenobite Pakclaw (Burnyai)</c>
+<br>
+Frontier Mountains: -1715, 2150
+<br>
+Wants: 3 Sprit Chanter Jewels (goblin Spritchanters) and 1 Book of Spirit Chanting (Spirit Chanter Bibodik)
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Brimming Chalice of Youth</c>
+<br>
+MAGIC, LORE, NODROP
+<br>
+Slot: RANGE PRIMARY SECONDARY
+<br>
+STA: +8, WIS: +12, INT: +12, HP: +40, MANA: +50
+<br>
+SV MAGIC: +15
+<br>
+WT: 1.3, Size: Small
+<br>
+Class: CLR DRU SHM NEC WIZ MAG ENC
+<br>
+Race: ALL
+<br>
+Recommended level of 50
+<br>
+<br><c "#66CCFF">Focus Effect: Extended Range III</c><br>
+<br><br>
+<br><c "#FF0000">Crix Tzo'mok (Sarnak)</c>
+<br>
+Lake of Ill Omen: -1392, 3357
+<br>
+Wants: 3 Death Marks of Nurga (goblin death callers) 1 Silver Bracelet of Crizz
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Hideous Coif of Woe</c>
+<br>
+MAGIC LORE NO DROP
+<br>
+Slot: HEAD
+<br>
+AC: +14
+<br>
+STR: +10, DEX: +5, STA: +10, WIS: +5, AGI: +5, HP: +40, MANA: +40 
+<br>
+SV FIRE: +8, SV DISEASE: +8, SV COLD: +8, SV MAGIC: +8
+<br>
+WT: 2.5, Size: MEDUIM
+<br>
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+<br>
+Race: ALL 
+<br>
+Recommended level of 45
+<br><br>
+<br><c "#FF0000">Yimic Pxo'hab (Sarnak)</c>
+<br>
+Lake of Ill Omen: -2982, 2579
+<br>
+Wants: 3 Totems of Death Casting (goblin death casters) and 1 Donkot's Deathblade (-1637, 1350)
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Grim Necklace of Destruction</c>
+<br>
+MAGIC, LORE, NODROP
+<br>
+Slot: NECK
+<br>
+AC: +9
+<br>
+HP: +50, MANA: +50
+<br>
+SV FIRE: +7, SV DISEASE: +7, SV COLD: +7, SV MAGIC: +7, SV POISON: +7
+<br>
+WT: 1.6, Size: SMALL
+<br>
+Class: WAR PAL RNG SHD MNK BRD ROG BST
+<br>
+Race: ALL
+<br>
+Recommended level of 50.
+<br>
+<br><c "#66CCFF">Effect: Vengeance I (Worn)</c><br>
+<br><br>
+<br><c "#FF0000">Wekland Greenfoot (Wood Elf Male)</c>
+<br>
+Firona Vie: -2840, 2412
+<br>
+Wants: 3 Nurga Overseer Necklaces (goblin overseers) 1 Bone Collar of Henxsa
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Silken Cape of Exploration</c>
+<br>
+MAGIC, LORE, NODROP
+<br>
+Slot: BACK
+<br>
+AC: +8
+<br>
+DEX: +15, AGI: +15, HP: +50, MANA: +50
+<br>
+SV FIRE: +6, SV DISEASE: +6, SV COLD: +6, SV MAGIC: +6, SV POISON: +6
+<br>
+WT: 1.2, Size: SMALL
+<br>
+Class: ALL
+<br>
+Race: ALL
+<br>
+Rec. level 50
+<br>
+<br><c "#66CCFF">Effect: Aura of Health</c><br>
+<br><br>
+<br><c "#FF0000">Rinnala Sweetsong (Wood Elf Female)</c>
+<br>
+Firona Vie: -2922, 2414
+<br>
+Wants: 3 Nurgan Spirit Fetishes and 1 Huflams Signet Ring
+<br><br>
+<br><c "#B94343">REWARD</c>
+<br>
+<br><c "#64879F">Ring of Sweet Serenades</c> 
+<br>
+MAGIC, LORE, NODROP
+<br>
+Slot: FINGERS
+<br>
+AC: +6
+<br>
+STR: +10, STA: +10, WIS: +5, INT: +5, HP: +50, MANA: +25
+<br>
+SV FIRE: +3, SV DISEASE: +3, SV COLD: +3, SV MAGIC: +3, SV POISON: +3
+<br>
+WT: 0.3, Size: TINY
+<br>
+Class: WAR PAL RNG SHD MNK BRD ROG BST
+<br>
+Race: ALL
+<br>
+Recommended level of 45.
+<br><br>
+##################_______________________###################
+<br><br>
+<c "#00ff00">A Blood Thirsty Mine Rat:</c> -2061, -1880
+<br><br>
+<c "#00ff00">Blackguard Thabis:</c> -1260, -70 
+<br><br>
+<c "#00ff00">Death Caller Joepla:</c> -1310, -370
+<br><br>
+<c "#00ff00">Death Knight Donkot:</c> In the very back (far left side on map), room to the left just before u get to the room full of water 
+<br><br>
+<c "#00ff00">Frost Caller Ollikaz:</c> -1526, -897 
+<br><br>
+<c "#00ff00">Flame Chanter Breplish:</c> 1200, 1200
+<br><br>
+<c "#00ff00">Life Drinker Krador:</c> -2093, -955 
+<br><br>
+<c "#00ff00">Miner Gribok:</c> -2100, -1250 
+<br><br>
+<c "#00ff00">Overseer Henxsa:</c> In the room under the drop-off from the one-way Droga zone.
+<br><br>
+<c "#00ff00">Overseer Malam: -1159, 635</c>
+<br><br>
+<c "#00ff00">Spirit Chanter Bibodik:</c> -2006, 1351
+<br><br>
+<c "#00ff00">Spirit Weaver Tramix:</c> -1785, -1235
+<br><br>
+<c "#00ff00">Slave Keeper Davirg:</c> -2250, -800
+<br><br>
+<c "#00ff00">Stabber Remmy:</c> -1680, -1551
+<br><br>
+<c "#00ff00">Taskmaster Crizz:</c> -1150, -540 
+<br><br>
+<c "#00ff00">Taskmaster Huflam:</c> -1145, -1230 
+<br><br>
+<c "#00ff00">Traitor Efuin:</c> -1900, -700 
+<br><br>
+<br><c "#B94343">Named that drop Supplies</c>
+<br><br>
+<c "#00ff00">Taskmaster Yajo:</c> -1700, 1500  
+<br><br>
+<c "#00ff00">Overseer Pruckib:</c> 1150, 150
+<br><br>
+<c "#00ff00">Slave Driver Nimol:</c> -2000, 1400
+                                       
+
+                                               

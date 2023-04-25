@@ -1,0 +1,3 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/564.txt">Trout Fillets</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Cauldron Trout, Jug of Sauces) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/346.txt">Trout Fillets</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Bloodfin Trout, Jug of Sauces) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/565.txt">Trout Fillets</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Fogwater Trout, Jug of Sauces) <br>

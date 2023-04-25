@@ -1,0 +1,34 @@
+Plane of Storms Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+Note that this mob may not be the easiest to get to, as you have to run through agro areas to get to him.
+<br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* milk, water flask - Grok (-1144, -2519)
+<br><br>
+
+
+<c "#00CC00">Brewing </c><br>
+* mead. bottle, water flask - Grok (-1144, -2519) 
+<br><br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Grok (-1144, -2519) 
+<br><br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern, water flask - Grok (-1144, -2519) 
+<br><br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

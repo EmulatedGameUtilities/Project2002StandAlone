@@ -1,0 +1,123 @@
+<c "#FFff00">from allakhazam.com </c><c "#FF8000">Commands</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+%T - Returns the current target. <br>
+%S - Returns the subjective gender-specific pronoun for the target (He, She, It). <br>
+%O - Returns the objective gender-specific pronoun for the target (Him, Her, It). <br>
+%P - Returns the posessive gender-specific pronoun for the target (His, Her, Its). <br>
+%R - Returns the race of the target (only works on Player characters). <br>
+/adriver -- writes sound card information to a file. <br>
+/afk - Toggle which will reply to all /tell(s) sent to you with the "Player is temporarily Away From Keyboard" message.  Also shows up in /who with <AFK> at the front of the name.  You can add your own message as well.  Type "/afk out to lunch" and when someone sends you a tell, they wil get the message "out to lunch" <br>
+/anon or /a  --  Makes you anonymous or removes your anonymous status in /who and /who all, preventing other players from seeing your class, level, guild and current location. <br>
+/assist {target] -- If you target a player who is engaged in combat, the /assist command will automatically target for you whoever that player is fighting at the moment -- this can be very useful in heavy combat.  you may want to set this as a Social and move it to your hot keys. <br>
+/assist [ON/OFF] – Toggles the autoattack function associated with the /assist function.  The default of ON turns on your autoattack when you use /assist.  If you type /assist off then autoattack will not start when you use /assist.  This is one case where you must use the parameters on and off for this to work. <br>
+/attack [ON/OFF] – Toggles in and out of attack mode.  This will put you in attack mode even if nothing is targeted.  Be careful not to use this when near NPC's that you have targeted.  By default, this is set to the "a" key.  Care should also be taken when you are near an NPC that you have targeted not to hit the "a" key, as this may cause you to attack the NPC. <br>
+/auction  --  Auctions item for sale to the zone <br>
+/autosplit [/au] - Automatically splits any loot you get with the rest of your party. <br>
+/book [1-50] – Opens your spell book to the specified page. <br>
+/bug or /b - Takes you to a bug-reporting screen. <br>
+/camp [desktop/server] – Allows the player to exit to the server select screen or desktop depending on what is specified.  You can use just /camp by itself as well.  You must be sitting in order for this command to work.  If attacked while camping out, the /camp command will be cancelled, thus preventing exit from the game. <br>
+/cast [1-8] – causes your character to cast the spell in the specified memorization slot. <br>
+/channel [gsay/ooc/shout/guild/auction] – toggles the chat channels on or off. <br>
+/charinfo -- tells you your bind point. <br>
+/chatfontsize [0-5] – This is for Velious subscribers only.  It is used in full screen mode only to change the chat font size. <br>
+/consent [name]  --  Gives that person permission to drag your corpse using /corpse. <br>
+/consider [or right click on mouse]- Gives vital statistics of a targeted creature, PC or NPC. <br>
+/corpse  --  Summons your corpse to your side if it is within 50'.   This can be very handy if the critter that killed you is still standing over your dead body.  It also helps if you died in molten lava or a shark infested pool. <br>
+/decline -- declines offer to duel. <br>
+/disband [target] – Allows a character to disband from a group if he/she has themselves targeted.  This command also allows the group leader to disband a targeted member of the group if they are in the same zone. <br>
+/doability [1-6|7-10] – 1-6 performs the associated ability <br>
+/duck (or the "d" key) -- you duck. <br>
+/duel or /d -- Challenges targeted PC to a duel - to accept, they type /d with you targeted as well.  Duel is in effect until one "dies" (is knocked unconscious) or flees the zone. <br>
+/dynamiclights [ON/OFF] – When on, this command enables players to see specially rendered lighting.  This command is most useful when the player is holding, or has a light source with them, such as a torch.  Turn this command to off if you notice low frame rate. <br>
+/emote (text) or /em or : (text) or /e - emotes the text.  This is used to add fun to the game.  For example, after a big battle, you can type /emote cleans the gore off his sword.  Everyone around you will see "AllaKhazam cleans the gore off his sword."  More people should use this command. <br>
+/exit -- Exits the game immediately and makes your character go linkdead (which means it is still there for a minute or so and can be attacked).  Really only for emergency uses, such as when the boss walks into your office. <br>
+/fastdrop [ON/OFF] – Disables or enables the ability to drop items on the ground without a confirmation box.  Default setting recommended is /fastdrop off. <br>
+/feedback -- Takes you to the feedback/comments screen. <br>
+/filter - Turns on and off the bad language filter. <br>
+/follow - Will follow the person who is targetted, if you are in his or her group.  Be careful using in areas with water or lava since it doesn't discriminate between safe and unsafe areas to wrun. <br>
+/friend [name] -– Adds or removes a ‘friend’ from your friends list.   Very useful command if you have friends you wnat to hook up with regularly.  A /friend by itself will list the players in your friends list.  A /who friend will let you know if anyone on your friends list is in the zone you are in, and a /who all friend will let you know if anyone on your friends list is on the server you are on. <br>
+/ftell <msg> -- sends a tell to everyone on your friends list. <br>
+/g (or /gsay)-- Talks to everyone in your group.  This can also be programmed as a default by right clicking on your chat screen while in windowed mode.  Most people automatically set group chat as a default when they enter a group. <br>
+/gems – Lets you play the oh so fun game of Gems. <br>
+/guilddelete -- Guild Leaders may use this command to disband a their guild. <br>
+/guildinvite -- Officers only.  Invites someone into your guild. <br>
+/guildmotd <text> -  Officers of a guilds can specify the text to show up after the regular server MOTD (Message of the Day) for each of their guild members when they log in.  The guild message of the day will always be preceded by the name of the guild officer that set it up.  There is a maximum of around 200 characters for this guild motd.  Any new guild message of the day overwrites the last guild message of the day.  When a server goes down, all guild messages of the day will be deleted and will need to be reset.  There is no other way to delete a guild message of the day. <br>
+/guildpeace [name of guild] -- Guildmaster only.  Declares peace with your enemy. <br>
+/guildleader -- Transfers guild leadership status to the targeted guild officer.. <br>
+/guildremove -- Officer only.  Removes a person from the guild.  Can also be used to remove yourself from a guild. <br>
+/guildsay (or /gu) --  Say to all guild members. <br>
+/guildstatus [target or name] -- Brings up guild information. <br>
+/guildwar [name of guild] -- Guildmaster only.  Declares war. <br>
+/help -- list all of the available in game commands.  If you don't want to print out this list, then this is the one command you probably should try to remember. <br>
+/hidecorpses [all/none/allbutgroup] – This command allows the player to choose to not see other player's corpses in-game.  This allows for less lag in situations where there are many corpses around.  Keep in mind that the all and the allbutgroup options will hide NPC corpses.  Your own corpse is never hidden.  The default is none. <br>
+/ignore [name]  -- Turns off all text from that player <br>
+/inspect [ON/OFF] – Toggles on and off your ability to inspect others with a right-click of the mouse.  Use this toggle if you use the mouse for movement and find yourself accidentally inspecting others. <br>
+/invite [target] – Invites targeted player into a group.  This command can only be executed by the group leader. <br>
+/invwinlabels – For Velious subscribers only.  This command toggles on and off the descriptions for the full screen mode inventory. <br>
+/language – Returns the number of the language that you are currently speaking.  /language [help] returns a list of languages and their identification number.  /language [#] sets the current language. <br>
+/lfg [ON/OFF] – Indicates that you are “Looking for a Group” in the /who and “/who all” lists. <br>
+/log - Logs all text locally to the user’s machine.  The log.txt file that is generated can be found in your EverQuest directory. <br>
+/loc (or /l) --  You may want to put this command in your hot keys so that you can use it when you are about to die.  Then you only have to scroll back up to see where your corpse is located.  You can also use /loc to keep track of important locations within a zone or to coordinate positions with a friend.  It gives you an X-Y set of coordinates of where you are or where the object you are targeting is.   It works as follows:  X - This is your North/South direction.  The higher the number, the further North you are, and the lower the number the further South you are.  Y - This is your East/West direction.  The higher the number, the further West you are, and the lower the number, the further East you are.  If you're trying to track down something and you have the coordinates but don't want to deal with the North/East/South/West thing, all you have to do is start walking around while rapidly using the /loc command and see the difference in x,y while you walk in different direcitions.  If your current x is higher than the x you're trying to find, change directions until x starts to get smaller.  If you keep using /loc you should narrow in on an x,y location very quickly.  Remember to be in the same zone though.   (Thanks to Zauron for the input on /loc) <br>
+/log on or off -- turns on the feature that copies your log to a text file in your EQ directory. <br>
+/loot - loots a corpse which is located in shallow water or lava, keeping you from having to go in yourself. <br>
+/lootnodrop [ALWAYS/SOMETIMES/NEVER] – This command is used to specify how you loot no drop items on corpses.  Always is default and will cause a prompt box to always be shown when looting no drop items.  Set to sometimes so only items not usable by your character will show a prompt box.  When you have this set to never, you will never get a confirmation box to see if you want to loot or not. <br>
+/mcicontrol – Allows a player to control sound devices such as cdaudio or mp3s to play when in-game.  This command will be further developed in the future to be more user friendly. <br>
+/mousespeed [0-3] – Changes the mouse travel speed across the monitor.  3 is the maximum setting (the higher the number the faster the mouse moves).  Don't set this above 3.  Your mouse will move too quickly and you will probably not be able to play. <br>
+/msg -- <br>
+/note <text> - Allows the player to write notes when in-game to be referenced later out of game.  This creates a notes.txt file of the text.  Each line of text sent using /note is appended to the end of this file.  There is a maximum number of 455 characters when creating a note. <br>
+/ooc  --  Makes an out of character statement to everyone in the zone. <br>
+/pet as you were  -- Makes pet forget all other commands including follow <br>
+/pet attack (with NPC targeted)  --  Pet will attack targetted creature <br>
+/pet back off -- Tells pet to quit attacking target (if you are he is attack he will continue to swing) <br>
+/pet follow me  --  Pet's will start following you (cancels any other guard commands) <br>
+/pet get lost - pet suicides <br>
+/pet guard here -- Makes your pet stand in one one location, which he will return to after fights. <br>
+/pet guard me  -- Pet will attack anything around you that is a NPC (Not good in Towns near Good NPC's) <br>
+/pet health report  --- this displays the current hps of your pet. <br>
+/pet who leader -- Pet will report who summoned it. <br>
+/pet report health - Your pet will tell you it's hit point status. <br>
+/pet sit down -- Causes pet to sit in one place and restmuch like you sitting down <br>
+/pet stand up -- If your pet is sitting, he will stand up. <br>
+/pet target -- Targets your pet.  [also F1] <br>
+/pet taunt - no taunt -- toggles whether your pet will taunt in battle. <br>
+/petition <msg> -- Used to request assistance for a GM.  The more detailed the  <msg> is, the quicker the assistance can be rendered. <br>
+/played -- Gives you the birthdate & hours played w/ your character. <br>
+/quit -- Exits the game immediately and makes your character go linkdead (which means it is still there for a minute or so and can be attacked).  Really only for emergency uses, such as when the boss walks into your office. <br>
+/random (x or x,y) –- Generates a random number between 0 and x, or between x and y if two numbers are stated.  This can be used to decide things randomly, for instance, who gets a recently acquired treasure. <br>
+/reply [or "r" key]  --  Sends a /tell to the last person who sent you a /tell message. <br>
+/report [name] -- sends a report to the gm containing the visible 10 lines of text from your chat window.  This is used to provide proof of harassment from other players. <br>
+/resetwindows –  Used to reset to default the locations on-screen for the different Graphical User Interface (GUI) boxes. <br>
+/reverb [ON/OFF] – Toggles the reverb (echo) sounds on or off. <br>
+/reversesound –  This command will reverse the left and right channel for your sound. <br>
+/roleplay (or /role) - Makes a character a roleplay character for those who wish to remain in character and have others know that.   If the character is +PvP, the name tag above their head will appear as a darker shade of Red, whereas a non-PvP player's name will appear purple.  When you are in roleplay, you are essentially anonymous (though your guild still shows). <br>
+/say -- you say the text to the people in the immediate vicinity.  Normally the default method of communication.  Useful if you have changed your default to group say. <br>
+/sdriver -- <br>
+/serverfilter [ON/OFF] – Allows player to turn off or on packet messages from other players, allowing for less lag in raid situations. <br>
+/shout  --  Shouts to all of the zone.  Please don't use this for private conversations.  Use /tell if you are talking to a single person or /group to talk to your group. <br>
+/shownames  [ON/OFF]  -- Turns on or off visible names above PC's and NPC's heads. <br>
+/shownpcnames  [ON/OFF] -- Turns on or off visible names above NPC's heads. <br>
+/showspelleffects [ON/OFF] – Toggles spell effects (visuals) on or off. <br>
+/sit [ON/OFF] – Causes your character to sit or stand. <br>
+/split # # # # -- Splits a defined amount of money with your group: plat, gold, silver, & copper respectively...i.e. /split 4 3 2 0 splits 4 plat, 3 gold, 2 silver, and 0 copper with the rest of the group.  All numbers must be present, use 0 for coins to not be split.  Make sure you put the zeros in there or you will split more thatn you intended. <br>
+/stopsong -- stops your song (bards). <br>
+/surname (or /sur) [name] -- After you reach level 20, you can use this command to choose your last name.  Make sure you type in exactly what you want your name to be, since you can't change it. <br>
+/tell [name]  --  Sends a message to the named character. <br>
+/time -- Gives you the time of day in Norrath.  This is another command you may want to put in your hot keys, especially if you are a human and need to know how long it is until it gets dark. <br>
+/toggleinspect [on/off] – Toggles your character's ability to inspect other players by right-clicking. <br>
+/trackfilter [Red/Yellow/White/Blue/Green] – Specify here what NPC /con colors you do not want to see in your tracking display.  For example, /trackfilter Red will remove all 'red' (dangerous) NPCs from your tracking display. <br>
+/trackplayers [ON/OFF] – Allows those with the tracking skill to indicate whether or not they want player characters to show up in their tracking list. <br>
+/tracksort – (Ranger Only) [Normal/Distance/Consider/Rdistance/Rconsider] – This is used by Rangers to control how their tracking display sorts targets.  Normal is by how long they have been in the zone (oldest NPCs first), Distance will put the closest NPC on top of the tracking list, Consider will put the highest level NPCs on top, Rdistance will  have the closest NPC listed last, Rconsider has the tracking list from low level on top to high level below. <br>
+/usercolor [Chat Type] Rvalue Gvalue Bvalue. - For example, For Guild chat to be yellow, you would type /usercolor 3 0 255 255.  This is the same as editing the TextColor portion of your Eqclient.ini file, and the list of Chat Type numbers can be found in that section of this manual. <br>
+/vrdelay [1- 5 ] – This command is used to specify the delay time for responses when using voice recognition software. <br>
+/who (or /w) [filter by following command with "all" for the entire server (all can be used in conjunction with the other filters), a class (first letter of class will do) for members of that class, a race for members of that race, a name for characters with that name,  "corpse" to list the number of corpses you have in the zone, "friends" for a list of friends online, a number for people of that level;  two numbers for a level range, "count" to know the number of people fitting a filter (/who all count gives total number in the game), "guild name" for members of a guild, GUILD for members of your guild]  --  Brings up a list of characters in your zone or on the server per your filter.  You should get familiar with using this command, since it is very useful.  If someone invites you to join type /who his name to see his race, class and level.  If you're missing a corpse, try /who b or /who n to find a bard or necromancer to ask for help.  If you're not sure you have a corpse in a zone, /who corpse will tell you.  Looking for a Cleric, try /who c.  Wondering if your friend is in the game yet, try /who all his name and it will tell you.  Looking for people within a certain level range (say 18 to 22), type /who 18 22. <br>
+/yell (or /y) -- You yell for help.  People around you will hear "XXX yelled for help from your [direction]. This is a very useful emote/command which you may want to consider hot keying. <br>
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

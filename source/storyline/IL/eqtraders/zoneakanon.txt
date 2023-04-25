@@ -1,0 +1,109 @@
+Ak Anon Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag - clockwork weaponsmith (1313,-886), clockwork weaponsmith (1330,-708 (inside metal building)) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* oven - inside palace (723, -116) <br>
+* short beer - 2 clockwork barkeeps (inside bar at 1258, -901) <br>
+* fresh fish - clockwork merchant (726, 152) <br>
+* fresh fish, water flask - clockwork grocer (2nd floor of tower at 903, -285) <br>
+* milk, water flask- clockwork merchant near Priest of Discord (482, -111), clockwork merchant (1332, -777), clockwork merchant (1290, -917), clockwork merchant (1244, -771) <br>
+(additional baking supplies in Steamfont) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* cask, bottle - clockwork merchant at 1264, -773 <br>
+* brew barrel - inside bar at 1258, -901 <br>
+* cask, shotglass, short beer, mead, brandy, gnomish spirits - clockwork barkeeps (inside bar at 1258, -901) <br>
+* water flask, bottle, mead - clockwork merchant near Priest of Discord (482, -111), clockwork merchant (1332, -777), clockwork merchant (1290, -917), clockwork merchant (1244, -771) <br>
+* flask of water - clockwork grocer (2nd floor of tower at 903, -285) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - clockwork brewmaster (1261, -918) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+fishing pole, bait - clockwork merchant on right inside main gates, clockwork merchant (1332, -777), clockwork merchant at 1287, -913, clockwork merchant near Priest of Discord, clockwork merchant at 720, 153, clockwork merchant (1244, -771) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - clockwork bowyer inside 1245, -895 <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald - two clockwork jewelers inside 1340, -906 <br>
+* malachite, lapis, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jewelers kit, Legacy of Jewelcraft - clockwork jeweler in bank (1352, -883) <br>
+* cats eye agate, hematite, jasper, peridot - clockwork merchant next to Useah Harnbock (Library Mechanamagica) <br>
+* peridot, wolfs eye agate - clockwork merchant near Tergon Brenclog (Library Mechanamagica) <br>
+* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall)) <br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* scent of marr - Clockwork Merchant (Library Mechanamagica, 1075, -1040, near Tergon Brenclog) used for celestial essence <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel, kiln - clockwork merchant inside Akanon's castle (727, -148) <br>
+* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall)) <br>
+* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol) - clockwork sketcher (756, -145) <br>
+* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, sketches (small deity, vial, lined vial, sealed vial, ceramic lining), sculpting tools, glaze mortar - Clockwork Potter (754, -173) <br>
+* clay (small block, block, large block) - clockwork miner (756, -145)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* Ak'Anon Forge - outside Forge of Defiance <br>
+* flask of water - clockwork merchant near Priest of Discord (482, -111), clockwork merchant (1332, -777), clockwork grocer (2nd floor of tower at 903, -285), clockwork merchant (1244, -771) <br>
+* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall)) <br>
+* enchant brellium - clockwork merchant (enchanter's guild) <br>
+* forge at loc 1254, -705 <br>
+* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft - clockwork miner (756, -145) <br>
+* weapon molds (spiked ball, dual-edged blade, heavy steel blade, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) - clockwork smith (2163, -544) <br>
+* molds (file, hinge, container base, container lid, small container base, small container lid, large container base, large container lid, lantern casing, needle, thimble) - clockwork merchant (1176, -742) <br>
+* small plate armor molds, small shield molds (buckler, round, targ, kite, tower), hilt mold - clockwork merchant (1217, -710) <br>
+* small chainmail patterns - clockwork armorer (1329, -733) <br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* parchment, quill, On Languages, lexicon and wizard research books- clockwork merchant next to Useah Harnbock (Library Mechanamagica) <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - clockwork merchant near Tergon Brenclog (Library Mechanamagica) <br>
+* parchment, quill, elemental grimoire, mage spell research books -  clockwork merchant near Tergon Brenclog (Library Mechanamagica) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* small sewing kit - clockwork tailor (-1312, -915) <br>
+* small sewing kit, How to Sew (small) - clockwork tailor (766,173 near entrance), two clockwork tailors (bottom floor of 968, -64), clockwork tailor (1307, -915) <br>
+* some patterns (cap/gorget/tunic/sleeves/gloves/pants/boot), small sewing kit, How To Sew (small sizes) - 2 clockwork tanners (976,-38 on 1st floor of 2nd tower past palace) <br>
+* scroll of gather shadows - Clockwork Merchant (2100,-390 necromancer guild in Mines of Malfunction) <br>
+* 10-slot loom - left from Falls and PoD (772, 159) <br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* gnomish spirits - clockwork barkeeps inside bar at 1258, -901 <br>
+* bottle - clockwork merchant at 1264, -773, clockwork merchant (by Priest of Discord at 482,-111), clockwork merchant (1332, -777) <br>
+* large black lodestone, grease, metal rod, toolbox, Journal Of Gimbelstan XI and XXXIII - Rylin Coil (1471,-187 at bottom of waterfalls) <br>
+* lockpicks - a clockwork rogue (1181, -563 inside rogue guild behind secret door in Abbey Of Deep Musing (cleric guild hall)) <br>
+* large lantern, water flask - clockwork merchant near Priest of Discord (482, -111), 2 clockwork merchants by Forge of Defiance, clockwork merchant (1290, -917), clockwork merchant (1244, -771) <br>
+* Advanced Tinkering Armor Manual - Zeneral Ottonoggir (1304, -723)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

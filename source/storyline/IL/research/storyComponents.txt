@@ -1,0 +1,170 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Bolts of Tallon<br> 
+<c "#0088ff">Scars of Sigil (Magician 54)<br>
+Eye of Tallon (Magician 57)<br>
+Spirit of Oak (Druid 59)<br>
+Maelstrom of Electricity (Magician 59)<br>
+Blessed Armor of the Risen (Cleric 58)<br>
+
+<br><c "#00ff00">Card of Bristlebane<br>
+<c "#0088ff">Bristlebane's Bundle (Magician 52)<br>
+Mask of the Hunter (Druid 60)<br>
+Monster Summoning III (Magician 60)<br>
+Mala (Magician 60)<br>
+Talisman of Shadoo (Shaman 53)<br>
+Banishment (Magician 60)<br>
+Aegolism (Cleric 60)<br>
+
+<br><c "#00ff00">Coin of Xev<br>
+<c "#0088ff">Gift of Xev (Magician 51)<br>
+Quiver of Marr (Magician 51)<br>
+Girdle of Karana (Druid 55)<br>
+Nature Walker's Behest (Druid 55)<br>
+Talisman of Jasinth (Shaman 51)<br>
+Marzin's Mark (Cleric 60)<br>
+
+<br><c "#00ff00">Dew Clover<br>
+<c "#0088ff">Levitation (Druid 51)<br>
+Upheaval (Druid 51)<br>
+Spirit of Scale (Druid 53)<br>
+Frost (Druid 57)<br>
+Eye of Tallon (Magician 57)<br>
+Regrowth of the Grove (Druid 58)<br>
+Mask of the Hunter (Druid 60)<br>
+Mask of the Stalker (Druid 60)<br>
+Nature's Recovery (Druid 60)<br>
+Greater Vocaration:Water (Magician 60)<br>
+Levitation (Shaman 51)<br>
+Upheaval (Cleric 52)<br>
+Spirit of Scale (Shaman 52)<br>
+Word of Restoration (Cleric 57)<br>
+Talisman of Epuration (Shaman 58)<br>
+Talisman of the Raptor (Shaman 59)<br>
+Ethereal Elixir (Cleric 60)<br>
+
+<br><c "#00ff00">Etched Signet<br>
+<c "#0088ff">Tunare's Request (Druid 55)<br>
+Velocity (Magician 55)<br>
+Breath of Karana (Druid 56)<br>
+Circle of Seasons (Druid 58)<br>
+Transom's Elemental Renewal (Magician 58)<br>
+Aegis of Ro (Magician 60)<br>
+Spirit Quickening (Shaman 50)<br>
+Naltron's Mark (Cleric 58)<br>
+Talisman of the Serpent (Shaman 58)<br>
+Blessing of Aegolism (Cleric 60)<br>
+Khura's Focusing (Shaman 60)<br>
+
+<br><c "#00ff00">Finnok's Treatise Page 2 (Left)<br> 
+<c "#0088ff">Hammer of Souls (Cleric 60)<br>
+Spirit of The Howler (Shaman 55)<br>
+Hammer of Divinity (Cleric 58)<br>
+Hammer of Judgement (Cleric 56)<br>
+Zurnaik's Animation (Enchanter 55)<br>
+Zurnaik's Animation (Enchanter 55)<br>
+
+<br><c "#00ff00">Flake of Loadstone<br>
+<c "#0088ff">Circle of Summer (Druid 52)<br>
+Manastorm (Magician 54)<br>
+Ro's Smoldering Disjunction (Druid 56)<br>
+Moonfire (Druid 60)<br>
+Banishment (Magician 60)<br>
+Shock of fiery Blades (Magician 60)<br>
+Insidious Decay (Shaman 52)<br>
+Stun Command (Cleric 55)<br>
+Spirit of The Howler (Shaman 55)<br>
+Paralyzing Earth (Cleric 56)<br>
+Hammer of Judgement (Cleric 56)<br>
+Ethereal Remedy (Cleric 59)<br>
+Pox of Bertoxxulous (Shaman 59)<br>
+
+<br><c "#00ff00">Flame of Fennin<br>
+<c "#0088ff">Greater Vocaration: Fire (Magician 55)<br>
+Burnout IV (Magician 55)<br>
+Shock of fiery Blades (Magician 60)<br>
+Aegis of Ro (Magician 60)<br>
+Fortitude (Cleric 55)<br>
+Rage of Zomm (Magician 56)<br>
+
+<br><c "#00ff00">Keris' Dissertation Page 5 (Left)<br> 
+<c "#0088ff">Color Slant (Enchanter 52)<br>
+
+<br><c "#00ff00">Keris' Dissertation Page 5 (Right)<br> 
+<c "#0088ff">Color Slant (Enchanter 52)<br>
+
+<br><c "#00ff00">Keris' Dissertation Page 7 (Left)<br> 
+<c "#0088ff">Illusion: Vah Shir (Enchanter 54)<br>
+
+<br><c "#00ff00">Keris' Dissertation Page 7 (Right)<br> 
+<c "#0088ff">Illusion: Vah Shir (Enchanter 54)<br>
+
+<br><c "#00ff00">Mist of Povar<br>
+<c "#0088ff">Call of Karana (Druid 52)<br>
+Greater Vocaration:Water (Magician 60)<br>
+Primal Essence (Shaman 52)<br>
+Muzzle of Mardu (Magician 54)<br>
+Vocerate: Water (Magician 55)<br>
+Velocity (Magician 55)<br>
+
+<br><c "#00ff00">Primordial Substance<br>
+<c "#0088ff">Glamour of Tunare (Druid 53)<br>
+Form of the Howler (Druid 54)<br>
+Greater Vocaration: Air (Magician 56)<br>
+Maelstrom of Electricity (Magician 59)<br>
+Monster Summoning III (Magician 60)<br>
+Circle of Winter (Druid 51)<br>
+Muzzle of Mardu (Magician 54)<br>
+Bane of Nife (Shaman 56)<br>
+Antidote (Cleric 58)<br>
+
+<br><c "#00ff00">Runed Emblem <br>
+<c "#0088ff">Greater Vocaration: Fire (Magician 55)<br>
+Wake of Karana (Druid 56)<br>
+Transom's Phantasmal Protection (Magician 57)<br>
+Protection of the Glades (Druid 60)<br>
+Blizzard (Druid 54)<br>
+Regrowth of Dar`Khura (Shaman 56)<br>
+Talisman of The Cat (Shaman 57)<br>
+Aegolism (Cleric 60)<br>
+Marzin's Mark (Cleric 60)<br>
+Primal Avatar (Shaman 60)<br>
+
+<br><c "#00ff00">Scales of Veeshan <br>
+<c "#0088ff">Manastorm (Magician 54)<br>
+Greater Vocaration: Air (Magician 56)<br>
+Aegis (Cleric 57)<br>
+Legacy of Thorn (Druid 59)<br>
+Wrath of Elements (Magician 60)<br>
+
+<br><c "#00ff00">Sliver of Moonstone <br>
+<c "#0088ff">Everlasting Breath (Druid 51)<br>
+Dyzil's Deafening Decoy (Magician 56)<br>
+Mala (Magician 60)<br>
+Everlasting Breath (Shaman 51)<br>
+Reckoning (Cleric 54)<br>
+Voice of the Berserker (Shaman 59)<br>
+
+<br><c "#00ff00">Staff Shard of Luclin <br>
+<c "#0088ff">Bandoleer of Luclin (Magician 54)<br>
+Dyzil's Deafening Decoy (Magician 56)<br>
+Heroic Bond (Cleric 52)<br>
+Form of The Great Bear (Shaman 55)<br>
+Hammer of Judgement (Cleric 56)<br>
+Hammer of Divinity (Cleric 58)<br>
+Call of the Hero (Magician 60)<br>
+Hammer of Souls (Cleric 60)<br>
+Malo (Shaman 60)<br>
+
+<br><c "#00ff00">Writ of Quellious <br>
+<c "#0088ff">Transom's Phantasmal Protection (Magician 57)<br>
+Transom's Elemental Renewal (Magician 58)<br>
+Word of Vigor (Cleric 52)<br>
+Pouch of Quellious (Magician 53)<br>
+Blessing of Aegolism (Cleric 60)<br>
+
+
+

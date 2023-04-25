@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/469.txt">Frost Giant Steak</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(142)&nbsp;&nbsp;&nbsp;(Frost Giant Meat, Jug of Sauces, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/470.txt">Frost Giant Steak</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(142)&nbsp;&nbsp;&nbsp;(Algae Spices, Frost Giant Meat, Jug of Oyster Sauces) <br>

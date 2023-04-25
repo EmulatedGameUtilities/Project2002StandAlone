@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/463.txt">Beer Braised Mammoth</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68)&nbsp;&nbsp;&nbsp;(Algae Spices, Mammoth Meat, <a HREF="file:///storyline/il/eqtraders/Brewing/items/611.txt">Othmir Short Beer</a>) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/289.txt">Beer Braised Mammoth</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68)&nbsp;&nbsp;&nbsp;(Mammoth Meat, Short Beer, Spices) <br>

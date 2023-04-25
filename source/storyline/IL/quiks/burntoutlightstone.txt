@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Burnt Out Lightstone</c><br>
+Vendor: NPC Drop<br>
+Location: Various "Wisps" of Antonica<br>
+Poison: Shadowveil Hemlock<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

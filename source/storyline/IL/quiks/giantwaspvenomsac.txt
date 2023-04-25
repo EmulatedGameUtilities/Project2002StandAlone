@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Giant Wasp Venom Sack</c><br>
+Vendor: NPC Drop<br>
+Location: Giant Wasps in Misty Thicket / Lesser & Greater Faydark<br>
+Poison: Delusional Swiftness / Giant Wasp Venom / Sweet Lathyris<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

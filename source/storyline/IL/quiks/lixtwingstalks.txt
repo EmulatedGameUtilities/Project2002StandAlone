@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Lixt Wing Stalks</c><br>
+Vendor:  NPC Drop<br>
+Location: Snow Orcs in Everfrost<br>
+Poison: Languid Lixtwing<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

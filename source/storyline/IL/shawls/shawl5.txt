@@ -1,0 +1,81 @@
+#5: Silk Coldain Prayer Shawl<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+========================  <br><br>
+
+All information compiled from www.EQTraders.com    <br><br>
+
+<a HREF="file:///storyline/il/storyShawls.txt"> Thurgadin Shawls Quest - main index </a> <br><br>
+
+========================  <br><br>
+
+QUICK REFERENCE LIST: <br><br>
+ 
+HIGHEST SKILL TRIVIALS - Tailoring: 115  <br><br>
+
+DROPS TO COLLECT <br> 
+75 Crystalline Threads  <br>
+5 Glowing Wurm Bile (non-stackable) <br><br>
+
+========================  <br><br>
+
+NPC TEXT  <br><br>
+
+Ask LOREMASTER BORANNIN, "What can I do to further advance my reputation with the coldain?" <br><br>
+
+Loremaster Borannin says, "Yournamehere! Thank Brell you're here. I was about to send one of my Lorekeepers looking for you. It appears that the information Tanik acquired is most perilous indeed. The Dain has called an emergency session of the council and I must attend. We don't have the luxury of waiting for an appropriate task to arise, you must advance as soon as possible. Unfortunately, I have neither the time, nor the components to fashion the next few shawls for you. Ask Rexx Frostweaver about the prayer shawl and follow his direction carefully." <br><br>
+
+You say, "Hail Rexx Frostweaver"  <br><br>
+
+REXX FROSTWEAVER says "Hmmm, ye be one o them offlanders, don't ye? I've heard some strange tales o yer kind so don't be tryin' any funny business with me. I know the value of a platinum piece and I'll not get cheated by yer foreign coin." <br><br>
+
+You say, "I am here for the next prayer shawl." <br><br>
+
+Rexx Frostweaver says, "Gather five strands of CRYSTALLINE SILK THREAD and combine them in a sewing kit to make a CRYSTALLINE SILK FIBER. Take this container and combine a GLOWING SHARDWURM BILE with three of the fibers to form a piece of GLOWING CRYSTALLINE SILK. Five pieces of glowing crystalline silk sewn to your FUR-LINED SHAWL will yield a beautiful SILK SHAWL. Become a master in the art of tailoring before risking all you've worked for and be sure to let me inspect your work when it's complete."  <br><br>
+
+Receive: BILE SOAKER   <br><br>
+
+========================  <br><br> 
+
+Alrighty...we need 5 GLOWING WURM BILES and 75 CRYSTALLINE THREADS. First, we combine the threads in sets of five to make crystalline fibers. Then we combine three fibers each with a bile in the glowing bile soaker that Rexx (located among the merchants in the bank) so kindly provides, to make five glowing crystalline silks. Then we combine those five glowing crystalline silks with our fur-lined shawl. There are a few steps but they're pretty simple, right? <br><br>
+
+Biles: These are dropped by all kinds of SHARDWURMS in GREAT DIVIDE...young, guardian, elder, ancient...you name it. So, you could go out and just start randomly slaughtering them, in which case they will be a very rare drop. Or, you could take advantage of a fantastic feature and look for the wurms that glow! After all, this is *glowing* wurm bile that we seek, is it not? Unless you have another reason to kill wurms (needing spell drops or getting exp) then I recommend you wait until nightfall and look for the wurms that glow. You need to be careful, because if they are standing near the velium river, spikes of velium on the ground, campfires, or torches in the tunnels, then they may sometimes appear to glow when they have no bile, or may not seem to be glowing when they do have it. So I focused on the wurms outside of the tunnels. There are many of them that roam around to the south of the tunnels, and plenty from there around over to the dragon ring (the teleport spot). So I just ran around at night looking for glowing wurms. They are still pretty rare, I averaged one bile for every one or two (game) nights that I looked. If there are a lot of people looking at the same time, then you might find even less. If there are people out hunting them who are not looking for them, then you might find even more because they'll be respawning as they're killed. It all depends. If you have trouble finding them, kill a few here and there to refresh the population for yourself and others, and hopefully get some glowing ones to spawn. <br><br>
+
+Some people have reported that they absolutely cannot see the glow. Make sure that you have your dynamic lighting on ("/dynamiclights on"). You could test to be sure by heading back to Antonica and finding a wisp. If you see the wisp glow at night, then my guess would be that there isn't any reason why you wouldn't see the wurm glow too. If you are of a race gifted with good night vision, you can also try turning your gamma all the way down. This will make the world in general very dark and help any light sources stand out better. In the new UI go into your Options on the Window Selector, under the Display tab. The Gamma slider should be at the top right. In the old UI I'm not sure exactly where it is but it should be under your Options as well. <br><br>
+
+It is imperceptible during the day, however, so I highly recommend that you spare yourself the heartache of looking during the day and just do it at night. Either way, killing wurms will make new ones spawn and hopefully bring out some new ones with biles. So if you are having trouble finding any, try killing some and see if ones with biles don't turn up eventually.  <br><br>
+
+Crystalline Threads: These drop off of CRYSTALLINE SPIDERS in VELKETOR'S LABYRINTH. As these spiders are right at the zone and all give experience all the way up to level 60, this is a very popular place for high levels.  There are several varieties of spiders in Velks: crystalline spiders, blizzard spiders, and shard spiders. The crystallines are the only ones that drop threads, and are the easiest of the three. Only a few rare spiders called crystalline hunters or blizzard hunters (I don't think there are shard hunters) can see invis. So, you are almost completely safe moving about the spider area with invis up, just watch for the hunters. Shortly after spawning the spiders also invis themselves, so make sure you have some form of see invis on if you want to know where they are. The ground level area is otherwise pretty straightforward, except for an icy patch just past the big mound of snow that is straight ahead from the bottom of the ramp at zone-in. Piece of cake. <br><br>
+
+========================  <br><br>
+
+Combine in tailoring kit: 5 Crystalline Silk Threads = 1 Crystalline Fiber (trivial 51) <br>
+Combine in Glowing Bile Soaker: 3 Crystalline Fibers + 1 Glowing Wurm Bile = Glowing Silk Piece (never fails) <br><br>
+
+Combine in tailoring kit: 5 Glowing Silk Pieces + Fur-lined Coldain Prayer Shawl = Silk Coldain Prayer Shawl (trivial 115) <br><br>
+
+Note that if you fail at the final combine here, you will get your fourth shawl back. The same goes for the final combines for the sixth and seventh, you will always get your previous shawl back if the attempt to make a new one fails. Also, you can trigger Rexx to give you the Glowing Bile Soaker with the key words "I am here for the next prayer shawl", so if you would rather not lug this thing around, you can destroy it after use and keep going back for another one when you need it.  <br><br>
+
+Give Rexx Frostweaver: SILK COLDAIN PRAYER SHAWL  <br><br>
+
+Rexx Frostweaver says, "Splendid, Yournamehere, this is beautiful workmanship! As the Grand Historian may have mentioned, our esteemed Dain Frostreaver the fourth is making some important plans with his council. These plans will doubtlessly include you if the Dain deems you worthy."  <br><br>
+
+Receive: SILK COLDAIN PRAYER SHAWL <br><br>
+
+STATS: AC+5 Wis+5 Int+5 Cha+5 FR+5 CR+5  Weight: 2.0 all/all, magic, lore, no drop <br><br>
+
+
+========================  <br><br>
+
+<a HREF="file:///storyline/il/storyShawls.txt"> Thurgadin Shawls Quest - main index </a> <br><br>
+
+========================  <br><br>
+
+Quest info last updated 4/7/03  by Verdandi as posted on the www.EQTraders.com website <br><br>
+
+Formatted for EQ StoryWindows by www.meryddian.net (5/03) <br>
+
+
+
+
+
+

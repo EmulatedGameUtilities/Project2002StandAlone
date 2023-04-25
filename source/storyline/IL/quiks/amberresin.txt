@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Amber Resin</c><br>
+Skill: Poison Making<br>
+Combine: 1x Amber & 1x Gnomish Spirits<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: Anger of Incapacitation / Bixie Sting / Confusing Dreams / Crushed Vein / Itching Madness / Dreams of Drusella / Mental Burn / Mental Implosion / Spine Bruiser / Sting of the Shissar / Withering Flesh / Zombie Bane
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

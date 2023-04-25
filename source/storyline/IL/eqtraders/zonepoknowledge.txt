@@ -1,0 +1,117 @@
+Plane of Knowledge Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Mirao Frostpouch (-88, -207) <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb, tanaan gingko, erudition vine - Severg ODanos (-22, 1375) <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, clover, dhea, heliotrope, oakmoss, sandalwood - Serin ODanos (-45, 1362), Derin ODanos (-65, 1375) <br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* water flask, fresh fish - Wilcaor Goldenmead (-41, -162), Ramos Jerwan (-21, 1433) <br>
+* water flask, bottle of milk, rennet, Snoworb's Dairy Diary, Wandering Drogard's Brew Book v.1, Wandering Drogard's Brew Book v.2, Brother Dreymoon's Meditations - Ferin Lightfoot (-110, -166), Amile Pitt (-297, 803) , Peras Glickon (-59, 1530) <br>
+* bat wings - Darius Gandril <br>
+* spices, garnish, sauces, vinegar, frosting, flour, milk, spit, mixing bowl, bread - Culkin Ironstove (-104, 271)<br>
+* books: Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelin's Quick Treats, Binelin's Succulence, Ghumim's Delights, Ghumim's Classical Dishes, Xectia's Favored Flavors, Xectia's Hot Pie, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go, Sorin's Tasty Kills - Tranus Ironstove (-109, 247) <br>
+* spit - Savet Ironstove (-103, 293) <br>
+* tanaan oven -85, 264; -89, 231 <br>
+* lettuce, water flask, Zlizor's Exotic Delicacies, cup of sugar - Klen Ironstove (-86, 238) <br>
+* mixing bowl, lettuce, water flask - Perago Crotal (21, 248) <br>
+* bread, water flask, bottle of milk, rennet - Vuli Ironstove (-20, 249) <br><br>
+
+
+<c "#00CC00">Brewing </c><br>
+* mistletoe - Mirao Frostpouch (-88, -207) <br>
+* water flask, mead, bottle - Ferin Lightfoot (-110, -166), Peras Glickon (-59, 1530), Amile Pitt (-297, 803) <br>
+* red wine, water flask - Klen Ironstove (-86, 238) <br>
+* tanaan brew barrel - 86, 261, 15, 204 <br>
+* barley, hops, yeast, wine yeast, rice, malt, Nature's Beverages, bottle, shotglass, cask, grapes - Basur TuQual (107, 259), Bargol Halith (85, 233) <br>
+* barley, hops, yeast, wine yeast, rice, malt, paeala sap, bottle, shotglass, cask, paeala bark, emerald tea leaf - Sirekoth Eshe (103, 280) <br>
+* barley, hops, yeast, wine yeast, rice, malt, Nature's Beverages - Merabo Sotath (105, 302) <br>
+* bottle, water flask, mead - Vuli Ironstove (-20, 249) <br>
+* soda, fishing grubs, gnomish spirits - Caden Zharik (-344, 756) <br><br>
+
+
+<c "#00CC00">Fishing </c><br>
+* tacklebox, hooks (3), bait, catch-a-lot-bait - Ramos Jerwan (-21, 1433) <br>
+* tacklebox, hooks (3), bait, catch-a-lot-bait, fishing pole - Daeld Atand (10, 1433) <br>
+
+
+<c "#00CC00">Fletching </c><br>
+* hickory bow staff, elm bow staff, ashwood bow staff, oak bow staff, darkwood bow staff, shadewood bow staff, whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, Planar Fletching Kit, A Bowyer's Guide, clump of wax, cam parts mold - Ellis Cloudchaser (-132, 1457) <br>
+* arrow heads (3), arrow shafts (3), fletchings (3), arrow vanes (3), groove nocks (3), Fletching book, Planar Fletching Kit, Tailoring Quivers - Jaren Cloudchaser (-88, 1471) <br><br>
+
+<c "#00CC00">Jewelcraft </c><br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Darius Gandril (52, 1530) <br>
+* silver/electrum/gold/platinum bars, fire opal, star ruby, fire emerald, planar jeweller's kit, blank emblem - Noirin Khalen (-85, 325), Audri Deepfacet (405, 756) <br>
+* carnelian, malachite, lapis lazuli, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, jade, pearl, topaz, cat's eye agate, onyx, peridot, emerald, opal, fire opal, sapphire, ruby - Kirem Deepfacet (419, 768) <br>
+* amber - Ciren Darkbog (-131, 1421) <br><br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* celestial solvent - Darius Gandril (52, 1530) <br>
+* sketch book(?), suspension, constrict suspension, larent suspension, scent of marr, poison vial, lined poison vial, sealed poison vial, creeper ivy, ivory poppy, delphinium - Loran Thu`Leth (-112, 1407) <br>
+* mortar and pestle, suspension, larent suspension, constrict suspension, poison vial, lined poison vial, sealed poison vial, mercuric ore - Ciren Darkbog (-131, 1421) <br>
+* An Old Delivered Book, mortar and pestle, suspension, larent suspension, constrict suspension, poison vial, lined poison vial, sealed poison vial, coyotetail, thorny ergot, alocasia root, lactera, delphinium - Telir Na`Shalith (-116, 1437) <br><br>
+
+
+<c "#00CC00">Pottery </c><br>
+* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch - Bemil Takoth (-49, 329 ) <br>
+* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch, advanced vial sketch - Gligo Muddypants (385, 868) <br>
+* tanaan kiln at 336, 819, at 372, 989, at 353, 999 <br>
+* tanaan pottery wheel at 336, 796 <br>
+* small block of clay, block of clay, large block of clay, firing sheet (3), glass shard, Basic Pottery book, vial sketch, lined vial sketch, sealed vial sketch, sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, glaze lacquer - Elisha Dirtyshoes (392, 940) <br>
+* small block of clay, block of clay, large block of clay - Szrix Hammertail (129, 1377) <br>
+* small block of clay, block of clay, large block of clay, block of Tanaan clay - Tallis Paerk (67, 1388) <br>
+* Planar Steins - Caden Zharik (-344, 756) <br><br>
+
+
+<c "#00CC00">Smithing </c><br>
+* baking molds (4 cookie cutter, muffin tin, pie, tin, cake round, skewers, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing book - Savet Ironstove (-103, 293) <br>
+* large (banded) armor molds, Basic Blacksmithing, Armor and Weapons Guide, lantern casing mold, About Northman Ringmail - Dalin Greskar (-35, 325) <br>
+* large plate armor molds, large shield molds (buckler, round, targ, kite, tower), hilt mold - Boiron Ston (26, 323) <br>
+* (medium) plate armor molds, (medium) shield molds (buckler, round, targ, kite, tower), hilt mold - Magnar Quok (45, 327), Horil Imsin (396, 1087) <br>
+* weapon molds: dual-edged blade, heavy steel blade, spiked ball, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head - Glena Quok (74, 323) <br>
+* small brick of high quality ore, large brick of high quality ore, block of high quality ore, small brick medium quality ore, large brick medium quality ore, block medium quality ore, water flask, smithy hammer - Yeril Imsin (439, 1070) <br>
+* small (banded) molds - Radie Imsin (425, 1084) <br>
+* thimble mold, needle mold - Tratlan Matrick (124, 1461) <br>
+* tanaan forge at 94, 1438, at -423, 560, at -397, 479, at -400, 435 <br>
+* large chainmail patterns - Zosran Hammertail (132, 1431) <br>
+* hinge mold, container base mold, container lid mold, small container base mold, small container lid mold, large container base mold, large container lid mold, lantern casing mold, file mold, thimble mold, needle mold, toolbox mold, bucket mold - Kertak Hammertail (134, 1417) <br>
+* small chainmail patterns - Jahzo Hammertail (89, 1368) <br>
+* small piece of ore, small brick of ore, large brick of ore, sharpening stone, smithy hammer, smithing chisel, forging hammer - Szrix Hammertail (129, 1377) <br>
+* small piece of ore, small brick of ore, large brick of ore, sharpening stone, smithy hammer, smithing chisel, forging hammer, tanaan smithing hammer - Tallis Paerk (67, 1388) <br>
+* (medium) chainmail patterns - Halena Paerk (72, 1374) <br>
+* medium quality sheet metal, block of medium quality ore, small brick medium quality ore, large brick medium quality ore, smithy hammer, How to Dye and Stain book, jar of lacquer, resin, empty vial, jar of acid - Kanio Paerk (15, 1367) <br>
+* cam parts mold - Ellis Cloudchaser (-132, 1457) <br>
+* arrow shaft mold - Jaren Cloudchaser (-88, 1471) <br>
+* small plate armor molds, small shield molds, hilt mold - Wegal Darkanvil (-454, 554) <br>
+* (medium banded) molds, sheet metal, Basic Blacksmithing book, Armor & Weapons Guide - Kaleras Darkanvil (-441, 560) <br>
+* full plate armor molds, The Legend of Full Plate (book), superb leather padding - Borik Darkanvil (-370, 497) <br>
+* large (banded) molds, Basic Blacksmithing book, Armor & Weapons Guide - Merin Darkanvil (-373, 490) <br>
+* cam parts mold - Ellis Cloudchaser (-132, 1457) <br><br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* all tailoring patterns, large sewing kit - Higwyn Matrick (128, 1480) <br>
+* tanaan loom at 142, 1457, at 85, 1477 <br>
+* patterns: fleeting quiver, quiver, backpack, mask, gorget, cloak, belt, shoulderpad, whip, wristband; How To Sew (3), Planar Sewing Kit - Tratlan Matrick (124, 1461) <br>
+* How To Sew (3), Tailoring book, Tailoring Quivers book, small sewing kit, Master Wu's Tailoring Secrets, Tanaan Embroidery Needle - Sherin Matrick - 85, 1477 <br>
+* clump of wax - Ellis Cloudchaser (-132, 1457) <br><br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* gnomish spirits - Caden Zharik (-344, 756) <br>
+* metal rod, cork, grease, steel lined gloves, metal shaft, spriket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, toolbox, silk lined steel helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, metal fastening, fine coral mesh, sharkskin tubing, lime coated meshing - Tabben Bromal (-387, 538) <br>
+* Journal of Gimblestan XI, Journal of Gimblestan XXXIII, large black lodestone, grease, metal rod, toolbox - Saria Bromal (-383, 558) <br>
+* mana battery - class one, mana battery - class two, mana battery - class three, mana battery - class four, mana battery - class five, deluxe toolbox, cogs - Nelin Signus (403, 841) <br><br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

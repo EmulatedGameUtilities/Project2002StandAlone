@@ -1,0 +1,269 @@
+<c "#FF2400">Fletching Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+You need a High INT, WIS or DEX to skill fast.
+I personaly went with Acrylia arrows past 202. Found it not to expensive myself, compared with making bows. (Acrylia arrows bellow the first guide by Hyrel of The Bristlebane Server)
+
+Fletching to 250!
+<BR><c "#9900CC">Fletching to 250! ~ The fast and cheap way</c><br><br>
+
+<c "#FFFFFF"><Arrows: Skill 1 - 202><br><br>
+
+<c "#FF0066">Trival
+<c "#000000">-----------
+<c "#FF0066">Point
+<c "#000000">-----------
+<c "#FF0066">Shaft
+<c "#000000">-----------
+<c "#FF0066">Fletch
+<c "#000000">-------------
+<c "#FF0066">Nock<br>
+
+<c "#000000">--
+<c "#FFCCCC">16
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Round
+<c "#000000">------------
+<c "#FFCCCC">Large<br>
+
+<c "#000000">--
+<c "#FFCCCC">36
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Round
+<c "#000000">------------
+<c "#FFCCCC">Medium<br>
+  
+<c "#000000">--
+<c "#FFCCCC">46
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Para
+<c "#000000">---------------
+<c "#FFCCCC">Small<br>
+
+<c "#000000">--
+<c "#FFCCCC">56
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Round
+<c "#000000">------------
+<c "#FFCCCC">Small<br>
+
+<c "#000000">--
+<c "#FFCCCC">68
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Bone
+<c "#000000">-----------
+<c "#FFCCCC">Round
+<c "#000000">------------
+<c "#FFCCCC">Large<br>
+
+<c "#000000">--
+<c "#FFCCCC">82
+<c "#000000">------------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Shield
+<c "#000000">-------------
+<c "#FFCCCC">Large<br>
+
+<c "#000000">-
+<c "#FFCCCC">102
+<c "#000000">-----------
+<c "#FFCCCC">Hooked
+<c "#000000">-------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Round
+<c "#000000">-------------
+<c "#FFCCCC">Large<br>
+
+<c "#000000">-
+<c "#FFCCCC">122
+<c "#000000">-----------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Wood Vane
+<c "#000000">------
+<c "#FFCCCC">Large<br>
+ 
+<c "#000000">-
+<c "#FFCCCC">135
+<c "#000000">-----------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Ceramic
+<c "#000000">------
+<c "#FFCCCC">Para
+<c "#000000">----------------
+<c "#FFCCCC">Large<br>
+
+<c "#000000">-
+<c "#FFCCCC">162
+<c "#000000">-----------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Bone Vane
+<c "#000000">-------
+<c "#FFCCCC">Large<br>
+ 
+<c "#000000">-
+<c "#FFCCCC">202
+<c "#000000">-----------
+<c "#FFCCCC">Field
+<c "#000000">-----------
+<c "#FFCCCC">Wood
+<c "#000000">----------
+<c "#FFCCCC">Ceramic Vane
+<c "#000000">---
+<c "#FFCCCC">Large</c><br><br>
+
+<c "#008080">*all of these componants can be found at any fletching vender</C><br><br>
+
+<c "#FFFFFF"><Bows: skill 203 - 250><br><br>
+
+<c "#FF0066">Trival
+<c "#000000">------
+<c "#FF0066">Staff
+<c "#000000">---------------
+<c "#FF0066">String
+<c "#000000">-----------
+<c "#FF0066">Tool
+<c "#000000">-----------
+<c "#FF0066">Cam(s)<br>
+
+<c "#000000">-
+<c "#FFCCCC">215
+<c "#000000">-------
+<c "#FFCCCC">Darkwood
+<c "#000000">-------
+<c "#FFCCCC">Hemp
+<c "#000000">-----------
+<c "#FFCCCC">_
+<c "#000000">---------------
+<c "#FFCCCC">_<br>
+ 
+<c "#000000">-
+<c "#FFCCCC">235
+<c "#000000">-------
+<c "#FFCCCC">Darkwood
+<c "#000000">-------
+<c "#FFCCCC">Hemp
+<c "#000000">-----------
+<c "#FFCCCC">_
+<c "#000000">---------------
+<c "#FFCCCC">Two<br>
+
+<c "#000000">-
+<c "#FFCCCC">250
+<c "#000000">-------
+<c "#FFCCCC">Shadewood
+<c "#000000">-----
+<c "#FFCCCC">Hemp
+<c "#000000">-----------
+<c "#FFCCCC">_
+<c "#000000">---------------
+<c "#FFCCCC">_</c><br><br>
+
+<c "#008080">*These Items can be bought from the fletching Vender in Plane of Knowledge</C><br><br>
+
+<c "#FFFFFF">Congratulations! You are now a Master Fletcher!<br><br>
+
+~ Brought to you by Hyrel of The Bristlebane Server ~ <br> <br>
+-----------------------------------------------------------------
+<br>
+
+The Arrowheads<br>
+There are 3 different types available, the Condensed Shadow, Condensed Ice, and Condensed Flame.  They are created using the Smithing skill, in a forge.  The components require chunks of Condensed Shadow, Condensed Ice, and Condensed Flame, respectively.  The trivial value appears to be somewhere near 140.  The exact recipes are as follows:<br>
+<br>
+ Chunk of Condensed Shadow + Water + File = 2 x Condensed Shadow Arrowheads + File <br>
+ Chunk of Condensed Ice + Water + File = 2 x Condensed Ice Arrowheads + File <br>
+ Chunk of Condensed Flame + Water + File = 2 x Condensed Flame Arrowheads + File <br>
+<br>
+Chunks of Condensed Shadow appear to drop in numerous locations.  They are rather common from the toilers in Maiden's Eye.  They also appear to drop from shak dratha's (what's the plural of "dratha"?  Drathas?  Drathi?  Dreeth?), and possibly other places.  Chunks of Condensed flame can be had from the Tro Jeg aliens in Scarlet Desert, among other places.  Chunks of Condensed Ice can be found from the little blue alien guys in Twilight Sea.<br>
+<br>
+The Arrowshafts<br>
+Bundled Acrylia Arrow Shafts are also created using the smithing skill, in a forge.<br>
+<br>
+ Small Brick Acrylia + Arrowshaft mold + Water = 2 x Bundled Acrylia Arrow Shafts + File <br>
+<br>
+The trivial value appear to be somewhere near 110.  Oddly, the current recipe generates a file.  I am guessing this is a mistake in the implementation of this particular recipe.  The small bricks of Acrylia drop from the grimlings in Tenebrous Mountains, but the drop rate seems to be annoyingly rare.<br>
+<br>
+The Arrows<br>
+The arrows are created using the fletching skill, in a fletching kit.  It would appear that these arrows have a trivial value in excess of 250.<br>
+<br>
+ Condensed Shadow Arrowhead + Acrylia Shaft + Shield Fletch + Small Nock = 10 x 10/125 arrows, +4 vs Magic <br>
+ Condensed Ice Arrowhead + Acrylia Shaft + Shield Fletch + Small Nock = 10 x 10/125 arrows, +4 vs Cold <br>
+ Condensed Flame Arrowhead + Acrylia Shaft + Shield Fletch + Small Nock = 10 x 10/125 arrows, +4 vs Fire <br>
+<br>
+The end result is a stack of ten damage 10, range 125 arrows, with the damage bonuses versus certain types of creatures as shown.<br>
+<br>
+"Thanks to Aoenla Darkwood,
+Ranger, Tunare Server (http://mywebpages.comcast.net/aoenla/fletchguide/index.html) for the Acylia arrows recipies.<br>"
+<br>
+------------------<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

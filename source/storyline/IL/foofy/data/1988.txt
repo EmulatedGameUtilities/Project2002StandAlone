@@ -1,0 +1,2 @@
+Open Purple Box
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Item: a Mischievous Dazzler doll<br><br><c "#66CCFF">Casting Time:</c> 0.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 0.0<br><c "#66CCFF">Recast Time:</c> 0.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Conjuration<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>

@@ -1,0 +1,140 @@
+Quikfingers of Zebuxoruk v1.1<br>
+Poison Ingredients Tables (10-22-03)<br>
+<br>
+<c "#00FFFF">- = [ 0 - 95 Skill Poisons ] = -</c><br>
+--------------------------------------<br>
+<br>
+Name: <c "#FF0000">Spider Venom</c><br>
+Type: Weaken<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 20<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/spidervenomsac.txt">Spider Venom Sac</a><br>
+<br>
+Name: <c "#FF0000">Giant Wasp Venom</c><br>
+Type: Contact<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 20<br>
+Ingredients: 3x <a href="file:///storyline/il/quiks/giantwaspvenomsac.txt">Giant Wasp Venom Sac</a><br>
+<br>
+Name: <c "#FF0000">Regalis Poison</c><br>
+Type: Weaken<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 22<br>
+Ingredients: <a href="file:///storyline/il/quiks/froglokpoisongland.txt">Froglok Poison Gland</a> & <a href="file:///storyline/il/quiks/uriticatinghairs.txt">Uriticating Hairs</a><br>
+<br>
+Name: <c "#FF0000">Snake Venom</c><br>
+Type: Injected<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 23<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/snakevenomsac.txt">Snake Venom Sac</a><br>
+<br>
+Name: <c "#FF0000">Asp Poison</c><br>
+Type: Contact<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 24<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/asppoisonsac.txt">Asp Poison Sac</a><br>
+<br>
+Name: <c "#FF0000">Retinal Deactivator</c><br>
+Type: Blind<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 24<br>
+Ingredients: <a href="file:///storyline/il/quiks/asppoisonsac.txt">Asp Poison Sac</a> & <a href="file:///storyline/il/quiks/coyotetail.txt">Coyote Tail</a><br>
+<br>
+Name: <c "#FF0000">Spine Break</c><br>
+Type: Paralyze<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 32<br>
+Ingredients: <a href="file:///storyline/il/quiks/delphinium.txt">Delphinium</a> & <a href="file:///storyline/il/quiks/thornyergot.txt">Thorny Ergot</a><br>
+<br>
+Name: <c "#FF0000">Basilisk Poison</c><br>
+Type: Muscle Lock<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 40<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/basiliskeyestalk.txt">Basilisk Eyestalk</a><br>
+<br>
+Name: <c "#FF0000">Solvent Gangrene</c><br>
+Type: Flesh Rot<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 40<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/gravemold.txt">Grave Mold</a><br>
+<br>
+Name: <c "#FF0000">Crystal Eritus</c><br>
+Type: System Shock<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 42<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/crystallizedmarrows.txt">Crystallized Marrows</a><br>
+<br>
+Name: <c "#FF0000">Cyclan Butil</c><br>
+Type: Feeble Mind<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 48<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/cyclaminecorms.txt">Cyclamine Corms</a> & <a href="file:///storyline/il/quiks/snakevenomsac.txt">Snake Venom Sac</a><br>
+<br>
+Name: <c "#FF0000">Putrid Bane</c><br>
+Type: Injected<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 56<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/putridbile.txt">Putrid Bile</a><br>
+<br> 
+Name: <c "#FF0000">Delusional Swiftness</c><br>
+Type: Brittle Haste<br>
+Vial: Poison Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 59<br>
+Ingredients: <a href="file:///storyline/il/quiks/giantwaspvenomsac.txt">Giant Wasp Venom Sac</a> & 2x <a href="file:///storyline/il/quiks/vampirebatsaliva.txt">Vampirebat Saliva</a><br>
+<br>
+Name: <c "#FF0000">Sweet Lathyris</c><br>
+Type: Dizzy<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 68<br><br>
+Ingredients: <a href="file:///storyline/il/quiks/giantwaspvenomsac.txt">Giant Wasp Venom Sac</a> & 2x <a href="file:///storyline/il/quiks/ichor.txt">Ichor</a><br>
+<br>
+Name: <c "#FF0000">Rancid Wolf Killer</c><br>
+Type: Animal<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 77<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/dogbane.txt">Dogbane</a> & <a href="file:///storyline/il/quiks/chunkofmeat.txt">Chunk of Meat</a><br>
+<br>
+Name: <c "#FF0000">Anti-Elemental</c><br>
+Type: Summoned<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 77<br>
+Ingredients: <a href="file:///storyline/il/quiks/groundgarlic.txt">Ground Garlic</a> & <a href="file:///storyline/il/quiks/redhellbore.txt">Red Hellbore</a><br>
+<br>
+Name: <c "#FF0000">Lixt Wing Dust</c><br>
+Type: Liquid Silver<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 84<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/embalmingdust.txt">Embalming Dust</a><br>
+<br>
+Name: <c "#FF0000">Maddening Sap</c><br>
+Type: Berserker Madness<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 89<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/succulentsap.txt">Succulent Sap</a><br>
+<br>
+Name: <c "#FF0000">Festering Nettle</c><br>
+Type: Lower Resist<br>
+Vial: Lined Vial<br>
+Susp: Regular Suspension<br>
+Trivial: 95<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/ashroot.txt">Ashroot</a><br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

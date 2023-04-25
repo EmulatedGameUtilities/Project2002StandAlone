@@ -1,0 +1,41 @@
+Foraging
+<body link="#0088ff" mlink="#00ccff">
+<FONT COLOR="#0080FF">---</FONT><c "#00ff00">Forage</c><FONT COLOR="#0080FF">--- </FONT>
+<br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Menu</FONT><FONT COLOR="#0080FF">---</FONT> <br></CENTER>
+<br>
+<a href="file:///storyline/IL/Forage/storyantonica.txt">Antonica </a>
+<br>
+<a href="file:///storyline/IL/Forage/storyfaydwer.txt">Faydwer</a>
+<br>
+ <a href="file:///storyline/IL/Forage/storyodus.txt">Odus </a>
+<br>
+<a href="file:///storyline/IL/Forage/storykunark.txt">Kunark</a>
+<br>
+  <a href="file:///storyline/IL/Forage/storyvelious.txt">Velious </a>
+<br>
+<a href="file:///storyline/IL/Forage/storyluclin.txt">Luclin</a>
+<br>
+<a href="file:///storyline/IL/Forage/storyplanar.txt">Planar</a>
+<br>
+<a href="file:///storyline/IL/Forage/storyloy.txt">LOY</a>
+<br> <br>
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">All Around Norrath</FONT><FONT COLOR="#0080FF">---</FONT><br>
+All <FONT COLOR="#8080FF">Fruit</FONT>  Baking & Brewing <FONT COLOR="#0080FF">***</FONT> 
+All <FONT COLOR="#8080FF">Berries</FONT> Baking & Brewing<br> 
+All <FONT COLOR="#8080FF">Veggies</FONT>  Baking & Brewing <FONT COLOR="#0080FF">*** </FONT>
+All <FONT COLOR="#8080FF">Rabbit Meat</FONT>  Baking<br> 
+All <FONT COLOR="#8080FF">Roots</FONT> Brewing <FONT COLOR="#0080FF">*** </FONT> 
+All <FONT COLOR="#8080FF">Fishing Grubs</FONT>  Fishing <br>
+<br><br>
+Story Window mod by Xirena Information taken from EqDruids.com
+<br><br>
+
+<br>
+
+</body>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>

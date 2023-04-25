@@ -1,0 +1,13 @@
+PoP Portal Locations - Ak'Anon <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Ak'Anon<br>
+Portal Zone: Steamfont Mountains<br>
+Zone Location: -1329, +931<br>
+Description: Follow the path to the left from the city<br>
+<c "#00CC00">========================== </c><br>

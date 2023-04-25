@@ -1,0 +1,47 @@
+Faction Lists
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <c "#FFFF00">G</c> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br><a href="file:///storyline/il/Faction/G/GateKeepers.txt">Gate Keepers</a>
+<br><a href="file:///storyline/il/Faction/G/GateCallers.txt">Gatecallers</a>
+<br><a href="file:///storyline/il/Faction/G/Gelistial.txt">Gelistial</a>
+<br><a href="file:///storyline/il/Faction/G/GemChoppers.txt">Gemchoppers</a>
+<br><a href="file:///storyline/il/Faction/G/GeonidCollective.txt">Geonid Collective</a>
+<br><a href="file:///storyline/il/Faction/G/GoN.txt">Ghouls of Neriak</a>
+<br><a href="file:///storyline/il/Faction/G/GFC.txt">Gnarled Fist Clan</a>
+<br><a href="file:///storyline/il/Faction/G/Goblin.txt">Goblin</a>
+<br><a href="file:///storyline/il/Faction/G/GoFP.txt">Goblins of Fire Peak</a>
+<br><a href="file:///storyline/il/Faction/G/GorTaku.txt">Gor Taku</a>
+<br><a href="file:///storyline/il/Faction/G/GBK.txt">Greenblood Knights</a>
+<br><a href="file:///storyline/il/Faction/G/GrobbGuard.txt">Grobb Guard</a>
+<br><a href="file:///storyline/il/Faction/G/GoSV.txt">Guardians of Shar Vahl</a>
+<br><a href="file:///storyline/il/Faction/G/GotV.txt">Guardians of the Vale</a>
+<br><a href="file:///storyline/il/Faction/G/GoV.txt">Guardians of Veeshan</a>
+<br><a href="file:///storyline/il/Faction/G/GoQ.txt">Guards of Qeynos</a>

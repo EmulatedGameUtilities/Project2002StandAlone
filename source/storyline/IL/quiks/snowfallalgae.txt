@@ -1,0 +1,7 @@
+Ingredient: <c "#FF0000">Snowfall Algae</c><br>
+Vendor: Elona McMahon<br>
+Vendor: NPC Drop<br>
+Location: Permafrost Goblins<br>
+Poison: Amnesic Lolium<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

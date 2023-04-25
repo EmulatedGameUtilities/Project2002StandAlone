@@ -1,0 +1,106 @@
+Katta Castellum Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss, sandalwood - Margy O'Koyle (233, -1163) <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, night shade, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwart, agrimony, celandine herb - Morfesh O'Koyle (252, -1147) <br>
+* medicine bag, maliak leaf, tri-fern leaf, star reach clover, sickle leaf, violet tri-tube sap, betherium bark, yerbhimba, duskglow vine - Sharra O'Koyle (277, -1170)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* spit - Mahri Matuya (230, -1276) <br>
+* vinegar, spices, jug of sauces, garnish, frosting, cup of flour, bottle of milk, mixing bowl - Yolanda Honeyjar (232, -1375) <br>
+* water flask - Kitty Barleou (225, -1115) <br>
+* batwings - Wendel Starshiner (-704, 253, third floor of caster guild) <br>
+* oven - loc 290, -1313 <br>
+* fennel, eucalyptus leaf - Margy O'Koyle (233, -1163) <br>
+* allspice, benzoin - Morfesh O'Koyle (252, -1147)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* barley, hops, rice, malt, yeast, wine yeast, packet of paeala sap, bottle, shotglass, cask, paeala bark - Gaerock Rednose (247, -1370) <br>
+* bottle, cask - Nannette Farcloud (245, -1115)<br> 
+* water flask - Kitty Barleou (225, -1115) <br>
+* brew barrel at loc -290, -878 <br>
+* allspice, yarrow - Morfesh O'Koyle (252, -1147) <br>
+* cork - Blaylock Geerlock (-810, -223)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* celandine herb - Morfesh O'Koyle (252, -1147)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* Field Point Arrowheads, Hooked Arrowheads, Tipped Arrowheads, Bundled Wooden Arrow Shafts, Bundled Bone Arrow Shafts, Bundled Ceramic Arrow Shafts, Bundled Steel Arrow Shafts, Several Round Cut Fletchings, Several Parabolic Cut Fletchings, Several Shield Cut Fletchings, Set of Wooden Arrow Vanes, Set of Bone Arrow Vanes, Set of Ceramic Arrow Vanes, Fletching (Book), Large Groove Nocks, Medium Groove Nocks, Small Groove Nocks, Fletching Kit, Tailoring Quivers (book), Arrow Shaft Mold - Marko Wolfeye (-140, -670) <br>
+* Hickory Bow Staff, Elm Bow Staff, Ashwood Bow Staff, Oak Bow Staf, Darkwood Bow Staff, Whittling Blade, Planing Tool, Standard Bow Cam, Hemp Twine, Linen String, Silk String, Fletching Kit, A Bowyers Guide - Rebecca Wolfeye (-138, -679)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jeweller's kit, fire opal, star ruby, fire emerald - Monika Helsin (601, -168) <br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Wendel Starshiner (-704, 253, third floor of caster guild) <br>
+* jar of lacquer - Bole Bricktop (52, -1530)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* celestial solvent - Wendel Starshiner (3rd floor, caster guild)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* Kiln - loc -332, -679 <br>
+* Pottery wheel - loc -310, -663 <br>
+* water flask - Kitty Barleou (225, -1115) <br>
+* clay (small block, block, large block) - Gundal Bronzebrow (-404, -662) <br>
+* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketch, lined vial sketch, sealed vial sketch, scultping tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Arabella Augustleaf (-403, -676) <br>
+* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, idol; barbarian template, gnome template, troll template, animal template - Dianna Dilsm (-368, -680) <br>
+* jar of acid - Bole Bricktop (52, -1530)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* Forge - loc 19, -1538; loc -42, -1541<br> 
+* container molds, file mold, needle mold, thimble mold, lantern casing mold - Tsuia Matuya (229, -1210) <br>
+* cookie molds (barbarian, gnome, troll, animal), muffin tin mold, pie tin mold, cake round mold, skewer mold, bread tin mold, pot mold, smoker base mold, standing legs mold, smoker support mold, hinge mold, scaler mold, lantern casing mold, Basic Blacksmithing - Mahri Matuya (230, -1276) <br>
+* water flask - Kitty Barleou (225, -1115) <br>
+* medium quality sheet metal, block of medium quality ore, large brick of medium quality ore, small brick of medium quality ore, smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Bole Bricktop (52, -1530) <br>
+* dual-edged blade mold, heavy steel blade mold, spiked ball mold, hilt mold, pommel mold, dagger blade mold, thin blade mold, short blade mold, axe head mold, halberd head mold, curved blade mold, mace head mold, throwing knife mold, javelin mold, shuriken mold, throwing axe mold, long blade mold, hammer head mold, spear head mold, pick head mold - Berda Granitefist (16, -1502) <br>
+* (medium) banded armor molds - Harvin Talbson (-75, -1533) <br>
+* Basic Blacksmithing, Armor and Weapons Guide, Dirge of the ForgeFire, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings, Chains, and Arrowheads - Yanni Talbson (Lightening Blades Smithy: -103, -1503) <br>
+* (medium) chainmail patterns - Mercusius Farcloud ( -109, -1475)<br> 
+* (medium) plate molds - Marda Granitefist (-144, -1489) <br>
+* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft, smithing chisel - Gundal Bronzebrow (-404, -662) <br>
+* combine smithy hammer - Granic Malicus (100, -1480) <br>
+* sandalwood - Margy O'Koyle (233, -1163) <br>
+* toolbox mold - Tsuia Mataya (226, -1198)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* How To Sew (Small, medium & large), Tailoring, Tailoring Quivers, Small Sewing Kit, Vah Shir Tailoring, Vah Shir Silken Products - Raesha Dawneyes (633, -110) <br>
+* large sewing kit, patterns: cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeves, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver - Shay Aristos (644, -107) <br>
+* loom at loc 649, -252 <br>
+* mandrake root - Morfesh O'Koyle (252, -1147)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern, small lantern - Kitty Barleou (225, -1115) <br>
+* Metal Rod, Cork, Grease, Steel Lined Gloves, Metal Shaft, Spriket, Metal Twine, Gears, Sprockets, Reflective Shard, Static Orb, Gnomish Bolts, Toolbox, Silk Lined Steel Helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, Metal Fastening, Fine Coral Mesh, Sharkskin Tubing, Lime Coated Meshing - Blaylock Geerlock (-810, -223) <br>
+* Journal of Gimblestan XI, Large Black Lodestone, Grease, Metal Rod, Journal of Gimblestan XXXIII, Toolbox, Utensil Parts, Cured Leather Tubing, Sewing Contraption Parts, Gem Setter Parts, Ceramic Lined Still, Geerloks Crafty Contraptions - Zyleea Geerlock (-814, -194)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,45 @@
+<c "#FF2400">Fishing Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+<br>
+
+Grab a Pole, Bait and some water. Stand beside the water and use the ability "fishing".
+Do untill 200. (This is not rocket science) If you going to combine with baking fish in POW or POS<br>
+
+----------------<br>
+Some fishing spots: <br>
+NRo near Barbarian huts <br>
+Freeport dock <br>
+BB dock <br>
+EK river, vendor at farmer's place. <br>
+FG at vendor's area (but need to watch out for train) <br>
+<br>
+Need more dark race spots...don't know any besides FG. <br>
+<br>
+Fisherman's Companion (http://www.eqtraders.com/quests/PoP_PoKfishing.htm) is a good thing to have since it summons fishing poles, and the fishing pole summons ale, so you can work on fishing & AT at the same time if you don't mind the int/wis drop. Just don't fall into the water, drunken swimming ain't fun. <br>
+<br>
+Sure wish the pole summons bait...or even better, summons bait + beer. <br>
+<br>
+(ty Guruguru Mahoujin)<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

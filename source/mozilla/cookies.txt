@@ -1,0 +1,6 @@
+# HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+# To delete cookies, use the Cookie Manager.
+
+.www.rnengage.com	TRUE	/api/e/ca10662/	FALSE	1432599161	eId	_2iH-qq1

@@ -1,0 +1,22 @@
+Southern Desert of Ro Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* bread, water - Rathmana Allin (1208,1400) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* clay (3), firing sheets (3), glass shard. Basic Pottery book, vial sketches (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Merchant Ulyssa (128, 478) <br>
+* pottery sketches - Artist Kassia (141, 443) <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

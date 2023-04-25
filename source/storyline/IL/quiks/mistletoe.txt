@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Mistletoe</c><br>
+Vendor: Mirao Frostpouch (-88, -207)<br>
+Location: Plane of Knowledge<br>
+Poison: Spine Rend<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

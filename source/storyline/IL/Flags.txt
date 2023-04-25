@@ -1,0 +1,92 @@
+<c "#FF2400">Hotkeys</c><c "#FFFF00">(Unofficial)</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">  Plane of Justice </c><br>
+Find Mavuin in the basement. Hail him and say 'what information?' Do any one of the trials and get a mark from it. Hail the Tribunal who administered the trial and say, 'I have come to plead the case of Mavuin'. Go back to Mavuin in the basement jail and hail him - this results in a flag for Plane of Valor and Plane of Storms. Completion of all the trials allows access to the 7th Hammer - this is not needed to progress to elemental planes.<br>
+ <br>
+<c "#FFFF00">              Plane of Nightmares</c><br>
+  First you must hail Elder Poxbourne. He can be found in "Sick Bay" (the area of PoTranq near beach with sick elders in it) Then hail Adroha Jezith and say 'tortured by nightmares' - this gives you a preflag. Now find the hedge inside of Plane of Nightmares - it is across the river along the left zone wall. Hail Thelin Poxbourne and get ported up into the maze (note he will only port up to 3 groups) At the end of this event you receive a flag for PoNB (Terris Thule's lair). Go back to Sick bay and hail Elder Poxbourne and Adroha again. Zone in to PoNB through the gate near the hedge and kill Terris Thule, this flags you for Plane of Torment. <br>
+<br>
+<c "#FFFF00">             Plane of Disease </c><br>
+Go to Alder Fuirstel in PoTQ - standing besides the poop shoot into PoD. Say 'what ward' to receive your pre-flag. Now go to PoD and kill Grummus, hail the Planar Projection, and zone into Crypt of Decay through the pipe near Grummus. Return to sick bay and hail Elder Fuirstel at sick bay. <br>
+<br>
+<c "#FFFF00">           Plane of Innovation </c><br>
+Obtain a key for entrance to the factory. Enter the zone and hail the gnome at the start. Say "I will test the machine" - this will get you a preflag. Then kill the Manaetic Behemoth deeper inside the factory and hail the gnome again. You are now flagged for Plane of Tactics<br>
+<br>
+<c "#FFFF00">             Plane of Valor </c><br>
+Kill the crystalline dragon named Aerin`Dar which resides in the back of the wastelands to gain entrance to Halls of Honor. <br>
+<br>
+<c "#FFFF00">              Plane of Storms</c><br>
+Obtain entrance to Bastion of Thunder through Askr the Lost. Quest information available here. <br>
+<br>
+<c "#FFFF00">                Crypt of Decay</c><br>
+Get through the Carprin -> High Priest Ultor Szanvon event (you will need a raid) and hail the tiny pusling to gain access to Bertox' area. Kill Bertoxxolous and hail the planar projection. Then zone out, go hail Alder and Elder again to complete flag. <br>
+<br>
+<c "#FFFF00">              Plane of Tactics</c><br>
+Kill Tallon and Vallon Zek and hail the Planar Projection. Then kill Rallos Zek (signifigantly harder) and get that flag. <br>
+<br>
+<c "#FFFF00">              Halls of Honor</c><br>
+Complete the three trials (Crazed Norrathians, Village people, Rydda`Dar) to obtain entrance go Halls of Honor B. In Halls of Honor B, kill Mithaniel Marr and hail the planar projection. <br>
+<br>
+<c "#FFFF00">            Plane of Torment</c><br>
+Go to sick bay in Plane of Tranquility. Hail Fahlia Shadyglade. Say 'what condition', 'what plane of torment' and 'I will go' and you will receive a flag. Go to PoTorment and gain entrance to Saryn's tower. Kill Mareeq to spawn Tylis. Go through his dream event to kill the Keeper of Sorrows - get a flag - Tylis ports you back down to the room before Saryn. Kill Saryn, hail Planar Projection. Go back to sick bay in Tranquility and hail both Tylis and Fahlia. <br>
+<br>
+<c "#FFFF00">           Bastion of Thunder</c><br>
+Obtain key to Agnarr's area (only one needed per raid). Kill Agnarr, go up the stairs to the door next to Agnarr's room and Hail Karana. Say "I will follow the path of the Fallen." <br>
+ <br>
+At this point you should have killed Mithaniel Marr, Saryn, Tallon, and Vallon Zek. Now find the seer in PoKnowledge - she's in the building right at zone in from Tranq. Sit down and say "unlock my memories" She won't necessarily have anything to say - this is for fixing flags if you do them out of order. Now go to Maelin. He is a gnome in the PoK library. To get to him go to the bottom floor of the library and find the elevator (it has a button in the wall) Ride the elevator up to the top and he's behind the table in front of a bookshelf. Hail him and say 'I have new information' and 'I have new lore'. You may need to do this a few times. Eventually he will tell you that you need to go find Rallos Zek. If you don't get this go back to the seer, sit, then say "guided meditation" you should see this:<br>
+<br>
+If you don't go back through the guide and see what you're missing. Otherwise, you are ready for Solusek Ro's Tower<br>
+<br>
+<c "#FFFF00">             Solusek Ro's Tower</c><br>
+Kill the five mini-bosses in this zone - Riziona, Arlyxir, Jiva, Xuzl, and Dresolisk (mini-bosses are not needed for flag). These 5 flags along with the Rallos Zek flag allow you to enter Solusek Ro's room. Kill him to gain access to the Doomfire, The Burning Lands, aka Plane of Fire. <br>
+ <br>
+In addition to Solusek Ro's chamber, killing Rallos Zek also unlocks the way to the other three elemental planes. Once you have killed Rallos along with the other listed flag mobs (Agnarr, etc) Go to Maelin, and you should see this:<br>
+<br>
+<c "#FFFF00">   Eryslai, the Kingdom of Wind</c><br>
+Eryslai, otherwise known as Plane of Air is the home of Xegony. Kill the avatars to gain access to Xegony. Kill Xegony for part of the key needed for Plane of Time. <br>
+<br>
+<c "#FFFF00">     Vegarlson, the Earthen Badland</c><br>
+Vegarlson is the Plane of Earth, and home or the Rathe. Complete all the rings to spawn the Mystical Arbitor and kill him in order to gain access to Plane of Earth B. Once there, kill the Rathe counsel and the Avatar of Earth.<br>
+<br>
+<c "#FFFF00">               Reef of Coirnav </c><br>
+This is the elemental plane of water and home of Coirnav. Kill Coirnav to obtain one of the pieces needed for entrance to the Plane of Time.<br>
+<br>
+<c "#FFFF00">     Doomfire, The Burning Lands</c><br>
+Doomfire is the Plane of Fire. Kill Fennin Ro to gain a part of the key needed for entrance to the Plane of Time. <br>
+<br>
+<c "#FFFF00">The Plane of Time</c><br>
+At this point you should have four elemental shields, one drops from each of the elemental gods.<br>
+From Coirnav: Sphere of Coalesced Water<br>
+From Fennin: Globe of Dancing Flame <br>
+From Rathe: Mound of Living Stone<br>
+from Xegony: Amorphous Cloud of Air.<br>
+<br>
+Now you need to combine them (one needed per raid). There is a book found on a slave  in Plane of Tactics which contains this vital information. I, Frana Shimi, have speculated for the Lords of War an answer for a new type of container. The problem that you had presented to me was the ability to seal off the very power of the elements. No material has the ability to hold all of the powers of the elements at one time. I believe though if you were to create an unfired medium container and then fire it with two high quality firing sheets covered in Multielemental glaze it would create an invulnerable container. To make the multielement glaze, you will need to mix together the four base element glazes: windy glaze, aqua glaze, earthen glaze, and magma glaze in a glaze mortar. I dare not imagine why you would need to combine the quintessense of the elements, or what you would do with it. Please consider my time here spent well, and set my soul at rest. I have toiled here for long. I dare not imagine why you would need to combine the quintessense of the elements, or what you would do with it. Please consider my time here spent well, and set my soul at rest. I have toiled here for long. <br>
+<br>
+Step 1: Create the multi-elemental glaze<br>
+    Combine windy glaze, aqua glaze, earthen glaze, and magma glaze in a glaze mortor. (These glazes are made from components found inside each of the elemental planes)<br>
+<br>
+Step 2: Create an unfired medium container<br>
+    Combine 1 block of clay, 1 medium jar sketch, and 1 flask of water on a pottery wheel.<br>
+<br>
+Step 3: Create the odylic vial<br>
+    Combine the unfired medium container with 2 high quality firing sheets and the multi-elemental glaze in a Tanaan kiln (e.g. the one in Plane of Knowledge) NOTE: This item is not no-drop so your guild will only need one.<br>
+<br>
+If you did all this correctly, you now have a 4-slot container called an odylic vial. If you're having problems creating the vial, I refer you to EQTraders for the recipes. Place the 4 elemental shields you have (globe, sphere, cloud, and mound) inside, and combine. The result should be the Quintessence of  Elements:<br>
+<br>
+Now take your nice flashy new quintessence (which for some odd reason has the same graphic as the scepter of Al`kabor) and hail Maelin in the library of Plane of Knowledge. <br>
+<br>
+Almost done now, head to the Plane of Innovation and bring along someone who has a key to the Factory. Open the door to the factory and immediately turn left inside the first room, open the door there and you will find Chronographer Muon, a robot, in the back left corner. Hail him...<br>
+<br>
+At this point you get transported to an otherwise unreachable section of the zone. At the end of the walkway you will find your good friend Maelin along with a time machine. <br>
+<br>
+Well, you've done it. What are you waiting for? Click the time machine in the middle and you will be transported to the Plane of Time.<br>
+ <br>
+<c "#FFFF00">Based on the work by Gemdiver, Arcanist of Fennin Ro (edited by Vulcon Mastercrafter)</c><br>
+<br>
+
+
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

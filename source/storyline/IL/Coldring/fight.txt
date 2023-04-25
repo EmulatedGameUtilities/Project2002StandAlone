@@ -1,0 +1,42 @@
+Fight help<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyColdring.txt">Table of Contents</a>
+<br>
+=====================
+<br>
+Lots of questions here.Don't know if this will help, but what the heck!:)<br> 
+<br>
+There are 3 waves of giants, but the term wave is misleading. Each 'wave' denotes levels of the mobs. The first wave is level 50ish, the next wave like 53ish, and the final wave is 56ish (I think). I apologize for the vague levels, but since I'm 60, everything is just 'blue'.<br> 
+<br>
+Anyway, within each wave of giants is a series of subwaves. There are between 3 and 8 subwaves of about 6-12 mobs. The majority of the subwaves will be 12 mobs.<br> 
+<br>
+If you park in the valley out from Thurg a bit (I'd recommend the big rock by the river past the 2 guard outposts), you can most easily get to the mobs. There are 4 spawn points for the giants. Have a tracker watch for them, though you can see 3 of the spawn points yourself just by standing at the rock. Let's call that rock the 'base'. Face outward from Thurg. Thus, left is east, right is west, and forward is south. (This will make more sense in a sec).<br> 
+<br>
+From the base, once the war has started, subwaves will spawn in one of four places.<br> 
+<br>
+1) There is a small sneak attack of usually 6 giants or so down the valley slightly behind you and to your left (E and slightly N from the base). Hereafter "left"<br> 
+<br>
+2) About 12 giants will spawn directly in front of the rock all in a wide line and advance on the rock. This is "front"<br>
+<br>
+3) Two lines of about 12 giants total will spawn at the base of the hill off to the right (west, and a bit south), march through the spearmen, and into the valley. This is "base of hill"<br> 
+<br>
+4) Two lines of about 12 giants total will spawn at the base of the hill to the right of the rock (west). These will march up the hill. This is "right".<br> 
+<br>
+The spawn is random. The giants can come from any of these directions. Scouts and trackers need to watch for them and give warning. Some additional tips are as follows:<br> 
+<br>
+MOVE AS A GROUP. This one is very important. Do not rush the giants, set up in the appropriate spot and let them come to you. For left, run into the valley and assist the d0rf archers. For front, just stay at the rock. For base of hill, move to the base of the hill. For right, run up on the lowest plateau on the hill to the right and wait for the giants to come to you. The giants immediately start a sprint when someone gets close to them, so be ready. If someone rushes out and tried to engage early, some will stop and kill the person, and others will immediate run past.<br>
+<br>
+The first 2 waves of giants are shaman/chanter slowable. The third wave is disease slowable (shaman only).<br> 
+<br>
+With ALMOST (not all) every sub wave, there will be a leader of some sort--a captain, general, warlord (waves 1, 2, 3 respectively). Thus, you may see several captains on wave 1, several generals on wave 2, and several warlords on wave 3--but no more than 1 of the appropriate leader on each subwave. DO NOT KILL THE LEADERS UNTIL ALL OTHER GIANTS FROM THE SUBWAVE ARE DEAD. Killing the leader seems to start the timer for the next spawn. If you kill the leader first, you may still be killing the giants when the next wave starts. That's bad! Assign one tank (and healer!) to the leader. He agro's it, and holds it until all other giants are dead. Communication is vital, as some will run by unagro'd and have to be picked up by rearguard parties. Make sure they are all dead before killing the leader. (Have I stressed this enough?!?)<br> 
+<br>
+You have a couple of minutes between subwaves, and a longer break between waves if you kill the leaders last. Rez up fast. Essential buffs only. Keep in mind that your enchanters and shaman will be burning a lot of mana to slow.<br> 
+<br>
+Once the final subwave of wave 3 is done, narandi the wretched will spawn very close to the entrance of the wurm caves down river a bit. He will despawn eventually, so if you have to med up and buff before engaging, have someone kite. As for narandi, he's about Derekor the Vindicator level of difficulty. He's not slowable. Set up your heal chains as if he were vindi. I think he procs a slow as well, so have a shaman or druid ready to cure the MT, or else the MT won't keep agro.<br> 
+<br>
+Good luck guys! It's fun, but hard. The last wave can be difficult!<br> 
+<br>
+=====================
+

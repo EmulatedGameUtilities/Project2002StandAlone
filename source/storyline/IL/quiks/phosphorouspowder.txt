@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Phosphorous Powder</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Burning Woods / Lower Guk / Western Waste<br>
+Poison: Bite of the Shissar / Bixie Sting / Scoriae Bite<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

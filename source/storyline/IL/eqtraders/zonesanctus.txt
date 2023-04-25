@@ -1,0 +1,68 @@
+Sanctus Seru Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* spices, garnish, jug of sauces, vinegar, frosting, cup of flour, bottle of milk, spit, mixing bowl - Milner McHazlo (298, -529) <br>
+* bat wings - Gaston Facetmaker (-53, 1018) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask, grapes, brandy, shotglass, white wine, red wine, fish wine, ale, short ale, short beer, mead - Top McCallto (loc not available) <br>
+* brew barrels at loc -671,-1476; loc 803,-788 ; and loc -673, 992 <br>
+* Brewer's Limericks, short beer, short ale, gnomish spirits, brandy, dwarven ale, cask, shotglass - Jaeger Mort (loc not available) <br>
+* bottle, cask, grapes, brandy, shotglass, white wine, red wine, fish wine, ale, short ale, short beer, mead, packet of kiola sap - Miklos Tiost (-673, 992) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* field point arrowheads, hooked arrowheads, silver tipped arrowheads, bundled wooden arrow shafts, bundled bone arrow shafts, bundled ceramic arrow shafts, bundled steel arrow shafts, several round cut fletchings, several parabolic cut fletchings, several shield cut fletchings, set of wooden arrow vanes, set of bone arrow vanes, set of ceramic arrow vanes, Fletching, groove nocks (small, medium, large), fletching kit , Tailoring Quivers - Fareye Yewback (-121, 485)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jeweller's kit, fire opal, star ruby, fire emerald - Asotha Balais (-934, -944) <br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Gaston Facetmaker (-53, 1018) <br>
+* jar of lacquer - Wulan Goldsmith (7, 1016), Melda Goldsmith <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* Skewers Sketch, Small Jar Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch - Rhowick Dragur (loc not available) <br>
+* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketches (vial, lined vial, sealed vial), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small diety sketch - Thecia Sulter (-748, -953) <br>
+* pottery wheel at loc -672, -985<br> 
+* kiln at loc -681, -926 <br>
+* jar of acid - Wulan Goldsmith (7, 1016), Melda Goldsmith <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* Dual-Edged Blade Mold, Heavy Steel Blade Mold, Spiked Ball Mold, Hilt Mold, Pommel Mold, Dagger Blade Mold, Thin Blade Mold, Short Blade Mold, Axe Head Mold, Halberd Head Mold, Curved Blade Mold, Mace Head Mold, Throwing Knife Mold, Javelin Mold, Shuriken Mold, Throwing Axe Mold, Long Blade Mold, Hammer Head Mold, Spear Head Mold, Pick Head Mold - Boloth Daeron (298, -742) <br>
+* forge at loc -985, 542 <br>
+* (medium) chainmail patterns (boot, coif, veil, neckguard, tunic, mantle, cloak, skirt, sleeve, bracelet, glove, pant) - Faber Hintoa (87, -937) <br>
+* arrow shaft mold - Fareye Yewback (loc not available) <br>
+* Basic Blacksmithing, Armor and Weapons Guide, Dirge of the ForgeFire, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings Chains and Arrowheads - Armorer Caedus (84, 500) <br>
+* (medium) plate armor molds (gorget, bracer, boot, helm, visor, pauldron, belt, vambrace, greaves, breastplate, gauntlet, cloak), buckler mold, targ shield mold, kite shield mold, tower shield mold - Dolus Rical (137, 535) <br>
+* Medium Quality Sheet Metal, Block of Medium Quality Ore, Large Brick of Medium Quality Ore, Small Brick of Medium Quality Ore, Smithy Hammer, How to Dye and Stain, Jar of Lacquer, Resin, Empty Vial, Jar of Acid - Wulan Goldsmith (7, 1016), Melda Goldsmith<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* loom at loc -171, -939 <br>
+* large sewing kit, backpack pattern, quiver pattern, fleeting quiver pattern, whip pattern, clothing patterns (cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot) - Laren Goldthimble (-131, -960)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* gnomish spirits - Jaeger Mort (loc not available)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

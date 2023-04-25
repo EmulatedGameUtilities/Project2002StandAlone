@@ -1,0 +1,2030 @@
+<c "#FF2400">All credit to allakhazam.com for this list</c><c "#FFFF00"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+ <br>
+Accursed Extension      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(24.00 sec)<br>
+7: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Adv Farsight II      <br>
+1: Increase Spell Range by 10%<br>
+2: Limit: Max Level(55)<br>
+  <br>
+ Affliction Efficiency I      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Efficiency II      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Efficiency III      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Efficiency IV      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Haste I      <br>
+1: Increase Spell Haste by 33%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Haste II      <br>
+1: Increase Spell Haste by 33%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Haste III      <br>
+1: Increase Spell Haste by 33%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Affliction Haste IV      <br>
+1: Increase Spell Haste by 33%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Alluring Preservation      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Anger of Druzzil      <br>
+1: Increase Spell Damage by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Anger of E'ci      <br>
+1: Increase Spell Damage by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Cold allowed)<br>
+  <br>
+ Anger of Ro      <br>
+1: Increase Spell Damage by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Anger of Solusek      <br>
+1: Increase Spell Damage by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Arcane Conservation      <br>
+1: Decrease Chance of Using Reagent by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Benefit Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Benefit Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Benefit Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Benefit Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Blaze of the Lightbringer      <br>
+1: Increase Spell Haste by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Blessed Aura of Health      <br>
+1: Increase Healing by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+9: Limit: Target(Group v1 allowed)<br>
+  <br>
+ Blessed Healing      <br>
+1: Increase Healing by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+9: Limit: Target(Single allowed)<br>
+  <br>
+ Blessing of Piety CLR/19<br>
+1: Increase Spell Haste by 10%<br>
+2: Limit: Max Level(39)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Burning Affliction I      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Burning Affliction II      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Burning Affliction III      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Burning Affliction IV      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Burning Fire      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Burning Magic      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Burning Plague      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Disease allowed)<br>
+  <br>
+ Burning Poison      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Poison allowed)<br>
+  <br>
+ Chill of the Umbra      <br>
+1: Increase Spell Damage by 26%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Cold allowed)<br>
+  <br>
+ Chromosphere      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Sun Vortex allowed)<br>
+  <br>
+ Chromospheric      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Sun Vortex allowed)<br>
+  <br>
+ Chronoburn      1: Increase Spell Duration by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Charm excluded)<br>
+6: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Chrononostrum      <br>
+1: Increase Spell Duration by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Cold Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Cold Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Cold Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Cold Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Condemnation of the Ages      1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Condemnation allowed)<br>
+  <br>
+ Condemnation of Time      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Condemnation allowed)<br>
+  <br>
+ Conservation of Bertoxxulous      <br>
+1: Decrease Spell Mana Cost by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(6.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Conservation of Mithaniel      1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Conservation of Solusek      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Conservation of Xegony      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Contemplative Alacrity      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Conundrum of Speed      1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Darkened Preservation      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+5: Limit: Min Duration(60.00 sec)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Disease Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Disease Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Disease Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Disease Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Druzzil's Distance      <br>
+1: Increase Spell Range by 20%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Druzzil's Range      <br>
+1: Increase Spell Range by 25%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Enchantment of Destruction      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Enhancement Haste I      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Enhancement Haste II      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Enhancement Haste III      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Enhancement Haste IV      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Eterninostrum      <br>
+1: Increase Spell Duration by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Extended Blessing IV      <br>
+1: Increase Spell Duration by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Extended Enhancement I      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Extended Enhancement II      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Extended Enhancement III      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Extended Enhancement IV      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Extended Range I      <br>
+1: Increase Spell Range by 15%<br>
+2: Limit: Max Level(20)<br>
+  <br>
+ Extended Range II      <br>
+1: Increase Spell Range by 15%<br>
+2: Limit: Max Level(44)<br>
+  <br>
+ Extended Range III      <br>
+1: Increase Spell Range by 15%<br>
+2: Limit: Max Level(60)<br>
+  <br>
+ Extended Range IV      <br>
+1: Increase Spell Range by 15%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Extended Torment IV      <br>
+1: Increase Spell Duration by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Charm excluded)<br>
+6: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Fires of Sol      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Strike of Solusek allowed)<br>
+  <br>
+ Focus of Distance      <br>
+1: Increase Spell Range by 20%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Focus of Flame      <br>
+1: Increase Spell Damage by 26%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Focus of Mediocrity      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Effect(Charm excluded)<br>
+  <br>
+ Focus of Mithaniel      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Focus of Solusek      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Focus of the Orb      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Furious Bash I      <br>
+1: Increase Spell/Bash Hate by 10%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash II      <br>
+1: Increase Spell/Bash Hate by 20%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash III      <br>
+1: Increase Spell/Bash Hate by 30%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash IV      <br>
+1: Increase Spell/Bash Hate by 40%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash V      <br>
+1: Increase Spell/Bash Hate by 50%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash VI      <br>
+1: Increase Spell/Bash Hate by 60%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Furious Bash VII      <br>
+1: Increase Spell/Bash Hate by 70%<br>
+2: Limit: Effect(Unknown(999) allowed)<br>
+  <br>
+ Fury of Bertoxxulous      <br>
+1: Increase Spell Damage by 35%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Disease allowed)<br>
+  <br>
+ Fury of Druzzil      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Fury of E'ci      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Cold allowed)<br>
+  <br>
+ Fury of Ro      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Fury of Solusek      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Gallenite's Chaos      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Gallenite's Destruction      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(52)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Gallenite's Major Destruction      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Gallenite's Minor Destruction      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(34)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Haste of Druzzil      <br>
+1: Increase Spell Haste by 18%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Haste of Mithaniel      <br>
+1: Increase Spell Haste by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Haste of Solusek      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Healing Yay!      <br>
+1: Increase Healing by 80%<br>
+2: Limit: Effect(Hitpoints allowed)<br>
+3: Limit: Max Level(60)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+ 0 Abjuration<br>
+ Heat Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Heat Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Heat Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Heat Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Iceflame of E'ci WIZ/63<br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Instant spells only<br>
+3: Limit: Resist(Cold allowed)<br>
+4: Limit: Min Level(60)<br>
+5: Limit: Max Level(60)<br>
+  <br>
+ Improved Damage I      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Improved Damage II      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Improved Damage III      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Improved Damage IV      <br>
+1: Increase Spell Damage by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Improved Healing I      <br>
+1: Increase Healing by 20%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Improved Healing II      <br>
+1: Increase Healing by 20%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Improved Healing III      <br>
+1: Increase Healing by 20%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Improved Healing IV      <br>
+1: Increase Healing by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Inferno of Sol      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Strike of Solusek allowed)<br>
+  <br>
+ Innoruuk's Irony      <br>
+1: Decrease Spell/Bash Hate by 80%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Poison Counter allowed)<br>
+  <br>
+ Innoruuk's Sarcasm      <br>
+1: Decrease Spell/Bash Hate by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Poison Counter allowed)<br>
+  <br>
+ Insanity Sphere      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Insanity allowed)<br>
+  <br>
+ Insanity Storm      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Insanity allowed)<br>
+  <br>
+ Insidious Dreams      <br>
+1: Increase Spell Damage by 26%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Jedah's Conservation      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Jedah's Greater Conservation      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Jedah's Lesser Conservation      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(12)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Jedah's Superior Conservation      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Jolum's Abatement      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(50)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Jolum's Major Abatement      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Jolum's Minor Abatement      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(24)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Jolum's Superior Abatement      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Magic Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Magic Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Magic Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Magic Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Mana Preservation I      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+  <br>
+ Mana Preservation II      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+  <br>
+ Mana Preservation III      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Mana Preservation IV      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Marr's Blessing      <br>
+1: Increase Healing by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Marr's Gift      <br>
+1: Increase Healing by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minion of Air      <br>
+1: Increase Pet Power, unknown value (5)<br>
+2: Limit: Max Level(49)<br>
+3: Limit: Min Level(4)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Minion of Darkness      <br>
+1: Increase Pet Power, unknown value (20)<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Level(59)<br>
+  <br>
+ Minion of Earth      <br>
+1: Increase Pet Power, unknown value (5)<br>
+2: Limit: Max Level(49)<br>
+3: Limit: Min Level(4)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Minion of Eternity      <br>
+1: Increase Pet Power, unknown value (20)<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Level(59)<br>
+  <br>
+ Minion of Fire      <br>
+1: Increase Pet Power, unknown value (5)<br>
+2: Limit: Max Level(49)<br>
+3: Limit: Min Level(4)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Minion of Hate      <br>
+1: Increase Pet Power, unknown value (10)<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Level(49)<br>
+4: Limit: Resist(Poison allowed)<br>
+  <br>
+ Minion of the Jarsath      <br>
+1: Increase Pet Power, unknown value (5)<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Level(57)<br>
+  <br>
+ Minion of Water      <br>
+1: Increase Pet Power, unknown value (5)<br>
+2: Limit: Max Level(49)<br>
+3: Limit: Min Level(4)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Minor Affliction Efficiency I      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Efficiency II      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Efficiency III      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Efficiency IV      <br>
+1: Decrease Spell Mana Cost by 13%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(36.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Haste I      <br>
+1: Increase Spell Haste by 16%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Haste II      <br>
+1: Increase Spell Haste by 16%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Haste III      <br>
+1: Increase Spell Haste by 16%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Affliction Haste IV      <br>
+1: Increase Spell Haste by 17%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(36.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Burning Affliction I     <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Burning Affliction II      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Burning Affliction III      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Burning Affliction IV      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Minor Enhancement Haste I      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Minor Enhancement Haste II      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Minor Enhancement Haste III      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Minor Enhancement Haste IV      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(72.00 sec)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Minor Extended Enhancement I      <br>
+1: Increase Spell Duration by 7%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Minor Extended Enhancement II      <br>
+1: Increase Spell Duration by 7%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Minor Extended Enhancement III      <br>
+1: Increase Spell Duration by 7%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Minor Extended Enhancement IV     <br>
+1: Increase Spell Duration by 8%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Minor Extended Range I      <br>
+1: Increase Spell Range by 7%<br>
+2: Limit: Max Level(20)<br>
+  <br>
+ Minor Extended Range II      <br>
+1: Increase Spell Range by 7%<br>
+2: Limit: Max Level(44)<br>
+  <br>
+ Minor Extended Range III      <br>
+1: Increase Spell Range by 7%<br>
+2: Limit: Max Level(60)<br>
+  <br>
+ Minor Extended Range IV      <br>
+1: Increase Spell Range by 8%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Minor Improved Damage I      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Minor Improved Damage II      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Minor Improved Damage III      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Minor Improved Damage IV      <br>
+1: Increase Spell Damage by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Minor Improved Healing I      <br>
+1: Increase Healing by 10%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Improved Healing II      <br>
+1: Increase Healing by 10%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Improved Healing III      <br>
+1: Increase Healing by 10%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Improved Healing IV      <br>
+1: Increase Healing by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Mana Preservation I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+  <br>
+ Minor Mana Preservation II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+  <br>
+ Minor Mana Preservation III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Mana Preservation IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Reagent Conservation I      <br>
+1: Decrease Chance of Using Reagent by 7%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Minor Reagent Conservation II      <br>
+1: Decrease Chance of Using Reagent by 7%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Minor Reagent Conservation III      <br>
+1: Decrease Chance of Using Reagent by 7%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Minor Reagent Conservation IV      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Minor Reanimation Efficiency I      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Reanimation Efficiency II      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Reanimation Efficiency III      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Reanimation Haste I      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Reanimation Haste II      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Reanimation Haste III      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Minor Spell Haste I     <br>
+ 1: Increase Spell Haste by 7%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+  <br>
+ Minor Spell Haste II      <br>
+1: Increase Spell Haste by 7%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+  <br>
+ Minor Spell Haste III      <br>
+1: Increase Spell Haste by 7%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Spell Haste IV      <br>
+1: Increase Spell Haste by 8%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Minor Summoning Efficiency I      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Efficiency II      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Efficiency III      <br>
+1: Decrease Spell Mana Cost by 12%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Efficiency IV      <br>
+1: Decrease Spell Mana Cost by 13%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Haste I      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Haste II      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Haste III      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Minor Summoning Haste IV      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Naki's Charm of Pernicity      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(51)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Naki's Greater Pernicity      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Naki's Lesser Pernicity      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(29)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Naki's Superior Pernicity      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Neurocism      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Neurotoxin allowed)<br>
+  <br>
+ Neurocus      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Neurotoxin allowed)<br>
+ <br>
+ Obsidian Requiem      <br>
+1: Decrease Spell Mana Cost by 10%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Patience of Eternity      <br>
+1: Increase Spell Duration by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Patience of Time      <br>
+1: Increase Spell Duration by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Pernicious Focus      <br>
+1: Decrease Spell Mana Cost by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+6: Limit: Min Duration(6.00 sec)<br>
+7: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Poison Awareness I      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Poison allowed)<br>
+  <br>
+ Poison Awareness II      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Poison allowed)<br>
+  <br>
+ Poison Awareness III      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Poison allowed)<br>
+  <br>
+ Poison Awareness IV      <br>
+1: Decrease Spell Mana Cost by 5%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Resist(Poison allowed)<br>
+  <br>
+ Poxan's Pox o Power      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Min Duration(6.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Preservation of Mithaniel      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+  <br>
+ Preservation of Solusek      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Preservation of the Akheva      <br>
+1: Decrease Spell Mana Cost by 18%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Preservation of Xegony      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Quickening of Druzzil      <br>
+1: Increase Spell Haste by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Quickening of Mithaniel      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Quickening of Solusek      <br>
+1: Increase Spell Haste by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Reagent Conservation I      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Reagent Conservation II      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Reagent Conservation III      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Reagent Conservation IV      <br>
+1: Decrease Chance of Using Reagent by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Item excluded)<br>
+  <br>
+ Reanimation Efficiency I      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Reanimation Efficiency II      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Reanimation Efficiency III      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Reanimation Haste I      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Reanimation Haste II      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Reanimation Haste III      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Skeleton Pet allowed)<br>
+  <br>
+ Ritual Summoning      <br>
+1: Increase Pet Power, unknown value (25)<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Level(61)<br>
+  <br>
+ Rowyl's Gleeful Destruction      <br>
+1: Increase Spell Damage by 2000%<br>
+2: Limit: Max Level(5)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Effect(Hitpoints allowed)<br>
+5: Limit: Instant spells only<br>
+  <br>
+ Sanguine Enchantment      <br>
+1: Decrease Spell Mana Cost by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Sanguine Preservation      <br>
+1: Decrease Spell Mana Cost by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Beneficial only)<br>
+5: Limit: Target(Self allowed)<br>
+6: Limit: Min Duration(6.00 sec)<br>
+7: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Saryrn's Torment      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Spear of Torment allowed)<br>
+  <br>
+ Saryrn's Venom      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Spear of Torment allowed)<br>
+  <br>
+ Secret of Power      <br>
+1: Increase Spell Damage by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+  <br>
+ Servant of Air      <br>
+1: Increase Pet Power, unknown value (10)<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Level(49)<br>
+4: Limit: Resist(Magic allowed)<br>
+  <br>
+ Servant of Earth      <br>
+1: Increase Pet Power, unknown value (10)<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Level(49)<br>
+4: Limit: Resist(Disease allowed)<br>
+  <br>
+ Servant of Fire      <br>
+1: Increase Pet Power, unknown value (10)<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Level(49)<br>
+4: Limit: Resist(Fire allowed)<br>
+  <br>
+ Servant of Water      <br>
+1: Increase Pet Power, unknown value (10)<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Min Level(49)<br>
+4: Limit: Resist(Cold allowed)<br>
+  <br>
+ Shade Stone Focus      <br>
+1: Increase Spell Haste by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+6: Limit: Spell Type(Detrimental only)<br>
+7: Limit: Instant spells only<br>
+  <br>
+ Speed of Mithaniel     <br>
+1: Increase Spell Haste by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Speed of Solusek      <br>
+1: Increase Spell Haste by 18%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Speeding Thought      <br>
+1: Increase Spell Haste by 18%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Spell Haste I      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(1.00 sec)<br>
+  <br>
+ Spell Haste II      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(2.00 sec)<br>
+  <br>
+ Spell Haste III      <br>
+1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Spell Haste IV     <br>
+ 1: Increase Spell Haste by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Starfall Symbol      <br>
+1: Increase Spell Range by 15%<br>
+2: Limit: Max Level(65)<br>
+  <br>
+ Summer's Anger      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Spell(Summer's Flame allowed)<br>
+  <br>
+ Summer's Vengeance      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Spell(Summer's Flame allowed)<br>
+  <br>
+ Summoner's Boon      <br>
+1: Increase Pet Power, unknown value (15)<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Level(59)<br>
+  <br>
+ Summoning Efficiency I      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Efficiency II      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Efficiency III      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Efficiency IV      <br>
+1: Decrease Spell Mana Cost by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Haste I     <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(20)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Haste II      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(44)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Haste III      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Summoning Haste IV      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Summon Pet allowed)<br>
+  <br>
+ Tavee's Charm of Diuturnity      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(49)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Tavee's Greater Diuturnity      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(60)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Tavee's Lesser Diuturnity      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(16)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ Tavee's Superior Diuturnity      <br>
+1: Increase Spell Duration by 15%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+  <br>
+ The Anti-Gulper      <br>
+1: Decrease Chance of Using Reagent by 50%<br>
+2: Limit: Max Level(60)<br>
+  <br>
+ Timeburn      <br>
+1: Increase Spell Duration by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Min Duration(24.00 sec)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Charm excluded)<br>
+6: Limit: Spell Type(Detrimental only)<br>
+  <br>
+ Touch of Judgment      <br>
+1: Increase Healing by 23%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Spell(Complete Healing excluded)<br>
+7: Limit: Spell(Complete Heal excluded)<br>
+8: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Vengeance of Eternity      <br>
+1: Increase Spell Damage by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Vengeance of Fire      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Vengeance of Ice      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Cold allowed)<br>
+  <br>
+ Vengeance of Magic      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Vengeance of Plague      <br>
+1: Increase Spell Damage by 40%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Disease allowed)<br>
+  <br>
+ Vengeance of Time      <br>
+1: Increase Spell Damage by 25%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Detrimental only)<br>
+4: Limit: Min Duration(30.00 sec)<br>
+5: Limit: Effect(Hitpoints allowed)<br>
+  <br>
+ Wind of Mana      <br>
+1: Decrease Spell Mana Cost by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Spell Type(Detrimental only)<br>
+5: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Wind of the Nightcrawler      <br>
+1: Increase Spell Haste by 30%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell(Complete Healing excluded)<br>
+4: Limit: Min Casting Time(3.00 sec)<br>
+5: Limit: Spell Type(Beneficial only)<br>
+6: Limit: Effect(Percentage Heal excluded)<br>
+  <br>
+ Wrath of Druzzil      <br>
+1: Increase Spell Damage by 35%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Magic allowed)<br>
+  <br>
+ Wrath of E'ci      <br>
+1: Increase Spell Damage by 35%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Cold allowed)<br>
+  <br>
+ Wrath of Ro      <br>
+1: Increase Spell Damage by 35%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Effect(Hitpoints allowed)<br>
+4: Limit: Instant spells only<br>
+5: Limit: Spell Type(Detrimental only)<br>
+6: Limit: Target(AE PC v1 excluded)<br>
+7: Limit: Target(PB AE excluded)<br>
+8: Limit: Target(Targeted AE excluded)<br>
+9: Limit: Target(Uber Giants excluded)<br>
+10: Limit: Target(Uber Dragons excluded)<br>
+11: Limit: Resist(Fire allowed)<br>
+  <br>
+ Zephyr of Brell      <br>
+1: Increase Spell Duration by 20%<br>
+2: Limit: Max Level(65)<br>
+3: Limit: Spell Type(Beneficial only)<br>
+4: Limit: Effect(Complete Heal (with duration) excluded)<br>
+5: Limit: Effect(Invunerability excluded)<br>
+6: Limit: Min Duration(48.00 sec)<br>
+<br>
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

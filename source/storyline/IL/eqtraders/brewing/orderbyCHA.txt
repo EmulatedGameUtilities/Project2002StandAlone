@@ -1,0 +1,6 @@
+<c "#66CCFF">Recipes Listed By Stat (CHA)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/767.txt">Grandmaster Brewer's Corker</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 10 WIS: 10 INT: 10 CHA: <c "#66CCFF">50</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/686.txt">Planar Blood Brew</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(225 or 226)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 3 STA: 3 CHA: <c "#66CCFF">-10</c> PR: 10 DR: 10)<br>

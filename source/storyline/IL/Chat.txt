@@ -1,0 +1,44 @@
+<c "#FFff00">Chat System Command List:</c><c "#FF8000"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+
+<c "#FFFF00">Basic</c><br>
+;join <channel-list><br>
+;leave <channel><br>
+;<1..10> <message><br>
+;#<channel-name> <message><br>
+;leaveall<br>
+;set <channel-list><br>
+;list [channel]<br>
+;announce [on | off]<br>
+;ignore [on | off]<br>
+;tell <player-name> <message><br>
+;oplist [channel]<br>
+;invisible [on | off]<br>
+;afk [on | off]<br>
+;buddy <[-]player-name>[,...]<br>
+;namespace<br>
+<br>
+<c "#FFFF00">Channel Moderator Command List:</c><br>
+;invite <player-name> [channel]<br>
+;kick <player-name> [channel]<br>
+;moderate [channel]<br>
+;local [channel]<br>
+;voice <player-name> [channel]<br>
+;grant <player-name> [channel]<br>
+;password password [channel]<br>
+<br>
+<c "#FFFF00">Channel Owner Command List: (yes, the secret ones)</c><br>
+;opadd <player-name> [channel]<br>
+;opremove <player-name> [channel]<br>
+;setowner <player-name> [channel]<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

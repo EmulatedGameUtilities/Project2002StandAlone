@@ -1,0 +1,99 @@
+Felwithe Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Merchant Yisasan (shop just inside S. Felwithe zone) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* oven - next to Bait & Tackle (N. Felwithe, loc 239, -603) <br>
+* water flask - Merchant Sorintal (Shop of All Holds, N. Felwithe)<br> 
+* spices, garnish, jug of sauces, vinegar, frosting, flour, milk, spit, mixing bowl, loaf of bread - Serenica Greenfinger (Shop of All Holds, N. Felwithe) <br>
+* water flask, fresh fish - Fishmonger Issa (Felwithe Fish House, N. Felwithe) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* cask, bottle - Merchant Issynal (Shop of All Holds, N. Felwithe)<br> 
+* brew barrel - basement of Tovaniks Venom (N. Felwithe) <br>
+* white wine, red wine, elven wine, shotglass, cask - Wela Muselender & Tyle Songwhisper (Tovaniks Venom, N. Felwithe) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, cask, shotglass, grapes - Feraniel Leafsway (Tovaniks Venom, N. Felwithe) <br>
+* water flask, mead - Merchant Sorintal (Shop of All Holds, N. Felwithe) <br>
+* cask - Fishmonger Jassa (Bait & Tackle, N. Felwithe) <br>
+* mistletoe - Merchant Yisasan (shop just inside S. Felwithe zone) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Rolyn Longwalker (Beyond Faydark, N. Felwithe), Merchant Sorintal (Shop of All Holds, N. Felwithe), Fishmonger Jassa (Bait & Tackle, N. Felwithe) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Merchant Longarrow (Faydark's Bane, N. Felwithe) <br>
+(many more fletching items in Kelethin) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* malachite, lapis, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jewelers kit, Legacy of Jewelcraft - Merchant Tyslin (upstairs, Shop of All Holds, N. Felwithe -- also same exact merchant located in building just inside entrance to S. Felwithe) <br>
+* metal bars (silver, electrum, gold, platinum), Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Merchant Silspin (next to Bait & Tackle, N. Felwithe) <br>
+* cats eye agate, bloodstone, jasper, peridot, star rose quartz - Merchant Lyssia (Enchanters Guild, S. Felwithe) <br>
+* peridot, wolfs eye agate, malachite - Merchant Jewyln (outside mage guild, S. Felwithe) <br>
+* enchant silver, enchant electrum, enchant gold, enchant platinum spells - Alicia Starshimmer (Enchanters Guild, S. Felwithe) <br>
+* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel, kiln - behind Faydark's Bane <br>
+* enchant clay spell - Alicia Starshimmer (Enchanters Guild, S. Felwithe) <br>
+* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) <br>
+* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol) - Alladria Skyetcher (Shop of All Holds, N. Felwithe) <br>
+* clay (small block, block, large block) - Bedida Claygrinder (upstairs, Shop of All Holds, N. Felwithe)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* mithril bricks (small/large) mithril blocks, small piece of mithril, sheets of mithril, elven smithy hammer, (medium) chainmail patterns - Tanalin Silverkale (upstairs, Shop of All Holds, N. Felwithe) (also hail him for information on mithril chainmail) <br>
+* shield molds - Mearchant Tearlin (Emerald Armor, N. Felwithe) <br>
+* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head), oak shaft - Opal Leganyn (Emerald Armor, N. Felwithe) <br>
+* plate armor molds, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft - Nerisia Irontree (upstairs, Emerald Armor, N. Felwithe) <br>
+* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) <br>
+* enchant: mithril [enchanter] - Merchant Lyssia (enchanter guild, S. Felwithe) <br>
+* koada'dal forge - inside Emerald Armor, N. Felwithe (-104, -409) <br>
+* ore (small piece, small block, large brick), sharpening stone, smithy hammer, oak shaft - Bedida Claygrinder (upstairs, Shop of All Holds, N. Felwithe) <br>
+* sandalwood - Merchant Yisasan (shop just inside S. Felwithe zone) <br>
+* forge at -90, -385 (inside Emerald Armor, N. Felwithe) <br>
+(other molds and books in Kelethin) <br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* elemental grimoire, Malagil's Compendium Vol 1, Malagil's Compendium Vol 2, Telryd's Writ, Telryd's Expansive Writ - Merchant Jewyln (outside mage guild, S. Felwithe) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns, small sewing kit - Merchant Tissan (Faydark's Bane, N. Felwithe) <br>
+* small sewing kit, How to Sew (Medium) - Merchant Silvenspin (Shop of All Holds, N. Felwithe), Merchant Moonthread (building just inside entrance to S. Felwithe) <br>
+* 10-slot loom - next to Merchant Yisasan (S. Felwithe) <br>
+(large sewing kit in Kelethin)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* water flask, large lantern - Merchant Sorintal (Shop of All Holds, N. Felwithe) <br>
+* medium platemail helm - Merchant Irontree (loc -105, -385, N. Felwithe)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

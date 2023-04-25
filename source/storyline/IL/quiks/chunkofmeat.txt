@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Chunk of Meat</c><br>
+Vendor: NPC Drop<br>
+Location: Various Old World Animals<br>
+Poison: Beast Stalker / Rancid Wolf Killer / Carnivore Mortis<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

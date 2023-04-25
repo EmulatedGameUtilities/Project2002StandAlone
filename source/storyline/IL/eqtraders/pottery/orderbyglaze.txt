@@ -1,0 +1,18 @@
+<c "#66CCFF">Glaze Recipes<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/931.txt">Agonizing Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/927.txt">Aqua Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/919.txt">Crystalline Valor Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/922.txt">Diseased Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/985.txt">Divine Crystalline Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/926.txt">Earthen Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/921.txt">Innovative Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/920.txt">Justice Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/925.txt">Magma Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/930.txt">Multielement Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/923.txt">Tempest Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/929.txt">Valorous Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/924.txt">War Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/928.txt">Windy Glaze</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(No Fail)<br>

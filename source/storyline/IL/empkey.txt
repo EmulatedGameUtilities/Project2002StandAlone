@@ -1,0 +1,13 @@
+<c "#FF2400">Key to the Emperor's Chamber </c><c "#FFFF00">from allakhazam.com </c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+In the basement of the temple, kill named Taskmasters until you obtain a Taskmaster's Pouch. Then kill Commander Zazuzh, on the first floor, and obtain the Zazuzh's Idol. Then kill Commander Zeruzsh, on the second floor, to get the ring. Then go to the imperial guard chamber and kill the guards until one of the named Mobs spawns. They drop the insignia. <br><br>
+
+Combine the idol, ring and insignia in the pouch and you will receive the Ring of Shissar, which gets you into the Emperor's Chamber.<br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

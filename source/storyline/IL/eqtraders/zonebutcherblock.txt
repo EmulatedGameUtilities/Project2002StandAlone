@@ -1,0 +1,49 @@
+Butcherblock Mountains Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* 13 recipe books, vinegar, spices, jug of sauce, garnish, frosting, flour, milk - Urazun Thranon (2794, -883, 2nd shop on left out from Kaladim) <br>
+spit - Nalda Gristbone (2716, -962, 3rd shop on left out from Kaladim)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* barley, hops, malt, rice yeast, wine yeast, Nature's Beverages - Indudul Dumirgun (2839, -648, 1st shop on left out from Kaladim) <br>
+* Pages from Bodders Diary I, III, IV, V, VI - Iglan Thranon (2801, -900, 2nd shop out on left from Kaladim entrance)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Indudul Dumirgun (2839, -648, 1st shop on left out from Kaladim), Gamin Grimstone (2721, -941, 3rd shop on left out from Kaladim), Felen Razdal (tower ruins, 128, 2386) , Parn Gylwyn (dock, 1458, 2823) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* block of clay (3), firing sheet (3), glass shard, Basic Pottery book, vial sketches (3) - Izbal Brightblade (-1281, -1967) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* container molds, Armor & Weapons Guide, Basic Blacksmithing, weapon molds (pommel, hilt, dual-edged blade, heavy steel blade, spiked ball), Dirge of Forgefire, lantern casing mold - Kaila Rucksack (2797, -694, 1st shop on left out from Kaladim) <br>
+* small banded armor molds, lantern casing mold - Ayen Rindlor (2821, -677, 1st shop on left out from Kaladim) <br>
+* cooking molds, Basic Blacksmithing, lantern casing mold, scaler mold - Nalda Gristbone (2716, -962, 3rd shop on left out from Kaladim) <br>
+* needle & thimble molds - Alga Bruntbuckler (-1183, -1951)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), How to Sew (3) - Alga Bruntbuckler (-1183, -1951) <br>
+* patterns (Cap, Gorget, Tunic, Sleeve, Glove, Pant, Boot), small sewing kit, How to Sew (small) - Fugan Mumfur (-1946, 2878: south of docks, on edge of water)<br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

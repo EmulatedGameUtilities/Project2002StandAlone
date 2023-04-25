@@ -1,0 +1,301 @@
+Tinkering Recipes<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/storyTinkeredArmor.txt">Tinkered Armor</a><br><br>
+<br><c "#66CCFF">Animated Bait</c><br>
+Trivial: 50<br>
+Cost: 0.003<br>
+Cork, Spriket<br>
+
+<br><c "#66CCFF">Gnomish compass</c><br>
+Trivial: 50<br>
+Cost: 1.987<br>
+Static Orb, Water Flask, Pie Tin (Blacksmithing), Cork, Skewers (Blacksmithing)<br>
+
+<br><c "#66CCFF">Firewater</c><br>
+Trivial: 50<br>
+Cost: 0.073<br>
+Gnomish Spirits, Water Flask<br>
+
+<br><c "#66CCFF">Collapsible Fishing Pole</c><br> 
+Trivial: 50<br>
+Cost: 5.248<br>
+Metal Rod, Metal Rod, Metal Rod, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Gnomish Firework</c><br>
+Trivial: 50<br>
+Cost: 0.136<br>
+Metal Shaft, Bat Wing, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF">Mechanized Lockpicks</c><br>
+Trivial: 62<br>
+Cost: 15.761<br>
+Gears, Sprockets, Lockpicks, Rat Ear<br>
+
+<br><c "#66CCFF">Flameless Lantern</c><br>
+Trivial: 68<br>
+Cost: 1.385<br>
+Large Lantern, Metal Twine, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF">Advanced Poison Vial</c><br>
+Trivial: 70<br>
+Cost: TBD<br>
+Sealed Poison Vial (Pottery), Peridot<br>
+
+<br><c "#66CCFF">Standard Bow Cam</c><br>
+Trivial: 75<br>
+Cost: 12.599<br>
+Gears, Grease, Gnomish Bolts<br>
+
+<br><c "#66CCFF"> Thermal Cloak</c><br>
+Trivial: 82<br>
+Cost: 0.860<br>
+Firewater (Tinkering), Metal Rod, Tattered Gnomish Cloak <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Telescopic Eyepatch</c><br>
+Trivial: 82<br>
+Cost: 25.357<br>
+Low Quality Dire Wolf Fur <c "#C71585">(Mob Drop)</c>, Gnomish Bolts, Reflective Shard, Velium Lens<br>
+
+<br><c "#66CCFF"> Spyglass</c><br>
+Trivial: 95<br>
+Cost: 20.740<br>
+Collapsible Fishing Pole (Tinkering), Bottle, Metal Twine, Metal Rod, Reflective Shard<br>
+
+<br><c "#66CCFF"> Stalking Probe</c><br>
+Trivial: 102<br>
+Cost: 15.565<br>
+Gears, Gears, Bottle, Metal Rod, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF"> Gem Cutter</c><br>
+Trivial: 116<br>
+Cost: 31.571<br>
+Metal Rod, Diamond Dust <c "#C71585">(Mob Drop)</c>, Standard Bow Cam (Tinkering), Metal Fastening, Firewater (Tinkering), Grease<br>
+
+<br><c "#66CCFF"> Powered Gloves</c><br>
+Trivial: 122<br>
+Cost: 42.073<br>
+Steel Lined Gloves, Sprockets, Gears, Metal Twine, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF"> Tinkered Catapult</c><br>
+Trivial: 135<br>
+Cost: 44.343<br>
+Shaped Ashwood Recurve Bow (Fletching), Sprockets, Gears, Metal Twine, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF"> Aqualung</c><br>
+Trivial: 148<br>
+Cost: 209.500<br>
+Fine Coral Mesh, Fresh Fish, Gnomish Bolts, Metal Rod, Metal Twine, Silk Lined Steel Helm<br>
+
+<br><c "#66CCFF"> Base Prototype</c><br>
+Trivial: 151<br>
+Cost: 44.362<br>
+Steel Casing, Pinion <c "#C71585">(Mob Drop)</c>, Grease, Steel Ball Bearing <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Advanced Propulsion Unit</c><br>
+Trivial: 162<br>
+Cost: 44.416<br>
+Tinkered Catapult (Tinkering), Firewater (Tinkering), Saltpeter <c "#C71585">(Mob Drop)</c>, Coiled Spring <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Greasy Diamond of Innovation</c><br>
+Trivial: <168<br>
+Cost: TBD<br>
+Raw Diamond, Gem Cutter (Tinkering), Silicorrosive Grease<br>
+
+<br><c "#66CCFF"> Perpetual Steam Pump</c><br>
+Trivial: 168<br>
+Cost: 8.095<br>
+Steel Ball Bearing <c "#C71585">(Mob Drop)</c>, Coiled Spring <c "#C71585">(Mob Drop)</c>, Gears, Water Flask, Cured Leather Tubing<br>
+
+<br><c "#66CCFF"> Perpetual Air Pump</c><br>
+Trivial: 168<br>
+Cost: 9.135<br>
+Steel Ball Bearing <c "#C71585">(Mob Drop)</c>, Coiled Spring <c "#C71585">(Mob Drop)</c>, Gears, Vial of Gases, Cured Leather Tubing<br>
+
+<br><c "#66CCFF"> Corking Device</c><br>
+Trivial: 174<br>
+Cost: 27.037<br>
+Cogs, Sprockets, Gears, Grease, Branch of Sylvan Oak, Blue Diamond<br>
+
+<br><c "#66CCFF"> Rebreather</c><br>
+Trivial: 175 <br>
+Cost: 894.040<br>
+Aqualung (Tinkering), Firewater (Tinkering), Lime Coated Meshing, Platemail Helm, Metal Fastening, Sharkskin Tubing<br>
+
+<br><c "#66CCFF"> Happy Dragon</c><br>
+Trivial: 187<br>
+Cost: 44.552<br>
+Saltpeter <c "#C71585">(Mob Drop)</c>, Gnomish Firework (Tinkering), Advanced Propulsion Unit (Tinkering)<br>
+
+<br><c "#66CCFF"> Meteorological Rocket</c><br>
+Trivial: 196<br>
+Cost: 62.402<br>
+Gnomish Firework (Tinkering), Opal, Advanced Propulsion Unit (Tinkering)<br>
+
+<br><c "#66CCFF"> Collapsed Mortar and Pestle</c><br>
+Trivial: 207<br>
+Cost: 21.9457<br>
+Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c>, Metal Rod<br>
+
+<br><c "#66CCFF"> Anizoks Maximizing Device</c><br>
+Trivial: 210<br>
+Cost: 159.599<br>
+Base Prototype (Tinkering), Gnomish Bolts, Sprockets, Mana Battery - Class Six, Perpetual Air Pump (Tinkering)<br>
+
+<br><c "#66CCFF"> Anizoks Minimizing Device</c><br>
+Trivial: 212<br>
+Cost: 167.694<br>
+Base Prototype (Tinkering), Gnomish Bolts, Sprockets, Mana Battery - Class Six, Perpetual Steam Pump (Tinkering)<br>
+
+<br><c "#66CCFF"> Geerlok All Purpose Baking Utensil</c><br>
+Trivial: 215<br>
+Cost: 33.337<br>
+Utensil Parts, Gears, Sprockets, Gnomish Bolts, Darkclaw Claw <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Automated Hammer</c><br>
+Trivial: 215<br>
+Cost: 30.449<br>
+Smithy Hammer, Gears, Sprockets, Gnomish Bolts, Grease, Small Piece of Acrylia <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Fermentation Device</c><br>
+Trivial: 215<br>
+Cost: 2.841<br>
+Ceramic Lined Still, Cured Leather Tubing, Bottle, Cork, Porous Mineral Block <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Gem Setter</c><br>
+Trivial: 215<br>
+Cost: 33.337<br>
+Gem Setter Parts, Gears, Sprockets, Gnomish Bolts, Reflective Shard, Sensate Reishi Lens <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Planing Tool</c><br>
+Trivial: 215<br>
+Cost: 29.587<br>
+Planing Tool, Gears, Sprockets, Gnomish Bolts, Belt of Leathery Fungus Flesh <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Sculpting Tools</c><br>
+Trivial: 215<br>
+Cost: 18.637<br>
+Sculpting Tools, Gears, Sprockets, Gnomish Bolts, Metal Twine, Darkclaw Claw <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Geerlok Sewing Contraption</c><br>
+Trivial: 215<br>
+Cost: 19.687<br>
+Sewing Contraption Parts, Gears, Sprockets, Gnomish Bolts, Chitterling Barb <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Necrotic Divining Device</c><br>
+Trivial: 216-219<br>
+Cost: 221.601<br>
+Base Prototype (Tinkering), Gnomish Bolts, Static Orb, Mana Battery - Class Six, Tiny Jade Inlaid Coffin<br>
+
+<br><c "#66CCFF"> Collapsed Spit</c><br>
+Trivial: 222<br>
+Cost: 3.882<br>
+Metal Rod, Metal Rod, Metal Rod, Gnomish Bolts, Skewers (Blacksmithing), Coiled Spring <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Collapsed Mixing Bowl</c><br>
+Trivial: 223<br>
+Cost: 21.867<br>
+Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Folded Sheet Metal (Blacksmithing), Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Collapsed Jewellers Kit</c><br>
+Trivial: 224<br>
+Cost: 5.331<br>
+Metal Bits (Blacksmithing), Container Base Mold, Container Lid Mold, Gem Setter Parts, Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c><br>
+
+<br><c "#66CCFF"> Collapsed Sewing Kit</c><br>
+Trivial: 226<br>
+Cost: 3.609<br>
+Metal Bits (Blacksmithing), Needle Mold, Thimble Mold, Container Base Mold, Container Lid Mold, Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c> 
+
+<br><br><c "#66CCFF"> Collapsed Tackle Box</c><br>
+Trivial: 227 <br>
+Cost: 3.281<br>
+Metal Bits (Blacksmithing), Circle Hook, Dry Hook, Container Base Mold, Container Lid Mold, Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c>
+
+<br><br><c "#66CCFF"> Collapsed Fletching Kit</c><br>
+Trivial: 227<br>
+Cost: 15.231<br>
+Metal Bits (Blacksmithing), Container Base Mold, Container Lid Mold, Planing Tool, Gnomish Bolts, Coiled Spring <c "#C71585">(Mob Drop)</c> 
+
+<br><br><c "#66CCFF"> Footwarming Boots</c><br>
+Trivial: 235<br>
+Cost: 202.625<br>
+Small Fine Plate Boots (Blacksmithing), Firewater (Tinkering), Sharkskin Tubing, Metal Rod, Metal Rod, Metal Twine, Gnomish Bolts 
+
+<br><br><c "#66CCFF"> Collapsed Toolkit</c><br>
+Trivial: 242<br>
+Cost: 6.293<br>
+Metal Bits (Blacksmithing), Toolbox Mold, Small Brick of High Quality Ore, Water Flask, Coiled Spring<c "#C71585">(Mob Drop)</c>
+
+<br><br><c "#66CCFF"> Anizoks Gauze Press</c><br>
+Trivial: >250<br>
+Cost: 153.403<br>
+Base Prototype (Tinkering), Gnomish Bolts, Static Orb, Mana Battery - Class Six, Bandages 
+
+<br><br><c "#66CCFF"> Wok</c><br>
+Trivial: >250<br>
+Cost: 6.109<br>
+Clockwork Carapace <c "#C71585">(Mob Drop)</c>, Metal Rod, Gnomish Bolts, Firewater (Tinkering), Grease<br>
+
+<br><c "#66CCFF">Crab Cracker</c><br>
+Trivial: >250<br>
+Cost: 1.647<br> 
+Firewater (Tinkering), Knuckle Joint, Metal Rod, Metal Rod<br>
+
+<br><c "#66CCFF">Cheirometric Lockpick Device</c><br>
+Trivial: >250<br>
+Cost: 152.261<br>
+Chainmail Gloves, Mechanized Lockpicks (Tinkering), Pinion <c "#C71585">(Mob Drop)</c>, Coiled Spring <c "#C71585">(Mob Drop)</c>, Steel Ball Bearing <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Six<br>
+
+<br><c "#66CCFF">Azimuth Indicative Cuirass</c><br>
+Trivial: >250<br>
+Cost: 894.487<br>
+Steel Breastplate, Coiled Spring <c "#C71585">(Mob Drop)</c>, Gnomish Compass (Tinkering), Steel Ball Bearing <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Six<br>
+
+<br><c "#66CCFF">Gnomish Vanishing Device</c><br>
+Trivial: >250<br>
+Cost: 69.141<br>
+Diamond <c "#C71585">(Mob Drop)</c>, Small Lantern, Steel Wire, Gnomish Bolts, Reflective Shard, Haze Panther Eye <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five<br>
+
+<br><c "#66CCFF"> Grandmaster Tinkers Spanner</c><br>
+Trivial: >250<br>
+Cost: 2625.569<br>
+Artisans Seal (Pottery), Metal Bits (Blacksmithing), Sharpening Stone<br>
+
+<br><c "#66CCFF">Jar of Clockwork Grease</c><br>
+Trivial: No-fail Combine<br>
+Cost: TBD<br>
+Clockwork Grease (Foraged), Clockwork Grease (Foraged), Small Clay Jar (Pottery<br>
+
+<br><c "#66CCFF">Innovative Bow Cam</c><br>
+Trivial: 208<br>
+Cost: TBD<br>
+Innovative Clockwork Bolts <c "#C71585">(Mob Drop)</c>, Innovative Clockwork Gears <c "#C71585">(Mob Drop)</c>, Jar of Clockwork Grease (Tinkering)<br>
+
+<br><c "#66CCFF"> Molten Metal Bow Cam</c><br>
+Trivial: >250<br>
+Cost: TBD<br>
+Molten Cam Parts (Blacksmithing), Jar of Clockwork Grease (Tinkering)<br>
+
+<br><c "#66CCFF"> Ecian Ice Bow Cam</c><br>
+Trivial: >250<br>
+Cost: TBD<br>
+Ecian Ice Bow Cam Parts (Blacksmithing), Jar of Clockwork Grease (Tinkering)<br>
+
+<br><c "#66CCFF"> Wind Metal Bow Cam</c><br>
+Trivial: >250<br>
+Cost: TBD<br>
+Wind Cam Parts (Blacksmithing), Jar of Clockwork Grease (Tinkering)<br>
+
+<br><c "#66CCFF"> Planar Steel Bow Cam</c><br>
+Trivial: >250<br>
+Cost: TBD<br>
+Planar Cam Parts (Blacksmithing), Jar of Clockwork Grease (Tinkering)<br>
+
+<br><c "#66CCFF">Infused Gear</c><br>
+Trivial: >178 <=209<br>
+Cost: TBD<br>
+Gear, celestial temper (Brewing)<br>
+
+<br>Credits:  Most of this information taken from the Clockwork Tinker's Union and EQTraders websites.  Please visit their excellent websites!<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/storyTinkeredArmor.txt">Tinkered Armor</a><br><br>

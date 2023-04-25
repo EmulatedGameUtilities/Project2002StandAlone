@@ -1,0 +1,2 @@
+Talisman of Return
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Item: Summoned: Talisman of Return<br><br><c "#66CCFF">Casting Time:</c> 4.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Mana:</c> 300<br><c "#66CCFF">Recast Time:</c> 2.25<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Conjuration<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> MAG/62<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>

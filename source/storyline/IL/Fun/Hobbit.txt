@@ -1,0 +1,385 @@
+<c "#FFff00">The Halfling; or Tolkien's Hobbit in EQ </c><c "#FF8000">Gorfrey Bellhewer</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/fun/fun.txt">Fun</a><br><br>
+
+The Halfling; or Tolkien's Hobbit in EQ, Part One       <BR>
+<BR>
+<BR>
+As related to Gorfrey Bellhewer, Noble Paladin of Brell Serilis... <BR>
+<BR>
+SYSTEMWIDE MESSAGE: In a hole in the ground, there lived a hob... er, halfling. Well, actually, it was on Test Server during Beta testing. But anyway, it was a hole. Not a damp, dark, muddy hole, and not THE Hole, but a somewhat sterile, poorly furnished, sparsely decorated hole. In other words, an EQ halfling hole. <BR>
+<BR>
+Bilbo: I wish they would fix trade skills. How can I raise my baking skill if they don't fix these recipes? I am so sick of rat kabobs and rat sandwiches. <BR>
+<BR>
+Gandalf: /shout group looking for rogue for dragon raid! PST! <BR>
+<BR>
+Bilbo: oh, crap... /anon <BR>
+<BR>
+Gandalf: Hail, Bilbo. You're a rogue aren't you? <BR>
+<BR>
+Bilbo: Hail, Gandalf. Yes, I am. Guess I didn't hide quickly enough. <BR>
+<BR>
+Gandalf: I am a level 50 wizard power leveling some friends. We need a rogue for our dragon raid. Wanna come? Phat lewts, my friend! And mad exp! <BR>
+<BR>
+Bilbo: I dunno, I was working on my baking, and I don't want to lose any exp in a stupid dragon raid. <BR>
+<BR>
+Gandalf: Come on, it'll be fun! You'll have me there to protect you. <BR>
+<BR>
+Bilbo: Who else is coming? <BR>
+<BR>
+Gandalf: Well, the rest of the party is made up of dwarves - they have 2 groups of six plus one extra guy. You'll be in his group. <BR>
+<BR>
+Bilbo: What classes? And who is the MT? Who's the healer? <BR>
+<BR>
+Gandalf: Ummm... well, they are all bards. <BR>
+<BR>
+Bilbo: Dwarven bards? What the hell?!? I never heard of those. <BR>
+<BR>
+Gandalf: Yeah, Verant is testing them - they aren't sure if they'll keep that class/race combo in the release. They don't have many songs that work so far. <BR>
+<BR>
+Bilbo: Well, what songs do they have? <BR>
+<BR>
+Gandalf: Gloin's Grand Gastronomical Gluttony - it triples your metabolism. And Bombur's Dishbreaking Discord - some stupid song about cracking plates, but we think that one's bugged. <BR>
+<BR>
+Bilbo: Gee, that's useful. By the way, who's the MT? <BR>
+<BR>
+Gandalf: um... you are. <BR>
+<BR>
+Bilbo: Gfs'y! Are you out of your pkqrvzw mind?!? <BR>
+<BR>
+Gandalf: Tell you what - if the Cloak of Flames Drops, its yours. <BR>
+<BR>
+Bilbo: I am so there. <BR>
+<BR>
+SOMEWHERE NEAR MIRKWOOD FOREST <BR>
+<BR>
+Bilbo: Thanks for playing your metabo/Stacker 2/whatever song. Now all my food is gone and we aren't even halfway there. <BR>
+<BR>
+Thorin: Quit complaining - there's a troll camp ahead and you can just pickpocket them so we can get some food. <BR>
+<BR>
+Bilbo: Where's Gandalf? <BR>
+<BR>
+Thorin: Uh... I dunno. I guess he gated out when we ran out of food. <BR>
+<BR>
+Bilbo: Great. Well, here goes nothing. <BR>
+<BR>
+You have failed to pick A_Crazed_Troll's pocket! <BR>
+You have increased your skill in pickpocketing! (2) <BR>
+<BR>
+A_Crazed_Troll: You halflings have ruined your own lands! You'll not ruin mine! <BR>
+<BR>
+Bilbo: Help! <BR>
+<BR>
+Thorin: Oh, crap! TRAIN TO ZONE!!! <BR>
+<BR>
+A SHORT WHILE LATER <BR>
+<BR>
+Oin: I knew I should have made a warrior or a paladin. This sucks. <BR>
+<BR>
+Thorin: Welcome to Beta testing. <BR>
+<BR>
+Bombur: At least Gandalf came back to help us with the CR. <BR>
+<BR>
+Gloin: Yeah, but since we have no cleric, we have no rezz. I lost a level! <BR>
+<BR>
+Thorin: As a dwarven bard, it makes no difference. What song you lose? <BR>
+<BR>
+Gloin: The one with beards all a-wagging. <BR>
+<BR>
+Thorin: See? No big loss. Come on, we can camp up here and bind wounds. We can sit here and memm or songs and nothing will bother us. <BR>
+<BR>
+Bilbo: Hey... isn't this where those goblins spawn? <BR>
+<BR>
+A SHORT WHILE LATER <BR>
+<BR>
+Gloin: Uyt'! I died again! <BR>
+<BR>
+Thorin: If you don't quit complaining I am going to kick you out of the guild. Now where did Bilbo go? <BR>
+<BR>
+TO BE CONTINUED<BR>
+ <BR>
+The Halfling; or Tolkien's Hobbit in EQ, Part Two       <BR>
+<BR>
+--------------------------------------------------------------------------------<BR>
+ <BR>
+DEEP INSIDE THE MISTY MOUNTAINS <BR>
+<BR>
+Gollum: Time to work on fishing skill, my precious. <BR>
+<BR>
+[Box pops up] Are you sure you want to drop The One Ring on the ground? <BR>
+<BR>
+Gollum: Yes, my precious will be safe here. No one comes to this dungeon anymore since they nerfed the dropses, my precious. <BR>
+<BR>
+MEANWHILE... <BR>
+<BR>
+You have increased your skill in sneaking! (100) <BR>
+<BR>
+Bilbo: Whew, I think I finally lost those retards. Stupid wizard. I can't believe I let him talk me into this. At least I looted the trolls without them noticing, he he. Now where is the zone exit? Hey - is that a ground spawn? Funny, it looks like a ring. <BR>
+<BR>
+Gollum: What is it, my precious? A tasty morsel? We makes Hot N' Spicy Toelings with it, yesss? <BR>
+<BR>
+Bilbo: I didn't turn in my book to the PoD buddy so back off. You don't want to duel me, trust me. What the hell are you anyway? A froglok? Don't tell me Verant is thinking about making frogloks a playable race - what a joke. <BR>
+<BR>
+Gollum: Does it like riddles? <BR>
+<BR>
+Bilbo: What are you giving out quests now? Just tell me the way out. <BR>
+<BR>
+Gollum: If we asks it, and it answers, then we shows it the way out, my precious. <BR>
+<BR>
+Bilbo sighs, clearly disappointed. <BR>
+<BR>
+Bilbo: Fine, ask me, you moron. <BR>
+<BR>
+MEANWHILE, DEEP INSIDE THE GOBLIN DUNGEON <BR>
+<BR>
+Balin: I think we shouldn't be here - the goblins are conning red to me and they are glowering dubiously. <BR>
+<BR>
+Thorin: No sweat, I know the way out of here. We just have to talk to the goblin king. Hail, The_Goblin_King. <BR>
+<BR>
+The Goblin King: What do you want? Are you [elf-friends]? Do you [wield the sword Orcrist]? <BR>
+<BR>
+Dwalin: /g You know the right response? <BR>
+<BR>
+Thorin: /g Sure I know the right response. I researched this quest. <BR>
+<BR>
+Thorin: Yes, we are elf-friends and I wield the sword Orcrist. <BR>
+<BR>
+The Goblin King: AAAAAARGH!!!!! MURDERERS!!!!! <BR>
+<BR>
+Dwalin: Oh, fquw! You just spawned the goblin war! <BR>
+<BR>
+Gandalf: I'm back! Just in time! <BR>
+<BR>
+Gandalf casts massive uber AoE spell. <BR>
+Gandalf has slain the Goblin King! <BR>
+Gandalf has slain goblin guard! <BR>
+Gandalf has slain goblin guard! <BR>
+Gandalf has slain goblin guard! <BR>
+Gandalf has slain goblin whelp! <BR>
+<BR>
+Gandalf: Stand close! Casting evac! <BR>
+<BR>
+BACK IN GOLLUM'S CAVE <BR>
+<BR>
+Bilbo: So what's the final ingredient you need to make a clump of dough? <BR>
+<BR>
+Gollum: Eggses, my precious! EGGS! <BR>
+<BR>
+Bilbo: What a smart one you are. Now can we get out of here? <BR>
+<BR>
+Gollum: First, I want to show you my birthday present. Just come over here, little hobbitses. <BR>
+<BR>
+Bilbo: Umm... ok.... <BR>
+<BR>
+You have entered a PvP area! <BR>
+You have entered a PvP area! <BR>
+<BR>
+Bilbo: I knew it! Stupid little froglok! Aha, the exit! <BR>
+<BR>
+Bilbo's ring begins to glow. <BR>
+Bilbo has vanished! <BR>
+<BR>
+Gollum: We hates the Baggins! We hates it forever! It ninja looted my precious! <BR>
+<BR>
+Bilbo: /ignore Gollum. <BR>
+<BR>
+OUTSIDE IN THE FOREST <BR>
+<BR>
+Bombur: So, evac only works for one group, right? <BR>
+<BR>
+Dwalin: Yep. <BR>
+<BR>
+Bombur: So how did Gandalf evac all of us? <BR>
+<BR>
+Balin: I think he's a GM or something. <BR>
+<BR>
+Dwalin: I think you're right. Someone told me that only GMs have green names, and his name is green. <BR>
+<BR>
+Bombur: That explains a lot. <BR>
+<BR>
+Gandalf: Look who I found! <BR>
+<BR>
+Bilbo: Hey all. <BR>
+<BR>
+Thorin: How did you find him? It's not like wizards have tracking... right? <BR>
+<BR>
+Gandalf: <looking innocent> I don't know what you mean. Come on, let's go before someone else gets to Smaug first. I overheard Tain Shari talking about doing a raid. <BR>
+<BR>
+Bombur: Can I play a song? <BR>
+<BR>
+Bilbo: NO!!<BR>
+ <BR>
+The Halfling; or Tolkien's Hobbit in EQ, Part Three       <BR>
+<BR>
+--------------------------------------------------------------------------------<BR>
+ <BR>
+THE EDGE OF MIRKWOOD FOREST <BR>
+<BR>
+Gandalf: Well, I have to log for a while. You guys stay safe. <BR>
+<BR>
+Bombur: What? What about the dragon raid? <BR>
+<BR>
+Gandalf: Don't worry, you have your rogue with you. I'll be back on later if I can. And don't leave the trail, or the mobs will agro on you. <BR>
+<BR>
+Gandalf has left the group. <BR>
+<BR>
+Bilbo: This just gets better and better. Alright, let's go. No singing, unless it's something useful like Selo's Accelerando or something. <BR>
+<BR>
+Thorin: Selo's what? <BR>
+<BR>
+Bilbo: Sweet Brell, you guys are lame. Tell you what - I am going AFK a sec to run to the john - don't do anything stupid while I'm gone. <BR>
+<BR>
+Bombur: Right. Nothing Stupid. Gotcha. <BR>
+<BR>
+A SHORT TIME LATER <BR>
+<BR>
+Bilbo: OK, I'm back. WHAT THE HVRQ DID YOU GUYS DO?!? <BR>
+<BR>
+Kili: Uh, well, Bombur played that stupid dish song of his, and all of our baking containers disappeared, and since we had no more food we went looking for some. <BR>
+<BR>
+Bilbo: Well, that's fine, but who aggroed all those spiders? <BR>
+<BR>
+Fili: Bifur likes candied spider. <BR>
+<BR>
+Bilbo: And he didn't bother conning them first? Now, how are we going to get them all back to their corpses?! Aren't you guys bound back in Hobbiton? Well? <BR>
+<BR>
+Kili has been slain by a large spider! <BR>
+Fili has been slain by a large spider! <BR>
+<BR>
+Bilbo: Time to slip the ring on before they aggro on me. <BR>
+<BR>
+Bilbo: /shout Thorin! Where are you? <BR>
+<BR>
+Thorin: /shout hey Bilbo, I got these wood elves to give us all rezzes - you got any plat? <BR>
+<BR>
+Bilbo: /shout I thought you were a king! YOU don't have any?!? <BR>
+<BR>
+A SHORT TIME LATER, IN LAKETOWN <BR>
+<BR>
+Bilbo: Next time, try asking for a mercy rezz instead of telling them you'll pay 20 PP apiece, OK? <BR>
+<BR>
+Thorin: Well, we do appreciate your help Bilbo. <BR>
+<BR>
+Bilbo: I sure hope so - you know how hard it is to drag corpses through water? At least those humans didn't charge us anything. <BR>
+<BR>
+Thorin: I told them we would give them some dragon loot - out of your share. <BR>
+<BR>
+Bilbo: I hate you. <BR>
+<BR>
+Bard: Hail, Bilbo. Hail, Thorin. <BR>
+<BR>
+Bilbo: Boy, you must have thought a long time about that name. Let me guess what class you are. <BR>
+<BR>
+Bard: I'm a warrior. <BR>
+<BR>
+Bilbo: Uh... right. So, you guys know anything about this dragon, Smaug? <BR>
+<BR>
+Bard: Well, we don't see it much. No on can get into the cave without a key, but every once in a while some fool with a key will go in and aggro him, and he comes out and kills everyone in the zone. It lowers your facton with Laketown Merchants and Laketown Warriors big-time. <BR>
+<BR>
+Bilbo: Oh. Well, I guess we will see you guys later. BTW, spare any food and drink? <BR>
+<BR>
+Bard: Merchants are down the street. We already rezzed you guys for free. <BR>
+<BR>
+Thorin: Right. OK, thanks again. Got any plat on you Bilbo? <BR>
+<BR>
+Bilbo: Not going to get mad. Think about the Cloak of Flames. Concentrate on Cloak of Flames. <BR>
+<BR>
+THE LONELY MOUNTAIN <BR>
+<BR>
+Thorin: OK, Gandalf gave me the key and the coordinates of the secret door. You ready Bilbo? <BR>
+<BR>
+Bilbo: Yeah, as ready as I am going to be. Why do I feel like this is going to be ugly? <BR>
+<BR>
+Thorin: Just sneak in there and grab some loot. Maybe you can pick the dragon's pocket. <BR>
+<BR>
+Bilbo: I think that's a really bad idea. Just let me go in and recon around. <BR>
+<BR>
+Thorin: OK just tell us when you are ready to attack him. Be sure to get aggro, and then we will start singing some helpful songs. <BR>
+<BR>
+Bilbo: You guys have those? Maybe Smaug has some pie pans he doesn't want anymore, huh? <BR>
+<BR>
+Thorin: Wise A$$. <BR>
+<BR>
+SMAUG'S LAIR <BR>
+<BR>
+Bilbo: There he is - wow, he's huge. Better put the invis ring on. <BR>
+<BR>
+Smaug: Greetings thief. I can smell you. Are you a [barrel-rider]? <BR>
+<BR>
+Bilbo: /g He's asking me if I'm a barrel rider. No one told me about this - hey, maybe he'll give me some stupid quest and I'll get some free stuff. <BR>
+<BR>
+Bombur: Sure, go ahead. <BR>
+<BR>
+Bilbo: Do you need to ask Thorin? <BR>
+<BR>
+Bombur: Nah, just go ahead and tell him. <BR>
+<BR>
+Bilbo: I am a barrel-rider. <BR>
+<BR>
+Smaug: I knew it! Death to all the lakemen! <BR>
+<BR>
+Bilbo: Uh-oh. <BR>
+<BR>
+AT LAKETOWN <BR>
+<BR>
+Bard: /shout SMAUG IS LOOSE! EVERYONE ZONE TO MIRKWOOD! <BR>
+<BR>
+Cleric: I knew those stupid dwarf bards would do this! And I'm out of silver-tipped arrows! <BR>
+<BR>
+Shaman: Good thing I'm a cleric - I can rezz everyone after he's gone. <BR>
+<BR>
+Rogue: /oom - no more dragon nukes - we got him down to less than 1 bubble! <BR>
+<BR>
+Bard scores a critical hit! (354) <BR>
+Bard has slain Smaug! <BR>
+<BR>
+Shaman: Hey, Bard, come help me get these corpses all in one place - that dead dragon isn't going anywhere. <BR>
+<BR>
+Bard: OK, as long as I don't let it rot. <BR>
+<BR>
+Thorin: Sweet! <BR>
+<BR>
+You cannot loot this corpse at this time. <BR>
+You cannot loot this corpse at this time. <BR>
+You cannot loot this corpse at this time. <BR>
+You loot 54 pp, 123 gp, 245 sp, and 587 cp from the corpse. <BR>
+You loot a Cloak of Flames. <BR>
+You are encumbered! <BR>
+<BR>
+Bofur: Hey, turn split loot on Thorin! <BR>
+<BR>
+Bard: /shout NINJA LOOTERS! <BR>
+<BR>
+Bard: /petition These stupid dwarf bards ninja looted our dragon! <BR>
+<BR>
+Gandalf: Hello, I am GM Gandalf. How can I help you today? <BR>
+<BR>
+Bard: These guys aggroed the dragon on the whole zone, and then ninja looted after we killed it. <BR>
+<BR>
+Gandalf: OK, let me go talk to them. <BR>
+<BR>
+A SHORT TIME LATER <BR>
+<BR>
+Bilbo: Well, after all that I still didn't get my Cloak of Flames. <BR>
+<BR>
+Bard: Gandalf sold it so we could all split the money. Now everyone is happy. And you better keep that dwarf away from me. <BR>
+<BR>
+Bilbo: Well, Gandalf banned them all. He says Verant is even going to stop allowing people to creat dwarf bards, because these turned out so bad. <BR>
+<BR>
+Bard: Sweet. Can I add you to my friend list? <BR>
+<BR>
+Bilbo: Sure. I think I am going to work on my alcohol tolerance. <BR>
+<BR>
+Shaman: Someone spawned the Orc and Warg army! The war has started! <BR>
+<BR>
+Bilbo: I'm logging. Catch you later!<BR>
+ <BR>
+<BR>
+Gorfrey Bellhewer<BR>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>

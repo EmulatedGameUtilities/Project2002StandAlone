@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Rock Fern</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Plane of Disease / Kael Drakkal<br>
+Poison: Itching Madness / Scratching Madness<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

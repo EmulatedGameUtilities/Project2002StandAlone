@@ -1,0 +1,165 @@
+<a HREF="file:///storyline/storyil.txt">Table of Contents</a><BR><BR>
+
+Fishing
+<BR><c "#9900CC">April 4, 2003</c>
+<BR>
+<BR><c "#9900CC">All information comes from http://www.eqtraders.com</c>
+<br>
+<BR><c "#9900CC">Zone and what you can reel in</c>
+<BR>
+<BR>
+<br>Ak'Anon
+<BR>Clockwork Koi (can be brewed into an essence)
+<BR>
+<br>Blackburrow
+<BR>Hound Pike (can be baked into a fillet)
+<BR>
+<br>Butcherblock
+<BR>Stonefish (can be brewed into an essence)
+<BR>
+<br>Cabilis
+<BR>Fetid Bass (varying sizes), Gigantic Fetid Bass (no drop), Large Fetid Bass, Sewer Catfish 
+<BR>
+<br>Chardok
+<BR>Chokai Bass (from a pool at the base of the waterfall on the way to the royals area) 
+<BR>
+<br>City of Mist
+<BR>Fogwater Trout (can be baked into a fillet), Ikfish 
+<BR>
+<br>Cobalt Scar
+<BR>Cobalt Cod (can be used for cod oil or baked into Orange Flavored Cod), Dragon Bay Snapper (can be brewed into Snapper Oil) 
+<BR>
+<br>Crystal Caverns
+<BR>Crystallized Cave Fish 
+<BR>
+<br>Crushbone
+<BR>Boar Carp (can be baked into a fillet) 
+<BR>
+<br>Dagnor's Cauldron
+<BR>Cauldron Trout (can be baked into a fillet) 
+<BR>
+<br>Dulak**
+<BR>sea cucumber (baking), abalone (baking), frilled anemone (poisons) 
+<BR>
+<br>Eastern Wastes
+<BR>Rygorrian Toothfish 
+<BR>
+<br>Erud's Crossing
+<BR> Barren Flounder 
+<BR>
+<br>Feerrott
+<BR>Thulian Mudskipper 
+<BR>
+<br>Felwithe
+<BR>Koada Cichlid 
+<BR>
+<br>Firiona Vie
+<BR>Fetid Bass (varying sizes), Gigantic Fetid Bass (no drop), Sewer Catfish 
+<BR>
+<br>Gulf of Gunthak
+<BR>Moray eel (used in baking), Deep sea urchin (used in baking), Ovate jellyfish (used in poisons), Gunthak gourami (used in baking) 
+<BR>
+<br>Highhold Pass
+<BR>Highland Pike (can be baked into a fillet) 
+<BR>
+<br>Hole, The
+<BR>Hatch Dace (can be brewed into an essence) 
+<BR>
+<br>Iceclad Ocean
+<BR>Iceclad Cutlassfish (can be used for 7th Coldain Prayer Shawl or baked into Rolled Cutlassfish), Salty Whitefish 
+<BR>
+<br>Innothule
+<BR>Rujarkian Chub (can be baked into a fillet), Thulian Mudskipper 
+<BR>
+<br>Jaggedpine Forest
+<BR>Thunder Salmon (can be baked into a fillet, converted into fish eggs and fish scales, turned into Prepared Salmon Fillet and Thunder Bones, or brewed into an essence)
+<BR> 
+<br>Karnor's Keep
+<BR>Wulf Fish 
+<BR>
+<br>Kael Drakkel
+<BR>Frosty Cave Trout 
+<BR>
+<br>Kedge Keep
+<BR>Kedge Carp (apparently there are spots in the zone that you can fish from if you are levitating <boggle>) 
+<BR>
+<br>Kerra Ridge
+<br>Kerra Catfish 
+<BR>
+<br>Lake of Ill Omen
+<BR>none (Bloodfin Trout used to be available in this zone, but now appear to be extinct) 
+<BR>
+<br>Lake Rathe 
+<BR>Rathe Muskie (can be baked into Marinated Muskie) 
+<BR>
+<br>Mines of Nurga
+<BR>Cave Guppy, Sponge Mushroom 
+<BR>
+<br>North Karana, South Karana, West Karana, East Karana
+<BR>Thunder Salmon (can be baked into a fillet, converted into fish eggs and fish scales, turned into Prepared Salmon Fillet and Thunder Bones, or brewed into an essence) 
+<br>
+<BR>Ocean of Tears
+<br>Gunthak Mackerel (can be turned into bait), Saltwater Seaweed (used for Sea Temper) 
+<BR>
+<br>Overthere, The
+<BR>Danak Grouper 
+<BR>
+<br>Plane of Disease
+<BR>Diseased Fish, can be made into fish oil 
+<BR>
+<br>Plane of Nightmare
+<BR>Crawdad, used in a baking recipe, Nightmare Cichlid used in a fishing recipe for a quest, Waterleaf Scale 
+<BR>
+<br>Plane of Storms
+<br>Storm Salmon  
+<BR>
+<br>Plane of Tranquility
+<BR>Waterleaf Scale, Quellian Koi
+<BR> 
+<br>Plane of Valor 
+<br>Crawdad, used in a baking recipe, Vallorian discus, used in a fishing recipe for a quest 
+<BR>
+<br>Plane of Water
+<BR>Giant Halibut, used in a baking recipe, Giant Snapper, used in a baking recipe 
+<BR>
+<br>Sebilis
+<BR>Kunzar Koi (can be turned into Prepared Kunzar Fillet and Kunzar Bones) 
+<BR>
+<br>Siren's Grotto
+<BR>Grotto Bluegill 
+<BR>
+<br>Sleepers Tomb
+<BR>Weary Wrass 
+<BR>
+<br>Surefall Glade
+<BR>Pine Cichlid 
+<BR>
+<br>Swamp of No Hope
+<BR>Despair Chub (can be baked into a fillet), Krup Guppy
+<BR>
+<br>Timorous Deep
+<BR>Saltwater Seaweed (used for Sea Temper), Timorous Tuna 
+<BR>
+<br>Togiran Mines^^
+<BR>Blowfish barb (used in poisons), Gunthak gourami (used in baking), Bay seaweed (used in baking) 
+<BR>
+<br>Tower of Frozen Shadow
+<BR>Grotto Bluegill 
+<BR>
+<br>Toxxulia Forest
+<BR>Green Gill Salmon (can be baked into a fillet, converted into fish eggs and fish scales, or turned into Prepared Greengill Fillet & Greengill Bones) 
+<BR>
+<br>Warslik Woods 
+<BR>Evergreen Salmon 
+<BR>
+<br>Western Wastes
+<BR>Red Roughy (can be baked into Vegetable Roughy) 
+<BR>
+<BR>
+**There are two fishable spots in all of Dulak. One is located in a bar, where you can fish through a hole in the ground, but you will be surrounded by a lot of agro mobs. If you stand between the wall and the fishing hole, you should be able to avoid agro. The second one is at 2252, -821. Invis up after you zone in from Gunthak, turn left at the first corner, and instead of following the wall around, head straight ahead into the wall to find a hidden tunnel. Run down the tunnel (nothing seems to see invis along the way, thankfully), over a bridge and other fun stuff. If you have an option to turn right or go straight, go straight. Eventually you'll come to a waterfall, that will lead down to a rectangular pool. You'll find a safe spot with your back to the wall that will allow you to fish in relative safety even once invis drops. Just watch the mob placement carefully to find the right spot.
+<BR>
+<BR>
+^^Torgiran mines: Deep in the zone there is a trap floor that leads to underwater area. You can fish at the area where you get out of the water. Another spot is mentioned as being around 1585, -455. Take your first left in the zone, then go down the stairs to find access to the water tunnels. Great care should be used when fishing in this zone, as we've yet to find an area that does not have quite a few mobs nearby.
+<BR>
+<BR>
+<BR><a HREF="file:///storyline/il/storyil.txt">Table of Contents</a>

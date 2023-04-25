@@ -1,0 +1,13 @@
+PoP Portal Locations - Shar Vahl <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Shar Vahl<br>
+Portal Zone: Shadeweaver's Thicket<br>
+Zone Location: -2970, -2433<br>
+Description: By Village to left when leaving town<br>
+<c "#00CC00">========================== </c><br>

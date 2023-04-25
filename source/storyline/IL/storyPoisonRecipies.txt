@@ -1,0 +1,23 @@
+EQ Poison Making
+<br>
+Last Updated <c "#FF0000">8/1/03</c><br>
+Created for the EverQuest StoryWindow by: <br>
+<c "#FFFF00">Faennil Triestecuore</c> - Legion of the Dead - Zebuxoruk <br>
+<br>
+All information comes from www.eqtraders.com, http://home.comcast.net/~corinari/index.htm<br>
+<br>
+<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<c "#00CC00"> <a href="file:///storyline/il/Poisons/AdvancedPoisonRecipies.txt">- Advanced Poison Recipies </a> </c> <br>
+<c "#00CC00"> <a href="file:///storyline/il/Poisons/ComponentRecipies.txt">- Component Recipies </a> </c> <br>
+<c "#00CC00"> <a href="file:///storyline/il/Poisons/ComponentLocations.txt">- Component Locations </a> </c> <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<br>
+=======================================<br> 
+<br>
+<c "#99FF33">The game EverQuest is a registered trademark of Sony Computer Entertainment America, Inc.</c>  <br>
+

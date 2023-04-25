@@ -1,0 +1,62 @@
+<c "#FF2400">Baking Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Baking you need a high Wis OR Int to Skillup<br>
+<br>
+Get out your smith/potter and make pie tin, non-stick frying pan & casserole dish. Jaggedpine Forest is a zone you will be visiting a lot. So if evil use an alt for supplies.<br>
+eqtrader.com (use search a LOT)<br>
+<br>
+Fish rolls - Fish, batwings in a spit or oven till skill 135<br>
+(all store bought. Knock yourself out)<br>
+<br>
+Patty melt - bear meat OR lion meat OR wolf meat, loaf of bread, cheese<br>
+in a spit or oven (include a non-stick frying pan (crafted) which is always returned) till skill 191.<br>
+(all store bought. Knock yourself out)<br>
+<br>
+If you have access to POS <br>
+storm salmon fillet - storm salmon, jug of sauces in the PoN Oven till 202<br>
+(Storm salmon fished in POS. Took me 4 hours to get 10 stacks or so - from memory)<br>
+<br>
+If you have access to Plane of Water (ty Xora)<br>
+Giant Halibut Steak trivials at 208 <br>
+Breaded Giant Snapper/Halibut trivials at 222<br>
+<br>
+Halas 10 lb meat pie - 2 clumps dough, wolf fillet in cream, bear fillet in cream, lion fillet in cream, mammoth fillet in cream, sage leaf (alchamy supply) in a spit or oven (include pie tin (crafted) - always returned) till skill 226<br>
+Lots of precombines here. You will need to farm eggs, mammoth meat & wolf meat. Or just buy as they become available in the bazaar.<br>
+<br>
+Now for your Final Push to 250. Use these 3 recipies as components become available. Look for anaconda meat, griffon meat & Plant shoots from Jaggedpine Forest (or in bazaar). All else is merchant bought.<br>
+<br>
+Anaconda melt - anaconda meat, loaf of bread & cheese in a spit or oven (include a non-stick frying pan - always returned)<br>
+<br>
+Griffon melt - griffon meat, loaf of bread & cheese in a spit or oven (include a non-stick frying pan - always returned)<br>
+<br>
+Cheesy vegetable casserole - plant shoots, cheese, noodles in a spit or oven (include a casserole dish - always returned). You can forage the plant shoots while hunting griffons and anaconda in Jaggedpine Forest. You will also need eggs for this recipy.<br>
+<br>
+Bingo you are at skill 250. Takes less then a week if you work at it.<br>
+<br>
+I may have left out something, but this seems the simplest way. If you have the Plat buy Mammoth, Anaconda & Griffon meat for 10pp to speed it up.<br>
+<br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

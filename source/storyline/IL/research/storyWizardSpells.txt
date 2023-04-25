@@ -1,0 +1,162 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Wizard Spells<br>
+
+<br><c "#00ff00">Translocate 50 <br>
+<c "#0088ff">Rune of Transpose <br>
+Rune of Impulse  <br>
+
+<br><c "#00ff00">Atol's Spectral Shackles 51 <br>
+<c "#0088ff">Rune of Conglomeration <br>
+Rune of Incendiary <br>
+
+<br><c "#00ff00">Levitation 51 <br>
+<c "#0088ff">Rune of Conglomeration <br>
+Rune of Current <br>
+
+<br><c "#00ff00">Pillar of Frost 51 <br>
+<c "#0088ff">Rune of Prexus <br>
+Rune of Gale <br>
+
+<br><c "#00ff00">Tishan's Discord 51 <br>
+<c "#0088ff">Rune of Alternation <br>
+Rune of Vortex <br>
+
+<br><c "#00ff00">Tears of Druzzil 52 <br>
+<c "#0088ff">Rune of Druzzil <br>
+Rune of Current <br>
+
+<br><c "#00ff00">Translocate Group 52 <br>
+<c "#0088ff">Rune of Transpose <br>
+Rune of Incendiary <br>
+
+<br><c "#00ff00">Inferno of Al'Kabor 53 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Rune of Flash <br>
+
+<br><c "#00ff00">Pillar of Lightening 54 <br>
+<c "#0088ff">Rune of Alteration <br>
+Rune of Gale <br>
+
+<br><c "#00ff00">Draught of Jiva 55 <br>
+<c "#0088ff">Rune of Draught <br>
+Rune of Glint <br>
+
+<br><c "#00ff00">Improved Invisibility 55 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Rune of Cascade <br>
+
+<br><c "#00ff00">Plainsight 55 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Rune of Conjunction <br> 
+
+<br><c "#00ff00">Decession 56 <br>
+<c "#0088ff">Rune of Transpose<br> 
+Rune of Incendiary <br>
+Rune of Complexity <br>
+
+<br><c "#00ff00">Markar's Discord 56 <br>
+<c "#0088ff">Rune of Alteration <br>
+Rune of Gale <br>
+
+<br><c "#00ff00">Retribution of Al'Kabor 56 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Rune of Vortex <br>
+Rune of Tempest <br>
+
+<br><c "#00ff00">Evacuate 57 <br>
+<c "#0088ff">Rune of Transpose<br> 
+Rune of Conjunction <br>
+Rune of Association <br>
+
+<br><c "#00ff00">Eye of Tallon 57 <br>
+<c "#0088ff">Rune of Tallon Zek <br>
+Rune of Coalition <br>
+Rune of Association <br>
+
+<br><c "#00ff00">Pillar of Flame 57 <br>
+<c "#0088ff">Rune of Fennin Ro <br>
+Rune of Conjunction <br>
+Rune of Divergency <br>
+
+<br><c "#00ff00">Manasink 58 <br>
+<c "#0088ff">Rune of Incitement<br> 
+Rune of Impulse <br>
+Rune of Incitation <br> 
+
+<br><c "#00ff00">Spellshield 58 <br>
+<c "#0088ff">Rune of Incitement <br>
+Rune of Contradiction <br>
+Rune of Complexity <br>
+
+<br><c "#00ff00">Tears of Prexus 58 <br>
+<c "#0088ff">Rune of Prexus <br>
+Rune of Gale <br>
+Rune of Tempest <br> 
+
+<br><c "#00ff00">Flaming Sword of Xuzl 59 <br>
+<c "#0088ff">Rune of Fennin Ro <br>
+Rune of Incendiary <br>
+Rune of Association <br>
+
+<br><c "#00ff00">Invert Gravity 59 <br>
+<c "#0088ff">Rune of Opposition <br>
+Rune of Current <br>
+Rune of Tempest <br>
+
+<br><c "#00ff00">Disintegrate 60 <br>
+<c "#0088ff">Rune of Incitement <br>
+Rune of Antithesis <br>
+Rune of Incitation <br>
+
+<br><c "#00ff00">Elnerick's Electrical Rending 60 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Rune of Vortex <br>
+Rune of Tempest <br>
+Rune of Zephyr <br>
+
+<br><c "#00ff00">Firetree's Familiar Enhancement 60 <br>
+<c "#0088ff">Rune of Conglomeration <br>
+Rune of Cascade <br>
+Rune of Complexity <br> 
+
+<br><c "#00ff00">Garison's Superior Sundering 60 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Rune of Glint <br>
+Rune of Coruscating<br> 
+Rune of Scintillation <br>
+
+<br><c "#00ff00">Greater Familiar 60 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Rune of Conjunction <br>
+Rune of Association <br>
+
+<br><c "#00ff00">Ice Spear of Solist 60 <br>
+<c "#0088ff">Rune of Prexus <br>
+Rune of Gale <br>
+Rune of Divergency<br> 
+
+<br><c "#00ff00">Lure of Ice 60 <br>
+<c "#0088ff">Rune of Synergy <br>
+Rune of Current <br>
+Rune of Incitation <br> 
+
+<br><c "#00ff00">Sunstrike 60 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Rune of Glint <br>
+Rune of Coruscating <br> 
+
+<br><c "#00ff00">Vengeance of Al'Kabor 60 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Rune of Antithesis <br>
+Rune of Incitation <br>
+
+<br><c "#00ff00">Winds of Gelid 60 <br>
+<c "#0088ff">Rune of Opposition <br>
+Rune of Impulse <br>
+Rune of Tempest <br>
+
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

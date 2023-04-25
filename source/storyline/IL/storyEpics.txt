@@ -1,0 +1,44 @@
+Epic Quests
+<body link="#0088ff" mlink="#00ccff">
+<c "#00ff00">Epic Quests</c>
+<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+I will start off by saying that you must be atleast level 51 before and of the NPCs will talk to you about the quest. Second Make sure you have a group of high level friends because later on in these epics you are going to need them to kill some of the mobs.
+<br><br>
+<a href="file:///storyline/IL/Epics/storyBard.txt">Bard- Singing Short Sword</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyBeastlord.txt">Beastlord- Claws of the Savage Spirit(2)</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyCleric.txt">Cleric- Water Sprinkler of Nem Ankh</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyDruid.txt">Druid- Nature Walkers Scimitar</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyEnchanter.txt">Enchanter- Staff of the Serpent</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyMagician.txt">Magician- Orb of Mastery</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyMonk.txt">Monk- Celestial Fists</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyNecromancer.txt">Necromancer- Scythe of the Shadowed Soul</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyPaladin.txt">Paladin- Fiery Defender</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyRanger.txt">Ranger- Swiftwind and Earthcaller</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyRogue.txt">Rogue- Ragebringer</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyShadowKnight.txt">Shadow Knight- Innoruk's Curse</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyShaman.txt">Shaman- Spear of Fate</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyWarrior.txt">Warrior- Blade of Strategy/Tactics or Jagged Blade of War</a>
+<br>
+<a href="file:///storyline/IL/Epics/storyWizard.txt">Wizard- Staff of the Four</a>
+<br><br>
+Story Window mod by ZetaLUX
+<br><br>
+Quest information was taken from Castersrealm, so credit goes to them (http://eq.crgaming.com) and the original writers of the quest.
+<br>
+Credit also goes to Brian Crosby for his original Spells List mod,
+</body><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>

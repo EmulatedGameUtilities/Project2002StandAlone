@@ -1,0 +1,13 @@
+PoP Portal Locations - Halas <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Halas<br>
+Portal Zone: Everfrost Peaks<br>
+Zone Location: +2835, -31<br>
+Description: Exit the city and go left<br>
+<c "#00CC00">========================== </c><br>

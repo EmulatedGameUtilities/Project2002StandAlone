@@ -1,0 +1,53 @@
+Faction Lists
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |  
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <c "#FFFF00">C</c> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br><a href="file:///storyline/il/Faction/C/CabilisResidents.txt">Cabilis Residents</a>
+<br><a href="file:///storyline/il/Faction/C/CarsonMcCabe.txt">Carson McCabe</a>
+<br><a href="file:///storyline/il/Faction/C/CazicThule.txt">Cazic'Thule</a>
+<br><a href="file:///storyline/il/Faction/C/Chetari.txt">Chetari</a>
+<br><a href="file:///storyline/il/Faction/C/CoUH.txt">Circle of Unseen Hands</a>
+<br><a href="file:///storyline/il/Faction/C/CoQ.txt">Citizens Of Qeynos</a>
+<br><a href="file:///storyline/il/Faction/C/CoRE.txt">Clan of Runny Eye</a>
+<br><a href="file:///storyline/il/Faction/C/CoV.txt">Claws Of Veeshan</a>
+<br><a href="file:///storyline/il/Faction/C/CTC.txt">Cleaving Tooth Clan</a>
+<br><a href="file:///storyline/il/Faction/C/CoT.txt">Clerics of Tunare</a>
+<br><a href="file:///storyline/il/Faction/C/CoU.txt">Clerics of Underfoot</a>
+<br><a href="file:///storyline/il/Faction/C/CG.txt">Clockwork Gnome</a>
+<br><a href="file:///storyline/il/Faction/C/Clurg.txt">Clurg</a>
+<br><a href="file:///storyline/il/Faction/C/CoTradefolk.txt">Coalition of Tradefolk</a>
+<br><a href="file:///storyline/il/Faction/C/Coldain.txt">Coldain</a>
+<br><a href="file:///storyline/il/Faction/C/CommonsResidents.txt">Commons Residents</a>
+<br><a href="file:///storyline/il/Faction/C/CQG.txt">Corrupt Qeynos Guards</a>
+<br><a href="file:///storyline/il/Faction/C/CraftKeepers.txt">Craftkeepers</a>
+<br><a href="file:///storyline/il/Faction/C/CraknekWars.txt">Craknek Warriors</a>
+<br><a href="file:///storyline/il/Faction/C/CrimsonHands.txt">Crimson Hands</a>
+<br><a href="file:///storyline/il/Faction/C/CoG.txt">Crusaders Of Geenmist</a>
+<br><a href="file:///storyline/il/Faction/C/CrushboneOrcs.txt">Crushbone Orcs</a>

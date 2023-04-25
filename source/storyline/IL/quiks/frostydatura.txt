@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Frosty Datura</c><br>
+Vendor: NPC Drop<br>
+Location: Yetis in The Dreadlands<br>
+Poison: Cranial Cryofreeze / Mages Bane<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

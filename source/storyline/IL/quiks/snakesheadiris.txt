@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Snakes Head Iris</c><br>
+Vendor: Anelia Thrywiel (-150, 1200)<br>
+Location: Lesser Faydark<br>
+Poison: Carnivore Mortis<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

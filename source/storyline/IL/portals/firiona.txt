@@ -1,0 +1,13 @@
+PoP Portal Locations - Firiona Vie <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Firiona Vie<br>
+Portal Zone: Firiona Vie<br>
+Zone Location: -455, +4673<br>
+Description: Inside the tunnels leading from the outpost<br>
+<c "#00CC00">========================== </c><br>

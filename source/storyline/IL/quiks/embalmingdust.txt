@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Embalming Dust</c><br>
+Vendor: NPC Drop<br>
+Location: Mummies in Desert of N. Ro & S. Ro / Oasis / Befallen<br>
+Poison: Lixt Wing Dust / Temporal Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

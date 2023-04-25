@@ -1,0 +1,87 @@
+<c "#FF2400">Hotkeys</c><c "#FFFF00">(Unofficial)</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<c "#FF0000">Dropable loot is available to Full members only at this time (including tradeskill items)</c><br><br>
+This is a guide to how it will be done. Its very much a work in progress, suggestions welcomed.<br><br>
+
+1. Items that have a tradeskill label on them I collect on my mule in POK bank. Mostly interested in Elemental drops.<br><br>
+
+2. When there are enough to attempt an item I do so, and foreward the success to general guild bank for distribution Via BKP (using standard BKP formula for dropable items ?) or 50% of current Plat value.<br><br>
+
+3-6<br>
+Diamonds - Sell to merchants.<br>
+Raw Diamonds - Very few needed - Sell to merchants.<br>
+Blue Diamonds - Sell to members at lowest bazaar price (Currently 275PP)<br>
+Dust, Planar essence, Twilight worms, Wax Flowers & Ocean Ink - to rogues (Available, with no restrictions)<br><br>
+
+7. Food items. Posted in forum and give to those who express an interest.<br><br>
+
+8. Quest Items - When needed, at the stage when they can be used. If two at the same stage then based on Gross BKP.<br><br>
+
+9. Mephit Bloods needed for Spell Creation. When Stocks exceed 1 stack handed out based on gross BKP.<br><br>
+
+10. Excess stocks (multi stack oversupply)- Sold in Bazaar at an inflated price, after posting to find if any members needs)<br><br>
+
+11. Where a member has made a reasonable effort to collect items for a combine (for a personal equipment upgrade), and is missing one (or one fails a precombine) Tradeskill Bank provides if there are excess in stock (excess being defined as over 10).<br><br>
+
+12. None of the items provided By Tradebank to members are for resale. They are for personal equipment upgrades, unless otherwise stated eg. (Available, with no restrictions).<br><br>
+
+Looters, what to look for (and you can hand out if marked available). Available, No restriction may be given to Raid Invites (within reason)<br><br>
+
+<c "#FFFF00">AIR</c><br>
+air arachnid silk (Available, for quest, when at that stage)<br>
+air mephit blood (Available, for personal equipment upgrades)<br>
+air Mephit Skin<br>
+alabaster beak <br>
+chunk of wind metal (Available, for personal equipment upgrades)<br>
+featherwood Bow Staff (Available, for personal equipment upgrades)<br>
+featherwood sap<br>
+gaseous condensate<br>
+ivory stormrider canine (Available, with no restrictions)<br>
+multifaceted eye<br>
+powdered fog<br><br>
+
+<c "#FFFF00">Earth</c><br>
+an elemental stone<br>
+brick of immaculate steel (Available, with no restrictions)<br>
+earth arborean fibers (Available, for personal equipment upgrades)<br>
+earth mephit blood<br>
+earth Mephit Skin (Available, with no restrictions)<br>
+liquefied earth (Available, for personal equipment upgrades)<br>
+powdered granite<br>
+shattered crystal<br>
+stonewood Bow Staff<br>
+stonewood sap<br>
+vegerog vine<br><br>
+
+<c "#FFFF00">Fire</c><br>
+fiery granite<br>
+brick of molten ore<br>
+eye of eternal fire<br>
+fiend Gut<br>
+fire arachnid silk<br>
+fire mephit blood <br>
+fire Mephit Skin<br>
+magma crystals<br>
+metallic substance<br>
+obsidianwood Bow Staff<br>
+obsidianwood sap (In great shortage)<br>
+solidified magma<br><br>
+
+<c "#FFFF00">Water</c><br>
+a kraken eye<br>
+chunk Of E'cian Ice (In great shortage)<br>
+emerald colored mephit scales<br>
+oil of a frog<br>
+powdered soapstone<br>
+primordial Driftwood Bow Staff<br>
+shimmering fish gills<br>
+slarghilug kelp strands<br>
+slarghilug Slime<br>
+water mephit blood<br>
+water Mephit Skin<br><br>
+
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

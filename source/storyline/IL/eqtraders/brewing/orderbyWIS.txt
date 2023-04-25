@@ -1,0 +1,12 @@
+<c "#66CCFF">Recipes Listed By Stat (WIS)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/767.txt">Grandmaster Brewer's Corker</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 10 WIS: <c "#66CCFF">10</c> INT: 10 CHA: 50)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/639.txt">Qeynos Afternoon Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(226)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AGI: 5 DEX: 5 WIS: <c "#66CCFF">5</c> INT: 5)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/643.txt">Surefall Ranger's Trail Juice</a></c>  &nbsp;(203)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 4 DEX: 4 WIS: <c "#66CCFF">4</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/681.txt">Spiced Grimroot Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: <c "#66CCFF">2</c> PR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/680.txt">Spiced Grimroot Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: <c "#66CCFF">2</c> PR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/679.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: <c "#66CCFF">2</c> DR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/678.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: <c "#66CCFF">2</c> DR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/629.txt">Grobb Liquidised Meat</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(216)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 6 STA: 6 WIS: <c "#66CCFF">-1</c> INT: -1)<br>

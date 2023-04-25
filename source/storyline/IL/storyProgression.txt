@@ -1,0 +1,209 @@
+<c "#FFff00">Gates of discord Progression</c><c "#FF8000"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<br>
+<c "#FFff00">Everything You’d Ever Want to Know About: Gates of Discord – A Kirynos Compilation Volume 1.3.27</c><br>
+<br>
+First, get the maps from: http://maps.eq-toolbox.com/goddl.php<br>
+Unzip them and put them in the maps folder of your EQ directory. You'll be happy you have them later.<br>
+Get to GoD: Start by finding a magus. Say Nedaria to the magus to get there. Walk around the corner of the tent in nedaria's landing and find the next magus. Say natimbi to that magus. This will get you to the first zone of GoD: Natimbi. <br>
+Invis up and follow the right zone wall until you come to the entrance to Qinimi at approx 2060 160 550. While still invis, you'll need to run across Qinimi to the Barindu zone line at approx 770 270 -15. (In Qinimi you can go southwest to Riwwi, West to Ferubi, Northwest to Barindu or East back to Natimbi.) Once you've zoned into Barindu, you'll come to a long hallway. Follow the hallway until it opens up. You'll see a big pyramid ahead. Remember this, because you'll be coming back to it. Now you'll want to find the building in Barundi with Scribe Gurru and High Priest Diru Riwirn in it. (approx. loc 260, -550).<br>
+<br>
+<c "#FFff00">Tier 1</c><br>
+Barindu <br>
+Everyone -- Hail the High Priest in the building near the temple, once. If group leader, on the second hail he will give you a sewer expedition. The expedition can only be done by 6 people, and is instanced. There are four different sewer expeditions, and all must be completed in order to progress to the next tier of trials. <br>
+<br>
+Order doesn’t matter but you get the permanent flags in row -- if you do 2,3,4 then you wont be able to get any permanent flags till 1 is done. When you get an expedition from the High Priest, he will give you the lowest expedition that the person hailing him has not yet completed. Talk to the scribe and say issues. He'll fix your flags (if all goes well).The order is: <br>
+1)      Plant<br>
+2)      Furnace<br>
+3)      Lair<br>
+4)      Pool <br>
+So, for example, if I have not done any expeditions from the High Priest, he will give me Plant. If I have done Plant and Furnace, he will give me Lair. If I have done Plant and Lair, he will give me Furnace.<br>
+There doesn't appear to be a refresh time. I have requested an expedition, entered briefly; left the zone, left the expedition, and requested another within 5 minutes.<br>
+Reminder: the events in the sewers only work when you get the expedition from High Priest. Gamesh's expeditions are for xp, as far as I can tell, and to let you go to whichever zone you want to regardless of which flags you already have. NPC’s inside won’t respond in exp dungeons<br>
+You can invis, invis vs. undead and pacify past most of the content in these trials to speed things up a bit. Be more careful in phase one as the mobs are very hard there. In phases 2-4 you can use this method at will, the mobs are about easy LDoN in difficulty. Most ghostly taelosians (the new anime like model), slimes and blobs will see invis. Golems aren’t slowable. Nocs and dog models will run as will some others so you will want to snare those. Each instanced zone has a variety of named. They seem to spawn in fixed locations from what I have seen so far. They can drop items, augs and GoD spells. They can repop so you can farm these instances if you like.<br>
+<br>
+<c "#FFff00">Sewers of Nilhilia, Purifying Plant</c><br>
+From zone-in, move east through the first room until you get to the 2nd room near Ansharu. You can bypass much of the room's monsters by hugging the walls overlooking the middle. Except for the ghosts and slimes, nothing sees invis. Once you've hailed Ansharu continue moving south to the Stonemite Room. Everyone needs to hail him. It's a preflag.<br>
+In the Stonemite room there are nine stonemites in the middle. I would pull from the southeast corner of the room. You'll need to be out of the water in able to cast on them - I'd suggest standing on the pipe close by. Single pull and kill 8 of the 9. You can pull these pretty easily with snare or arrows. They usually come one at a time. They do however AE ramp and hit for over 1100. I recommend putting your tank by himself on one side of the steps and the rest of the group on the other side of the steps. Don't pull them towards the hallway or the mobs there will assist. It’s time then to med to full. Kill the 9th when you're ready and an Ancient will spawn. <br>
+He hits for over 1000 so I'd certainly recommend bringing a patcher of some kind. A 65, 1400 hitter/flurry). He flurries and isn't slowable. After you kill him you'll get your flag message. Head back to Ansharu (evac out, train out, fight out, quit expedition to get ported out) and hail him and you should get a flag. Talk to the scribe and say issues, to make sure you have the permanent flag. Then you can exit the zone and go back to the High Priest for entrance to the second trial.<br>
+<br>
+The person who starts the instance needs to hail Ansharu inside the dungeon. We found this out the hard way the second time we did this trial (we skipped Ansharu, and the mites weren't up when we got there). Instance leader trained back and hailed the guy, boom, insta pop on mites. <br>
+NPCs doubled 1200s at the entrance, low hitpoints. Fully slowable, mezzable. There are those rune-marked stone golem things in here occasionally. They are unslowable. The only charmable I found was a ground-hugging trilobite thing, made a good pet for my enchanter though. <br>
+NPC ATK is fairly low, even though they hit harder the mobs near the entrance were probably easier than an LDoN hard adventure overall. Deeper in stuff started to hit more often and reach max hit more commonly. 1300 hits. <br>
+Some stuff is +see as reported above. Easy pulls. Probably a 20 minute respawn, didn't time it. <br>
+No nameds. Deeper in some of the evil noc type NPCs existed, they would run. NPCs prior to that would not. Some of the ghosts are casters. <br>
+XP was just over 2% AA/kill. Leadership XP seems to run somewhere around a 3:1 or 4:1 AA-to-leadership point ratio. <br>
+Random named or special loot in the dungeon. Some NO DROP and LORE/NO DROP items, some stackable, a pile of (earlier expansion) spell research items. Not sure if you can get a chance of names or unique npcs respawning, given that the zones DO respawn. <br>
+After he died the guy who got us the quest got a character flag, the rest of us got temporary flags saying to talk to the high priest. We went back outside and talked to the high priest's scribe to convert your flag. Have everyone hail him to make sure they get flags, and to get assigned your second instance, the Crematorium. <br>
+DEATH - Had to have everyone leave the expedition, though, to get bodies out, unless you have a rogue or necro. <br>
+ <br>
+<c "#FFff00">Sewers of Nih, Crematory Furnace:</c><br>
+You'll need to clear towards the furnace room (marked on map). Like in the previous trial you can skip some content by hugging the walls of the rooms and invising/pacifying your way. Along the way you must collect the remains of four Taelosians. They are skulls: Ngozi, Mabiki, Taloki & Yogundi. They're dropped by random mobs in the zone. Have one person (rogue) loot them all. If more than one of the same type drop, try to create sets to help other groups in the future.<br>
+Once you get to the furnace room the ghosts of the four will spawn. Kill them each and wisps will spawn when they die and move out of the room - DO NOT touch the wisps. This is when it gets tricky. A 30-minute timer starts for you to reach the Blue Crystal room once you kill the 4th (also marked on map). <br>
+In my experience, the fastest way is to evacuate your group to zone-in and then run back skipping as much of the mobs as possible. You can invis past lots of them, and the ones you can't invis by your bard/enc can pacify. <br>
+Rogues can go and do the hand in solo using hide/sneak and it will save lots of time <br>
+You can kill 3 and then bring the 4th along with you to the blue crystal room-- bring the last named back towards the blue crystal room from the furnace since the timers doesn’t start till the last one is dead. (Found out that the named will warp back if you bring it too far though so you have to kill it about halfway.) <br>
+ The zone will emote at some point which means you have 15 minutes remaining. The hand-in npc needs to be hailed before he'll accept anything. Once you've hailed him, give him the 4 skulls and hit give. Your whole group then gets flagged and you win. Evac, train, fight out, quit expedition. The thing to beware of here, is that aggressive mobs are all around the turn in npc. So...the rogue, monk, etc needs to quickly do the turn in and might die if they use this method. Again have everyone talk to the scribe and say issues to clean up the temp flags.<br>
+<br>
+Step 1 is collect. They drop very fast.<br>
+Step 2 move to furnace. Seems that expedition leader need to go under the big thing in the furnace to spawn the 4 named. Kill the 4 named and the crystals will start moving to the blue crystal room.<br>
+Step 3. Instantly after the last named is down evac to zone in. start invis, lull, pacify your way to the blue crystal room. (we tried first with sos and our rogue got instant slaughtered when trying to hand in). Kill the 2 mobs next to the named and do hand in. The zone in mobs are really easy and fast to kill and CC. Basically we almost caught up on the crystals. We were like 1 turn away from the named when we got the zone msg that they arrived. <br>
+We fought to the Gem room. Corpsed in the gem room and had necro FD in the back empty side of it on a ledge with our bodies. Yep he FD the whole time we fought to the furnace. We left the gem room (short our necro) and paci'd/invis to the furnace. We got there killed the 4 ghosts and used an EE to res cleric back to the Gem room. We were fast - even there before the wisps got to the room. Well once the 4th wisp got the gem she spawned (it’s some chick ghost) and we killed like 3 mobs and handed her the heads. She gave flags and we all rejoiced at being done with this expedition.<br>
+Do not even bother trying to hack back to the gem room. It’s a total waist of time. Either have a mage sitting there playing gems to CoH you back or have a rogue who has looted all 4 heads SoS back to the gem room for turn in (not sure how the rogue will deal with all the mobs around her on hand in. I was visible when we handed them in). That’s like the only way to win this whacked encounter it seems. <br>
+Just wanted to add one more work-around the short timer. We won it by having two people stay at the furnace with the last of the named. Four of us fought down to the Spiritstone, at which point we cleared the room and the two left behind cleared finished off the last named. <br>
+<br>
+<c "#FFff00">Sewers of Nih, Lair of Trapped Ones</c><br>
+You need to clear up to Alej Leraji who is trapped under a piece of stone. Pretty straight-forward dungeon crawl. You can invis/lull past parts if you want, but I would recommend clearing. The room before him is filled with ghosts that see-invis but you can IVU through it if you want. <br>
+There is a portion of the map underwater east of the water wheel and north of the first room after zone in. I would highly recommend staying on dry land at the edge of the water and pulling up to there. <br>
+Fight/sneak to Alej in the northwest corner of the zone and give him the seal given to you by the HP after successfully completing sewer trial 2. A rogue or monk can do this if you want. Once you hand in the seal, it becomes timed. Once you hail Alej he'll ask you for his tools which are scattered around the zone, this spawns 3 rooms (B, C, and D on the map). Mobs will spawn in clusters of 4 or 5 across the map. You can use invis to get between the three rooms and Alej fast. There is a timer but it’s fairly generous. I would run from Alej to the Water Wheel room first. Kill the mobs there and eventually you'll get an emote saying you find some tools. Then evacuate to the zone in and kill the golems there until you get a second emote. Finally run over to the Cocoon room and get the final tools. There is a timer for this part but I'm not sure how long it is. I would guess thirty minutes.<br>
+Once you have all 3 components, head back to Alej and speak with him. You should receive a flag. The thing you want to say to him is: "I have found your three stone shaping tools.” Again, head back and say issues to the scribe.<br>
+<br>
+<c "#FFff00">Sewers of Nih, Pools of Sludge</c><br>
+High Priest Diru tells you, 'Utandi, the map maker, should be in the sewers. I must apologize for him in advance. He is wonderful with his maps, but very timid. Good luck and I hope that we can stand together, defiant against the invaders.'<br>
+Find Utandi, he's not far from the zone in. Talk with Utandi and a named cube spawns in the very last room on the map.<br>
+Say"what problem" and "I will help you find it"<br>
+Go to the last room on the map, kill the named Cube.<br>
+The cube splits into 6 more cubes. Follow them, kill them all and loot 4 map pieces from them.<br>
+Head back to Utandi and give him the 4 map pieces for your flag.<br>
+Now, head back to the scribe and high priest and talk to them, making sure everyone in the group has all their permanant flags. <br>
+<br>
+<c "#FFff00">Ferubi</c><br>
+ALTERNATIVE TO SEWERS (Raid Level Event)<br>
+There is a halfling ranger named Taminoa Bialu, who is in the Abysmal Sea, in a room near Morden Rasp. Hail him and say Ferubi, and he gives you a stone and tells you to give it to Smith Rondo in Ferubi.<br>
+Deep in Ferubi is an erudite NPC named Smith Rondo, he is non-kos and roams around in a room with several kos enemies in it. When you give him the stone he gives you a note to take back to Taminoa. Taminoa then tells you to collect four weapons from elite guards in Ferubi, and give them to Smith Rondo. Broken Sword Blade, Chipped Hammer head, Spear piece and Brawler piece.<br>
+In Ferubi there are 4 Pxet Elite guards who spawn randomly, A spearmaster, a blademaster, a hammermaster, and a brawler. Kill each of them and they drop a no drop, no stat weapon. <br>
+I found the Battlemaster in a room you get to by hanging all rights from Qinimi zoneline*<br>
+The Hammermaster is in the room before Smith Rondo.<br>
+*The giant room that looks like a chapel that’s right before Votal<br>
+*The room with all the broken golems in it<br>
+Once you have all four weapons, go to Smith Rondo and give him the weapons (Clear Room First). He will despawn and Weapon Master Vtiink Vzaan will spawn with four apprentices. Pull weap master to corner make sure healers avoid the 4 dots that her ADDS AEs which lower heal efficiency by hiding behind a pillar (the AE is LoS). Put off-tanks on the apprentices and try not to agro more than you can handle. Weapon master also REFLECTS spells and can also deflect melee attacks. <br>
+Once you kill the Weapon Master, Smith Rondo will spawn once again and attack the raid. After Weapon's Master is dead... Smith Rondo will agro. Oh yea he doubles for 3k and you want him tanked AND dead ASAP or he will mow down your healers, etc. Have him cornered and lay all out DPS on him. Kill Smith Rondo and his spirit will spawn. Hailing his spirit flags you for tier two (instead of having to do sewers).<br>
+1. Clear the room of normal mobs before taking on Weaponmaster - apparently the 4 red adds will respawn on aggro if killed, or just add normally if not.<br>
+2. Dispell on pull, has a VERY nasty spell reflect buff<br>
+3. All but one of the Assistant adds are Blissable<br>
+4. Resists help alot on AOE DoTs during the fight (all are called "xxx of the muramite" where xxx is Axe, Blade, Mace, etc.<br>
+5. Smith Rondo respawns KOS when Weaponsmith dies - be ready for it.<br>
+6. Smith Rondo sees thru invis and SoS when in KOS. form.<br>
+CR during Weaponsmith fight portion of event is possible, but not easy to accomplish (room repops fast). Weapon Master can be mezzed, should you need to. Pretty much impossible during KOS Smith fight portion. <br>
+He's very weird with his hail range. If he's not on the same z axis location as you then the flag doesn't take.<br>
+Things to look for while doing Ferubi - <br>
+NOTE: You do not have to do the note/stone turn in to get the flag. You just need to be on the raid and hail the NPC. However, if you have completed the note/stone turn in, you also receive a note from the hail, which is part of the progression quests in Abysmal Sea.<br>
+<br>
+<c "#FFff00">Tier 2</c><br>
+Head back to Barindu, and this time you need to talk to Apprentice Urdana. She will send you on an expedition to Vxed and then to Tipt. Both of these zones are instanced zones just like the sewers. Max time – 6 hours. The nearby Scribe is like Gamesh. She will give out instances to Tipt and vxed if you haven’t completed sewers.<br>
+A note about these trials: You can switch people in and out of the expedition whenever you like. Say a person has to go? Succor to zone, make him zone out. Then he can leave group AND expedition (both) and you can invite another person to finish up with you.<br>
+To start the first trial in Vxed Hail Urdana and say "take heed."<br>
+<br>
+<c "#FFff00">Vxed</c><br>
+This expedition is pretty much like a LDoN adventure. You go in, and must kill approximately 90-110 monsters. Best place I have found to set up camp is the bridge along the right, but zone in is also ok, though slower pulls there. Once you kill enough enemies, a Stonespiritist Ekikoa will spawn in the northeastern most room in the zone. All you must do to succeed this expedition is spawn the NPC and say “tend” to her. You can then click the stone behind her and port out. Takes like 4 to 6 hours. A tip for this trial is to bring an enchanter. Charm one of the mobs and buff the chanter pet. Let the pet do all the work, have a cleric just CH the pet, and have the enchanter stay at max range from the pet with it snared. It goes fast this way. It also helps to have a paladin to AA stun the mob the charmed pet is fighting. SNARE Kyvs (archers) and Ukuns (humanoid dogs), snare them or you will die. They run at Selos speed and will give you nightmares if you don’t snare.<br>
+Once you are "flagged" as having completed Vxed, you can not get the trial version again from the Apprentice (you can start an "exp" version though – from scribe if you say “vxed” or “tipt”).<br>
+Things to look for while doing Vxed: a flickering finkenheimer, a tarnished sprocket, some uncoiled springs, a greased BELT, and some connection rods. When you have them all place, the sprocket, springs, bolt, and rods in the finkenheimer and bring me the result. I must warn you to be careful though. If these things could stop my clockwork, they must be pretty powerful creatures. Breakdown in Communication Quest<br>
+<br>
+<c "#FFff00">Tipt</c><br>
+This expedition consists of three trials. The zone is a fairly straight forward chasm. Once you pass all three trials in Tipt (this zone is a challenge). You must hail the NPC at the end of the chasm. <br>
+Fight your way to the end of this zone to get to where the Riddler guards the gate. When you talk to him, a dozen or so items spawn on the ground and he asks a riddle. Answer the riddle by handing him the item that correctly answers the riddle. Get it wrong and enough mobs spawn on you that your 6 man group is finished. Get it right and you gain access to the boss. Beat the boss and you win. You get a no rent key along the way to the final area, some time after you spawn the ghost woman. Keep that key on a corpse and any rogue can then SoS through for flag any time.<br>
+A) First trial: Lizard room<br>
+Looks like an empty room as first sight. What you do here is send 3 people invis in and make them run separate ways (do not exit room or agro mobs outside the room). Eventually they will trigger trap and lots of little lizards will pop. Clear them out, after you're done prepare for named. Has low HP but nasty DPS of course so be prepared.<br>
+B) Second trial: Ghosts<br>
+Again use the 3 people invis method to spawn ghosts.. BUT make them walk slowly so they don’t agro them (they see invis, I think). You then pull 1 by 1 the ghosts outside of the houses. Then clear left house and then right house and finally you talk to the NPC. He tells you to find a key. BTW you may use this room as a saferoom after you're done. No repops here.<br>
+C) 3rd room: <br>
+Clear the mobs as usual then pull the snake lady (Ikaav whatever) and she will drop the key. To clear this room just start clearing a side first then move to that side and pull the remaining mobs. Be careful of repops again... cannot stress how important it is to time them. THE PERSON THAT LOOTS THE KEY will have to answer the Riddler.<br>
+D) The riddler:<br>
+Fight up to the Riddler. So make sure the one talking to the riddler is the group leader. Follow what he says, he then drops some items in the ground (exactly 14 items). You need to answer his riddles by handing him the item that is the answer to the riddle. I wont spoil these but... if you get a riddle in which the answer is FIRE, prepare yourself you will move on. If answer any riddle incorrectly, doors will open, 12 mobs will spawn and they will kill you. Well moving on...<br>
+E) The Boss: <br>
+Fight up to next large room, this is where the named is. He is right in front of the Bridge. BE CAREFUL of aggroing him. Once he moves, he stands there, he doesn’t wander back to him spawn point. The only way to move him is to aggro him again. Pull the Right back of the room then move up into it. Clear out room. The guys with the bow and the arrows on their back, move at bard speed. And one of them re-spawns on a 10 min timer. So clear room, wait for re-spawn, med up, pull re-spawn, and then Named. I really don’t have a good way of killing him, other then FAST! He rampages A LOT. He hits for 3k. So you really don’t want any one in rampage range. Have bard pull with debuff (HOS), and Deftdance disc, and have MT taunt it off as it’s slowed. GL!<br>
+<br>
+After the trap room with the triple 2200 mob you come to a room with a bunch of the ghosts. After clearing them a quest npc shows up that gives you a hint about needing a key further ahead. The next open area you run into different model mobs. At least 1 will drop a no drop, no rent key. We bypassed the rest of the room so don't know if it was an event or not. <br>
+Further ahead we got to the Riddler npc. After talking to him, he drops a bunch of bags which are what appear to be random items. Candles, gloves, etc. Further talking with the riddler and he will ask you questions to which you hand him the item that answers the question. If you answer wrongly, the door opens and a bunch of mobs swarm over you. With 2 enc, it’s possible to withstand it, though. <br>
+Heartstriker: one of the main reasons he’s so tough is the fact the mobs around him haste him. So it’s a good idea to pull him with annul, which will make a huge difference on encounter. <br>
+Nerfed: The simplest no-brainer way to do the riddler ring: cleric stay away from agro range or camp. Turn in whatever answer, even the wrong answer, they only wipe non-fd/evade classes. Afterward, just rez and pass them invised, no need to kill them. Don't kill the last named, just invis and run along the wall to across bridge to hail. If you do kill the named, the expedition locked up and you can't switch people in for flag. The Tipt ghost has more time than Vxed ghost who only got enough energy to flag 6 people; Tipt ghost will flag until timer up. NPC used to be up all the time and now isn’t....you used to be able to ferry people in by corpse summoning to the npc...but now you cant. <br>
+Kyv hits for 2100 if you fight him where you're supposed to, which is still quite a bit and certainly a cock-block for people with crap gear….Killed him tonight like he was nothing, and pulled him to first room past locked door. He didn't even live long enough to damage our tank once WS wore off. He becomes unslowable and max melee damage increases about 75%, so kill at spawn. <br>
+What happens after Kyv dies? You get a message telling you that you can no longer add new members to your expedition. And the hail mob spawns. <br>
+1) invis up to just before the first big clearing (most take care of any hynids along the way, yay for necroes and druids, send 3 people in invis, spawns 8 mini cragbeasts (unrootable, hits 800) easy to pull single/duo. Spawns cragbeast mother. Hits like mack truck, but slowable, drops a aura of courage aug.<br>
+2) invis/fight up to next clearing. You'll see emote and trigger undead ring. Kill 8 undeads each one has a second undead pop from corpse VT style.<br>
+3) Fight up to the riddler, killing everything, you'll loot a key off random mob, only once looting key will riddler give you the riddle. then he spawns bags, figure out answer and turn in the right item.<br>
+4) fight up to just before bridge. Clear the area (very easy solo/2x pulls) kill named kyv, quad 2100 partially slowable. drops a new charm that gets more powerefull the longer you stay in one zone (wtf?) clear to end of level, you win <br>
+Hailing the shimmering spirit does not get you the flag... <br>
+Once you've hailed him, you still need to run across the bridge and just on the other side, to the left is another Ghost npc that you need to hail to actually get flagged for KodTaz. (Assuming you have trials 1-5 already)<br>
+Things to look for while doing Tipt - There are five different types of cells, each one is called Vaifan's Power Cell -- named after the most ingenious gnome there is, of course. The cells are named from A to E. When you have collected all of them, place them in this power pack, activate it, and return it to me.' Breakdown in Communication Quest<br>
+With the Vxed and Tipt expeditions completed, along with the sewers or Smith Rondo events completed, you will be flagged for Kod`Taz.<br>
+<br>
+<c "#FFff00">Tier 3</c><br>
+Kod`Taz<br>
+This zone is a normal zone (not instanced). Inside this zone there are 3 trials, then 3 "tasks" then 3(4) raids you must complete in order to proceed to Qvic. The trials are actually done in Ikkinz, explained under Ikkinz. To request a raid you must have finished the first three trials in Ikkinz plus done several other mini-missions in Kod'Taz. (Not Everyone needs to have finished Trials to have access to raid)<br>
+Only geostones (spells) I've seen drop have been off the mini-named in Kod`Taz (by mini I mean they can be killed with one group).<br>
+When you are finished with the three Temple Trials, Kevrin Nalavat at the zone in to Kod`Taz tells you that you are now ready for more challenging work. And gives you the option to do three tasks in any order: <br>
+*Martyr's Passage - The relic farming camp near the Yxtta zone line, which requires each person to gather Relics of the Martyr and complete a mini ring type event then defeat the Summoners Ring event.<br>
+*Pit of the Lost - The relic farming camp in the far northwest corner of the zone that looks blank on your map. Ground spawns - each one is ~12.5 minutes and there is pattern to some of them. Hell, some of our clerics got them all last night in an hour or so w/o help. Then defeat a mini raid type mob in the Pit of Lost Souls to recover his Relic.<br>
+*People aren't going to waste their time doing upper Kod'Taz quest so they can get a Rune with ONE charge of gate that is both expendable and has a 15 second casting time<br>
+<br>
+<c "#FFff00">Crumbled Sanctuary of the Divine – </c><br>
+This one is a pain, but is what unlocks the 54 man raids for the 3 bosses. Only 1 person needs to complete this to get a raid.<br>
+There is a dwarf near Martyr's Passage, named Tublik Narwethar at loc -2009, 1288. When you ask for the 3rd task, he will tell you about the four temples surrounding the Altar of Destruction. He's concerned about one of the temples that was left in ruins by the Muramites (the ghosts you kill for relic pieces), and he wants you to find some clues as to why they only destroyed one temple, but left the others intact. <br>
+If you look on your map at the circular area that you entered to get to relic camp #2, this is the Altar of Destruction area of Kod'Taz. Instead of going right like you did to get to relic camp 2, go left and you will see a Temple that is crumbled and in ruins, with many wandering ghosts (Muramites). <br>
+There are ground spawns hidden inside this temple. You must find a way to pacify, fight, invis, whatever you can inside the temple and pick up 4 pieces of Flayed Flesh Scraps. <br>
+Return to Tublik Narwethar and hand him the Flayed Flesh Scraps, and he will return them back to you. He then asks you to sew them together, and gives fairly detailed instructions on how to do it. <br>
+Muramite residue X 1 (drops off the ghosts in relic 1/2 camps) <br>
+Bone Chips X 4 (steal these from Nummy, clearly) <br>
+Combine in any Tailoring Kit will result in Muramite Needle, Trivial 202. Result is droppable, so ask someone to combine if you do not have tailoring skill. <br>
+<br>
+Next Gather: <br>
+Hynid hair strands X 4 (drops from Hynids, of course) <br>
+Combining Muramite Needle, and the hynid hair strands in any Tailoring Kit will result in Hynid Hair Thread, Trivial 262. Result once again is droppable, so ask for help on the combine if you do not have 250 tailoring. <br>
+For the final combine, which we believe does not require Grandmaster Tailoring skill to succeed since the result is no drop, attempt the following: <br>
+Combine Muramite Needle with Hynid Hair Thread and the four Flayed Flesh Scraps in any Tailoring Kit, and go back to Tublik Narwethar and hand him the final result. As a side note, the Muramite needle poofs when you complete this last combine. <br>
+The next step that Tublik asks you to do is go back and revisit each of the Temple Trials you completed before (Singular Might, Twin Struggles, and Tri-Fates), and investigate for any other clues that you can find. <br>
+Once again, the clues that Tublik wants are ground spawns that are called Glyphed Flesh, and usually one or two will lay outside the three temple trial areas in random places. Only gather one per temple area. As with the first part of this task, you need to figure out a way to locate and gather them either by fighting all the mobs in the outside temple areas or DA in to get them. Use eye of zomm to locate the ground spawns.<br>
+Once this is done, go back to Tublik and hand him the three Glyphed Flesh, and he will tell you about Sanctuary Righteous, Sanctuary Transcendent, and Sanctuary Glorified, which unlocks the 54 man raids. Each raid drops 6 "keys" that each person needs to progress further into the mysteries of Kod'Taz. (4 Glyphs to be translated. this could very well be a limiting factor w/ multiple guilds in Kodtaz. each win is 6 people with a 1.5 day+ respawn.)<br>
+<br>
+<c "#FFff00">Ikkinz</c><br>
+Once you've completed these 3 trials you'll need to do 3 tasks, then fight 3 bosses with a raid force. (You do not need the trials to do the first 3 raids, if your raid leader has already completed them)<br>
+Trial of Singular Might:<br>
+Diabolical Destroyer – unslowable, summoning @100%, hard hitting mob: Clr, Clr, War, Wiz, Wiz, Roq/Wiz -- boss of the zone is like 2 rooms away<br>
+Aka trial of :<br>
+Class A x 2<br>
+Class B x 2<br>
+Warrior<br>
+Enchanter<br>
+This trial requires containment of many adds.<br>
+<br>
+<c "#FFff00">Temple of Twin Struggles:</c><br>
+Wherein you fight TWO boss mobs at once and there are 6 keys that drop. 2 mobs hitting 2k plus. CC the summoning one.<br>
+<br>
+<c "#FFff00">Temple of the Tri-Fates:</c><br>
+Wherein you now have three bosses (although its trivial to fight them one at a time) and it drops 6 keys.<br>
+Group Setups that worked: (K1-K3 standing for Kodaz trial 1 – 3)<br>
+Clr, clr, clr, war, wiz, wiz (K1)<br>
+War Cle Pal Wiz Bar Enc(K1)<br>
+Clr, dru, brd, war, rog, mag (K2)<br>
+Clr, clr, shd, war, wiz, shm (K2)<br>
+Clr, clr, pal, war, wiz, brd (K3)<br>
+= warrior, cleric, backup healer, slower(or dps), mezzer/puller, 1 dps<br>
+Note that Knight tanks would most probably need 2 clerics, while Warrior tanks could do with just 1 cleric and 1 support healer. Still very difficult.<br>
+--------------------------------------------------------------------------------<br>
+<br>
+* Summoner's ring: win = 36 people through it. No big deal. – Not sure what this is.<br>
+* Spawning the Aged Relic Protector. This will probably be a big bottleneck due to the number of mobs that drop the pieces and duplicates.<br>
+<br>
+Then do the 4 Ikkinz raids<br>
+<br>
+<c "#FFff00">Uqua</c><br>
+It is incredibly frustrating. First incarnation, the three pets that mobs spawn would all hit for 3k along with the trash. Now that is down to 100-300. Mobs now hit softer at the start of the zone, only 2k now. They quad though. <br>
+It is an interesting concept. Basically a death limit and time limited raid without any hard limits. <br>
+But death is too painful there. Lose one person and you are likely to lose the entire raid. Death should slow you down, not stop you dead in the tracks. FYI, when you die a mob spawns that used a 3k DD with snare and super slow (120% on the description.) Then if this mob kills someone another spawns. And so on and so forth. They need to make it so that this mob can't spawn more when they kill someone. At least they have a limit to how many can spawn, but they are nearly impossible to control.<br>
+Next, targeting is ass. So even if you could mez some of the mobs it is so hard to target that it is almost not worthwhile. (F8 barely works either.)<br>
+They make you fight in narrow halls and at some point you trigger a trap. This trap spawns four mobs (sometimes five, but you won't know till it spawns. Joy!) All con red, none are mezzable. They quad at 2k initially and higher as you stay in the zone. They all spawn on top of each other which makes targeting stupid. Many of these mobs spawn the afore mentioned golem pets. So four plus twelve pets. Then if people die you get the ghosts again. And sometimes a mob spawns and is unattackable from those traps. And when it despawns the hall it came from magically respawns. <br>
+<br>
+Then there is the AE. -350 all stats, neg attack, neg spell damage. At least items are dropping more common to block the AE. <br>
+Then there is the message which indicates that the mobs you are fighting are getting stronger the longer you stay in the zone. This message used to go off every 6min. Now it is only 12 min.<br>
+OF course once you get past three traps, you have to face the behemoths. Both of which quad, and when I agroed, hit for 7k. This is bad. Especially when you consider that a death will lead to a chain reaction of more deaths and more mobs.<br>
+But then... It is easier than it ever has been! (God forbid they would make it harder.)<br>
+It does piss me off to no end that they leave you hanging after completing the kodtaz stuff. "Thanks, that is a really interesting piece. Looks like you need two more. Off ya go now, and tell us what you find!"<br>
+huh? No mention of the mysterious Qvic zone that spits you back out. No mention of Uqua. Just that we need two more pieces. Of course the guy on the ship says we must be getting close to Tacvi. <br>
+All you are left with is Uqua. No places to gear up in significantly, and a zone which is so far above and beyond the Kodtaz raids as to leave you gasping.<br>
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

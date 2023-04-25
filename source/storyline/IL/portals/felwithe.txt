@@ -1,0 +1,13 @@
+PoP Portal Locations - Felwithe <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Felwithe<br>
+Portal Zone: Greater Faydark<br>
+Zone Location: -2223, -1824<br>
+Description: On the path to the spires<br>
+<c "#00CC00">========================== </c><br>

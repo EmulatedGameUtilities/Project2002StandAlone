@@ -1,0 +1,2 @@
+Time Distortion
+<br><br><br><c "#66CCFF">Slot 1:</c> Increase Attack Speed by 45%<br><c "#66CCFF">Slot 2:</c> Increase ATK by 35<br><br><c "#66CCFF">Casting Time:</c> 0.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 0.0<br><c "#66CCFF">Recast Time:</c> 0.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Innate<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> 1.1 mins @L1 to 7.5 mins @L65<br><br><br>♥<br>

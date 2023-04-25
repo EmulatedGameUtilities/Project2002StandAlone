@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Uriticulating Hairs</c><br>
+Vendor: NPC Drop<br>
+Location: Various Larger Spiders<br>
+Poison: Regalis Poison<br>
+<br><br>
+<a href="file:///storyline/il/quiks/beginner.txt">Poisons Listing</a>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

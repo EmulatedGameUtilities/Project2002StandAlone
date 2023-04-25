@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Wolve's Bane</c><br>
+Vendor: NPC Drop<br>
+Location: Lake Rathetear Gnolls<br>
+Poison: Monk's Hood Aconite / Pacifying Whisper<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,60 @@
+Paineel Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, Yvonne's Guide to Alchemy, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Yvonne Ani (The Poisoned Petal, upstairs from Superior Supplies) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, mixing bowl, 4 recipe books, A Delivered Note - Iva Tersala, Gorng Alusnein (Good Iva's Tasty Treats) <br>
+* short beer - Taralani Rahnta (Shackled Spirits) <br>
+* fennel, eucalyptus leaf - Yvonne Ani (The Poisoned Petal, upstairs from Superior Supplies) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* brew barrel - shackled Spirits <br>
+* grapes, bottle, cask, shot glass, kiola sap - Taralani Rahnta (Shackled Spirits) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Dannis Faleet (Fortune's Fancy) <br>
+* Pearl, Cats Eye Agate, Bloodstone, Jasper, and Peridot - Keletha Nightweaver & Linnlue Brackmar (the Abbatoir, 735, 845) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (3), firing sheets (3), glass shard, vial sketches, Basic Pottery - Tara Clayspinner, Evus Dovcamal (False Idols) <br>
+* blocks of clay (3) - Tentus Brackmar (False Idols) <br>
+* kiln - inside False Idols <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - Shadowknight guild (933, 425) <br>
+* Erud forge - Shadowknight guild, beside the normal forge <br>
+* ore (3), sharpening stone - Tentus Brackmar (False Idols)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* small sewing kit, Erudite sewing kit, On Terrorantula Silk, silver/gold/platinum thread - Pardas Nalue (Sinfully Handsome) <br>
+* 10-slot loom - Sinfully Handsome<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern, water - Geomor Hapera, Rallia Hapera (Superior Supplies, 938, 757) <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,13 @@
+PoP Portal Locations - Grobb <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Grobb<br>
+Portal Zone: Innothule Swamp<br>
+Zone Location: -706, -40<br>
+Description: On a small island near Guk<br>
+<c "#00CC00">========================== </c><br>

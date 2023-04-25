@@ -1,0 +1,12 @@
+<c "#66CCFF">Recipes Listed By Stat (DR)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/941.txt">Ceramic Totem of The Rathe</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 15 AGI: 5 DEX: 10 PR: 10 DR: <c "#66CCFF">10</c> HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/858.txt">Star Ruby Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 5 PR: 10 MR: 10 DR: <c "#66CCFF">10</c> FR: 10 CR: 10 MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/818.txt">Golden Idol of Bertoxxulous</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4WIS: 5 INT: 5 DR: <c "#66CCFF">9</c> MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/822.txt">Golden Idol of Erollisi Marr</a></c>  &nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 8WIS: 5 CHA: 5 DR: <c "#66CCFF">9</c> MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/832.txt">Golden Idol of Tunare</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(242)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4WIS: 5 PR: 6 DR: <c "#66CCFF">6</c> MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/903.txt">Idol of Bertoxxulous</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: 3 INT: 3 DR: <c "#66CCFF">2</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/917.txt">Idol of Tunare</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: 3 PR: 2 DR: <c "#66CCFF">2</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/786.txt">Small Resisting Deity</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(102)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 2 MR: 2 DR: <c "#66CCFF">2</c>)<br>

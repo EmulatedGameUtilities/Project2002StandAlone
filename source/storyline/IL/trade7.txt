@@ -1,0 +1,91 @@
+<c "#FF2400">Poison Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Poison. Wis/Int (not sure abou dex)<br>
+Here is a copy of the poison skill up guide from safehouse:<br>
+---------------------------------------------------------<br>
+So you wanna raise your skill in poison, but dont have thousands of plat to do it with, and also dont have the time to spend days farming greenies for a few skill points. Here is a small guide for you so you dont have to search through the poison pages to figure it out (I know, it hurts your widdle head when you think too long)<br>
+<br>
+First off, throw a couple of skill points into Make and apply for @#%$ ang giggles. Not a lot, just enough to give you something to work with. 2 or 3 will suffice.<br>
+<br>
+Now to get started<br>
+Go to WK and visit Gildin Toxfodder(n3000, n13400), bring about 1k if you really wanna grind for awhile.<br>
+Start with making Athropic Sap<br>
+Lined vial<br>
+Constrict suspension<br>
+2x Alocassia root<br>
+<br>
+This will take you to about 98 skill, and once your bags are all full, just continuously apply them to your dagger, you dont actually have to attack and have the poison go off before you can apply a new one, just lay those poisons on thick. this becomes trivial for apply at 106skill.<br>
+<br>
+Once you have become trivial with gildin, head on over Steamfont and talk to Ennixy Frennor (p1300 n830) (remember to sneak behind the vendors when buying any poison ingredient to get a better price, it adds up when buying mass quantities) Buy as many stacks of Kings thorn as you can carry or afford, and then head on over to dagnors cauldron.<br>
+<br>
+Speak to Cronium Darkblade, he is at the top of the middle island at n230, n830. Yet sometimes he is moved around, not sure why, so if hes not on top of the island, he hasnt been killed, just moved, so check the base of the island.<br>
+<br>
+Here you will make Calcium Rot<br>
+Sealed Vial<br>
+constrict suspension<br>
+2x Kings thorn<br>
+<br>
+This will take you to 172 skill, and you if you apply all these poisons instead of selling them back to the vendor, your apply skill should be between 130-150<br>
+<br>
+This last part can be done at any vendor that sells vials and suspensions, but cronium was my favorite for a few reasons. A) Unrest is right next door, wich is great for farming zombie skins for sealed vials(the most expensive part of poison making if you buy em)<br>
+B) Lots of poison ingredients drop here that can get you from 172 to 200 once you have become trivial with calcium rot<br>
+When farming in unrest for vial skins, also save<br>
+grave mold<br>
+darkbone marrow<br>
+aminata phalloide<br>
+<br>
+Once you have hit 172 skill, if you have 28 skill points that you are willining to burn, I say do it now, the cost you will spend on the skill points isnt much more than the cost you will spend to make the poisons to get to 200, from 180+ you need to make about 30-40 poisons for each skill raise, sometimes more.<br>
+<br>
+If you dont have those skill points to burn, make these 2 poisons form the items you got in unrest during all your farming there<br>
+Visceral rot:<br>
+sealed vial<br>
+larent suspension<br>
+Grave mold<br>
+Darkbone marrow<br>
+wood rose (from the vendor in Steamfont, same one as kings thorn)<br>
+<br>
+Essence of Rallos:<br>
+sealed vial<br>
+Larent suspension<br>
+2x amanita phalloide<br>
+Pixie dust (of pixies at pixie tower in Lfay, watch out for the brownies)<br>
+<br>
+If you have tons of money to burn, and never farmed unrest for vial skins, and other components, then its time to head to FV for the last guy you will be dealing with in your Poison training.<br>
+Brak daggermist in the rogue guild n3600 p2300<br>
+Spirit of Sloth:<br>
+Sealed vial<br>
+Ethereal suspension<br>
+2x Creeper Ivy<br>
+<br>
+This will take you all the way to 250, but very slowly, I dont reccomend applying these either, the poisons sell for 12pp 9gold roughly, and takes away a lot of the financial pain to sell em back. If you want to max out apply, its better to go back to one of the cheaper poisons, say calcium rot, or something without a trivial limit, and max apply with that.<br>
+If you find something better to max apply with, please post it, as I am still at 150skill and not sure of what cheaper poisons max it out or not.<br>
+<br>
+Another option is going to HH, telling anson "I want to see stanos" and then training poison to 250 him. it will cost you a lil over 100pp for each training pt after 200 skill. This is slightly more expensive than actually doing the training. Especially when you get close to 250 and nearly make a profit off of spirit of the sloth. Question is really "how valuable is your time?"<br>
+<br>
+Master Niam D'sparil <br>
+<br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

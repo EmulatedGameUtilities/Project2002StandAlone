@@ -1,0 +1,49 @@
+Faction Lists
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <c "#FFFF00">M</c> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br><a href="file:///storyline/il/Faction/M/MayongMistmoore.txt">Mayong Mistmoore</a>
+<br><a href="file:///storyline/il/Faction/M/MayorGubbin.txt">Mayor Gubbin</a>
+<br><a href="file:///storyline/il/Faction/M/Meldrath.txt">Meldrath</a>
+<br><a href="file:///storyline/il/Faction/M/MoAk.txt">Merchants of Ak`Anon</a>
+<br><a href="file:///storyline/il/Faction/M/MoErudin.txt">Merchants of Erudin</a>
+<br><a href="file:///storyline/il/Faction/M/MoFelwithe.txt">Merchants of Felwithe</a>
+<br><a href="file:///storyline/il/Faction/M/MoHalas.txt">Merchants of Halas</a>
+<br><a href="file:///storyline/il/Faction/M/MoHP.txt">Merchants of Highpass</a>
+<br><a href="file:///storyline/il/Faction/M/MoKaladim.txt">Merchants of Kaladim</a>
+<br><a href="file:///storyline/il/Faction/M/MoQeynos.txt">Merchants of Qeynos</a>
+<br><a href="file:///storyline/il/Faction/M/MoRivervale.txt">Merchants of Rivervale</a>
+<br><a href="file:///storyline/il/Faction/M/MG249.txt">Miners Guild 249</a>
+<br><a href="file:///storyline/il/Faction/M/MG628.txt">Miners Guild 628</a>
+<br><a href="file:///storyline/il/Faction/M/MinionofScale.txt">Minion of Scale</a>
+<br><a href="file:///storyline/il/Faction/M/MoUnderfoot.txt">Minions of Underfoot</a>
+<br><a href="file:///storyline/il/Faction/M/Miragul.txt">Miragul</a>
+<br><a href="file:///storyline/il/Faction/M/MDC.txt">Mountain Death Clan</a>
+<br><a href="file:///storyline/il/Faction/M/MucktailGnolls.txt">Mucktail Gnolls</a>

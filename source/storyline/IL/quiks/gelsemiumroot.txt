@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Gelsemium Root</c><br>
+Vendor: Elona McMahon (+210, +180)<br>
+Location: Halas<br>
+Poison: Brain Freeze / Pacifying Whisper<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

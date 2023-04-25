@@ -1,0 +1,9 @@
+<c "#66CCFF">Recipes Listed By Stat (FR)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/937.txt">Ceramic Rod of Storms</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(FR: <c "#66CCFF">15</c> CR: 15 MANA: 35)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/940.txt">Ceramic Water Sprinkler of Marr</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 10 DEX: 10 WIS: 8 INT: 8 FR: <c "#66CCFF">15</c> HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/858.txt">Star Ruby Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 5 PR: 10 MR: 10 DR: 10 FR: <c "#66CCFF">10</c> CR: 10 MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/830.txt">Golden Idol of Solusek Ro</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4INT: 6 FR: <c "#66CCFF">9</c> MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/915.txt">Idol of Solusek Ro</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(INT: 4 FR: <c "#66CCFF">2</c>)<br>

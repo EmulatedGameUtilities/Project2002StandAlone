@@ -1,0 +1,119 @@
+Quikfingers of Zebuxoruk v1.1<br>
+Poison Ingredients Tables (10-22-03)<br>
+<br>
+<c "#00FFFF">- = [ 98 - 183 Skill Poisons ] = -</c><br>
+------------------------------------------<br>
+<br>
+Name: <c "#FF0000">Athropic Sap</c><br>	
+Type: Weaken<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 98<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/alocassiaroot.txt">Alocassia Root</a><br>
+<br>
+Name: <c "#FF0000">Aching Blood</c><br>
+Type: Contact<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 108<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/lactera.txt">Lactera</a><br>
+<br>
+Name: <c "#FF0000">Eyeburn Solution</c><br>
+Type: Blind<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 108<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/coyotetail.txt">Coyote Tail</a> & <a href="file:///storyline/il/quiks/mudditemud.txt">Muddite Mud</a><br>
+<br>
+Name: <c "#FF0000">Kinetic Suppressent</c><br>
+Type: Paralyze<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 117<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/delphinium.txt">Delphinium</a> & <a href="file:///storyline/il/quiks/basiliskeyestalk.txt">Basilisk Eyestalk</a><br>
+<br> 
+Name: <c "#FF0000">Lethargic Bliss</c><br>
+Type: Muscle Lock<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 117<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/whoresbane.txt">Whore's Bane</a><br>
+<br> 
+Name: <c "#FF0000">Leprous Puss</c><br>
+Type: Flesh Rot<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 129<br>
+Ingredients: <a href="file:///storyline/il/quiks/bundleofwormwood.txt">Bundle of Wormwood</a> & <a href="file:///storyline/il/quiks/darkbone.txt">Darkbone Marrow</a> & <a href="file:///storyline/il/quiks/gravemold.txt">Grave Mold</a><br>
+<br> 
+Name: <c "#FF0000">Brain Freeze</c><br>
+Type: System Shock<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 131<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/gelseniumroot.txt">Gelsenium Root</a><br>
+<br> 
+Name: <c "#FF0000">Powdered Banality</c><br> 	
+Type: Feeble Mind<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 140<br>
+Ingredients: 3x <a href="file:///storyline/il/quiks/gelseniumpetals.txt">Gelsenium Petals</a><br>
+<br> 
+Name: <c "#FF0000">Choking Asmag</c><br> 		
+Type: Injected<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 150<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/asmagweed.txt">Asmag Weed</a><br>
+<br> 
+Name: <c "#FF0000">Xegony's Curse</c><br> 		
+Type: Brittle Haste<br>
+Vial: Lined Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 162<br>
+Ingredients: <a href="file:///storyline/il/quiks/ashhornetvenom.txt">Ash Hornet Venom</a> & <a href="file:///storyline/il/quiks/cinderhornetpollen.txt">Cinder Hornet Pollen</a><br>
+<br> 
+Name: <c "#FF0000">Beast Stalker</c><br>	
+Type: Animal<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 166<br>
+Ingredients: <a href="file:///storyline/il/quiks/castorbean.txt">Castorbean</a> & <a href="file:///storyline/il/quiks/houndstongue.txt">Hounds Tongue</a> & <a href="file:///storyline/il/quiks/chunkofmeat.txt">Chunk of Meat</a><br>
+<br>
+Name: <c "#FF0000">Corrosive Solvent</c><br>
+Type: Summoned<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 168<br>
+Ingredients: <a href="file:///storyline/il/quiks/putridbile.txt">Putrid Bile</a> & <a href="file:///storyline/il/quiks/groundgarlic.txt">Ground Garlic</a> & <a href="file:///storyline/il/quiks/redhellbore.txt">Red Hellbore</a><br>
+<br> 
+Name: <c "#FF0000">Languid Lixtwing</c><br>
+Type: Dizzy<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 169<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/lixtwingstalks.txt">Lixt Wing Stalks</a><br>
+<br>
+Name: <c "#FF0000">Calcium Rot</c><br>
+Type: Liquid Silver<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 172<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/kingsthorn.txt">Kings Thorn</a><br>
+<br>
+Name: <c "#FF0000">Dilapidating Ash</c><br>
+Type: Lower Resist<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 181<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/soothemlock.txt">Soot Hemlock</a><br>
+<br>
+Name: <c "#FF0000">Zek Frost</c><br> 		
+Type: Berserker Madness<br>
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br>
+Trivial: 183<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/crystalnightshade.txt">Crystal Nightshade</a> & <a href="file:///storyline/il/quiks/succulentsap.txt">Succulent Sap</a><br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

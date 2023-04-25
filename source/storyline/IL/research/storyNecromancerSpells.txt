@@ -1,0 +1,143 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Necromancer Spells<br>
+
+<br><c "#00ff00">Dead Men Floating 49 <br>
+<c "#0088ff">Words of Asylum <br>
+Words of Agony <br>
+
+<br><c "#00ff00">Sacrifice 51 <br>
+<c "#0088ff">Words of Eventide <br>
+Words of Annihilation <br> 
+
+<br><c "#00ff00">Defoliation 52 <br>
+<c "#0088ff">Words of Pain <br>
+Words of Covert <br> 
+
+<br><c "#00ff00">Scent of Terris 52 <br>
+<c "#0088ff">Words of Edification <br>
+Words of Anguish <br>
+
+<br><c "#00ff00">Convergence 53 <br>
+<c "#0088ff">Words of Decision <br>
+Words of Stimulation <br> 
+
+<br><c "#00ff00">Minion of Shadows 53 <br>
+<c "#0088ff">Words of Tenure <br>
+Words of Tenancy <br> 
+
+<br><c "#00ff00">Shadowbond 54 <br>
+<c "#0088ff">Words of Asylum <br>
+Words of Comprehension <br>
+
+<br><c "#00ff00">Thrall of Bones 54 <br>
+<c "#0088ff">Words of Control <br>
+Words of Energy <br> 
+
+<br><c "#00ff00">Augmentation of Death 55 <br>
+<c "#0088ff">Words of Expedition <br>
+Words of Anguish <br>
+
+<br><c "#00ff00">Chill Bones 55 <br>
+<c "#0088ff">Words of Agony <br>
+Words of Intent <br> 
+
+<br><c "#00ff00">Congulation of Bone 55 <br>
+<c "#0088ff">Words of Banshee <br>
+Words of Anguish <br> 
+
+<br><c "#00ff00">Infusion 55 <br>
+<c "#0088ff">Words of Constancy<br> 
+Words of Comprehension<br> 
+
+<br><c "#00ff00">Levant 55 <br>
+<c "#0088ff">Words of Recall<br> 
+Words of Recourse <br> 
+
+<br><c "#00ff00">Crippling Claudication 56 <br>
+<c "#0088ff">Words of Voiding <br>
+Words of Obliteration<br> 
+Words of Divergence <br>
+
+<br><c "#00ff00">Demi Lich 56 <br>
+<c "#0088ff">Words of Awareness<br> 
+Words of Tenancy <br> 
+
+<br><c "#00ff00">Sedulous Subversion 56 <br>
+<c "#0088ff">Words of Awareness <br>
+Words of Exhilaration <br> 
+
+<br><c "#00ff00">Servant of Bones 56 <br>
+<c "#0088ff">Words of Apparition <br>
+Words of Tenancy <br>
+
+<br><c "#00ff00">Conjure Corpse 57 <br>
+<c "#0088ff">Words of Constancy <br>
+Words of Covert <br>
+Words of Misery <br> 
+
+<br><c "#00ff00">Mind Wrack 58 <br>
+<c "#0088ff">Words of Recall <br>
+Words of Distress <br>
+Words of Invigoration <br> 
+
+<br><c "#00ff00">Quivering Veil of Xarn 58 <br>
+<c "#0088ff">Words of Asylum <br>
+Words of Energy <br>
+Words of Immunity <br> 
+
+<br><c "#00ff00">Devouring Darkness 59 <br>
+<c "#0088ff">Words of Edification <br>
+Words of Holding <br>
+Words of Misery <br>
+
+<br><c "#00ff00">Emissary of Thule 59 <br>
+<c "#0088ff">Words of Control <br>
+Words of Tenancy <br>
+Words of Revenant <br> 
+
+<br><c "#00ff00">Arch Lich 60 <br>
+<c "#0088ff">Words of Banshee <br>
+Words of Anguish <br>
+Words of Divergence <br> 
+
+<br><c "#00ff00">Banishment of Shadows 60 <br>
+<c "#0088ff">Words of Voiding <br>
+Words of Obliteration<br> 
+Words of Abrogation <br>
+
+<br><c "#00ff00">Death Peace 60 <br>
+<c "#0088ff">Words of Decision <br>
+Words of Covert <br>
+Words of Immunity <br>
+ 
+<br><c "#00ff00">Enslave Death 60 <br>
+<c "#0088ff">Words of Control <br>
+Words of Stimulation <br>
+Words of Revenant <br>
+
+<br><c "#00ff00">Funeral Pyre 60 <br>
+<c "#0088ff">Words of Pain <br>
+Words of Anguish <br>
+Words of Misery <br>
+Words of Torment <br>
+
+<br><c "#00ff00">Gangrenous Touch 60 <br>
+<c "#0088ff">Words of Constancy <br>
+Words of Distress <br>
+Words of Abrogation <br> 
+
+<br><c "#00ff00">Trucidation 60 <br>
+<c "#0088ff">Words of Apparition <br>
+Words of Intent <br>
+Words of Misery <br> 
+
+<br><c "#00ff00">Zeefer's 60 <br>
+<c "#0088ff">Words of Recall <br>
+Words of Recourse <br>
+Words of Abrogation <br>
+Words of Retention <br>
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

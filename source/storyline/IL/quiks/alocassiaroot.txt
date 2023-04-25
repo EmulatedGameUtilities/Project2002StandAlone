@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Alocassia Root</c><br>
+Vendor: Gindlin Toxfodder (-3000, -13400)<br>
+Location: West Karana<br>
+Poison: Athropic Sap<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

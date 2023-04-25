@@ -1,0 +1,92 @@
+<c "#FF2400">Smithing Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Smithing. The Highest of Str/Wis/Int will affect your skill up rate.<br>
+<br>
+eqtraders.com trade supply locations. Get used to using this link<br>
+<br>
+This formula seems to work for smithing<br>
+success = skill - (0.75 * triv) + 51.5<br>
+<br>
+Skill Mod Items (advise you skill to 195 to see if smithing is really a skill you want before going for the 10% and 15% items)<br>
+geerlok automated hammer (tinkered): +5% smithing<br>
+grandmaster smith's hammer (player made): +5% smithing<br>
+Massive girdle of the forge (drop in Sanctus Seru): +10% smithing<br>
+Hammer of the ironfrost (drop off Xerkizh the Creator in Temple of Ssraeshza): +15% smithing<br>
+Gauntlets of dark embers (drop off Kaas Thox Xi Ans Dyex in Vex Thal): +15% smithing<br>
+Vah Shir Warrior cloaks from their smithing quests<br>
+<br>
+This is not the cheapest way to skill to 100, but is the quickest. Past 100 where the costs begin to mount its the best way I have found.<br>
+<br>
+Banded armor till 115 (30 minutes worth)<br>
+<br>
+Banded Bracers till 95 - 1 sheet of metal, bracer mold & flask water<br>
+Banded Gauntlets till 102 - 2 sheet of metal, gauntlets mold & flask water<br>
+Banded Mail till 115 - 3 sheet of metal, mail mold & flask water<br>
+<br>
+Ornate chain till 155<br>
+Silver ornate chain bracer till 122 - bracer chainmail pattern, smithy hammer, silver bar, flask water & high quality ring.<br>
+Electrum ornate chain bracer till 128 - bracer chainmail pattern, smithy hammer, electrum bar, flask water & high quality ring<br>
+Gold ornate chain bracer till 135 - bracer chainmail pattern, smithy hammer, gold bar, flask water & high quality ring<br>
+Electrum ornate chain coif till 135 - coif chainmail pattern, smithy hammer, Electrum bar, flask water & 2 high quality rings<br>
+Gold ornate chain coif till 146 - coif chainmail pattern, smithy hammer, Gold bar, flask water & 2 high quality rings<br>
+Electrum ornate chain mail till 148 - mail chainmail pattern, smithy hammer, Electrum bar, flask water & 3 high quality rings<br>
+Gold ornate chain mail till 155 - mail chainmail pattern, smithy hammer, Gold bar, flask water & 3 high quality rings<br>
+<br>
+Fine plate Armor till 188<br>
+Fine Plate Bracer till 168 - smithy hammer, leather padding, flask of water, Bracer plate mold, and 1 medium quality folded sheet of metal.<br>
+Fine Plate Helm till 175 - smithy hammer, leather padding, flask of water, Helm plate mold, and 2 medium quality folded sheet of metal.<br>
+Fine Plate Mail till 188 - smithy hammer, leather padding, flask of water, Mail plate mold, and 3 medium quality folded sheet of metal.<br>
+---------------------------------------------------------------------------------<br>
+An alternate is Mistletoe Cutting Sickle Blade till 183, Its quite cheaper in plat and has the benefit of being an item needed for 222+ smithing.<br>
+<br>
+Blessed Sickle Blade = Sheet Metal + Smithy Hammer + Emerald + Curved Blade Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper (forge, smithing trivial 183)<br>
+Celestial Essence = 1 Celestial Solvent + 1 High End Research component (mortar and pestle, no-fail combine)<br>
+Mistletoe Temper = 1 Celestial Essence + 1 Elven Wine + 1 Mistletoe (brew barrel, brewing trivial 136)<br>
+Blessed Dust of Tunare = 1 Imbued Emerald + 1 Celestial Essence + 1 Jar of Acid (kiln, pottery trivial 103)<br>
+---------------------------------------------------------------------------------<br>
+188-222<br>
+Enchanted Velium Bits<br>
+coldain velium temper, small piece of velium(2), Spell: Enchant Velium<br>
+In tanaan forge<br>
+Required Skill Level: 165<br>
+Notes: For new Oracle Robe Quest.<br>
+Trivial at: 222<br>
+----------------------------------------------------------------------------------<br>
+you can make Cultural armor (farm farm farm), Vah shir smithing (shadescream -> farm farm farm), or this all store bought EXPENSIVE combine. (and you may have the blades made already)<br>
+<br>
+Mistletoe Cutting Sickle till 250<br>
+<br>
+Mistletoe Cutting Sickle= Blessed Sickle Blade + Blessed Sickle Hilt + Blessed Sickle Pommel + Smithy Hammer (forge, smithing trivial >250)<br>
+Other Combines that you need:<br>
+<br>
+Blessed Sickle Blade = Sheet Metal + Smithy Hammer + Emerald + Curved Blade Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper (forge, smithing trivial 183)<br>
+Blessed Hilt = Sheet Metal + Smithy Hammer + Ruby + Hilt Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper (forge, smithing trivial 181)<br>
+Blessed Pommel = Sheet Metal + Smithy Hammer + Sapphire+ Pommel Mold + Celestial Essence + Blessed Dust of Tunare + Mistletoe Temper (forge, smithing trivial 182)<br>
+Celestial Essence = 1 Celestial Solvent + 1 High End Research component (mortar and pestle, no-fail combine)<br>
+Mistletoe Temper = 1 Celestial Essence + 1 Elven Wine + 1 Mistletoe (brew barrel, brewing trivial 136)<br>
+Blessed Dust of Tunare = 1 Imbued Emerald + 1 Celestial Essence + 1 Jar of Acid (kiln, pottery trivial 103)<br>
+<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

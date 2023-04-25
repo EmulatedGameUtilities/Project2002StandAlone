@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Dust of Decay</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Plane of Valor / Plane of Nightmare / Howling Stones / Karnors Castle<br>
+Poison: Crushed Vein / Mangled Tendon / Mental Implosion<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,65 @@
+Fishing: Zone-specific Fish<br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+Ak'Anon - <c "#99FF33">Clockwork Koi</c>  (can be brewed into an essence)<br>
+Blackburrow - <c "#99FF33">Hound Pike</c>  (can be baked into a fillet)<br>
+Butcherblock - <c "#99FF33">Stonefish</c> (can be brewed into an essence)<br>
+Cabilis - <c "#99FF33">Fetid Bass (varying sizes), Gigantic Fetid Bass (no drop), Large Fetid Bass, Sewer Catfish</c> <br>
+Chardok - <c "#99FF33">Chokai Bass</c>  (from a pool at the base of the waterfall on the way to the royals area)<br>
+City of Mist - <c "#99FF33">Fogwater Trout</c> (can be baked into a fillet), Ikfish<br>
+Cobalt Scar - <c "#99FF33">Cobalt Cod</c> (can be used for cod oil or baked into Orange Flavored Cod), <c "#99FF33">Dragon Bay Snapper</c> (can be brewed into Snapper Oil)<br>
+Crystal Caverns - <c "#99FF33">Crystallized Cave Fish</c><br>
+Crushbone - <c "#99FF33">Boar Carp</c> (can be baked into a fillet)<br>
+Dagnor's Cauldron - <c "#99FF33">Cauldron Trout</c> (can be baked into a fillet)<br>
+Eastern Wastes - <c "#99FF33">Rygorrian Toothfish</c><br>
+Erud's Crossing - <c "#99FF33">Barren Flounder</c><br>
+Feerrott - <c "#99FF33">Thulian Mudskipper</c><br>
+Felwithe - <c "#99FF33">Koada Cichlid</c><br>
+Firiona Vie - <c "#99FF33">Fetid Bass (varying sizes), Gigantic Fetid Bass (no drop), Sewer Catfish</c><br>
+Highhold Pass - <c "#99FF33">Highland Pike</c> (can be baked into a fillet)<br>
+Hole, The - <c "#99FF33">Hatch Dace</c> (can be brewed into an essence)<br>
+Iceclad Ocean - <c "#99FF33">Iceclad Cutlassfish</c> (can be used for 7th Coldain Prayer Shawl or baked into Rolled Cutlassfish), <c "#99FF33">Salty Whitefish</c><br>
+Innothule - <c "#99FF33">Rujarkian Chub</c> (can be baked into a fillet), <c "#99FF33">Thulian Mudskipper</c><br>
+Jaggedpine Forest - <c "#99FF33">Thunder Salmon</c> (can be baked into a fillet, converted into fish eggs and fish scales, turned into Prepared Salmon Fillet and Thunder Bones, or brewed into an essence)<br>
+Karnor's Keep - <c "#99FF33">Wulf Fish</c><br>
+Kael Drakkel - <c "#99FF33">Frosty Cave Trout</c><br>
+Kedge Keep - <c "#99FF33">Kedge Carp</c> (apparently there are spots in the zone that you can fish from if you are levitating <boggle>)<br>
+Kerra Ridge - <c "#99FF33">Kerra Catfish</c><br>
+Lake of Ill Omen - none (Bloodfin Trout used to be available in this zone, but now appear to be extinct)<br>
+Lake Rathe - <c "#99FF33">Rathe Muskie</c> (can be baked into Marinated Muskie)<br>
+Mines of Nurga - <c "#99FF33">Cave Guppy, Sponge Mushroom</c><br>
+North Karana, South Karana, West Karana, East Karana - <c "#99FF33">Thunder Salmon</c> (can be baked into a fillet, converted into fish eggs and fish scales, turned into Prepared Salmon Fillet and Thunder Bones, or brewed into an essence)<br>
+Ocean of Tears - <c "#99FF33">Gunthak Mackerel</c> (can be turned into bait), <c "#99FF33">Saltwater Seaweed</c> (used for Sea Temper)<br>
+Overthere, The - <c "#99FF33">Danak Grouper</c><br>
+Plane of Disease - <c "#99FF33">Diseased Fish</c> (wt 1.0, small, all/all), can be made into fish oil<br>
+Plane of Nightmare - <c "#99FF33">Crawdad</c> (meal, wt 0.3, tiny, all/all), used in a baking recipe<br>
+Plane of Nightmare - <c "#99FF33">Nightmare Cichlid</c> (meal, wt 1.0, small, all/all), used in a fishing recipe for a quest<br>
+Plane of Nightmare - <c "#99FF33">Waterleaf Scale</c> (wt 0.1, small, all/all, stackable)<br>
+Plane of Storms - <c "#99FF33">Storm Salmon</c> (wt 1.0, small, all/all, stackable)<br>
+Plane of Tranquility - <c "#99FF33">Waterleaf Scale</c> (wt 0.1, small, all/all, stackable)<br>
+Plane of Tranquility - <c "#99FF33">Quellian Koi</c> (meal, small, wt 1.0, all/all, stackable)<br>
+Plane of Valor - <c "#99FF33">Crawdad</c> (meal, wt 0.3, tiny, all/all), used in a baking recipe<br>
+Plane of Valor - <c "#99FF33">Vallorian discus</c> (meal, wt 0.3, stackable), used in a fishing recipe for a quest<br>
+Plane of Water - <c "#99FF33">Giant Halibut</c> (meal, wt 1.0, small, stackable), used in a baking recipe<br>
+Plane of Water - <c "#99FF33">Giant Snapper</c> (meal, wt 1.0, small, stackable), used in a baking recipe<br>
+Sebilis - <c "#99FF33">Kunzar Koi</c> (can be turned into Prepared Kunzar Fillet and Kunzar Bones)<br>
+Siren's Grotto - <c "#99FF33">Grotto Bluegill</c><br>
+Sleepers Tomb - <c "#99FF33">Weary Wrass</c><br>
+Surefall Glade - <c "#99FF33">Pine Cichlid</c><br>
+Swamp of No Hope - <c "#99FF33">Despair Chub </c> (can be baked into a fillet), Krup Guppy<br>
+Timorous Deep - <c "#99FF33">Saltwater Seaweed</c> (no drop, used for Sea Temper), <c "#99FF33">Timorous Tuna</c><br>
+Tower of Frozen Shadow - <c "#99FF33">Grotto Bluegill</c><br>
+Toxxulia Forest - <c "#99FF33">Green Gill Salmon</c> (can be baked into a fillet, converted into fish eggs and fish scales, or turned into Prepared Greengill Fillet & Greengill Bones)<br>
+Warslik Woods - <c "#99FF33">Evergreen Salmon</c><br>
+Western Wastes - <c "#99FF33">Red Roughy</c> (can be baked into Vegetable Roughy)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

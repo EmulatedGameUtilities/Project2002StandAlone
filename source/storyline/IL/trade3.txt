@@ -1,0 +1,39 @@
+<c "#FF2400">Brewing Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Brewing - Skill needed - Int or Wis<br>
+<br>
+Expected cost 300pp. Time.. about 6 hours depending on Int/Wisdom<br>
+<br>
+1. Make "Skull ale" - vinegar, spices, short beer, cyclops skull ( http://everquest.allakhazam.com/db/item.html?item=2791 returned on success or failure) - trivial 151.<br>
+<br>
+2. Make "Faydwer shaker" elven wine, gnomish spirits, dwarven ale, mead (failure yields cask + 4 bottles, success yields 1 shaker and 4 bottles) with a cask - trivial 188<br>
+I found freeport the best spot (http://www.eqtraders.com/location/freeport.htm) as all 4 drink components sold near the jetty<br>
+<br>
+3. Make "Minotaur Hero's Brew" - 3 malt, yeast, 2 flask water, 2 short beer (success yields 1 brew and 2 empty bottles, failure yields 1 cask and 2 empty bottles) with a cask - trivial 248<br>
+I found Ak'anon (http://www.eqtraders.com/location/akanon.htm) the best spot <br>
+<br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

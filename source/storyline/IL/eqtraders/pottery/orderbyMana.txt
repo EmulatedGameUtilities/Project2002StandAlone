@@ -1,0 +1,29 @@
+<c "#66CCFF">Recipes Listed By Stat (Mana)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/939.txt">Ceramic Incense Burner of Ro</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 10 AGI: 12 WIS: 8 INT: 8 CR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/941.txt">Ceramic Totem of The Rathe</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 15 AGI: 5 DEX: 10 PR: 10 DR: 10 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/942.txt">Ceramic Totem of Xegony</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AGI: 12 DEX: 12 WIS: 5 INT: 5 MR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/940.txt">Ceramic Water Sprinkler of Marr</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 10 DEX: 10 WIS: 8 INT: 8 FR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/818.txt">Golden Idol of Bertoxxulous</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4WIS: 5 INT: 5 DR: 9 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/822.txt">Golden Idol of Erollisi Marr</a></c>  &nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 8WIS: 5 CHA: 5 DR: 9 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/823.txt">Golden Idol of Innoruuk</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4INT: 5 MR: 9 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/824.txt">Golden Idol of Karana</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4STA: 4 WIS: 5 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/826.txt">Golden Idol of Prexus</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4INT: 5 CR: 9 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/829.txt">Golden Idol of Rodcet Nife</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 9STA: 5 INT: 5 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/830.txt">Golden Idol of Solusek Ro</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4INT: 6 FR: 9 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/831.txt">Golden Idol of the Tribunal</a></c>  &nbsp;&nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 5WIS: 5 HP: 10 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/832.txt">Golden Idol of Tunare</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(242)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4WIS: 5 PR: 6 DR: 6 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/937.txt">Ceramic Rod of Storms</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(FR: 15 CR: 15 MANA: 35)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/933.txt">Ceramic Shackles of Torment</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEX: 7 WIS: 5 INT: 5 CHA: 5 MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/935.txt">Ceramic Skull of Decay</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/821.txt">Golden Idol of Cazic Thule</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 5STR: 7 WIS: 5 INT: 5 MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/825.txt">Golden Idol of Mithaniel Marr</a></c>  &nbsp;(<=250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 9STA: 10 WIS: 4 MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/938.txt">Ceramic Shield of Valor</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 8 AGI: 8 WIS: 8 HP: 25 MANA: 25)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/969.txt">Planar Star Ruby Encrusted Stein</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 5DEX: 10 CHA: 10 MANA: 25)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/967.txt">Planar Opal Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4STA: 9 AGI: 7 MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/858.txt">Star Ruby Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 5 PR: 10 MR: 10 DR: 10 FR: 10 CR: 10 MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/964.txt">Planar Peridot Encrusted Stein</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 3CHA: 6 CR: 15 MANA: 15)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/852.txt">Opal Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<222)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHA: 25 MANA: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/968.txt">Planar Pearl Encrusted Stein</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 2CHA: 3 PR: 15 MANA: 10)<br>

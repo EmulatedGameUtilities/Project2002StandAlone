@@ -1,0 +1,16 @@
+<c "#66CCFF">Recipes Listed By Stat (STA)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/941.txt">Ceramic Totem of The Rathe</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: <c "#66CCFF">15</c> AGI: 5 DEX: 10 PR: 10 DR: 10 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/939.txt">Ceramic Incense Burner of Ro</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: <c "#66CCFF">10</c> AGI: 12 WIS: 8 INT: 8 CR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/825.txt">Golden Idol of Mithaniel Marr</a></c>  &nbsp;(<=250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 9STA: <c "#66CCFF">10</c> WIS: 4 MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/910.txt">Idol of Mithaniel Marr</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: <c "#66CCFF">10</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/967.txt">Planar Opal Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4STA: <c "#66CCFF">9</c> AGI: 7 MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/938.txt">Ceramic Shield of Valor</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: <c "#66CCFF">8</c> AGI: 8 WIS: 8 HP: 25 MANA: 25)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/819.txt">Golden Idol of Brell Serilis</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 7STR: 7 STA: <c "#66CCFF">7</c> WIS: 4)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/828.txt">Golden Idol of Rallos Zek</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 10STR: 9 STA: <c "#66CCFF">5</c> HP: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/829.txt">Golden Idol of Rodcet Nife</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 9STA: <c "#66CCFF">5</c> INT: 5 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/824.txt">Golden Idol of Karana</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4STA: <c "#66CCFF">4</c> WIS: 5 MANA: 40)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/904.txt">Idol of Brell Serilis</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 3 STA: <c "#66CCFF">4</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/914.txt">Idol of Rodcet Nife</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: <c "#66CCFF">2</c> WIS: 3)<br>

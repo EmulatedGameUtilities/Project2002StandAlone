@@ -1,0 +1,51 @@
+Plane of Tranquility Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Adrania Fireyese (736, -1888)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bat wings, fire beetle eye - Parija Kalamir (671, -1898) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* water flask, mead - Aliia Tal Amad (482, -1716), Jimmik Greenstone (589, -1636), Jasir Armisan (586, -1621) <br>
+* mistletoe - Adrania Fireyese (736, -1888) <br>
+* snake scales, fire beetle eye - Parija Kalamir (671, -1898) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait, fishing grubs - Rataga Stoneskipper (-490, -1406) <br>
+
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* peridot, star rose quartz - Parija Kalamir (671, -1898) <br>
+* silver/electrum/gold/platinum bars, jeweller's kit - Aelisian Taliz (889, -1743) <br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* lockpicks - Samusk Hariij (508, -1715) <br>
+* large lantern - Aliia Tal Amad (482, -1716), Jimmik Greenstone (589, -1636), Jasir Armisan (586, -1621) <br>
+<br>
+
+
+<c "#00CC00">NPC Recipe Hints:  </c><br>
+* Bor Wharhammer at loc p708, n1736 gives out information on quested planar armor to folks with the appropriate PoP flags <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

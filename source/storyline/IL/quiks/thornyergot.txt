@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Thorny Ergot</c><br>
+Vendor: Gindlin Toxfodder (-3000, -13400)<br>
+Location: West Karana<br>
+Poison: Spine Break / Pacifying Whisper<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

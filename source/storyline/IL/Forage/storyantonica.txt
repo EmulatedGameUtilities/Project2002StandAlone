@@ -1,0 +1,51 @@
+<HTML>
+
+<HEAD>
+<TITLE>Antonica Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Antonica Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+All Karanas <FONT COLOR="#8080FF">Plains Pebble</FONT>  Jewelry & Smithing  <br>
+East Commons <FONT COLOR="#8080FF">Griffon Eggs</FONT> Baking  <br>
+East Karana<FONT COLOR="#8080FF"> Tea Leaves</FONT>  Brewing &
+Kerra Isle Quest for Rough Leather Sack  <br>     
+Everfrost <FONT COLOR="#8080FF">Frost Crystal</FONT>  <br> 
+Everfrost <FONT COLOR="#8080FF">Frost Turnips</FONT>  Brewing   <br>
+Everfrost <FONT COLOR="#8080FF">Chilled Tundra Root</FONT> Druid & Ranger Epic Quest Item  <br>
+Feerrott <FONT COLOR="#8080FF"> Alligator Eggs</FONT>   Baking  <br>
+Gorge of King Xorbb <FONT COLOR="#8080FF">Gorge Moss </FONT>   <br>
+Innothule Swamp<FONT COLOR="#8080FF">Speckled Molded Mushroom </FONT> Druid & Ranger Epic Quest Item  <br> 
+Innothule Swamp<FONT COLOR="#8080FF"> Speckled Toadstool </FONT>  Baking <br> 
+Jaggedpine Forest <FONT COLOR="#8080FF">Dew of the Hatchling</FONT>  <br> 
+Jaggedpine Forest <FONT COLOR="#8080FF">Jaggedpine Needles</FONT>   <br>
+Jaggedpine Forest <FONT COLOR="#8080FF">Jaggedpine Sap</FONT>   <br>
+Jaggedpine Forest <FONT COLOR="#8080FF">Plant Shoot</FONT>   Baking & Human cultural tailoring (brewing)  <br>
+Jaggedpine Forest <FONT COLOR="#8080FF">Shadowjade Fern Leaves</FONT>   <br>
+Jaggedpine Forest <FONT COLOR="#8080FF">Shadowjade Moss</FONT>  <br>
+Kithicor Forest <FONT COLOR="#8080FF">Oak Bark</FONT> Tanning Agent  <br>  
+Kithicor Forest <FONT COLOR="#8080FF">Wild Radish</FONT> <br>
+Lake Rathe <FONT COLOR="#8080FF">Rathe Berries</FONT> Brewing &
+Wakening Lands Quest for Crest of The Wood Nymphs  <br>
+Lavastorm <FONT COLOR="#8080FF">Ashweed</FONT> Rogue Poison Component & Dark elf cultural tailoring (brewing)  <br>     
+Misty Thicket <FONT COLOR="#8080FF">Sweetened Mudroot</FONT>  Druid & Ranger Epic Quest Item <br>
+Misty Thicket <FONT COLOR="#8080FF">Black Root</FONT>   Brewing <br>
+Misty Thicket <FONT COLOR="#8080FF">Misty Acorn</FONT>  Tanning Agent <br>
+Nektulos Forest <FONT COLOR="#8080FF">Glow Lichen</FONT> Brewing<br>
+North Karana <FONT COLOR="#8080FF">Wild Cabbage</FONT> Used to make Lucky Cabbage for PotG quest <br>
+North Ro <FONT COLOR="#8080FF">Cactus Pulp</FONT>   Brewing<br>
+Oasis of Marr <FONT COLOR="#8080FF">Bag of Sea Salt</FONT>  Brewing  <br>
+Ocean of Tears <FONT COLOR="#8080FF"> Marr Cherries </FONT> Baking & Wakening Lands Quest for Crest of The Wood Nymphs <br>
+Qeynos Hills <FONT COLOR="#8080FF">Surefall Sap</FONT> Brewing <br>      
+Rathe Mountains <FONT COLOR="#8080FF">Basilisk Eggs</FONT>Baking  <br>   
+South Karana <FONT COLOR="#8080FF">Thunderhoof Mushroom</FONT>Kerra Isle Quest for Rough Leather Sack  <br>   
+South Ro <FONT COLOR="#8080FF">Ro Dates </FONT> <br>   
+West Commons  <FONT COLOR="#8080FF">Plains Roots</FONT> Human cultural tailoring (brewing) <br>   
+West Karana <FONT COLOR="#8080FF">Miller Carrots</FONT> <br>   
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+</BODY>
+</HTML>

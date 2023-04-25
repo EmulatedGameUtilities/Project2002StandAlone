@@ -1,0 +1,93 @@
+Oggok Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, madenhair fern, mandrake root, allspice, benzoin, night shade, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Garakbar (unlabeled room with skull floating in the middle of it) <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jalamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Pordopa (unlabeled room with skull floating in the middle of it) <br>
+* medicine bag, Letters of Jonas (Vol. 1-5)- Rora Dirtstamp (unlabeled room with skull floating in the middle of it)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, fish - Chef Dooga (Meet and Drink Tew Bie) - note that Dooga will KOS non-ogres, so beware <br>
+* bread, water, short beer - Crunga & Erung (unmarked shop down hall from armor merchants, 529, -190) <br>
+* oven - next to Crunga & Erung in unmarked shop down hall from armor merchants (529, -190) <br>
+* bat wings - Hrak (shaman guild) <br>
+* short beer - Clurg (255, -247) <br>
+* allspice, benzoin - Garakbar (unlabeled room with skull floating in the middle of it) <br>
+* fennel, eucalyptus leaf - Pordopa (unlabeled room with skull floating in the middle of it) <br>
+* main cooking ingredients in Feerrott<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* cask, bottle - Brokk Boxtripper (near Priest of Discord) <br>
+* bottle - Angrog (next to tunnel leading to Feerott) <br>
+* brew barrel - next to Clurg (Meet and Drink Tew Bie) <br>
+* snake scales - Hrak (shaman guild) <br>
+* ogre swill (needed for smithing temper), elven wine, brandy, red wine, white wine, short beer - Clurg (255, -247) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, shotglass, cask, grapes - Korgag Swillchugger (180, -240) <br>
+* water, mead, short beer - Crunga & Erung (unmarked shop down hall from armor merchants, 529, -190) <br>
+* allspice, yarrow - Garakbar (unlabeled room with skull floating in the middle of it) <br>
+* large leather boot - Uoola (650, 690)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Angrog (next to tunnel leading to Feerott), Sinsaal (inside first tunnel on left in the wall of tunnels) <br>
+* celandine herb - Garakbar (unlabeled room with skull floating in the middle of it)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit - Praak (Bouncer Keep) <br>
+* bowmaking supplies in Feerrott<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* peridot - Hrak (entry to shaman guild) <br>
+* imbue jade [Rallos Zek] spell - Barsk (shaman guild) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel, kiln - inside first tunnel on left (facing the wall of tunnels) <br>
+* imbue jade [Rallos Zek] spell - Barsk (shaman guild) <br>
+* clay (small block, block, large block) - Blergerda (195, 910, near the Oggok cultural forge) <br>
+* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, basic pottery, vial sketch, lined vial sketch, sealed vial sketch, sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small diety sketch - Helgara Dirtcarver (230, 740) <br>
+* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, idol) - Kerplooe Dirtcarver (245, 750) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - inside Metil Armer <br>
+* imbue jade [Rallos Zek] spell - Barsk (shaman guild) <br>
+* Oggok Forge (cultural forge) - 141, 931 ("end of let of 3 tunnels" or so says the ogre who sent this in) <br>
+* large chainmail patterns - Pugla (98, 849) <br>
+* information on ogre cultural weapons [hail him] - Varrok Neckchopper (321, -206) <br>
+* information on ogre armor and shields [hail him] - Zarg Knightbane (245, -194) <br>
+* large plate molds, large shield molds, smithy hammer, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft - Bubbgrib (291, -206) <br>
+* ore (small piece, small and large block), smithy hammer, sharpening stone, oak shaft, file mold - Blergerda (195, 910, near the Oggok cultural forge) <br>
+* other items in Feerrott<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* basic patterns (cap, gorget, tunic, sleeve, glove, pant, boot), small sewing kit, How To Sew (large) - Juk Hidebeater (Lether Armer) <br>
+* small sewing kit, How To Sew (large) - Duuga Tearstopper (Lether Armer) <br>
+* 10-slot loom (on way to shaman guild) 700, 700 <br>
+* patterns (cap, mask, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Gretamog (630, 700) <br>
+* mandrake root - Garakbar (unlabeled room with skull floating in the middle of it) <br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

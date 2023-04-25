@@ -1,0 +1,218 @@
+Tinkering Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* gnomish spirits - clockwork barkeeps inside bar at 1258, -901 <br>
+* bottle - clockwork merchant at 1264, -773, clockwork merchant (by Priest of Discord at 482,-111), 2 clockwork merchants by forge of defiance <br>
+* large black lodestone, grease, metal rod, toolbox, Journal Of Gimbelstan XI and XXXIII - Rylin Coil (1471,-187 at bottom of waterfalls) <br>
+* lockpicks - a clockwork rogue (1181, -563 inside rogue guild behind secret door in Abbey Of Deep Musing (cleric guild hall)) <br>
+* large lantern, water flask - clockwork merchant near Priest of Discord (482, -111), 2 clockwork merchants by Forge of Defiance, clockwork merchant (1290, -917) <br>
+* Advanced Tinkering Armor Manual - Zeneral Ottonoggir (1304, -723) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c><br>
+
+* lockpicks - Ponila Quickfingers (first building on right when entering zone from West Freeport) <br>
+* water, large lantern, bottle - Romya (335, 4058) <br>
+* water, large lantern - Innkeep Blaise (3rd inn, loc 330, 4846), Innkeep Dolman ("orc camp inn", loc 1027, 3683), Innkeep Juna (2nd inn, loc -323, 3029), Innkeep Harold (1st Inn, loc -181, 116) <br>
+* bottle - Innkeep Calen (3rd inn, loc 315, 488), Innkeep Fenia ("orc camp inn", loc 1020, 3725), Innkeep Leo (2nd inn, loc -318, 2979), Innkeep Elora (1st Inn, loc -188, 67) 
+<br><br>
+
+<c "#00CC00">East Karana </c><br>
+
+* fishing pole, large lantern, bottle, water - Bradly & Julie (shop at -833, -109) 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin) </c><br>
+
+* large lantern - Echo Tradesman (1385, -609) <br>
+* metal rod, grease, metal shaft, metal twine, sprockets, static orb, toolbox, cord, steel lined gloves, spricket, gears, reflective shard, gnomish bolts, silk lined steel helm, Journal of Gimblestan (Vol XIV, Vol XV), fine coral mesh, lime coated meshing) - Trace the Tinker (-739, 232) 
+<br><br>
+
+<c "#00CC00">Erudin </c><br>
+
+* water, large lantern, bottle - Borge Finleather, Teria Finleather (Erudin Surplus) 
+<br><br>
+
+<c "#00CC00">Eruds Crossing </c><br>
+
+* fishing pole - Renna (Kerra Isle, near dock) 
+<br><br>
+
+<c "#00CC00">Felwithe </c><br>
+
+* water flask, large lantern - Merchant Sorintal (Shop of All Holds, N. Felwithe) <br>
+* medium platemail helm - Merchant Irontree (loc -105, -385, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Freeport </c><br>
+
+* water, large lantern, bottle - Alec & Ran Greenglade (blue building next to bank, N. Freeport) <br>
+* gnomish spirits - Myrissa O'Donner, Ston O'Donner, Monita O'Donner (Velithe & Bardo's Imported Goods, E. Freeport) <br>
+* medium platemail helm - Ikthar Fireheart (Armor by Ikthar, E. Freeport) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin) </c><br>
+
+* bottle - Cen Snoworb (-1216, -988) <br>
+* large lantern - Samfort Ruggen (-1668, -918) <br>
+* bottle, large lantern - Thar Anson (-1339, -800) <br>
+* gnomish spirits - Jolly Arval (-1193, -548) 
+<br><br>
+
+<c "#00CC00">Halas </c><br>
+
+* water, large lantern, bottle - Greta Terrilon (outside McDaniels Smokes), Leopok Terrilon (bank area), Dok (Dok's Cigars) 
+<br><br>
+
+<c "#00CC00">Hollowshade Moor (Luclin) </c><br>
+
+* small lantern, large lantern - Rittuh Purrik (1069, 2027) 
+<br><br>
+
+<c "#00CC00">Iceclad Ocean (Velious) </c><br>
+
+* steel wire, velium lens, cogs, mana batteries (class one through class five), greasy diagram book, deluxe toolbox - Adinel Jailbar (gnome outpost, 4536, 1286) 
+<br><br>
+
+<c "#00CC00">Jaggedpine Forest </c><br>
+
+* large lantern - Selia Wetstone (1115, 2045), Quartermaster Garucks (-1100, 3236, Brell gnoll temple) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c><br>
+
+* large lantern, small lantern - Kitty Barleou (225, -1115) <br>
+* Metal Rod, Cork, Grease, Steel Lined Gloves, Metal Shaft, Spriket, Metal Twine, Gears, Sprockets, Reflective Shard, Static Orb, Gnomish Bolts, Toolbox, Silk Lined Steel Helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, Metal Fastening, Fine Coral Mesh, Sharkskin Tubing, Lime Coated Meshing - Blaylock Geerlock (-810, -223) <br>
+* Journal of Gimblestan XI, Large Black Lodestone, Grease, Metal Rod, Journal of Gimblestan XXXIII, Toolbox, Utensil Parts, Cured Leather Tubing, Sewing Contraption Parts, Gem Setter Parts, Ceramic Lined Still, Geerloks Crafty Contraptions - Zyleea Geerlock (-814, -194) 
+<br><br>
+
+<c "#00CC00">Kaladim </c><br>
+
+* gnomish spirits - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim) 
+<br><br>
+
+<c "#00CC00">Kelethin </c><br>
+
+* water, large lantern, bottle - Merchant Iludarae (next to first lift), Merchant Alanya ("Goods" shop on platform between bank and Priest of Discord lift) <br>
+* bottle - Merchant Tilluen & Merchant Aluuvila (Packwearers Goods), Merchant Aildien (-492, -133), Merchant Kwein (153, 332) <br>
+* gnomish spirits - Barkeep Aanlawen ("Tavern", 603, 688) <br>
+* medium platemail helm - Merchant Tegdian (945, 55) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c><br>
+
+* bottle - Eithne Walker (loc 1429, -828) <br>
+* lockpicks - merchant in building at -768, 3081 
+<br><br>
+
+<c "#00CC00">Lake Rathe </c><br>
+
+* lockpick, water, large lantern - Dreana (gypsy camp, -418.49) <br>
+* large lantern, water, bottle, fishing pole - Turga (ogre camp, NE corner of zone) 
+<br><br>
+
+<c "#00CC00">North Karana </c><br>
+
+* lockpick, water, large lantern - Romella (gypsy camp) 
+<br><br>
+
+<c "#00CC00">Oasis of Marr </c><br>
+
+* large lantern, water, lockpick - Isslana (gypsy encampment) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c><br>
+
+* metal rod, cork, grease, steel lined gloves, metal shaft, spricket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, toolbox, silk lined steel helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, sharkskin tubing, fine coral mesh, metal fastening, lime coated meshing - Tin Merchant V, 2615, 2537 <br>
+* water, large lantern - Tin Merchant I, 2722, 2577 
+<br><br>
+
+<c "#00CC00">Paineel </c><br>
+
+* large lantern, water - Geomor Hapera, Rallia Hapera (Superior Supplies, 938, 757) 
+<br><br>
+
+<c "#00CC00">Plane of Innovation (PoP) </c><br>
+
+* steel casing, cork, cured leather tubing, mana battery - class one, mana battery - class two, mana battery - class three, mana battery - class four, mana battery - class five, mana battery - class six, water flask, vial of gasses, static orb, First Days in Innovation, The Clockworks Press On, Desperation in the Junkyard, Cheirometric Lockpick Study, On Advanced Fireworks, Deluxe Toolbox, Perpetual Pumps - Nitram Anizok (1534, 975) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c><br>
+
+* gnomish spirits - Caden Zharik (-344, 756) <br>
+* metal rod, cork, grease, steel lined gloves, metal shaft, spriket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, toolbox, silk lined steel helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, metal fastening, fine coral mesh, sharkskin tubing, lime coated meshing - Tabben Bromal (-387, 538) <br>
+* Journal of Gimblestan XI, Journal of Gimblestan XXXIII, large black lodestone, grease, metal rod, toolbox - Saria Bromal (-383, 558) <br>
+* mana battery - class one, mana battery - class two, mana battery - class three, mana battery - class four, mana battery - class five, mana battery - class six, deluxe toolbox, cogs - Nelin Signus (403, 841) <br>
+* mana battery - class one, mana battery - class two, mana battery - class three, mana battery - class four, mana battery - class five, mana battery - class 6, deluxe toolbox, cogs, steel wire - Maryalis N`Ryt (-843, 195) 
+<br><br>
+
+<c "#00CC00">Plane of Storms (PoP) </c><br>
+
+* large lantern, water flask - Grok (-1144, -2519) 
+<br><br>
+
+<c "#00CC00">Plane of Tranquility (PoP) </c><br>
+
+* lockpicks - Samusk Hariij (508, -1715) <br>
+* large lantern - Aliia Tal Amad (482, -1716), Jimmik Greenstone (589, -1636), Jasir Armisan (586, -1621) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c><br>
+
+* lockpicks - Lianna Ferasa (gypsy camp, 3979, 1469) <br>
+* compass, large lantern, lockpicks, water - Chandra Kali (gypsy gamp, 3925, 1399), Susanna (paladin camp near Feerrott zone entrance, 2916, -764), Viira Bali (gypsy camp near Feerrott, 1643, -867) <br>
+* large lantern, fishing pole, water - Guzzla (ogre camp, 1749, 1289) 
+<br><br>
+
+<c "#00CC00">Rivervale </c><br>
+
+* large lantern - Wibble Bramblebush (near dock) <br>
+* lockpicks - Gaffin Deeppocket (3rd floor, Fools Gold) 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c><br>
+
+* gnomish spirits - Jaeger Mort (loc not available) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c><br>
+
+* large lantern - Adept Delf (28, -250), Innkeep Alviva (25, 431), Henriala Hobialon (232, 1786), Fitonas Galaofon (1215, -239), Eiles (163, -46) <br>
+* bottle - Lander Furthers (172, 330), Granger Kenforth (16, 1166) <br>
+* Metal Rod, Cork, Grease, Steel Lined Gloves, Metal Shaft, Spriket, Metal Twine, Gears, Sprockets, Reflective Shard, Static Orb, Gnomish Bolts, Toolbox, Silk Lined, Steel Helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, Metal Fastening, Fine Coral Mesh, Sharkskin Tubing, Lime Coated Meshing - Marchap Biddinight (116, 1042) <br>
+* gnomish spirits - Bilkel Biddinight (188, 915) <br>
+* Journal of Gimblestan XI, Large Black Lodestone, Grease, Metal Rod, Journal of Gimblestan XXXIII, Toolbox, Utensil Parts, Cured Leather Tubing, Sewing Contraption Parts, Gem Setter Parts, Ceramic Lined Still, Geerloks Crafty Contraptions - Krizle Geerlok (-374. 398) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c><br>
+
+* large lantern - Gawra (-347, 313), <br>
+* large lantern, bottle - Ulma Talmil (370, -20), Mahj Hujara (443, -53) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c><br>
+
+* bottle, large lantern - Purveyor Nish (175, -683) <br>
+* gnomish spirits - Barkeep Gront (3rd floor, 512, -618), Barkeep Draven (3rd floor, 499, -733) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c><br>
+
+* Toolbox, metal rod, cork, bottle of grease, metal shaft, spricket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, Journal of Gimblestan XIV, Journal of Gimblestan XV, steel lined gloves, silk lined steel helm, metal fastenings, fine coral mesh, sharkskin tubing, lime coated meshing - Bom Knotwood (windmill at /loc 165, -881) <br>
+* fishing pole, large lantern, bottle, water - Glen Garginbur (1st building on right from entrance to Ak'Anon, -1788, 3142) <br>
+* Journal of Gimblestan XI, Journal of Gimblestan XXXIII, large black lodestone, grease, metal rod, toolbox - a mechanical merchant (center of gear, 1621, -1723) <br>
+* steel wire(?), powered gloves - Godbin Strumharp (windmill at /loc 51, -611) <br><br>
+
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

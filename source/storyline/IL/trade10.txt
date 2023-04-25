@@ -1,0 +1,56 @@
+<c "#FF2400">Tailoring Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Tailoring - best of Int/Wis for skill ups <br>
+<br>
+patchwork armor - 1 ruined wolf/cat/bear pelt (wolf = small, cat = medium, bear = large - pelts other than those listed do not work) plus appropriate pattern till trivial 26 <br>
+<br>
+cured silk cap (AC 4) - 1 silk swatch, 3 heady kiolas, cap pattern till trivial 82 <br>
+<br>
+quiver - quiver pattern, high quality cat pelt (6 slots, holds only arrows, wt 0.4) till trivial 115 <br>
+<br>
+crystalline silk armor - silver thread, mantle pattern, one crystalline silk swatches till trivial 118 <br>
+(if you have enough crystaline silk make gloves (2 swatches - 124 skill) and tunic (3 swatches - 131 skill) <br>
+----------------------------------------------------------------------------------- <br>
+Wu's fighting armor (cap) - vial of viscous mana, cap pattern, 4 heady kiolas (brewed), silk swatch till 142 <br>
+<br>
+Wu's fighting armor (sleeves) - vial of viscous mana, sleeves pattern, 4 heady kiolas (brewed), silk swatch till 151 <br>
+<br>
+Wu's fighting armor (tunic) - vial of viscous mana, tunic pattern, 4 heady kiolas (brewed), silk swatch till 158 <br>
+------------------------------------------------------------------------------------- <br>
+Ceremonial Solstice Robe till 250 <br>
+<br>
+Combine: Gem Studded Chain + 3 Sacred Tunare Silks (unstacked) + Tunic Pattern + Embroidery Needle (sewing kit, tailoring trivial >250, gem studded chain and embroidery needle returned on failure, embroidery needle returned on success) <br>
+<br>
+Other combines that you need <br>
+<br>
+Gem Studded Chain = Worked Silver Chain + Sapphire + Ruby + Emerald (jeweller's kit, jewelcraft trivial >250) <br>
+Worked Silver Chain = 1 Enchanted Bar of Silver + 1 Metal Bits + water (forge, smithing trivial 111) <br>
+Sacred Tunare Silk = 1 Silk Swatch + Celestial Essence + Blessed Dust of Tunare (sewing kit, tailoring trivial 135) <br>
+Celestial Essence = 1 Celestial Solvent + 1 High End Research component (mortar and pestle, no-fail combine) <br>
+Blessed Dust of Tunare = 1 Imbued Emerald + 1 Celestial Essence + 1 Jar of Acid (kiln, pottery trivial 103) <br>
+Embroidery Needle = Needle Mold + water + Metal Bits + Celestial Essence (forge, smithing trivial 122)<br>
+<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

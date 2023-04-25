@@ -1,0 +1,105 @@
+<c "#FF2400">Jewelcraft Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Jewelcraft. Stat to gain Skill is the Highest of Int or Wis. <br>
+<br>
+Cost.. About 5K <br>
+Time.. About one week (if you enchant the bars) <br>
+VITAL - Get a 5% skill Mod (Geerloc Gemsetter) <br>
+Enchant all bars from skill 192 up. If the bars are enchanted you will be able to sell for more then the cost of components (I almost broke even) <br>
+You do have an enachanter willing to enchant 100 stacks of bars? Don't proceed unless you do or are willing to lose a few K plat. <br>
+Get Charisma to 130 for Buying or selling. <br>
+<br>
+1 -  16 Silver + Lapis Lazuli <br>
+17 -  18 Silver + Turquoise <br>
+22 Silver + Hematite <br>
+23 -  24 Silver + Cat's Eye Agate <br>
+25 -  26 Silver + Bloodstone <br>
+27 -  28 Silver + Onyx <br>
+29 -  30 Silver + Jasper <br>
+31 -  32 Silver + Carnelian <br>
+33 -  34 Silver + Star Rose Quartz <br>
+35 -  36 Silver + Amber <br>
+37 -  38 Silver + Wolf's Eye Agate <br>
+39 -  40 Silver + Jade <br>
+41 -  42 Silver + Pearl <br>
+43 -  44 Silver + Topaz <br>
+45 -  74 Electrum + Malachite <br>
+75 -  76 Electrum + Lapis Lazuli <br>
+77 -  79 Electrum + Turquoise <br>
+80 -  82 Electrum + Hematite <br>
+83 -  84 Electrum + Cat's Eye Agate <br>
+85 -  87 Electrum + Bloodstone <br>
+88 -  90 Electrum + Onyx <br>
+91 -  92 Electrum + Jasper <br>
+93 -  95 Electrum + Carnelian <br>
+96 -  98 Electrum + Star Rose Quartz <br>
+99 -  100 Electrum + Amber <br>
+101 -  103 Electrum + Wolf's Eye Agate <br>
+104 -  106 Electrum + Jade <br>
+107 -  108 Electrum + Pearl <br>
+109 -  111 Electrum + Topaz <br>
+112 -  114 Electrum + Peridot <br>
+115 -  116 Electrum + Emerald <br>
+117 -  119 Electrum + Opal <br>
+120 -  146 Gold + Malachite <br>
+147 -  148 Gold + Lapis Lazuli <br>
+149 -  151 Gold + Turquoise <br>
+152 -  154 Gold + Hematite <br>
+155 -  156 Gold + Cat's Eye Agate <br>
+157 -  159 Gold + Bloodstone <br>
+160 -  162 Gold + Onyx <br>
+163 -  164 Gold + Jasper <br>
+165 -  167 Gold + Carnelian <br>
+168 -  170 Gold + Star Rose Quartz <br>
+171 -  172 Gold + Amber <br>
+173 -  175 Gold + Wolf's Eye Agate <br>
+176 -  178 Gold + Jade <br>
+179 -  180 Gold + Pearl <br>
+181 -  183 Gold + Topaz <br>
+184 -  186 Gold + Peridot <br>
+187 -  188 Gold + Emerald <br>
+189 -  191 Gold + Opal (the last time you use non enchanted bars) <br>
+192 -  196 Gold + Fire Opal (to hard, skip and go to Star Ruby) <br>
+197 -  199 Gold + Star Ruby <br>
+200 -  202 Gold + Fire Emerald <br>
+203 -  204 Gold + Sapphire <br>
+205 -  207 Gold + Ruby <br>
+208 -  218 Platinum + Malachite <br>
+219 -  220 Platinum + Lapis Lazuli <br>
+221 -  223 Platinum + Turquoise <br>
+224 -  226 Platinum + Hematite <br>
+227 -  228 Platinum + Cat's Eye Agate <br>
+229 -  231 Platinum + Bloodstone <br>
+232 -  234 Platinum + Onyx <br>
+235 -  236 Platinum + Jasper <br>
+237 -  239 Platinum + Carnelian <br>
+240 -  242 Platinum + Star Rose Quartz <br>
+243 -  244 Platinum + Amber <br>
+245 -  247 Platinum + Wolf's Eye Agate <br>
+248 -  250 Platinum + Jade <br>
+<br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

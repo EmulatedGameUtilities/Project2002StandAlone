@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Undead Shissar Venom Sac</c><br>
+Vendor: NPC Drop<br>
+Location: Shissar in The Grey / Ssra<br>
+Poison: Mayong's Bane / Zombie Bane<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

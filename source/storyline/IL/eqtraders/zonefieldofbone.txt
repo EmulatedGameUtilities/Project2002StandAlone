@@ -1,0 +1,28 @@
+Field of Bone Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* bat wings - Klok Acet (-2460, 2993)
+<br><br>
+
+
+<c "#00CC00">Brewing </c><br>
+* snake scales - Klok Acet (-2460, 2993)
+<br><br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Klok Acet (-2460, 2993)
+<br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

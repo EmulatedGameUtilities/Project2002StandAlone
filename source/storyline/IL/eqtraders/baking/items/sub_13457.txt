@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/487.txt">Shark Fillet</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Algae Spices, Jug of Oyster Sauces, Shark Meat) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/438.txt">Shark Fillet</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(82)&nbsp;&nbsp;&nbsp;(Jug of Sauces, Shark Meat, Spices) <br>

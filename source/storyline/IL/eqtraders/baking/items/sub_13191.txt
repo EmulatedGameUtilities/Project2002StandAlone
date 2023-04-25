@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/567.txt">Uncooked Rat Ear Pie</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)&nbsp;&nbsp;&nbsp;(Baking Spirits (From S Qeynos Merchant), Cup of Flour (From S Qeynos Merchant), 2 Rat Ears) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/511.txt">Uncooked Rat Ear Pie</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)&nbsp;&nbsp;&nbsp;(Baking Spirits (From S Qeynos Merchant), Cup of Flour (From S Qeynos Merchant), Giant Rat Ear) <br>

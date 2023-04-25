@@ -1,0 +1,42 @@
+Faction Lists
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> | 
+  <c "#FFFF00">B</c> | 
+  <a href="file:///storyline/il/Faction/C.txt">C</a> | 
+  <a href="file:///storyline/il/Faction/D.txt">D</a> | 
+  <a href="file:///storyline/il/Faction/E.txt">E</a> | 
+  <a href="file:///storyline/il/Faction/F.txt">F</a> | 
+  <a href="file:///storyline/il/Faction/G.txt">G</a> | 
+  <a href="file:///storyline/il/Faction/H.txt">H</a> | 
+  <a href="file:///storyline/il/Faction/I.txt">I</a> | 
+  <a href="file:///storyline/il/Faction/J.txt">J</a> | 
+  <a href="file:///storyline/il/Faction/K.txt">K</a> | 
+  <a href="file:///storyline/il/Faction/L.txt">L</a> | 
+  <a href="file:///storyline/il/Faction/M.txt">M</a> | 
+  <a href="file:///storyline/il/Faction/N.txt">N</a> | 
+  <a href="file:///storyline/il/Faction/O.txt">O</a> | 
+  <a href="file:///storyline/il/Faction/P.txt">P</a> | 
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> | 
+  <a href="file:///storyline/il/Faction/R.txt">R</a> | 
+  <a href="file:///storyline/il/Faction/S.txt">S</a> | 
+  <a href="file:///storyline/il/Faction/T.txt">T</a> | 
+  <a href="file:///storyline/il/Faction/U.txt">U</a> | 
+  <a href="file:///storyline/il/Faction/V.txt">V</a> | 
+  <a href="file:///storyline/il/Faction/W.txt">W</a> | 
+  <c "#7F7F7F">X</c> | 
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> | 
+  <c "#7F7F7F">Z</c>
+<br>
+<br><a href="file:///storyline/il/Faction/B/Banker.txt">Banker</a> 
+<br><a href="file:///storyline/il/Faction/B/BefallenInhabitants.txt">Befallen Inhabitants 
+<br><a href="file:///storyline/il/Faction/B/BetaNeutral.txt">Beta Neutral 
+<br><a href="file:///storyline/il/Faction/B/Bloodgills.txt">Bloodgills 
+<br><a href="file:///storyline/il/Faction/B/Bloodsabers.txt">Bloodsabers 
+<br><a href="file:///storyline/il/Faction/B/BrokenSkullClan.txt">Broken Skull Clan 
+<br><a href="file:///storyline/il/Faction/B/BoD.txt">Brood of Di'Zok 
+<br><a href="file:///storyline/il/Faction/B/BoK.txt">Brood Of Kitoz 
+<br><a href="file:///storyline/il/Faction/B/Brownie.txt">Brownie 
+<br><a href="file:///storyline/il/Faction/B/BurynaiLegion.txt">Burynai Legion 
+<br><a href="file:///storyline/il/Faction/B/BBB.txt">Butcherblock Bandits 

@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Grave Mold</c><br>
+Vendor:  NPC Drop<br>
+Location: Ghouls in Unrest<br>
+Poison: Leprous Puss / Solvent Gangrene / Visceral Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

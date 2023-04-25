@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Creeper Ivy</c><br>
+Vendor: Brak Daggermist (-3600, 2300)<br>
+Location: Firiona Vie<br>
+Poison: Spirit of Sloth<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

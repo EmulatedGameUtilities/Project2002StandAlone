@@ -1,0 +1,23 @@
+Ring 6 (Obsidian Coldain Insignia Ring)<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyColdring.txt">Table of Contents</a>
+<br>
+=====================
+<br>
+This is the sixth Coldain Ring quest. Garadain wants you to find out what happened to the Coldain invasion force that tried to attack the giants a while back. No evidence has ever been found of their demise. Garadain wants two things: Proof of their demise, and proof of the demise of their killers.<br> 
+<br>
+For the proof of the demise of the Coldain, Korrigan the undead coldain is the NPC you want to talk to. He spawns at night at the dwarven hut near Icefang, the named dire wolf. Talking to the undead coldain reveals that the coldain elite forces were the victims of a very nasty trick by the Rygorr Clan. Before the Coldain could mount their attack on the giants, Rygorr Shaman charmed the Coldain's wolves and turned them on their masters. During the conversation with Korrigan, Icefang respawns as an agro high level version of himself and attacks you.<br> 
+<br>
+Stay out of range of Icefang, and he will eventually run over to the orc hut near the bridge. When he gets there, four Oracles or Ry'gorr will spawn along with Poxbreath Yellowfang, a named Ry'gorr. Kill Yellowfang to get a Note from Kromrif. The note outlines Rodrick the Coldain traitor's assistance in killing the elite coldain.<br> 
+<br>
+Near Rygorr keep is the exit of crystal caverns. Every once in a while a Rygorr Emissary will spawn there. If you wait a few minutes and don't kill him, Rodrick will spawn next to him. He is a traitor to the coldain. Kill him to get his head.<br> 
+<br>
+Turn the head, the note and your obsidian ring in to Garadain Glacierbane for your Mithril Coldain Insignia Ring.<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/Coldring/ring7.txt">Next----> Ring 7(Mithril Coldain Insignia Ring)</a>
+<br>
+=====================

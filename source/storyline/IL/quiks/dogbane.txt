@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Dogbane</c><br>
+Vendor: Anelia Thrywiel (-150, +1200)<br>
+Location: Lesser Faydark<br>
+Poison: Rancid Wolf Killer<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

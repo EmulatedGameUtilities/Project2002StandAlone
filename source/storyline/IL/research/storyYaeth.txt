@@ -1,0 +1,230 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 102 (Left)<br> 
+<c "#0088ff">Nature's Recovery (Druid 60)<br>
+Primal Avatar (Shaman 60)<br>
+Gift of Pure Thought (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 102 (Right)<br> 
+<c "#0088ff">Gift of Pure Thought (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 103 <br>
+<c "#0088ff">Gift of Pure Thought (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 104 (Left)<br> 
+<c "#0088ff">Focus of Spirit (Shaman 60)<br>
+Asphyxiate (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 104 (Right)<br> 
+<c "#0088ff">Asphyxiate (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 105 <br>
+<c "#0088ff">Focus of Spirit (Shaman 60)<br>
+Asphyxiate (Enchanter 59)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 107 (Left)<br> 
+<c "#0088ff">Topor (Shaman 60)<br>
+Gift of Brilliance (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 107 (Right)<br> 
+<c "#0088ff">Gift of Brilliance (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 108 <br>
+<c "#0088ff">Word of Redemption (Cleric 60)<br>
+Malo (Shaman 60)<br>
+Gift of Brilliance (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 112 (Left)<br> 
+<c "#0088ff">Avatar (Shaman 60)<br>
+Dictate (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 112 (Right)<br> 
+<c "#0088ff">Avatar (Shaman 60)<br>
+Dictate (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 113 <br>
+<c "#0088ff">Ethereal Remedy (Cleric 59)<br>
+Dictate (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 114 (Left)<br> 
+<c "#0088ff">Ethereal Elixir (Cleric 60)<br>
+Khura's Focusing (Shaman 60)<br>
+Visions of Grandeur (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 114 (Right)<br> 
+<c "#0088ff">Word of Redemption (Cleric 60)<br>
+Visions of Grandeur (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 115 <br>
+<c "#0088ff">Khura's Focusing (Shaman 60)<br>
+Mask of the Hunter (Druid 60)<br>
+Visions of Grandeur (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 117 (Left)<br> 
+<c "#0088ff">Mask of the Stalker (Druid 60)<br>
+Speed of the Brood (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 117 (Right)<br> 
+<c "#0088ff">Speed of the Brood (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 118 (Left)<br> 
+<c "#0088ff">Mask of the Stalker (Druid 60)<br>
+Speed of the Brood (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 118 (Right)<br> 
+<c "#0088ff">Topor (Shaman 60)<br>
+Speed of the Brood (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 25 (Left)<br> 
+<c "#0088ff">Ethereal Light (Cleric 58)<br>
+Koadic's Endless Intellect (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 25 (Right)<br> 
+<c "#0088ff">Ethereal Light (Cleric 58)<br>
+Koadic's Endless Intellect (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 26 (Left)<br> 
+<c "#0088ff">Blessing of Aegolism (Cleric 60)<br>
+Blessing of Aegolism (Cleric 60)<br>
+Koadic's Endless Intellect (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 26 (Right)<br> 
+<c "#0088ff">Koadic's Endless Intellect (Enchanter 60)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 50 (Left)<br> 
+<c "#0088ff">Everlasting Breath (Druid 51)<br>
+Spirit Quickening (Shaman 50)<br>
+Everlasting Breath (Shaman 51)<br>
+Form of The Great Bear (Shaman 55)<br>
+Talisman of The Cat (Shaman 57)<br>
+Improved Invisibility (Enchanter 50)<br>
+Talisman of The Brute *confirm (Shaman 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 50 (Right)<br> 
+<c "#0088ff">Improved Invisibility (Enchanter 50)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 61 (Left)<br> 
+<c "#0088ff">Theft of Thought (Enchanter 51)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 61 (Right)<br> 
+<c "#0088ff">Improved Superior Camouflage (Druid 50)<br>
+Theft of Thought (Enchanter 51)<br>
+Primal Essence *Confirm* (Shaman 52)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 63 (Left)<br> 
+<c "#0088ff">Cannibalize IV (Shaman 58)<br>
+Everlasting Breath (Enchanter 51)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 63 (Right)<br> 
+<c "#0088ff">Girdle of Karana (Druid 55)<br>
+Everlasting Breath (Enchanter 51)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 65 (Left)<br> 
+<c "#0088ff">Form of the Howler (Druid 54)<br>
+Talisman of The Rhino (Shaman 58)<br>
+Levitation (Enchanter 51)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 65 (Right)<br> 
+<c "#0088ff">Levitation (Enchanter 51)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 70 (Left)<br> 
+<c "#0088ff">Levitation (Druid 51)<br>
+Tunare's Request (Druid 55)<br>
+Levitation (Shaman 51)<br>
+Antidote (Cleric 58)<br>
+Cripple (Enchanter 53)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 70 (Right)<br> 
+<c "#0088ff">Word of Vigor (Cleric 52)<br>
+Cripple (Enchanter 53)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 72 (Left)<br> 
+<c "#0088ff">Wake of Karana (Druid 56)<br>
+Word of Restoration (Cleric 57)<br>
+Gift of Insight (Enchanter 55)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 72 (Right)<br> 
+<c "#0088ff">Gift of Insight (Enchanter 55)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 73 (Left)<br> 
+<c "#0088ff">Talisman of the Serpent (Shaman 58)<br>
+Torment of Argli (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 73 (Right)<br> 
+<c "#0088ff">Remove Greater Curse (Druid 54)<br>
+Remove Greater Curse (Cleric 54)<br>
+Remove Greater Curse (Shaman 54)<br>
+Torment of Argli (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 78 (Left)<br> 
+<c "#0088ff">Regrowth of the Grove (Druid 58)<br>
+Regrowth of Dar`Khura (Shaman 56)<br>
+Ethereal Remedy (Cleric 59)<br>
+Horrifying Visage (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 78 (Right)<br> 
+<c "#0088ff">Talisman of Shadoo (Shaman 53)<br>
+Horrifying Visage (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 80 (Left)<br> 
+<c "#0088ff">Spirit of Scale (Druid 53)<br>
+Spirit of Scale (Shaman 52)<br>
+Augment (Enchanter 56)<br>
+Cripple (Shaman 53)<br>
+Augment (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 81 <br>
+<c "#0088ff">Marzin's Mark (Cleric 60)<br>
+Regrowth of Dar`Khura (Shaman 56)<br>
+Succor (Druid 57)<br>
+Augment (Enchanter 56)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 82 (Left)<br> 
+<c "#0088ff">Talisman of Epuration (Shaman 58)<br>
+Enlightenment (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 82 (Right)<br> 
+<c "#0088ff">Shroud of Spirits (Shaman 54)<br>
+Enlightenment (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 83 <br>
+<c "#0088ff">Nature's Recovery (Druid 60)<br>
+Enlightenment (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 91 (Left)<br> 
+<c "#0088ff">Talisman of the Raptor (Shaman 59)<br>
+Forlorn Deeds (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 91 (Right)<br> 
+<c "#0088ff">Forlorn Deeds (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 92 <br>
+<c "#0088ff">Word of Restoration (Cleric 57)<br>
+Regrowth of the Grove (Druid 58)<br>
+Forlorn Deeds (Enchanter 57)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 94 (Left)<br> 
+<c "#0088ff">Form of the Hunter (Druid 60)<br>
+Bedlam (Enchanter 58)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 94 (Right)<br> 
+<c "#0088ff">Spirit of Oak (Druid 59)<br>
+Form of the Hunter (Druid 60)<br>
+Bedlam (Enchanter 58)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 95 <br>
+<c "#0088ff">Spirit of Oak (Druid 59)<br>
+Bedlam (Enchanter 58)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 97 (Left)<br> 
+<c "#0088ff">Glamorous Visage (Enchanter 58)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 97 (Right)<br> 
+<c "#0088ff">Glamorous Visage (Enchanter 58)<br>
+
+<br><c "#00ff00">Yaeth's Compendium Page 98 <br>
+<c "#0088ff">Antidote (Cleric 58)<br>
+Glamorous Visage (Enchanter 58)<br>

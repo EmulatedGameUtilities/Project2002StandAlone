@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Soot Hemlock</c><br>
+Vendor: NPC Drop<br>
+Location: Fire Goblins in Lavastorm / Sol A<br>
+Poison: Dilapidating Ash / Shadowveil Hemlock / Acidic Dissolver<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

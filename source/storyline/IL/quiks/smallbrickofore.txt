@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Small Brick of Ore</c><br>
+Skill: Smithing<br>
+Combine: 3x Small Peices of Ore & 1x Water Flask<br>
+Vendor: Tallis Paerk (+65, -1390)<br>
+Location: Plane of Knowledge<br>
+Poison: Iron Sulphide<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

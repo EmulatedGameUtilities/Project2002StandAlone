@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Quicksilver</c><br>
+Skill: Poison Making<br>
+Combine: 1x Gnomish Spirits & 1x Cinnabar<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: Iron Dimethy / Metallic Alkaloid / Mind Melt<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

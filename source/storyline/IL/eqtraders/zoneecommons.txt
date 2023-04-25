@@ -1,0 +1,65 @@
+East Commonlands Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>Be aware that the merchants in this zone love to go walkabout, so if the person isn't in the spot listed, they may be dancing on the roof, or otherwise unavailable. <br><br>
+
+<c "#00CC00">Baking </c><br>
+* bread, short beer, water - Innkeep Blaise (3rd inn, loc 330, 4846), Innkeep Dolman ("orc camp inn", loc 1027, 3683), Innkeep Juna (2nd inn, loc -323, 3029), Innkeep Harold (1st Inn, loc -181, 116) <br>
+* spices, vinegar, jug of sauces, garnish, frosting, flour, milk, 13 recipe books - Parthar (next to Inn 1, loc -118, 236) <br>
+* bat wings, rat ears, fire beetle eyes - Katha Firespinner (next to Inn 3, loc 233, 4734)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* water, mead, short beer - Innkeep Blaise (3rd inn, loc 330, 4846), Innkeep Dolman ("orc camp inn", loc 1027, 3683), Innkeep Juna (2nd inn, loc -323, 3029), Innkeep Harold (1st Inn, loc -181, 116) <br>
+* grapes, bottle, cask, kiola sap, short beer, mead, fish wine, red wine white wine, brandy, shotglass - Innkeep Calen (3rd inn, loc 315, 488), Innkeep Fenia ("orc camp inn", loc 1020, 3725), Innkeep Leo (2nd inn, loc -318, 2979), Innkeep Elora (1st Inn, loc -188, 67) <br>
+* rat ears, fire beetle eyes - Katha Firespinner (next to Inn 3, loc 233, 4734)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Joryd Longarms ("orc camp inn", loc 985, 3760)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* peridot, hematite, jasper - Pardor the Blessed (one of the first buildings out from Freeport, loc -120, -781) <br>
+* carnelian, malachite, peridot, lapis, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, pearl, cats eye agate, onyx - Katha Firespinner (next to Inn 3, loc 233, 4734) <br>
+* peridot, wolf's eye agate - Lyth Spellstar (next to Inn 3, loc 1075, -1040)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* scent of marr - Lyth Spellstar (building next to Inn 3, loc 1075, -1040), used for celestial essence <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3) - Merra Clayfinger (1st Inn, loc -136, 25)<br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* parchment, quill, elemental grimoire, mage spell research books - Lyth Spellstar (next to Inn 3, loc 1075, -1040) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* sm sewing kit - Dena Loommistress (3rd inn, loc 318, 4802), Germe Threadspinner ("orc camp inn" or "hidden inn", loc 1019, 3640), Loric Weaver (2nd Inn, loc -315, 3068), Jelda Needlefinger (Inn 1, loc -181, 150) <br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* lockpicks - Ponila Quickfingers (191, -854) <br>
+* water, large lantern, bottle - Romya (335, 4058) <br>
+* water, large lantern - Innkeep Blaise (3rd inn, loc 330, 4846), Innkeep Dolman ("orc camp inn", loc 1027, 3683), Innkeep Juna (2nd inn, loc -323, 3029), Innkeep Harold (1st Inn, loc -181, 116) <br>
+* bottle - Innkeep Calen (3rd inn, loc 315, 488), Innkeep Fenia ("orc camp inn", loc 1020, 3725), Innkeep Leo (2nd inn, loc -318, 2979), Innkeep Elora (1st Inn, loc -188, 67) <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

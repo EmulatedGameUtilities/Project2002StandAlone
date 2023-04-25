@@ -1,0 +1,168 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Cleric Spells <br>
+
+<br><c "#00ff00">Improved Invisibility to Undead    50<br> 
+<c "#0088ff">Words Of Constancy <br>
+Rune Of Antithesis <br>
+
+<br><c "#00ff00">Death Pact 51 <br>
+<c "#0088ff">Words Of Asylum 	<br>
+Toharon's Memoir Page 18 (Right)<br> 
+
+<br><c "#00ff00">Sunskin 51 <br>
+<c "#0088ff">Words Of Expedition <br>
+Rune Of Coalition <br>
+
+<br><c "#00ff00">Word of Vigor 52 <br>
+<c "#0088ff">Writ of Quellious <br>
+Yaeth's Compedium Page 70 (Right)<br> 
+
+<br><c "#00ff00">Heroic Bond 52 <br>
+<c "#0088ff">Staff Shard of Luclin <br>
+Toharon's Memoir Page 21 (Right) <br> 
+
+<br><c "#00ff00">Upheaval 52 <br>
+<c "#0088ff">Rune Of Amalgamation <br>
+Dew Clover <br>
+
+<br><c "#00ff00">Yaulp IV 53 <br>
+<c "#0088ff">Rune Of Inticement <br>
+Toharon's Memoir Page 15 (Right) <br>
+
+<br><c "#00ff00">Reckoning 54 <br>
+<c "#0088ff">Rune Of Alteration <br>
+Sliver of Moonstone <br>
+
+<br><c "#00ff00">Remove Greater Curse 54 <br>
+<c "#0088ff">Words Of Apparition <br>
+Yaeth's Compedium Page 73 (Right) <br>
+
+<br><c "#00ff00">Stun Command 55 <br>
+<c "#0088ff">Rune Of Transpose <br>
+Flake of Lodestone <br>
+
+<br><c "#00ff00">Fortitude 55 <br>
+<c "#0088ff">Flame of Fennin <br>
+Toharon's Memoir Page 31 (Right)<br> 
+
+<br><c "#00ff00">Paralyzing Earth 56 <br>
+<c "#0088ff">Rune Of Opposition <br>
+Flake of Lodestone <br>
+Rune Of Incitation<br> 
+
+<br><c "#00ff00">Mark of Karn 56 <br>
+<c "#0088ff">Rune Of Gate <br>
+Toharon's Memoir Page 18 (Right) <br>
+Words Of Expertise<br> 
+
+<br><c "#00ff00">Hammer of Judgement 56 <br>
+<c "#0088ff">Staff Shard of Luclin <br>
+Flake of Lodestone <br>
+Finnok's Treatise Page 2(Left) <br> 
+
+<br><c "#00ff00">Yaulp V 56 <br>
+<c "#0088ff">Rune Of Flash <br>
+Toharon's Memoir Page 21 (Right)<br> 
+Words Of Capacity <br>
+
+<br><c "#00ff00">Judgement 56 <br>
+<c "#0088ff">Rune Of Ellipse <br>
+Words Of Annihilation<br> 
+Words Of Misery <br>
+
+<br><c "#00ff00">Word of Restoration 57<br> 
+<c "#0088ff">Yaeth's Compedium Page 72 (Left) <br>
+Dew Clover <br>
+Yaeth's Compedium Page 92<br> 
+
+<br><c "#00ff00">Aegis 57<br> 
+<c "#0088ff">Scale of Veeshan <br>
+Toharon's Memoir Page 18 (Right)<br> 
+Toharon's Memoir Page 19 <br>
+
+<br><c "#00ff00">Antidote 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 70 (Left)<br>
+Primordial Substance <br>
+Yaeth's Compedium Page 98<br> 
+
+<br><c "#00ff00">Enforced Reverence 58 <br>
+<c "#0088ff">Rune Of Synergy <br>
+Rune Of Glint <br>
+Words Of Immunity <br>
+Cleric Spells <br><br>
+<br><c "#00ff00">Naltron's Mark 58 <br>
+<c "#0088ff">Toharon's Memoir Page 18 (Left) <br>
+Etched Signet <br>
+Toharon's Memoir Page 22<br> 
+
+<br><c "#00ff00">Ethereal Light 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 25 (Left) <br>
+Yaeth's Compedium Page 25 (Right) <br>
+Words Of Virtue <br> 
+
+<br><c "#00ff00">Blessed Armor of the Risen 58 <br>
+<c "#0088ff">Bolts of Tallon <br>
+Words Of Recourse <br>
+Words Of Expertise <br>
+
+<br><c "#00ff00">Hammer of Divinity 58 <br>
+<c "#0088ff">Staff Shard of Luclin <br>
+Rune of Gale <br>
+Finnok's Treatise Page 2 (Left) <br> 
+
+<br><c "#00ff00">The Unspoken Word 59 <br>
+<c "#0088ff">Words Of Recall <br>
+Rune Of Impulse <br>
+Words Of Invigoration <br>
+
+<br><c "#00ff00">Ethereal Remedy 59 <br>
+<c "#0088ff">Yaeth's Compedium Page 78 (Left) <br>
+Flake of Lodestone <br>
+Yaeth's Compedium Page 113 <br> 
+
+<br><c "#00ff00">Aegolism 60 <br>
+<c "#0088ff">Card of Bristlebane <br>
+Runed Emblem <br>
+Toharon's Memoir Page 22 <br>
+
+<br><c "#00ff00">Word of Redemption 60 <br>
+<c "#0088ff">Rune Of Conglomeration <br>
+Yaeth's Compedium Page 114 (Right) <br> 
+Yaeth's Compedium Page 108<br> 
+
+<br><c "#00ff00">Banishment of Shadows 60<br> 
+<c "#0088ff">Rune Of Conglomeration <br>
+Rune Of Contradiction <br>
+Words Of Abrogation <br>
+
+<br><c "#00ff00">Divine Intervention 60 <br>
+<c "#0088ff">Toharon's Memoir Page 21 (Left) <br>
+Words Of Recourse <br>
+Toharon's Memoir Page 22<br> 
+
+<br><c "#00ff00">Ethereal Elixir 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 114 (Left) <br>
+Dew Clover <br>
+Rune Of Complexity <br>
+
+<br><c "#00ff00">Blessing of Aegolism 60 <br>
+<c "#0088ff">Writ of Quellious <br>
+Etched Signet <br>
+Yaeth's Compedium Page 26 (Left)<br> 
+Yaeth's Compedium Page 26 (Left)<br> 
+
+<br><c "#00ff00">Marzin's Mark 60 <br>
+<c "#0088ff">Coin of Xev <br>
+Runed Emblem <br>
+Yaeth's Compedium Page 81<br> 
+Rune Of Zephyr <br>
+
+<br><c "#00ff00">Hammer of Souls 60 <br>
+<c "#0088ff">Staff Shard of Luclin <br>
+Words Of Comprehension <br>
+Finnok's Treatise Page 2 (Left)<br> 
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

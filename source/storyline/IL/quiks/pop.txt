@@ -1,0 +1,190 @@
+Quikfingers of Zebuxoruk v1.1<br>
+Poison Ingredients Tables (10-22-03)<br>
+<br>
+<c "#00FFFF">- = [ 250+ Skill PoP Poisons ] = -</c><br>
+---------------------------------------------<br>
+<br>
+Name: <c "#FF0000">Anger of Incapacitation</c><br>
+Type: Weaken<br> 			
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br> 		
+Sketch: Sluggish<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/waxflower.txt">Wax Flower</a><br> 
+<br>
+Name: <c "#FF0000">Bite of the Shissar</c><br>
+Type: Contact<br> 			
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br> 		
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/phosphorouspowder.txt">Phosphorous Powder</a> & <a href="file:///storyline/il/quiks/shissarvenomsac.txt">Shissar Venom Sac</a><br>
+OR<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/phosphorouspowder.txt">Phosphorous Powder</a> & <a href="file:///storyline/il/quiks/taintedplanaressence.txt">Tainted Planar Essence</a><br>
+<br>
+Name: <c "#FF0000">Bixie Sting</c><br>
+Type: Contact<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/phosphorouspowder.txt">Phosphorous Powder</a><br>
+<br>
+Name: <c "#FF0000">Confusing Dreams</c><br>
+Type: Hate Reduction<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Remiss<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/noddingbluelilly.txt">Nodding Blue Lilly</a><br>
+<br>
+Name: <c "#FF0000">Crushed Vein</c><br>
+Type: Weaken<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Remiss<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/dustofdecay.txt">Dust of Decay</a><br>
+<br>
+Name: <c "#FF0000">Dreams of Drusella</c><br>
+Type: Hate Reduction<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Remiss<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/noddingbluelilly.txt">Nodding Blue Lilly</a> & <a href="file:///storyline/il/quiks/twilightworms.txt">Twilight Worms</a><br>
+<br>
+Name: <c "#FF0000">Itching Madness</c><br>
+Type: Lower Resist<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Dip Resist<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/rockfern.txt">Rock Fern</a><br>
+<br>
+Name: <c "#FF0000">Mangled Tendon</c><br>
+Type: Weaken<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/dustofdecay.txt">Dust of Decay</a> & <a href="file:///storyline/il/quiks/plaguemites.txt">Plague Mites</a><br>
+<br>
+Name: <c "#FF0000">Mayong's Bane</c><br>
+Type: Undead<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/undeadshissarvenomsac.txt">Undead Shissar Venom Sac</a> & <a href="file:///storyline/il/quiks/acryliagrubs.txt">Acrylia Grubs</a><br>
+<br>
+Name: <c "#FF0000">Mental Burn</c><br>
+Type: System Shock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/nardoo.txt">Nardoo</a><br>
+<br>
+Name: <c "#FF0000">Mental Implosion</c><br>
+Type: System Shock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/autumncrocus.txt">Autumn Crocus</a> & <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/nardoo.txt">Nardoo</a><br>
+OR<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/dustofdecay.txt">Dust of Decay</a> & <a href="file:///storyline/il/quiks/smashedwargrubs.txt">Smashed War Grubs</a><br>
+<br>
+Name: <c "#FF0000">Mental Implosion</c><br>
+Type: System Shock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/fungusclumps.txt">Fungus Clumps</a><br>
+<br>
+Name: <c "#FF0000">Oozing Irritation</c><br>
+Type: System Shock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/fungusclumps.txt">Fungus Clumps</a> & <a href="file:///storyline/il/quiks/twilightworms.txt">Twilight Worms</a><br>
+<br>
+Name: <c "#FF0000">Rage of Incapacitation</c><br>
+Type: Lower Resist<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Sluggish<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/goldenemberpowder.txt">Golden Ember Powder</a> & <a href="file:///storyline/il/quiks/waxflower.txt">Wax Flower</a><br>
+<br>
+Name: <c "#FF0000">Scoriae Bite</c><br>
+Type: Contact<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/goldenemberpowder.txt">Golden Ember Powder</a> & <a href="file:///storyline/il/quiks/phosphorouspowder.txt">Phosphorous Powder</a><br>
+<br>
+Name: <c "#FF0000">Scratching Madness</c><br>
+Type: Lower Resist<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Dip Resist<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/autumncrocus.txt">Autumn Crocus</a> & <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/rockfern.txt">Rock Fern</a><br>
+<br>
+Name: <c "#FF0000">Spine Bruiser</c><br>
+Type: Muscle Lock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 245<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/crystallizedsulfur.txt">Crystallized Sulfur</a><br>
+<br>
+Name: <c "#FF0000">Spine Rend</c><br>
+Type: Muscle Lock<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/crystallizedsulfur.txt">Crystallized Sulfur</a> & <a href="file:///storyline/il/quiks/.txt">Mistletoe</a><br>
+<br>
+Name: <c "#FF0000">Sting of the Shissar</c><br>
+Type: Contact<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: N/A<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/shissarvenomsac.txt">Shissar Venom Sac</a><br>
+OR<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/taintedplanaressence.txt">Tainted Planar Essence</a><br>
+<br>
+Name: <c "#FF0000">Wasted Flesh</c><br>
+Type: Injected<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Vein Rot<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/dropsofmercury.txt">Drops of Mercury</a> & <a href="file:///storyline/il/quiks/oceanink.txt">Ocean Ink</a> & <a href="file:///storyline/il/quiks/plaguemites.txt">Plague Mites</a><br>
+<br>
+Name: <c "#FF0000">Withering Flesh</c><br>
+Type: Injected<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Vein Rot<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/oceanink.txt">Ocean Ink</a><br>
+<br>
+Name: <c "#FF0000">Zombie Bane</c><br>
+Type: Liquid Silver<br>
+Vial: Advanced Poison Vial<br>
+Susp: Celestial Suspension<br>
+Sketch: Vein Rot<br>
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/amberresin.txt">Amber Resin</a> & <a href="file:///storyline/il/quiks/undeadshissarvenomsac.txt">Undead Shissar Venom Sac</a><br>
+<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a><br>

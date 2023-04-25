@@ -1,0 +1,2 @@
+Call of Xuzl
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Pets: SumSword x 2 for 45 sec<br><br><c "#66CCFF">Casting Time:</c> 6.5<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Mana:</c> 1<br><c "#66CCFF">Range:</c> 150<br><c "#66CCFF">Recast Time:</c> 2.25<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Conjuration<br><c "#66CCFF">Spell Type:</c> Detrimental<br><c "#66CCFF">Target Type:</c> Single<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>

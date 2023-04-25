@@ -1,0 +1,45 @@
+<c "#66CCFF">Item:       </c>&nbsp;&nbsp;Beer Braised Wolf<br>
+<c "#66CCFF">Trivial:    </c>&nbsp;&nbsp;68<br>
+<c "#66CCFF">Ingredients:</c>&nbsp;&nbsp;Algae Spices, <a HREF="file:///storyline/il/eqtraders/Brewing/items/611.txt">Othmir Short Beer</a>, Wolf Meat<br>
+<c "#66CCFF">Implement:  </c>&nbsp;&nbsp;Spit/Oven<br>
+<c "#66CCFF">Yield:      </c>&nbsp;&nbsp;2<br>
+<c "#66CCFF">Stats:      </c>&nbsp;&nbsp;STA: 2 INT: -1<br>
+<c "#66CCFF">Meal Size:  </c>&nbsp;&nbsp;Meal<br>
+<c "#66CCFF">Weight:     </c>&nbsp;&nbsp;0.1<br>
+<c "#66CCFF">Size:       </c>&nbsp;&nbsp;Small<br>
+<c "#66CCFF">Race:       </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Class:      </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Quest:      </c>&nbsp;&nbsp;<br>
+<c "#66CCFF">Era:        </c>&nbsp;&nbsp;Scars of Velious<br>
+<c "#66CCFF">MageloID:   </c>&nbsp;&nbsp;13446<br>
+<c "#66CCFF">Note:       </c><br>Currently Bugged Due To Name Change On The Brew<br>
+<br><br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Recipe</c>]=========== </c> <br>
+<c "#66FFFF"> <a href="file:///storyline/il/eqtraders/baking/orderbyitem.txt"> Alphabetical </a> </c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Trivial</c>]============ </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/baking/orderbytrivialasc.txt">Ascending</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbytrivialdes.txt">Descending</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List Stat Food</c>]=========== </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/baking/orderbyHP.txt">HP</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyMana.txt">Mana</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbySTA.txt">STA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbySTR.txt">STR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyAGI.txt">AGI</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyDEX.txt">DEX</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyWIS.txt">WIS</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyINT.txt">INT</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyCHA.txt">CHA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyCR.txt">CR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyFR.txt">FR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyMR.txt">MR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyPR.txt">PR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/baking/orderbyDR.txt">DR</a>&nbsp;
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+

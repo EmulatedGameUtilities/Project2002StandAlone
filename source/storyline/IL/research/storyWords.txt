@@ -1,0 +1,262 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Words of Abrogation <br>
+<c "#0088ff">Breath of Karana (Druid 56)<br>
+Banishment of Shadows (Necromancer 60)<br>
+Gangrenous Touch (Necromancer 60)<br>
+Zeefer’s (Necromancer 60)<br>
+Banishment of Shadows (Cleric 60)<br>
+
+<br><c "#00ff00">Words of Agony <br>
+<c "#0088ff">Banishment (Druid 60)<br>
+Dead Men Floating (Necromancer 49
+Chill Bones (Necromancer 55)<br>
+Bane of Nife (Shaman 56)<br>
+Pox of Bertoxxulous (Shaman 59)<br>
+
+<br><c "#00ff00">Words of Anguish <br>
+<c "#0088ff">Scent of Terris (Necromancer 52)<br>
+Augmentation of Death (Necromancer 55)<br>
+Congulation of Bone (Necromancer 55)<br>
+Arch Lich (Necromancer 60)<br>
+Funeral Pyre (Necromancer 60)<br>
+Tigir's Insects (Shaman 58)<br>
+
+<br><c "#00ff00">Words of Annihilation <br>
+<c "#0088ff">Sacrifice (Necromancer 51)<br>
+Judgement (Cleric 56)<br>
+Malosini (Shaman 57)<br>
+
+<br><c "#00ff00">Words of Apparition <br>
+<c "#0088ff">Remove Greater Curse (Druid 54)<br>
+Servant of Bones (Necromancer 56)<br>
+Trucidation (Necromancer 60)<br>
+Remove Greater Curse (Cleric 54)<br>
+Shroud of Spirits (Shaman 54)<br>
+Remove Greater Curse (Shaman 54)<br>
+
+<br><c "#00ff00">Words of Aptitude <br>
+<c "#0088ff">Transom's Elemental Renewal (Magician 58)<br>
+
+<br><c "#00ff00">Words of Asylum <br>
+<c "#0088ff">Dead Men Floating (Necromancer 49)<br>
+Shadowbond (Necromancer 54)<br>
+Quivering Veil of Xarn (Necromancer 58)<br>
+Death Pact (Cleric 51)<br>
+
+<br><c "#00ff00">Words of Awareness <br>
+<c "#0088ff">Demi Lich (Necromancer 56)<br>
+Sedulous Subversion (Necromancer 56)<br>
+
+<br><c "#00ff00">Words of Banshee <br>
+<c "#0088ff">Congulation of Bone (Necromancer 55)<br>
+Arch Lich (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Capacity <br>
+<c "#0088ff">Greater Vocaration: Fire (Magician 55)<br>
+Velocity (Magician 55)<br>
+Greater Vocaration: Air (Magician 56)<br>
+Greater Vocaration:Water (Magician 60)<br>
+Monster Summoning III (Magician 60)<br>
+Shock of fiery Blades (Magician 60)<br>
+Muzzle of Mardu (Magician 54)<br>
+Yaulp V (Cleric 56)<br>
+Talisman of The Brute (Shaman 57)<br>
+Talisman of The Rhino (Shaman 58)<br>
+Acumen of Dar'khura (Shaman 58)<br>
+
+<br><c "#00ff00">Words of Comprehension <br>
+<c "#0088ff">Shadowbond (Necromancer 54)<br>
+Infusion (Necromancer 55)<br>
+Talisman of The Brute (Shaman 57)<br>
+Hammer of Souls (Cleric 60)<br>
+
+<br><c "#00ff00">Words of Constancy <br>
+<c "#0088ff">Infusion (Necromancer 55)<br>
+Conjure Corpse (Necromancer 57)<br>
+Gangrenous Touch (Necromancer 60)<br>
+Improved Invisibility to Undead (Cleric 50)<br>
+
+<br><c "#00ff00">Words of Control <br>
+<c "#0088ff">Thrall of Bones (Necromancer 54)<br>
+Emissary of Thule (Necromancer 59)<br>
+Enslave Death (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Covert <br>
+<c "#0088ff">Entrapping Roots (Druid 60)<br>
+Defoliation (Necromancer 52)<br>
+Conjure Corpse (Necromancer 57)<br>
+Death Peace (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Decision <br>
+<c "#0088ff">Convergence (Necromancer 53)<br>
+Death Peace (Necromancer 60)<br>
+Mind Wrack (Necromancer 58)<br>
+Gangrenous Touch (Necromancer 60)<br>
+Torrent of Poison (Shaman 55)<br>
+
+<br><c "#00ff00">Words of Divergence <br>
+<c "#0088ff">Crippling Claudication (Necromancer 56)<br>
+Arch Lich (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Domination <br>
+<c "#0088ff">Quiver of Marr (Magician 51)<br>
+Scars of Sigil (Magician 54)<br>
+Vocerate: Water (Magician 55)<br>
+Rage of Zomm (Magician 56)<br>
+Wrath of Elements (Magician 60)<br>
+Call of the Hero (Magician 60)<br>
+Bristlebane's Bundle (Magician 52)<br>
+
+<br><c "#00ff00">Words of Edification <br>
+<c "#0088ff">Scent of Terris (Necromancer 52)<br>
+Devouring Darkness (Necromancer 59)<br>
+
+<br><c "#00ff00">Words of Energy <br>
+<c "#0088ff">Thrall of Bones (Necromancer 54)<br>
+Quivering Veil of Xarn (Necromancer 58)<br>
+Focus of Spirit (Shaman 60)<br>
+Malo (Shaman 60)<br>
+
+<br><c "#00ff00">Words of Eventide <br>
+<c "#0088ff">Sacrifice (Necromancer) <br>
+
+<br><c "#00ff00">Words of Exhilaration <br>
+<c "#0088ff">Sedulous Subversion (Necromancer 56)<br>
+Cannibalize IV (Shaman 58)<br>
+
+<br><c "#00ff00">Words of Expedition <br>
+<c "#0088ff">Augmentation of Death (Necromancer 55)<br>
+Sunskin (Cleric 51)<br>
+
+<br><c "#00ff00">Words of Expertise <br>
+<c "#0088ff">Manastorm (Magician 54)<br>
+Dyzil's Deafening Decoy (Magician 56)<br>
+Bonds of Tunare (Druid 57)<br>
+Legacy of Thorn (Druid 59)<br>
+Banishment (Magician 60)<br>
+Aegis of Ro (Magician 60)<br>
+Mark of Karn (Cleric 56)<br>
+Acumen (Shaman 56)<br>
+Tigir's Insects (Shaman 58)<br>
+Transom's Phantasmal Protection (Magician 57)<br>
+Blessed Armor of the Risen (Cleric 58)<br>
+
+<br><c "#00ff00">Words of Holding <br>
+<c "#0088ff">Bonds of Tunare (Druid 57)<br>
+Devouring Darkness (Necromancer 59)<br>
+
+<br><c "#00ff00">Words of Immunity <br>
+<c "#0088ff">Quivering Veil of Xarn (Necromancer 58)<br>
+Death Peace (Necromancer 60)<br>
+Enforced Reverence (Cleric 58)<br>
+Talisman of the Raptor (Shaman 59)<br>
+
+<br><c "#00ff00">Words of Intent <br>
+<c "#0088ff">Chill Bones (Necromancer 55)<br>
+Trucidation (Necromancer 60)<br>
+Acumen of Dar'khura (Shaman 58)<br>
+
+<br><c "#00ff00">Words of Invigoration <br>
+<c "#0088ff">Mind Wrack (Necromancer 58)<br>
+Talisman of Epuration (Shaman 58)<br>
+The Unspoken Word (Cleric 59)<br>
+
+<br><c "#00ff00">Words of Knowledge <br>
+<c "#0088ff">Acumen (Shaman)<br>
+
+<br><c "#00ff00">Words of Misery <br>
+<c "#0088ff">Conjure Corpse (Necromancer 57)<br>
+Devouring Darkness (Necromancer 59)<br>
+Funeral Pyre (Necromancer 60)<br>
+Trucidation (Necromancer 60)<br>
+Judgement (Cleric 56)<br>
+Bane of Nife (Shaman 56)<br>
+
+<br><c "#00ff00">Words of Obliteration <br>
+<c "#0088ff">Banishment (Druid 60)<br>
+Crippling Claudication (Necromancer 56)<br>
+Banishment of Shadows (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Pain <br>
+<c "#0088ff">Defoliation (Necromancer 52)<br>
+Funeral Pyre (Necromancer 60)<br>
+Insidious Decay (Shaman 52)<br>
+
+<br><c "#00ff00">Words of Potence <br>
+<c "#0088ff">Moonfire (Druid 60)<br>
+Shock of fiery Blades (Magician 60)<br>
+
+<br><c "#00ff00">Words of Propriety <br>
+<c "#0088ff">Voice of the Berserker (Shaman 59)<br>
+
+<br><c "#00ff00">Words of Recall <br>
+<c "#0088ff">Levant (Necromancer 55)<br>
+Mind Wrack (Necromancer 58)<br>
+Zeefer’s (Necromancer 60)<br>
+The Unspoken Word (Cleric 59)<br>
+
+<br><c "#00ff00">Words of Recourse <br>
+<c "#0088ff">Levant (Necromancer 55)<br>
+Zeefer’s (Necromancer 60)<br>
+Blessed Armor of the Risen (Cleric 58)<br>
+Divine Intervention (Cleric 60)<br>
+
+<br><c "#00ff00">Words of Restraint <br>
+<c "#0088ff">Gift of Xev (Magician 51)<br>
+Pouch of Quellious (Magician 53)<br>
+Bandoleer of Luclin (Magician 54)<br>
+Burnout IV (Magician 55)<br>
+
+<br><c "#00ff00">Words of Retention <br>
+<c "#0088ff">Zeefer’s (Necromancer 60)<br>
+Malo (Shaman 60)<br>
+
+<br><c "#00ff00">Words of Revenant <br>
+<c "#0088ff">Emissary of Thule (Necromancer 59)<br>
+Enslave Death (Necromancer 60)<br>
+Pox of Bertoxxulous (Shaman 59)<br>
+Topor (Shaman 60)<br>
+
+
+<br><c "#00ff00">Words of Sapience <br>
+<c "#0088ff">Talisman of the Serpent (Shaman 58)<br>
+Topor (Shaman 60)<br>
+
+<br><c "#00ff00">Words of Simulation <br>
+<c "#0088ff">Talisman of The Rhino (Shaman 58)<br>
+Convergence (Necromancer 53)<br>
+Enslave Death (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Tenacy <br>
+<c "#0088ff">Nature Walker's Behest (Druid 55)<br>
+Minion of Shadows (Necromancer 53)<br>
+Demi Lich (Necromancer 56)<br>
+Servant of Bones (Necromancer 56)<br>
+Emissary of Thule (Necromancer 59)<br>
+
+<br><c "#00ff00">Words of Tenure <br>
+<c "#0088ff">Minion of Shadows (Necromancer 53)<br>
+Talisman of Jasinth (Shaman 51)<br>
+
+<br><c "#00ff00">Words of Torment <br>
+<c "#0088ff">Funeral Pyre (Necromancer 60)<br>
+
+<br><c "#00ff00">Words of Virtue <br>
+<c "#0088ff">Eye of Tallon (Magician 57)<br>
+Transom's Elemental Renewal (Magician 58)<br>
+Maelstrom of Electricity (Magician 59)<br>
+Form of the Hunter (Druid 60)<br>
+Mala (Magician 60)<br>
+Malosini (Shaman 57)<br>
+Ethereal Light (Cleric 58)<br>
+Avatar (Shaman 60)<br>
+
+<br><c "#00ff00">Words of Voiding <br>
+<c "#0088ff">Crippling Claudication (Necromancer 56)<br>
+Banishment of Shadows (Necromancer 60)<br>
+Cripple (Shaman 53)<br>
+

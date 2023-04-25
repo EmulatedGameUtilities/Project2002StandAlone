@@ -1,0 +1,38 @@
+Skill listings<br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<body link="#0088ff" mlink="#00ccff">
+<c "#00ff00">..::Skill Listings::..</c>
+<br><br>
+<a href="file:///storyline/il/skills/storySkillsBard.txt">Bard</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsBeastlord.txt">Beastlord</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsCleric.txt">Cleric</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsDruid.txt">Druid</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsEnchanter.txt">Enchanter</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsMagician.txt">Magician</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsMonk.txt">Monk</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsNecromancer.txt">Necromancer</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsPaladin.txt">Paladin</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsRanger.txt">Ranger</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsRogue.txt">Rogue</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsShadowknight.txt">Shadowknight</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsShaman.txt">Shaman</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsWarrior.txt">Warrior</a>
+<br>
+<a href="file:///storyline/il/skills/storySkillsWizard.txt">Wizard</a>
+<br>
+<br>
+</body>

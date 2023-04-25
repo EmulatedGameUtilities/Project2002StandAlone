@@ -1,0 +1,39 @@
+Iratus Lepus Information
+<br>
+Last Updated <c "#FF0000">1/11/03</c><br><br>
+
+<c "#FFFF00">Iratus Lepus Information</c><br>
+<a href="file:///storyline/IL/advice.txt">Advice for recruits</a><br>
+<a href="file:///storyline/IL/bkp.txt">BKP</a><br>
+<a href="file:///storyline/IL/Hotkey.txt">Hotkeys</a><br>
+<a href="file:///storyline/IL/Leaders.txt">Iratus Lepus Leadership</a><br>
+<a href="file:///storyline/IL/Mustdo.txt">Must do List</a><br>
+<a href="file:///storyline/IL/Trade.txt">Tradeskill drops on raids</a><br><br>
+
+
+<c "#FFFF00">General</c><br>
+<a href="file:///storyline/IL/storyEpics.txt">Epic Guides</a><br>
+<a href="file:///storyline/storyFoofySpells.txt">Foofy Spells</a><br>
+<a href="file:///storyline/storyFaction.txt">Faction</a><br>
+<a href="file:///storyline/IL/Guilds.txt">Guilds of Zebuxoruk</a><br>
+<a href="file:///storyline/IL/storyforage.txt">Forage Guide</a><br>
+<a href="file:///storyline/IL/LDON.txt">LDoN Merchants</a><br>
+<a href="file:///storyline/IL/Armor.txt">POP Armor</a><br>
+<a href="file:///storyline/IL/Flags.txt">POP Flags</a><br>
+<a href="file:///storyline/IL/storySlow.txt">Slow Guide</a><br>
+<a href="file:///storyline/storyTradeskills.txt">Tradeskills all in one</a><br>
+<a href="file:///storyline/IL/Trade0.txt">Tradeskill Guides</a><br>
+
+<br>
+<c "#FF0000">Quests</c><br>
+<a href="file:///storyline/IL/AG0.txt">Aid Grimel (7 X 220 tradeskills)</a><br>
+<a href="file:///storyline/IL/CT1.txt">Clockwork Talisman</a><br>
+<a href="file:///storyline/IL/empkey.txt">Key to the Emperor's Chamber</a><br>
+<a href="file:///storyline/IL/VTkey.txt">Key to Vex Thal</a><br>
+<a href="file:///storyline/IL/Armor.txt">POP Armor</a><br>
+
+
+
+<br><br>
+<c "#FFff00">Vulcon Mastercrafter<br></c>
+<c "#0000ff">Enchanter of Zeb<br></c><br><br>

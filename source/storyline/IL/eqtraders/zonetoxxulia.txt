@@ -1,0 +1,39 @@
+Toxxulia Forest Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* 13 cookbooks, spices, seasoning, garnish, frosting, vinegar, jug of sauce, flour - Quana Rainsparkle (shop to left of entrance to hunting area) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask - Emil Parsini, Stylla Parsina(shop to right of entrance to hunting area) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* cats eye agate, jasper, bloodstone, peridot - Islan Hetstan (shop near ocean), <br>
+* cats eye agate, jasper, bloodstone, peridot, star rose quartz - Xylania Rainsparkle (shop to left of entrance to hunting area)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* medium size armor molds, sheet metal, Basic Blacksmithing, Armor & Weapon Guide, lantern casing mold - Win Karnam (shop near ocean)<br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* parchment, quill, wizard books - Islan Hetstan (shop near ocean) <br>
+* parchment, quill, enchanter & mage books - Xylania Rainsparkle (shop to left of entrance to hunting area)<br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

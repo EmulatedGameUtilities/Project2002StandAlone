@@ -1,0 +1,49 @@
+<c "#FF2400">Pottery Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Pottery. Need the highest of Wis/Int for skill ups.<br>
+-------------------------------------------------------------------------------------<br>
+I did it all in Shadowhaven.<br>
+Pottery Components at loc -433 1389 Shadowhaven.<br>
+Poison Vials and Mortar and pestle at loc 213 -37 Shadowhaven.<br>
+Gems - Star Ruby at loc 1193 44 (upstairs) - Peridot and opal at loc 1172 43 (upstairs) Shadowhaven.<br>
+Celestial Solvent at loc 322 -81 Shadowhaven.<br>
+Scent of Marrs at loc 269 4909 East Commons (wolf form helps if you have faction problems)<br>
+<br>
+Unfired items are dumped.. if your short on plat fire and see what the buyback prices are.<br>
+<br>
+small bowl - small block, bowl sketch, water flask in a pottery wheel till 102.<br>
+<br>
+large bowl - large block, large bowl sketch, water flask & glass shards in a pottery wheel till 148.<br>
+<br>
+casserole dish - large block, casserole dish sketch, water flask & ceramic lining in a pottery wheel till 199.<br>
+(precombine the ceramic lining - small block, ceramic lining, sketch water flask in a pottery wheel then add quality firing sheet and combine in kiln.<br>
+<br>
+<br>
+Imbued idols -- large block of magic clay, idol sketch, vial of clear mana, sculpting tools, imbued gem<br>
+<br>
+Trivials: amber 248, plains pebble 242, jade <=248, topaz >250, emerald >250, all others expected to be >250 <br>
+<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

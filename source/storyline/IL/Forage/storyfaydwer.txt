@@ -1,0 +1,36 @@
+<HTML>
+
+<HEAD>
+<TITLE>Faydwer Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Faydwer Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+Both Faydark Zones <FONT COLOR="#8080FF">Morning Dew</FONT>  Brewing & Smithing   <br>
+Butcherblock <FONT COLOR="#8080FF">Aviak Egg </FONT>Baking & Brewing   <br>
+Butcherblock <FONT COLOR="#8080FF"> Vineclinger Berries </FONT>  Wakening Lands Quest for Crest of The Wood Nymphs  <br>     
+Dagnor's Cauldron  <FONT COLOR="#8080FF">Cauldron Prawns</FONT> Gnome cultural tailoring (brewing) <br> 
+Greater Faydark<FONT COLOR="#8080FF"> Ripened Heart Fruit</FONT>  Druid & Ranger Epic Quest Item &
+Wakening Lands Quest for Crest of The Wood Nymphs    <br>
+Greater Faydark <FONT COLOR="#8080FF"> Cinnamon Sticks</FONT>  Baking & Brewing  <br>
+Kedge Keep <FONT COLOR="#8080FF"> Discarded shark tooth</FONT>  <br>
+Kedge Keep  <FONT COLOR="#8080FF">Bottle of Khalish </FONT> <br>
+Kedge Keep <FONT COLOR="#8080FF">Fish scale </FONT>   <br> 
+Kedge Keep <FONT COLOR="#8080FF"> Fresh fish </FONT> Baking & Brewing <br> 
+Kedge Keep <FONT COLOR="#8080FF"> Tattered cloth sandal</FONT>  <br> 
+Kedge Keep <FONT COLOR="#8080FF">Rusty Dagger</FONT>   <br>
+Lesser Faydark <FONT COLOR="#8080FF">Sylvan Berries </FONT>  Brewing & High Elven cultural tailoring (brewing)  <br>
+Steamfont  <FONT COLOR="#8080FF">Steamfont Springwater</FONT>   Brewing & Gnome cultural tailoring (brewing)   <br>
+
+ <br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+
+
+
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Ocean Ink</c><br>
+Vendor: NPC Drop<br>
+Location: Sea Horses in Sirens Grotto / Kedge Keep<br>
+Poison: Wasted Flesh / Withering Flesh<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

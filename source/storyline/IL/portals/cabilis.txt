@@ -1,0 +1,13 @@
+PoP Portal Locations - Cabilis <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Cabilis<br>
+Portal Zone: Field of Bone<br>
+Zone Location: -2980, +1845<br>
+Description: Follow the path from the city and then go along the right wall<br>
+<c "#00CC00">========================== </c><br>

@@ -1,0 +1,92 @@
+<a href="file:///storyline/il/Faction/G.txt">Faction Lists >> G</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <c "#FFFF00">G</c> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">Guards of Qeynos</c>
+<br>Description: This is the faction for the non-corrupt guards of Qeynos.
+<br>
+<br><c "#F17C0D">Monsters That Raise This Faction</c>
+<br>Bandit
+<br>Burly Gnoll
+<br>Elite Gnoll Guard
+<br>Ghanex Drah
+<br>Gnoll (Blackburrow)
+<br>Gnoll Brewer
+<br>Gnoll Commander
+<br>Gnoll Guard
+<br>Gnoll Guardsman
+<br>Gnoll High Shaman
+<br>Gnoll Pup (Blackburrow)
+<br>Gnoll Pup (Everfrost)
+<br>Gnoll Scout (Blackburrow)
+<br>Gnoll Shaman
+<br>Patrolling Gnoll
+<br>Razorgill
+<br>Scrawny Gnoll (Blackburrow)
+<br>Scrawny Gnoll Guard (Everfrost)
+<br>Tallus Holton
+<br>
+<br><c "#F17C0D">Monsters That Lower This Faction</c>
+<br>Aagron
+<br>Adrian
+<br>Axe Broadsmith
+<br>Brother Qwinn
+<br>Chanda Miller
+<br>Cordelia Minster
+<br>Dark Deathsinger
+<br>Drizda Tunesinger
+<br>Druid
+<br>Farmer
+<br>Fisherman
+<br>Fisherwoman
+<br>Grizzleknot
+<br>Koalindl
+<br>Lieutenant Midraim
+<br>Narra Tanith
+<br>Sir Morgan
+<br>Squire Wimbley
+<br>Vhalen Nostrolo
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>BlackBurrow
+<br>East Karana
+<br>Everfrost
+<br>Lake Rathetear
+<br>South Karana
+<br>Timorous Deep
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>East Karana
+<br>Feerrott
+<br>Innothule
+<br>North Karana
+<br>Qeynos Hills
+<br>South Karana

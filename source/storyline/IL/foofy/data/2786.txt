@@ -1,0 +1,2 @@
+In Irons
+<br><br><br><c "#66CCFF">Slot 1:</c> Teleport to -1707,87,-68 in sseru facing South<br><br><c "#66CCFF">Casting Time:</c> 2.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Range:</c> 100<br><c "#66CCFF">Recast Time:</c> 0.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Alteration<br><c "#66CCFF">Spell Type:</c> Detrimental<br><c "#66CCFF">Target Type:</c> Single<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>

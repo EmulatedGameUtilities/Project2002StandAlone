@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Crystallized Marrow</c><br>
+Vendor: NPC Drop<br>
+Location: Icy Skeleton in Everfrost<br>
+Poison: Crystal Eritus<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

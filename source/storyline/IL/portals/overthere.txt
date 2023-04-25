@@ -1,0 +1,13 @@
+PoP Portal Locations - Overthere <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Overthere<br>
+Portal Zone: The Overthere<br>
+Zone Location: +3133, +1888<br>
+Description: Outside of the city on the right side<br>
+<c "#00CC00">========================== </c><br>

@@ -1,0 +1,66 @@
+<c "#66CCFF">Item:       </c>&nbsp;&nbsp;Grandmaster Brewer's Corker<br>
+<c "#66CCFF">Lore:       </c>&nbsp;&nbsp;LORE ITEM NO DROP<br>
+<c "#66CCFF">Trivial:    </c>&nbsp;&nbsp;>250<br>
+<c "#66CCFF">Ingredients:</c>&nbsp;&nbsp;<a HREF="file:///storyline/il/eqtraders/Pottery/items/792.txt">Artisan's Seal</a><br>
+<c "#66CCFF">Implement:  </c>&nbsp;&nbsp;Corking Device<br>
+<c "#66CCFF">Yield:      </c>&nbsp;&nbsp;1<br>
+<c "#66CCFF">Stats:      </c>&nbsp;&nbsp;STR: 10 WIS: 10 INT: 10 CHA: 50<br>
+<c "#66CCFF">Slot:       </c>&nbsp;&nbsp;PRIMARY SECONDARY RANGE AMMO<br>
+<c "#66CCFF">Weight:     </c>&nbsp;&nbsp;0.1<br>
+<c "#66CCFF">Size:       </c>&nbsp;&nbsp;Small<br>
+<c "#66CCFF">Race:       </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Class:      </c>&nbsp;&nbsp;ALL<br>
+<c "#66CCFF">Effect:     </c>&nbsp;&nbsp;Grandmaster's Satchel (Must Equip. Casting Time: 10.0)<br>
+<c "#66CCFF">Skill Mod:  </c>&nbsp;&nbsp;Brewing +5 %<br>
+<c "#66CCFF">Quest:      </c>&nbsp;&nbsp;<br>
+<c "#66CCFF">Era:        </c>&nbsp;&nbsp;Shadows of Luclin<br>
+<c "#66CCFF">MageloID:   </c>&nbsp;&nbsp;9252<br>
+<c "#66CCFF">Note:       </c><br>All Ingredients Consumed On Failure<br>
+<br><br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Recipe</c>]=========== </c> <br>
+<c "#66FFFF"> <a href="file:///storyline/il/eqtraders/brewing/orderbyitem.txt"> Alphabetical </a> </c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Trivial</c>]============ </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/brewing/orderbytrivialasc.txt">Ascending</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbytrivialdes.txt">Descending</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List Stat Drinks</c>]========== </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/brewing/orderbyHP.txt">HP</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyMana.txt">Mana</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbySTA.txt">STA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbySTR.txt">STR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyAGI.txt">AGI</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyDEX.txt">DEX</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyWIS.txt">WIS</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyINT.txt">INT</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyCHA.txt">CHA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyCR.txt">CR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyFR.txt">FR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyMR.txt">MR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyPR.txt">PR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbyDR.txt">DR</a>&nbsp;
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List Drinks</c>]============== </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/brewing/orderbyalcohol.txt">Alcoholic</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbynoalcohol.txt">Non-Alcoholic</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> ==========[<c "#FFFFFF">List Special Recipes</c>]========= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/brewing/orderbyessence.txt">Essences</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbytemper.txt">Tempers</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbytannin.txt">Tannins</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbycuring.txt">Curing Agents</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+

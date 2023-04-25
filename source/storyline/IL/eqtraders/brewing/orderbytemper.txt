@@ -1,0 +1,30 @@
+<c "#66CCFF">Temper Recipes<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/727.txt">Bile Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=142)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/734.txt">Black Acrylia Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/723.txt">Blood Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/737.txt">Celestial Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/730.txt">Coldain Velium Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/733.txt">Combine Acrylia Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(122)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/718.txt">Earthen Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/699.txt">Ethereal Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(212)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/732.txt">Fiery Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>91 <=102)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/695.txt">Flowing Rainbow Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/721.txt">Frost Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/731.txt">Goblin Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(92)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/694.txt">Hurricane Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=147)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/698.txt">Liquid Inferno Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/696.txt">Liquid Stone Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/728.txt">Lizard Blood Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/738.txt">Metallic Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>123 <=136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/739.txt">Mistletoe Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/722.txt">Moonlight Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/693.txt">Night Terror Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=169)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/697.txt">Povarian Mist Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/719.txt">Royal Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/720.txt">Scale Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/724.txt">Sea Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/717.txt">Shadow Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>135)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/735.txt">Vial of Quicksilver Temper</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(<=168)<br>

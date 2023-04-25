@@ -1,0 +1,31 @@
+Ring 10(Coldain Hero's Insignia Ring)<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyColdring.txt">Table of Contents</a>
+<br>
+=====================
+<br>
+This is the 10th and final Coldain Ring Quest.<br>
+<br>
+You will need a large force to complete this.<br> 
+<br>
+Once you have the 9th Ring and the Dirk of the Dain, you hand the Dirk to Dain Frostreaver IV in Icewell keep and say "You can count on my help". He will hand you a Declaration of War. Take the Declaration of War to Sentry Badain who is located in a guard tower in the Great Divide. Hand Sentry Badain the declaration and Ring 9 to start the "WAR". This is a very large encounter that requires a fair amount of players to complete. It involves multiple waves of giants of different levels attempting to overrun Thurgadin. You must kill the giants and the final Boss of the war, Narandi the Wretched. Once this is done you turn in ring 9 and the head of Narandi to Seneschal Aldikar to receive the 10th Coldain ring.<br>
+<br>
+Ring of Dain Frostreaver IV<br> 
+LORE ITEM MAGIC ITEM NO DROP<br>  
+AC: +10 Str: +10 Sta: +10 Magic Resist: +10 HP: +100<br>  
+Weight: 0.1<br> 
+Classes: All Classes<br>  
+Races: All Races<br>  
+Inventory Slot: Finger<br>
+-------------------------------------------------------------------------------------------<br>
+Effect: Frostreaver's Blessing<br>
+Type: Triggered<br> 
+Charges: Unlimited<br> 
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/Coldring/fight.txt">Next----> End Fight</a>
+<br>
+=====================

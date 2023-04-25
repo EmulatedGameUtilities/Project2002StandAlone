@@ -1,0 +1,26 @@
+Oasis of Marr Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* balm leaves, elf leaf, larkspur, dragonwort - Isslana (513, 66, gypsy camp)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* Bottle, cask - Synthan (gypsy encampment)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* Large lantern, water, lockpick - Isslana (gypsy encampment)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

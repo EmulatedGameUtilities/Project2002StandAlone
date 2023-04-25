@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Pixie Dust</c><br>
+Vendor: NPC Drop<br>
+Location: Pixies in Greater & Lesser Faydark<br>
+Poison: Essence of Rallos<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

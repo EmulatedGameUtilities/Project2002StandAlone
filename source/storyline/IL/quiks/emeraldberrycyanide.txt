@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Emeraldberry Cyanide</c><br>
+Vendor: NPC Drop<br>
+Location: Erollisi Bloodthorn in Emerald Jungle<br>
+Poison: Inferno Blood / Smoldering Cyanide<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

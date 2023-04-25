@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/493.txt">Yakman Steak</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(75)&nbsp;&nbsp;&nbsp;(Jug of Sauces, Spices, Yakman Meat) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/494.txt">Yakman Steak</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(75)&nbsp;&nbsp;&nbsp;(Algae Spices, Jug of Oyster Sauces, Yakman Meat) <br>

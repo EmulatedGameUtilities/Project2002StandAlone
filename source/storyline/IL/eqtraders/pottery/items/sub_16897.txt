@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/1052.txt">Block of Magic Clay</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)&nbsp;&nbsp;&nbsp;(Large Block of Magic Clay, Water Flask) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/849.txt">Block of Magic Clay</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)&nbsp;&nbsp;&nbsp;(3 Small Block of Magic Clay, Water Flask) <br>

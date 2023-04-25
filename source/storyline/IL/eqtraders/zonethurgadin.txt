@@ -1,0 +1,95 @@
+Thurgadin Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Hulda (bank)<br> 
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Brynjar (bank) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* short beer - Durgan Bottlenip, Fogerty Bottlenip (Broken Glacier), Adia Coldbeard and Karey (The Icy Mug), Doogle McBanik (Doogles Drinks), Bixx & Klarp Bartleby and Celtir Gronback (Vellium keg) <br>
+* spit - Wevil Doughbeard (bank) <br>
+* 13 recipe books, vinegar, spices, jug of sauce, garnish, frosting, flour, milk - Perkins Doughbeard (bank, loc -280, 144) <br>
+* water, bread, meat (bear, scorpion, lion, gator, rat, snake) - Mordin Frostcleaver (Mordin's Meats, loc -218, -219) <br>
+* oven - Mordin's Meats (-226, -205) <br>
+* allspice, benzoin - Hulda (bank, loc -296, 143) <br>
+* fennel, eucalyptus leaf - Brynjar (bank, loc -296, 143) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages - Tobart Dirkins (Broken Glacier) <br>
+* shot glass, bottle, keg - Durgan Bottlenip, Fogerty Bottlenip (Broken Glacier), Adia Coldbeard (The Icy Mug), Loremaster Fronden (Holy Harbinger), Bixx & Klarp Bartleby and Celtir Gronback (Vellium keg), Karey (The Icy Mug) <br>
+* short beer, mead, short ale, fish wine, brandy, cask, shotglass, bottle, keg - Doogle McBanik (Doogles Drinks) <br>
+* water - Mordin Frostcleaver (Mordin's Meats) <br>
+* brew barrel - Vellium Keg (96, -389) <br>
+* bottle, cask - Agar (Agar's Adventurin' Supplies) <br>
+* short beer, brandy - Bixx & Klarp Bartleby (the Velium Keg) <br>
+* allspice, yarrow - Hulda (bank) <br>
+* rubbing alcohol - Adia Coldbeard (Icy Mug, loc -51, 107), Karey (Icy Mug, loc -36, 85) <br>
+* melted glacier whiskey - Celtir Gronbak (119, 405)<br> 
+* kromrif spit vodka - Bixx Bartleby (41, -378) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* celandine herb - Hulda (bank)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* A Bowyer's Guide, groove nocks (3), Bow staff (5), whittling blade, planing tool, bow cam, hemp twine, linen string, silk string, fletching kit, Tailoring Quivers - Argash (Argash's House of Carpentry) <br>
+* fletching kit, Tailoring Quivers, groove nock (3), vanes (3), fletchings (3), arrow shafts (4), arrowheads (3), fletching (book) - Tavir (Argash's House of Carpentry) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Meg Tucter (-348, -59) <br>
+* metal bars (silver, electrum, gold, platinum, velium), Legacy of Jewelcraft, star ruby, fire emerald, sapphire - Talem Tucter (-337, -59) <br>
+* enchant velium (spell) - Nimren Stonecutter (46, -113) <br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* Ethereal Suspension, suspension, constrict suspension, larent suspension, Study of Ethereal Suspension - Clara (shop at 47, -118) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* Pottery wheel - bank (-267, 192) <br>
+* Kiln - bank (-265, 171) <br>
+* all pottery sketches other than vials - Brina Snowfox (bank) <br>
+* block of clay (3), firing sheet (3), glass shard, Basic Pottery, vial sketch (3), sculpting tools, glaze mortar, Art of Idol Sculpting - Gilthan Brittleblade (bank) <br>
+* block of clay (3) - Nimren Stonecutter (shop at 41, -111) <br>
+* water - Mordin Frostcleaver (Mordin's Meats) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - Underbelly's Arms (-430, -111) <br>
+* small (banded) armor molds - Brimgald Brightsteel (Scars Edge) <br>
+* cooking molds, Basic Blacksmithing, lantern casing mold, scaler mold - Wevil Doughbeard (bank) <br>
+* needle mold, thimble mold - Rexx Frostweaver (bank) <br>
+* ore (piece, small block, large block, brick), sharpening stone, smithy hammer, coldain velium temper - Nimren Stonecutter (shop at 41, -111) <br>
+* water - Mordin Frostcleaver (Mordin's Meats) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* quiver patterns (2), backpack pattern, whip pattern, How To Sew (3), large sewing kit, leather armor patterns (mask, gorget, cloak, belt, shoulderpad, wristband), Fine Furs, coldain tanning kit - Rexx Frostweaver (bank) <br>
+* all leather armor patterns, coldain tanning kit, Frostweavers Silken Garments - Betti Frostweaver (bank) <br>
+* small sewing kit, How to Sew (small), Velium Leatherworking, robe pattern, silver thread, gold thread, platinum thread - Kyla Frostbeard, Cobi Frostbeard (Frostbeards Furs and Leathers) <br>
+* small sewing kit, How to Sew (small), patterns (cap, gorget, tunic, sleeve, glove, pant, boot) - Mauren Frostbeard (Frostbeards Furs and Leathers) <br>
+* mandrake root - Hulda (bank) <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

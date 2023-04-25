@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Ivory Poppy</c><br>
+Vendor: Brak Daggermist (-3600, +2300)<br>
+Location: Firiona Vie<br>
+Poison: Mages Bane<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

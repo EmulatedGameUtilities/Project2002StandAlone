@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Heartsting Venom Sac</c><br>
+Vendor: NPC Drop<br>
+Location: Heartsting Scorpions in Field of Bones<br>
+Poison: Stiffening Ergot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

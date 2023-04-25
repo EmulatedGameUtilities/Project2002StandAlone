@@ -1,0 +1,118 @@
+Luclin Slowable List
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br>
+<br>Acrylia Caverns
+<br>----------------------------
+<br><c "#0069FF">Corpseraiser Gilgaplank -- Slowable</C>
+<br><c "#0069FF">A Possessed Battlemaster -- Slowable</C>
+<br><c "#0069FF">A Possessed Warlord -- Slowable</C>
+<br><c "#0069FF">A Possessed Warmaster -- Slowable</C>
+<br><c "#0069FF">A Possessed Warmonger -- Slowable</C>
+<br><c "#0069FF">Restless Burrower -- Slowable</C>
+<br><c "#0069FF">5th Named in RoF -- Slowable</C>
+<br><c "#0069FF">6th Named in RoF -- Slowable</C>
+<br>
+<br>Akheva Ruins
+<br>----------------------------
+<br><c "#0069FF">Insanity Crawler -- Slowable</C>
+<br><c "#FF0000">The Itraer Vius -- Unslowable</C>
+<br><c "#0069FF">Shei Vinitras -- Slowable</C>
+<br><c "#0069FF">Va'Dyn -- Slowable</C>
+<br>
+<br>The Deep
+<br>----------------------------
+<br><c "#FF0000">Burrower Parasite -- Unslowable</C>
+<br><c "#FF0000">Core Burrower -- Unslowable</C>
+<br><c "#FF0000">Elder Thought Horror -- Unslowable</C>
+<br>Parasite Larva -- Variable
+<br><c "#0069FF">Rock Burrower -- Slowable</C>
+<br><c "#0069FF">Thought Horror Overlord -- Slowable</C>
+<br>
+<br>Echo Caverns
+<br>----------------------------
+<br><c "#FF0000">General Jared Blaystitch -- Unslowable</C>
+<br>
+<br>Griegs End
+<br>----------------------------
+<br><c "#FF0000">Dark Sendlings -- unslowable</C>
+<br><c "#0069FF">Grieg Venificus -- Slowable</C>
+<br><c "#0069FF">Servitor of Luclin -- Slowable</C>
+<br>
+<br>Katta Castellum
+<br>----------------------------
+<br><c "#0069FF">Lcea Katta -- Slowable</c>
+<br><c "#0069FF">Nathyn Illuminious -- Slowable</C>
+<br>
+<br>Maidens Eye
+<br>----------------------------
+<br><c "#0069FF">Shadowed Overlord -- Slowable</C>
+<br><c "#0069FF">Thought Stealer -- Slowable</C>
+<br>
+<br>Mons Letalis
+<br>----------------------------
+<br><c "#FF0000">The Spire Lord -- Unslowable</C>
+<br>
+<br>Sanctus Seru
+<br>----------------------------
+<br><c "#00FF00">Lord Inquisitor Seru -- Disease</C>
+<br>
+<br>Ssraeshza Temple
+<br>----------------------------
+<br><c "#FF0000">Arbiter Korazhk -- Unslowable</C>
+<br><c "#FF0000">Arch Lich -- Unslowable</C>
+<br><c "#0069FF">Blood of Ssraeshza -- Slowable</C>
+<br><c "#0069FF">Commander Zazzuzh -- Slowable</C>
+<br>Elite Temple Guards -- Slowable First floor only
+<br><c "#00FF00">Emporer Ssrarshza -- Disease</C>
+<br><c "#0069FF">Glyphed Covered Serpent -- Slowable</C>
+<br><c "#FF0000">Griz the Tormenter -- Unslowable</C>
+<br><c "#0069FF">Heriz the Malignant -- Slowable</C>
+<br><c "#FF0000">High Priest of Ssraeshza -- Unslowable</C>
+<br><c "#FF0000">Rhag'Mozdezh -- Unslowable</C>
+<br><c "#FF0000">Rhag Zhezu -- Unslowable</C>
+<br><c "#0069FF">Rune Covered Serpent -- Slowable</C>
+<br><c "#FF0000">Shissar Assassin -- Unslowable</C>
+<br><c "#0069FF">Slakiz the Malignant -- Slowable</C>
+<br><c "#FF0000">Taskmaster Kavamezh -- Unslowable</C>
+<br><c "#0069FF">Taskmaster Keuzozh -- Slowable</C>
+<br><c "#0069FF">Taskmaster Mikazha -- Slowable</C>
+<br><c "#0069FF">Taskmaster Revan'Kezh -- Slowable</C>
+<br><c "#0069FF">Taskmaster Vezhkah -- Slowable</C>
+<br><c "#FF0000">Taskmaster Zerumaz -- Unslowable</C>
+<br><c "#0069FF">Taskmaster Zhe'Vozh -- Slowable</C>
+<br><c "#0069FF">Vyzh'dra the Banished -- Slowable</C>
+<br><c "#0069FF">Vyzh'dra the Cursed -- Slowable</C>
+<br><c "#FF0000">Vyzh'dra the Exiled -- Unslowable</C>
+<br><c "#FF0000">Warden Mekuzh -- Unslowable</C>
+<br><c "#0069FF">Xerkizh the Creator -- Slowable</C>
+<br><c "#0069FF">Yasiz the Devourer -- Slowable</C>
+<br><c "#0069FF">Zlakas the Slayer -- Slowable</C>
+<br>
+<br>Umbral Plains
+<br>----------------------------
+<br><c "#FF0000">Dark Masters -- Unslowable</C>
+<br><c "#FF0000">Doomshade -- Unslowable</C>
+<br><c "#0069FF">Gantru Dralkenr -- Slowable</C>
+<br><c "#0069FF">Gantru Raldukan -- Slowable</C>
+<br><c "#0069FF">Massive Stone Guardian -- Slowable</C>
+<br><c "#FF0000">Netherbain Swarmlord -- Unslowable</C>
+<br><c "#0069FF">Rumblecrush -- Slowable</C>
+<br><c "#0069FF">Radir Fireshower -- Slowable</C>
+<br><c "#0069FF">Spirit of Radir -- Slowable</C>
+<br><c "#0069FF">Spirit of Tawro -- Slowable</C>
+<br><c "#0069FF">Tawro Icequake -- Slowable</C>
+<br><c "#0069FF">Zelthinak -- Slowable</C>
+<br>
+<br>Vex Thall
+<br>----------------------------
+<br><c "#0069FF">Aten Ha Ra -- Slowable</C>
+<br><c "#FF0000">Diabo Xi Va -- Unslowable</C>
+<br><c "#0069FF">Diabo Xi Va Temariel -- Slowable</C>
+<br><c "#FF0000">Diabo Xi Xin Thall -- Unslowable</C>
+<br><c "#FF0000">Kaas Thox Xi Ans Syek -- Unslowable</C>
+<br><c "#0069FF">Kass Thox Xi Aten Ha Ra -- Slowable</C>
+<br><c "#0069FF">Thall Va Kelun -- Slowable</C>
+<br><c "#0069FF">Va Xi Aten Ha Ra -- Slowable</C>
+<br>
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

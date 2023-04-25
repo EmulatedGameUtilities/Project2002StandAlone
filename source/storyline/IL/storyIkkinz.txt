@@ -1,0 +1,60 @@
+<c "#FFff00">Ikkinz Raids</c><c "#FF8000"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<br>
+<c "#FFff00">1. Righteousness: Low resists for all resists.</c><br>
+ - Kill everything<br>
+<br>
+<c "#FFff00">2. Chanbers of Glorification (West Temple 605 2305)</c><br>
+- Fire and DR landed easy. Immune to MR and most likely immune to Poison too.  (Where you were able to lock yourself OUT of the correct area to which your key belonged to if you combined your key in the wrong place.)</c><br>
+- Comanded Guardian at zone in, pulling him will bring adds from behind the door.<br>
+- Pixxt Assult ward (Rampages) is the first named (behind the door). Will bring an add.<br>
+- Clear the hallway, and the trash in the East and West room.<br>
+- One Visionary of Glory (AE ramp at around 53 and 10%, so be out of range) in the west room, and two in the east (use leashing to split). One person to loot all the runes, to open doors further in.<br>
+- Sentinal of Glorification Gfluxes. Opens the last door before the Pipe room. Then clear to, and in, the pipe room.<br>
+- The final battle, in the pipe room. Knock the G\uardian of Glorification down to 90%, then leash. Kill all the Glorified Bolsterers behind him (6). Now kill the Guardian, and leash when he splits in 2. Kill each of the 2 in a different corner of the room. leashing when they die (they split again). Add tank one, and kill the other untill all 4 are dead. <br>
+<br>
+<c "#FFff00">3. Chamber of Trancendence (1470 1420)</c><br>
+- Magic and poison land easily. Immune to Fire.<br>
+- Its the Nth Temple. The Raid will normally clear it at 1450 1000 before entering. (You can invis there easily)<br>
+- 1st Guardian of Trancendence (rooted) guards the zone in, three adds will come through door (agro them, and pull to zone in first).<br>
+- Clear the East and West rooms next, pull them to zone in.<br>
+- Kill the (two) Transcendent Acolytes (leashed to their rooms) and collect their rock essences.<br>
+- Guardian of Transcenece at the bottom of the Ramp is rooted, sometimes adds come throught the door if the wanderer is near.<br>
+- After he dies, the door can open and clear the 3 cubbies to have the 3 Transcendent Acyolites (leashed) singled. At around 53-50% and 10-7% they Infuriate (AE) so all must be step out of range. More Rock Essences. <br>
+- Guardian of Transcendence is rooted, killing him opens the next door. After that, clear to the room on the right (named in that room is Guardian of Transcendence), before moving to the extreme Nth for pulls that clear the room.<br>
+- The last room, Guardian of Transcendence (leashed). Killing him spawns 4, that require class Kills. Kill them, one at a time and watch their emotes. Leash when too many die. Pretarget the 4, and do one at a time, at 5-8% swap mobs, and let the correct class kill.<br>
+<br>
+Bard - A foreboding melody can be heard from the creature.<br>
+Beastlord - This creature fears the deep gashes of feral savagery.<br>
+Druid - The Creature seems weak in the face of nature.<br>
+Monk - The creature appears vulnerable to focused tranquility.<br>
+Ranger - The creature's skin seems vulnerable to a true shot and fast blades.<br>
+Rogue - The Creature seems to ignore anything behind it.<br>
+Shadowknight - The Creature dreads the strike of death.<br>
+Wizard - This creature falters when struck with the power of the elements.<br>
+<br>
+- 2nd Last Mob (Vrex Xalkak's Maruader), Kill with an Int caster untill you win, leash if you run oom, or on success (It can only be killed by one of Pure Melee, Hybrid, Priest or Int Caster. The best information i have indicates it changes at random every ~45 sec. So just use Int casters till you Have success)<br>
+- Vrex Xalkak needs MGB heals, and is nasty.<br>
+<br>
+<c "#FFff00">4. Alter of Destruction</c><br>
+-Zone in is somewhere in the central temple<br>
+- Kill the Alter wardens (not rooted, unslowable, GFluxs & rampages) in the East and West rooms first. An int Caster with 200 research skill will loot.<br>
+- The two research drops are also the keys for the next two room south. These Altar Sentrys are slowable. Two more type specific kills, hurah. More research drops. Combine the 4 for the final key (which open the round, pit room)<br>
+Hybrids - The creature ... strength and ingenuity.<br>
+Pure Int Casters - The creature will perish under the strength of intelligent magic.<br>
+Pure Melee - The creature appears week to the combined efforts of strength and cunning.<br>
+Pure Wisdom Casters - The creature can not stand up to the power of healers.<br>
+- Alter Oversear (slowable) in the Pit room .Max all resists, 6K nuke and 1500 AE rain, enjoy! Drops Overseer's Geostone which opens the next door down the ramp.<br>
+- Priest/tailor combines and turns in some stuff, to spawn the next 2 Mobs at the door. Phantasmal Priests ( Directional Kick backs, so have it face a wall) can be split, so kill one at a time (probably fighting on the ramp)<br>
+- Two Curate Firetenders (unslowable) are both killed together.<br>
+- Kill the Alter Sustainers in the pipe room, then attack the Oracle of the Alter.<br>
+- Combine the coal (Curate Firetenders) in the Stone Drum of Cohesion (Oracle) and turn it in to the alter construct (Gfluxes and AEs) Enchanters/Bards will win this one. Send in a WS sacrafice, and mez adds. When more spawn CC needs to mez them. Seems either that the number of adds that respawn are random, or trigered by deaths.<br>
+- Keeper of the alter (Rooted, and rapes). 8 Adds constantly spawn, despawn and respawn. Most of the adds are AE stunable by enchanters, but not mezable.<br>
+ - Combine the coal (Curate Firetenders) in the Stone Drum of Cohesion (Oracle) and turn it in to the Alter construct (Gfluxes and AEs) Enchanters/Bards will win this one. Send in a WS sacrafice, and mez adds. When more spawn CC needs to mez them. Seems either that the number of adds that respawn are random, or trigered by deaths.<br>
+- Keeper of the alter (Rooted, and rapes). 8 Adds constantly spawn, despawn and respawn. Most of the adds are AE stunable by enchanters, but not mezable.<br>
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br><br>
+<c "#FFFF00"> Enchanter</c><br><br><br>
+<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<br><br>

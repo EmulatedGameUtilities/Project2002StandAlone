@@ -1,0 +1,11 @@
+<c "#66CCFF">Curing Agent Recipes<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/687.txt">Airstrand Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/688.txt">Earthweave Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=192)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/700.txt">Ethereal Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(212)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/689.txt">Firestrand Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=194)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/691.txt">Night Terror Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>127 <=136)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/692.txt">Stormweave Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=164)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/690.txt">Waterweave Curing Agent</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)<br>

@@ -1,0 +1,84 @@
+<c "#FF2400">Tinkering Skilling </c><c "#FFFF00">(You know you want to)</c><br><br>
+How do you make a small fortune at tradeskills ? (see bottom for answer)<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<a href="file:///storyline/IL/Trade1.txt">Alchemy Skilling (not yet)</a><br>
+<a href="file:///storyline/IL/Trade2.txt">Baking Skilling</a><br>
+<a href="file:///storyline/IL/Trade3.txt">Brewing Skilling</a><br>
+<a href="file:///storyline/IL/Trade4.txt">Fishing Skilling</a><br>
+<a href="file:///storyline/IL/Trade5.txt">Fletching Skilling</a><br>
+<a href="file:///storyline/IL/Trade6.txt">Jewelcraft Skilling</a><br>
+<a href="file:///storyline/IL/Trade7.txt">Poison Skilling</a><br>
+<a href="file:///storyline/IL/Trade8.txt">Pottery Skilling</a><br>
+<a href="file:///storyline/IL/Trade9.txt">Smithing Skilling</a><br>
+<a href="file:///storyline/IL/Trade10.txt">Tailoring Skilling</a><br>
+<a href="file:///storyline/IL/Trade11.txt">Tinkering Skilling</a><br><br>
+
+Best of int/wis .. and mayby dex <br>
+------------------------------------------------------------------------------------- <br>
+Taken from Laearya Lifeblood's post on EQTraders: <br>
+http://mboards.eqtraders.com/phpBB2/viewtopic.php?t=480 <br>
+<br>
+Cross posting this here as there's many that come looking here first, maybe it'll save on some questions (Hope you don't mind it sticky Mum, if so, feel free to un-sticky:) ) <br>
+<br>
+I have been swarmed by this question to no end since PoP release, and even though some of you may not like me posting this here, I'm tossing it out anyways, in hopes that it will quench the masses of all the tells and messages I get on a daily basis. <br>
+<br>
+This is just my thoughts and opinions on a good way to skill up, please feel free to toss any suggestions out with anything you feel may fit a particular block of the way better than my suggestions. <br>
+<br>
+First off: Get your Gnome to level 16, and get him/her as much INT/WIS (depending on class) gear that you are able to, in order to help with the skill ups. <br>
+<br>
+Now, once you've hit level 16, your skill of 50 in tinkering can now be raised. Here goes nothing.... <br>
+<br>
+50-75:Standard Bow Cams – These can be sold to Fletchers (or used yourself) to get your Fletching skill up, therefore netting a minimal loss of money invested. <br>
+<br>
+76-95:Spyglass – Cheap to make, easy to sell as an icon buff, insta-click item (Good for use against dispelling mobs for those that don’t know) <br>
+<br>
+96-102:Stalking Probe – 5 Charge Eye of Zomm, sells quite easily in bulk to puller types, and many others as well. It's a small range for skill up's, but is something that you can continue to make and sell. <br>
+<br>
+103-135:Tinkered Catapult – Get your Fletcher friend that you made all those cams for to make you some bows and make these. You can then make Happy Dragon’s and Metrological Rockets that sell quite easily as pulling tools and there are always people that are more than happy to be able to stop the rain. This step is a bit more costly, but overall, would fit the bill the best, unless you skip it outright and move past the next few to do either Geerloks of any sort, or Collapsible's. <br>
+<br>
+136-150:Base Prototype – Used to make Anizok’s devices (Gauze, Shrink/Grow). Make these, save them up, and use them when making the devices for sale and/or skill up. <br>
+<br>
+151-162:Advanced Propulsion Unit – Used in making Happy Dragon and Metrlogical Rocket. Depending on the market on your server for these, you may want to jump to the pumps, as they have more use in combines further down the road. <br>
+<br>
+163-168:Perpetual Air/Steam Pump – Used to make Anizok’s Shrink/Grow devices. Save these, along with the base prototype's for combines down the road. <br>
+<br>
+169-215:Geerlok xxxxx – Automated Hammers and Fletching are the easiest if you have money to burn, otherwise Brewing fits the bill for lower cost skill ups, just requires more time to farm the drops needed. Optional: Toss in some Innovative Bow Cams here to get to 208 if you like. <br>
+<br>
+216-222:Collapsible Spit – Sell to tradeskillers, quite self explanatory. <br>
+<br>
+223:Collapsible Bowl – See Collapsible Spit. This may be one you'd want to skip as it's got quite a number of combines needed compared to the next ones on the list. <br>
+<br>
+224:Collapsible Jewelers Kit – See Collapsible Spit <br>
+<br>
+226:Collapsible Sewing Kit – See Collapsible Spit <br>
+<br>
+227:Collapsible Tacklebox – See Collapsible Spit <br>
+<br>
+228-242:Collapsible Toolbox – Sell as part of a kit with Anizok's devices, GVD, clockwork armor, etc. <br>
+<br>
+243-250:Anizok’s Gauze Press/Gnomish Vanishing Device/Clockwork Armor – The Gauze Press is still a very useful item for many that realize it’s potential, don’t let the hype get you down. As for GVD's, I still have a constant request list for these, so whenever I get access to my Ranger to farm, I do it as much as I can as they are still hi profit sellers. Clockwork armor (if you don't mind the smithing that is) dropped items can also be farmed at the time of hunting haze panthers, as you can kill holgresh while looking for them as well, or spend time in the holgresh cave. <br>
+<br>
+As I said, feel free to add your own opinions, there's different varying options available throughout the process, depending on the time, pp and patience that you are willing to set forth. <br>
+<br>
+=============================================== <br>
+<br>
+My comments: <br>
+Dex should work in place of int/wisdom as the stat for skill-ups. <br>
+<br>
+It's also never to early to start on Geerlok Brewing Devices. At 3 plat, better off failing these than making most of the others. <br>
+<br>
+The Tinkering Market: It's small. Undercutting people won't increase demand much. All it'll accomplish is someone matching your price. And then someone else undercutting yours. Think thrice before you undercut. <br>
+_________________ <br>
+Axterix En'Obelix, Grumpy Ol' Gnome <br>
+<br>
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>
+Ans : Start with a large fortune </c>

@@ -1,0 +1,61 @@
+The Overthere Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* Vinegar, spices, jug of sauce, garnish, frosting, cup of flour, milk, 13 recipe books - Tin Merchant XI, 2652, 2542 <br>
+oven - 2697, 2367<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask - Tin Merchant II, 2682, 2578<br> 
+* brew barrel - 2700, 2384 <br>
+* cork - Tin Merchant V, 2615, 2537 <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit, Fletching book - Tin Merchant X, 2704, 2611 <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Tin Merchant IV, 2634, 2525 <br>
+* Legacy of Jewelcraft, silver/electrum/gold/platinum bars, jewelers kit, star ruby, fire emerald, sapphire - Tin Merchant III, 2671, 2557 <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* clay (3), firing sheets (3), glass shard, Basic Pottery, vial sketches (3) - Tin Merchant VI, 2612, 2568 <br>
+* pottery wheel - 2873, 2399 <br>
+* kiln - 2870, 2373 <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* needle & thimble molds - Tin Merchant IX, 2673, 2613 <br>
+* forge at 2498, 3247<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* quiver patterns (2), backpack pattern, whip pattern, Tailoring (book), How to Sew (3), large sewing kit, some clothing patterns (mask, gorget, cloak, belt, wristband, shoulderpad) - Tin Merchant IX, 2673, 2613 <br>
+* 10-slot loom (2846, 2376)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* metal rod, cork, grease, steel lined gloves, metal shaft, spricket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, toolbox, silk lined steel helm, Journal of Gimblestan XIV, Journal of Gimblestan XV, sharkskin tubing, fine coral mesh, metal fastening, lime coated meshing - Tin Merchant V, 2615, 2537 <br>
+* water, large lantern - Tin Merchant I, 2722, 2577 <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

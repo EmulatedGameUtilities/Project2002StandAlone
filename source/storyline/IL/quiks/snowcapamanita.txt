@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Snowcap Amanita</c><br>
+Vendor: Nubs Blackgranite (-2700, -3000)<br>
+Location: Lake of Ill Omen<br>
+Poison: Cyclic Vertigo / Susceptible Essence<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

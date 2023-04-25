@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Amber</c><br>
+Vendor: Ciren Darkbog (-100, +1400)<br>
+Location: Plane of Knowledge<br>
+Component: Amber Resin<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

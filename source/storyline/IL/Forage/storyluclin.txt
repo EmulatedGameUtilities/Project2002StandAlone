@@ -1,0 +1,65 @@
+<HTML>
+
+<HEAD>
+<TITLE>Luclin Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Luclin Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+All Luclin Zones <FONT COLOR="#8080FF">Ancient Tarnished Coin</FONT>     <br>
+All Luclin Zones <FONT COLOR="#8080FF">Mushroom</FONT>  Baking    <br>
+All Luclin Zones <FONT COLOR="#8080FF">Feather</FONT>   Fletching?  <br>
+Dawnshroud Peaks <FONT COLOR="#8080FF">Dawnflower Seeds</FONT>  Katta Quest for Foraging Machete  <br> 
+Dawnshroud Peaks <FONT COLOR="#8080FF">Wild Blueberries</FONT>   <br>
+Dawnshroud Peaks <FONT COLOR="#8080FF">Wild Crimson Berries </FONT>   <br>
+Fungus Grove <FONT COLOR="#8080FF">Fungus Compost</FONT>   Katta Quest  <br>
+Fungus Grove <FONT COLOR="#8080FF">Owlbear Egg</FONT>  Baking  <br>
+Fungus Grove <FONT COLOR="#8080FF">Silt Slider Egg</FONT> Baking  <br>
+The Grey  <FONT COLOR="#8080FF">Bone Chips</FONT>   <br> 
+The Grey  <FONT COLOR="#8080FF">Chagra Spice</FONT>   <br>
+The Grey  <FONT COLOR="#8080FF">Petrified Bone Club </FONT>   <br>
+The Grey  <FONT COLOR="#8080FF">Rotting Sshissar Scales</FONT>   <br>
+The Grey  <FONT COLOR="#8080FF">Small Ball of Clay</FONT>   <br>
+Grimling Forest  <FONT COLOR="#8080FF">Azure Nightshade</FONT>   <br> 
+Grimling Forest  <FONT COLOR="#8080FF">Nepeta Cataria Mint</FONT>   <br>
+Grimling Forest  <FONT COLOR="#8080FF">Ripened Yellow Heartfruit</FONT>   <br>
+Grimling Forest  <FONT COLOR="#8080FF">Ripened Yellow Starfruit</FONT>   <br>
+Grimling Forest  <FONT COLOR="#8080FF">Rough Stone Phalange</FONT>   <br>
+Grimling Forest  <FONT COLOR="#8080FF">Wild Blueberries</FONT>   <br>
+Hollowshade Moor  <FONT COLOR="#8080FF">Owlbear Egg</FONT>  Baking   <br> 
+Hollowshade Moor  <FONT COLOR="#8080FF">Rough Stone Phalange </FONT>   <br>
+Hollowshade Moor  <FONT COLOR="#8080FF">Silt Slider Egg</FONT> Baking   <br>
+Hollowshade Moor  <FONT COLOR="#8080FF">Wild Blueberries</FONT>   <br> 
+Maiden's Eye  <FONT COLOR="#8080FF">Nepeta Cataria Mint</FONT>   <br> 
+Maiden's Eye  <FONT COLOR="#8080FF">Twilight Orchid </FONT> Katta Quest for Foraging Machette   <br>
+Marus Seru  <FONT COLOR="#8080FF">Rockweed Bulb</FONT>    <br> 
+Marus Seru  <FONT COLOR="#8080FF">Wild Crimson Berries </FONT>    <br>
+Mons Letalis  <FONT COLOR="#8080FF">Chagra Spice</FONT>     <br>  
+Mons Letalis  <FONT COLOR="#8080FF">Letalis Zenith Vine</FONT>   Katta Quest for Foraging Machette   <br>
+Mons Letalis  <FONT COLOR="#8080FF">Rockweed Bulb</FONT>     <br>
+Netherbian Lair <FONT COLOR="#8080FF">Netherbian Nitrate</FONT>  Katta Quest for Foraging Machette    <br>
+Paludal Caverns    <FONT COLOR="#8080FF"> Fungus Compost</FONT>    Katta Quest for Foraging Machette <br> 
+Paludal Caverns    <FONT COLOR="#8080FF">Owlbear Dung</FONT> Katta Quest for Foraging Machette    <br>
+Scarlet Desert  <FONT COLOR="#8080FF">Red Sands Cactus</FONT>  Katta Quest for Foraging Machette   <br>
+Scarlet Desert  <FONT COLOR="#8080FF">Chagra Spice</FONT>     <br>
+Scarlet Desert   <FONT COLOR="#8080FF">Rockweed Bulb</FONT>     <br>
+Shadeweaver's Thicket  <FONT COLOR="#8080FF">Darkpine Acorns</FONT>     <br>
+Shadeweaver's Thicket  <FONT COLOR="#8080FF">Luclin Clover</FONT>   Shar Vhal Quest for Belt of the Khala Dun   <br>
+Shadeweaver's Thicket  <FONT COLOR="#8080FF">Nepeta Cataria Mint</FONT>     <br>
+Shadeweaver's Thicket  <FONT COLOR="#8080FF">Payala Fruit</FONT>     <br>
+Shadeweaver's Thicket  <FONT COLOR="#8080FF">Wild Blueberries</FONT>     <br>
+Ssaeshza Temple <FONT COLOR="#8080FF"> Rotting Sshissar Scales </FONT>     <br>
+Tenebrous Mountains <FONT COLOR="#8080FF"> Wild Blueberries  </FONT>     <br>
+Tenebrous Mountains <FONT COLOR="#8080FF">  Bloodshrub Thorns </FONT>     <br>
+The Twilight Sea  <FONT COLOR="#8080FF"> Nepeta Cataria Mint </FONT>     <br>
+The Twilight Sea  <FONT COLOR="#8080FF"> Twilight Orchid  </FONT>  Katta Quest for Foraging Machette    <br>
+The Twilight Sea  <FONT COLOR="#8080FF"> Wild Crimson Berries </FONT>     <br>
+Umbral Plains <FONT COLOR="#8080FF"> Dawnflower Seeds  </FONT>   Katta Quest for Foraging Machette   <br>
+Vex Thal  <FONT COLOR="#8080FF"> Twilight Orchid </FONT>  Katta Quest for Foraging Machette    <br>
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+</BODY>
+</HTML>

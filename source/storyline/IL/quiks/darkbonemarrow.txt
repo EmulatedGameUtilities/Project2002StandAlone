@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Darkbone Marrow</c><br>
+Vendor: NPC Drop<br>
+Location: Darkbone Skeletons in Befallen / Unrest / Najena<br>
+Poison: Lepruss Puss / Visceral Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

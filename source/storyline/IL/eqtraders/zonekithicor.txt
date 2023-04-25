@@ -1,0 +1,54 @@
+Kithicor Forest Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* balm leaves, elf leaf, larkspur, dragonwort - Elsbyth (-768. 3081) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, short beer - Innkeep Lynnie (-303, 3797), Innkeep Darvon (1137, -676), Innkeep Jurn (-289, 3822), Innkeep Min (1457, 2381), Innkeep Morgan (1447, 2385), Innkeep Grace (1100, -680) <br>
+* bat wings, fire beetle eyes - Jeena Firechaser (-215, 3820)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask - Eithne Walker (loc 1429, -828) <br>
+* short beer - Innkeep Lynnie (-303, 3797), Innkeep Darvon (1137, -676), Innkeep Jurn (-289, 3822), Innkeep Min (1457, 2381), Innkeep Morgan (1447, 2385)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Krile Arrowsmith (-325, 3879)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* peridot, bloodstone - Jeena Firechaser (-215, 3820)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* leather boots - Clomen Walker (1438, -840)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns, small sewing kit, Tailoring book - Lena Leatherspinner (-325, 3879)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* bottle - Eithne Walker (loc 1429, -828) <br>
+* lockpicks - merchant in building at -768, 3081 <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

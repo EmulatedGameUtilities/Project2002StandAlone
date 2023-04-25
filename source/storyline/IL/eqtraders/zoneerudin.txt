@@ -1,0 +1,92 @@
+Erudin Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Sharin Denuen (Vials of Vitality, Erudin Palace, loc 656, 538)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, mixing bowl, Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelen's Quick Treats, Binelen's Succulence, Delivered Note - Beth Breadmaker (street merchant near docks, loc 131, 105), Helia BlueHawk (Blue Hawks, loc -1190, -337) <br>
+* oven - outside Blue Hawks (loc -1160, -293), outside Erudin Surplus at loc -886, -122 <br>
+* short beer - Geoard Bluehawk (Blue Hawks, loc -1176, -330) <br>
+* fire beetle eye, bat wings - Jeliala Glimmercharm (3rd floor Enchanter's guild, Erudin Palace, loc 509, 764) <br>
+* bat wings - Tika Shockstep (3rd floor Wizard's Guild, Erudin Palace, loc 915, 722) <br>
+* milk - Teria Finleather (Erudin Surplus, loc -961, -95), Borge Finleather (Erudin Surplus, loc -991, -83)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask - Nerth Sailwind (street merchant near docks, loc 229, 95), Reihan Wilhemson (bldg next to Erudin Surplus, loc -905, -92), Luren Renthalis (Vasty Deep Inn, loc -1158, -60), Kisrin Breezeshadow (Erudin Port Authority, loc 228, -3), Reko Saltamer (Erudin Port Authority, loc 204, 3), Tan Monosty (Erudin City Office, loc 665, 824), Judge Monosty (Erudin City Office, loc 687, 827), Vall Stonewisp (Erudin City Office, loc 589, 835) <br>
+* brew barrel - inside Blue Hawks (loc -1212, -313), upstairs inside bldg next to Erudin Surplus (-999, -85) <br>
+* short beer, mead, fish wine, red wine, white wine, brandy - Geoard Bluehawk (Blue Hawks, loc -1176, -330) <br>
+* bottle - Borge Finleather (Erudin Surplus, loc -991, -83), Teria Finleather (Erudin Surplus, loc -961, -95) <br>
+* mistletoe - Sharin Denuen (Vials of Vitality, Erudin Palace, loc 656, 538) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Teria Finleather, Borge Finleather (Erudin Surplus)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Sothure Gemcutter (Sothure's Fine Gems, Erudin Palace, back room, loc 735, 554) <br>
+* malachite, lapis lazuli, turquoise, hematite, cat's eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, ruby, jeweller's kit, Legacy of Jewelcraft - Anite Gemcutter (Sothure's Fine Gems, Erudin Palace, loc 779, 599), Elbsin Denuen (Vials of Vitality, Erudin Palace, loc 670, 578), Myrcin Denuen (Vials of Vitality, Erudin Palace, loc 690, 596), Glysin Denuen (Vials of Vitality, Erudin Palace, loc 633, 575) <br>
+* cat's eye agate, bloodstone, jasper, peridot, star rose quartz- Gwynora Armista (2nd floor Enchanter Guild, Erudin Palace, loc 552, 747) <br>
+* cat's eye agate, bloodstone, jasper, peridot - Andane Starinen (2nd floor Wizard's Guild, Erudin Palace, loc 868, 734) <br>
+* peridot, lapis lazuli, hematite, bloodstone, jasper, amber - Tika Shockstep (3rd floor Wizard's Guild, Erudin Palace, loc 915, 722)<br> 
+* peridot, wolf's eye agate, aquamarine, malachite - Harbon Ranflash (2nd floor Mage Guild, Erudin Palace, loc 707, 906) <br>
+* carnelian, malachite, peridot, lapis lazuli, turquoise, bloodstone, rose quartz, amber, cat's eye agate, wolf's eye agate, aquamarine - Frena Runeflash (3rd floor Mage Guild, Erudin Palace, loc 728, 948) <br>
+* peridot, star rose quartz - Jeliala Glimmercharm (3rd floor Enchanter's guild, Erudin Palace, loc 509, 764) <br>
+* imbue topaz spell [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious, -716, -58) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel - beside Erudin Surplus at loc -918, -148 <br>
+* kiln - beside Erudin Surplus at loc -920, -140 <br>
+* blocks of clay (3) - Shinan Orefinder (outside City Armory, loc -684, -243) <br>
+* imbue topaz spell [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious, -716, -58)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - behind Deepwater Knights <br>
+* Erud forge - outside City Armory (-740, -268) (racial forge, cannnot be used for normal smithing) <br>
+* bricks of ore (3), sharpening stone, smithy hammer, smithing chisel, forging hammer, - Shinan Orefinder (outside City Armory, loc -684, -243) <br>
+* imbue topaz spell [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious, -716, -58) <br>
+* needle & thimble molds - Gayle Weaven (street vendor near Port Authority) <br>
+* sandalwood - Sharin Denuen (Vials of Vitality, Erudin Palace, loc 656, 538) <br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* parchment, quill, elemental grimoire, mage spell research books - Harbon Ranflash (2nd floor Mage Guild, Erudin Palace, loc 707, 906)<br> 
+* parchment, quill, lexicon, wizard spell research books - Andane Starinen (2nd floor Wizard's Guild, Erudin Palace, loc 868, 734) <br>
+* parchment, quill, Tome of Endless Enchantments, Book of Ancient Restoration - Gwynore Armista (2nd floor Enchanter Guild, Erudin Palace, loc 552, 747) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns (cap, gorget, tunic, sleeve, glove, pant, and boot), sm. sewing kit, How To Sew (med) - Demicla Tanner (street vendor at loc -689, -104, near temple of Quellious) <br>
+* sm. sewing kit, How To Sew (med) - Monita Weaver (street vendor near Erudin Surplus, loc -899, -160) <br>
+* large sewing kit, mask, gorget, belt, cloak, wrist, and shoulderpad patterns, backpack, whip & quiver patterns (2), How to Sew (3) Gayle Weaven (street vendor near Port Authority, loc 239, 85) <br>
+* 10-slot loom - next to Erudin Surplus (-870, -60) <br>
+* silver/gold/platinum thread, small sewing kit, How To Sew (med), erudite sewing kit, On Terrorantula Silk - Galbasi Weaver (street vendor at loc -753, -104, near temple of Quellious) <br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* water, large lantern, bottle - Borge Finleather, Teria Finleather (Erudin Surplus)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Smashed War Grubs</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Plane of Tactics<br>
+Poison: Mental Implosion<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

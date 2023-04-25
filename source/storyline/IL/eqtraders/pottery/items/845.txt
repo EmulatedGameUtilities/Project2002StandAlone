@@ -1,0 +1,58 @@
+<c "#66CCFF">Item:       </c>&nbsp;&nbsp;Gray Jar<br>
+<c "#66CCFF">Lore:       </c>&nbsp;&nbsp;LORE ITEM NO DROP<br>
+<c "#66CCFF">Trivial:    </c>&nbsp;&nbsp;<41<br>
+<c "#66CCFF">Ingredients:</c>&nbsp;&nbsp;Firing Sheet, <a HREF="file:///storyline/il/eqtraders/Pottery/items/844.txt">Unfired Gray Jar</a><br>
+<c "#66CCFF">Implement:  </c>&nbsp;&nbsp;Kiln<br>
+<c "#66CCFF">Yield:      </c>&nbsp;&nbsp;1<br>
+<c "#66CCFF">Stats:      </c>&nbsp;&nbsp;<br>
+<c "#66CCFF">Weight:     </c>&nbsp;&nbsp;2<br>
+<c "#66CCFF">Size:       </c>&nbsp;&nbsp;Small<br>
+<c "#66CCFF">Race:       </c>&nbsp;&nbsp;NONE<br>
+<c "#66CCFF">Class:      </c>&nbsp;&nbsp;NONE<br>
+<c "#66CCFF">Quest:      </c>&nbsp;&nbsp;Quest of the Dar Khura Recruit (Vah Shir Shaman)<br>
+<c "#66CCFF">Era:        </c>&nbsp;&nbsp;Unknown<br>
+<c "#66CCFF">MageloID:   </c>&nbsp;&nbsp;3498<br>
+<c "#66CCFF">Note:       </c><br><br>
+<br><br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Recipe</c>]=========== </c> <br>
+<c "#66FFFF"> <a href="file:///storyline/il/eqtraders/pottery/orderbyitem.txt"> Alphabetical </a> </c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By Trivial</c>]============ </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbytrivialasc.txt">Ascending</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/brewing/orderbytrivialdes.txt">Descending</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> ===============[<c "#FFFFFF">List Stats</c>]============= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAC.txt">AC</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyHP.txt">HP</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMana.txt">Mana</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTA.txt">STA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbySTR.txt">STR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyAGI.txt">AGI</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDEX.txt">DEX</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyWIS.txt">WIS</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyINT.txt">INT</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCHA.txt">CHA</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyCR.txt">CR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyFR.txt">FR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyMR.txt">MR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyPR.txt">PR</a>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyDR.txt">DR</a>&nbsp;
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> =============[<c "#FFFFFF">List By State</c>]============= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyunfin.txt">Unfinished/Unfired</a>
+&nbsp;<c "#FFFFFF">-</c>&nbsp;
+<a href="file:///storyline/il/eqtraders/pottery/orderbyfinal.txt">Fired/Finished</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+<c "#66CCFF"> ==========[<c "#FFFFFF">List Special Recipes</c>]========= </c> <br>
+<c "#66FFFF">
+<a href="file:///storyline/il/eqtraders/pottery/orderbyglaze.txt">Glaze</a>
+</c> <br>
+<c "#66CCFF"> ==================================== </c> <br>
+

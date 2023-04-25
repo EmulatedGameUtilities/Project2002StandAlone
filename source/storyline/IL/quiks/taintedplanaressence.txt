@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Tainted Planar Essence</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Plane of Disease / Plane of Nightmare / Crypt of Decay<br>
+Poison: Bite of the Shissar / Sting of the Shissar<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

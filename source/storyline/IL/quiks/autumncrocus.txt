@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Autumn Crocus</c><br>
+Vendor: NPC Drop<br>
+Location: Guards in Sanctus Seru<br>
+Poison: Mental Implosion / Scratching Madness<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

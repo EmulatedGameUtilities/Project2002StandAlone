@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Tumpy Tonic</c><br>
+Skill: Brewing<br>
+Combine: 1x Kiola Nut & 1x Water Flask<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Component: Lead Peroxide<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/292.txt">Beer Braised Wolf</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68)&nbsp;&nbsp;&nbsp;(Short Beer, Spices, Wolf Meat) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/464.txt">Beer Braised Wolf</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68)&nbsp;&nbsp;&nbsp;(Algae Spices, <a HREF="file:///storyline/il/eqtraders/Brewing/items/611.txt">Othmir Short Beer</a>, Wolf Meat) <br>

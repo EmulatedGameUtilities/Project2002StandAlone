@@ -1,0 +1,26 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 12 (Left)<br> 
+<c "#0088ff">Dementia (Enchanter 54)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 12 (Right)<br> 
+<c "#0088ff">Dementia (Enchanter 54)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 14 (Left)<br> 
+<c "#0088ff">Fist of Karana (Druid 58)<br>
+Lagarn's Lamentation (Enchanter 55)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 14 (Right)<br> 
+<c "#0088ff">Lagarn's Lamentation (Enchanter 55)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 15 (Left)<br> 
+<c "#0088ff">Dementing Visions (Enchanter 58)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 15 (Right)<br> 
+<c "#0088ff">Dementing Visions (Enchanter 58)<br>
+
+<br><c "#00ff00">Zeannor's Thesis Page 16 <br>
+<c "#0088ff">Dementing Visions (Enchanter 58)<br> 

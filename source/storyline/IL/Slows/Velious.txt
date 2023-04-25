@@ -1,0 +1,125 @@
+Velious Slowable list
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br>
+<br>Cobalt Scar
+<br>----------------------------
+<br><c "#0069FF">Kelorek'Dar -- Slowable</c>
+<br>
+<br>Dragon Necropolis
+<br>----------------------------
+<br><c "#0069FF">Neb -- Slowable</c>
+<br><c "#0069FF">Queen Raltaas -- Slowable</c>
+<br><c "#0069FF">Vaniki -- Slowable</c>
+<br><c "#0069FF">Vilefang -- Slowable</c>
+<br><c "#0069FF">Zlandicar -- Slowable</c>
+<br>
+<br>Great Divide
+<br>----------------------------
+<br><c "#0069FF">Taskmaster Abbot -- Slowable</c>
+<br>
+<br>Iceclad Ocean
+<br>----------------------------
+<br><c "#0069FF">Lodizal -- Slowable</c>
+<br>
+<br>Icewell Keep
+<br>----------------------------
+<br><c "#FF0000">Cllr Juliah Lockhart -- Unslowable</c>
+<br><c "#FF0000">Dain Frostweaver -- Unslowable</c>
+<br><c "#FF0000">Royal Guards -- Unslowable</c>
+<br>
+<br>Kael Drakkel
+<br>----------------------------
+<br><c "#0069FF">Armor of Zek -- Slowable</c>
+<br><c "#FF0000">Avatar of War -- Unslowable</c>
+<br><c "#0069FF">Bjrakor the Cold -- Slowable</c>
+<br><c "#FF0000">Derakor the Vindicator -- Unslowable</c>
+<br><c "#0069FF">Dlammaz Stormslayer -- Slowable</c>
+<br><c "#0069FF">Idol of Rallos Zek -- Slowable</c>
+<br><c "#0069FF">Statue of Rallos Zek -- Slowable</c>
+<br><c "#FF0000">King Tormax -- Unslowable</c>
+<br><c "#FF0000">Valornkt Zekkin -- Unslowable</c>
+<br><c "#0069FF">Vealok the Angry -- Slowable</c>
+<br><c "#0069FF">Yetarr -- Slowable</c>
+<br>
+<br>Kerafyms Lair
+<br>----------------------------
+<br><c "#0069FF">The Final Arbiter -- Slowable</c>
+<br><c "#0069FF">Kildrukaun the Ancient -- Slowable</c>
+<br><c "#0069FF">Master of the Guard -- Slowable</c>
+<br><c "#FF0000">The Progenitor -- Unslowable</c>
+<br><c "#0069FF">Tjudawos the Ancient -- Slowable</c>
+<br><c "#0069FF">Vyskudra the Ancient -- Slowable</c>
+<br>
+<br>Sirens Grotto
+<br>----------------------------
+<br><c "#0069FF">Named Sirens -- Slowable</c>
+<br>
+<br>Skyshrine
+<br>----------------------------
+<br><c "#FF0000">Huge Gargoyle Guard -- Unslowable</c>
+<br><c "#FF0000">Huge Golem Sentries -- Unslowable</c>
+<br><c "#FF0000">Laoch Chief Seti -- Unslowable</c>
+<br><c "#FF0000">Lord Yelinak -- Unslowable</c>
+<br><c "#FF0000">The Seer -- Unslowable</c>
+<br><c "#FF0000">Supreme Laochsmith Psonn -- Unslowable</c>
+<br>
+<br>Sleepers Tomb
+<br>----------------------------
+<br><c "#0069FF">Hraashna the Warder -- Slowable</c>
+<br><c "#0069FF">Kerafym -- Slowable</c>
+<br><c "#0069FF">Nanzata the Warder -- Slowable</c>
+<br><c "#0069FF">Tukaarak the Warder -- Slowable</c>
+<br><c "#00FF00">Ventani the Warder -- Disease</c>
+<br>
+<br>Temple of Veeshan
+<br>----------------------------
+<br><c "#00FF00">Glimmering Drakes -- Disease</c>
+<br><c "#0069FF">Drakes (non-Glimmering) -- Slowable</c>
+<br><c "#FFFF00">East</c>
+<br><c "#0069FF">Essedera -- Slowable</c>
+<br><c "#0069FF">Dozekar the Cursed -- Slowable</c>
+<br><c "#FFFF00">West</c>
+<br><c "#FF0000">Gozzrem -- Unslowable</c>
+<br><c "#FF0000">Lendiniara the Keeper -- Unslowable</c>
+<br><c "#FF0000">Telkorenar -- Unslowable</c>
+<br><c "#FFFF00">North</c>
+<br><c "#0069FF">Aaryonar-- Slowable</c>
+<br><c "#0069FF">Cekenar-- Slowable</c>
+<br><c "#0069FF">Dagarn the Destroyer
+<br><c "#FF0000">Eashen -- Unslowable</c>
+<br><c "#0069FF">Lord Feshlak-- Slowable</c>
+<br><c "#FF0000">Ikitiar -- Unslowable</c>
+<br><c "#0069FF">Jorlleag-- Slowable</c>
+<br><c "#0069FF">Lord Koi'Doken-- Slowable</c>
+<br><c "#FF0000">Lord Kriezenn -- Unslowable</c>
+<br><c "#0069FF">Lady Mirenella-- Slowable</c>
+<br><c "#0069FF">Lady Nevederia-- Slowable</c>
+<br><c "#0069FF">Sevelak-- Slowable</c>
+<br><c "#0069FF">Vulak'Aerr-- Slowable</c>
+<br><c "#00FF00">Lord Vyemm -- Disease</c>
+<br><c "#0069FF">Zlexak -- Slowable</c>
+<br>
+<br>Velketors Lab
+<br>----------------------------
+<br><c "#00FF00">Bledrek -- Disease</C>
+<br><c "#FF0000">Lord Doljonijiarnimorinar -- Unslowable</C>
+<br><c "#0069FF">Velkentor -- Slowable</C>
+<br>
+<br>Wakening Lands
+<br>----------------------------
+<br><c "#0069FF">Corrupted Faun --  Slowable</C>
+<br><c "#0069FF">Corrupted Panther -- Slowable</C>
+<br><c "#0069FF">Corrpted Unicorn -- Slowable</C>
+<br><c "#00FF00">Kromzek Captain - Disease</C>
+<br><c "#0069FF">Woushi -- Slowable</C>
+<br>
+<br>Western Wastes
+<br>----------------------------
+<br><c "#0069FF">Klandicar -- Slowable</C>
+<br><c "#0069FF">Sontalak -- Slowable but very difficult</C>
+<br><c "#0069FF">Strong Horn -- Slowable</C>
+<br><c "#0069FF">Tantor -- Slowable</C>
+<br><c "#0069FF">Tavandor -- Slowable</C>
+<br><c "#0069FF">Named Dragons -- Slowable</C>
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

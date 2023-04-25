@@ -1,0 +1,90 @@
+Kunark Slowable List
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br>
+<br>Burning Woods
+<br>----------------------------
+<br><c "#0069FF">Ixiblat Fer -- Slowable</C>
+<br><c "#00FF00">Gullerback -- Disease</C>
+<br>
+<br>Cabilis East
+<br>----------------------------
+<br><c "#FF0000">Vessel -- Unslowable</C>
+<br>
+<br>Charasis
+<br>----------------------------
+<br><c "#0069FF">Vennril Sathir(Cudgel quest) -- Slowable</C>
+<br>
+<br>Chardok
+<br>----------------------------
+<br><c "#0069FF">Korocust -- Slowable</C>
+<br><c "#0069FF">Overking Bathezid -- Slowable</C>
+<br><c "#0069FF">Prince Selrach Di'zok -- Slowable</C>
+<br><c "#0069FF">Queen Velazul Di'zok -- Slowable</C>
+<br>
+<br>City of mist
+<br>----------------------------
+<br><c "#FF0000">Black Reaver -- Unslowable</C>
+<br><c "#FF0000">Lord Ghiosk -- Unslowable</C>
+<br><c "#FF0000">Lord Rak'Ashiir -- Unslowable</C>
+<br><c "#FF0000">Neh'Ashiir -- Unslowable</C>
+<br>
+<br>Dreadlands
+<br>----------------------------
+<br><c "#0069FF">Brother Balatin (WF quest) -- Slowable</C>
+<br><c "#FF0000">Gorenaire -- Unslowable</C>
+<br><c "#0069FF">Veltar -- Slowable</C>
+<br>
+<br>Emerald jungle
+<br>----------------------------
+<br><c "#FF0000">Severilous -- Unslowable</C>
+<br>
+<br>Field of bone
+<br>----------------------------
+<br><c "#00FF00">Tangrin -- Disease</C>
+<br>
+<br>Frontier Mountain
+<br>----------------------------
+<br><c "#0069FF">Thuuga Dengbil -- Slowable</C>
+<br>
+<br>Karnors Castle
+<br>----------------------------
+<br><c "#FF0000">Venril Sathir -- Unslowable</C>
+<br>
+<br>Lake of Ill Omen
+<br>----------------------------
+<br><c "#FF0000">Deep -- Unslowable</C>
+<br><c "#FF0000">Xenovorash -- unslowable</C>
+<br>
+<br>Sebilis
+<br>----------------------------
+<br><c "#0069FF">Emperor Chottal -- Slowable</C>
+<br><c "#0069FF">Myconid Spore king -- Slowable</C>
+<br><c "#0069FF">Sebilite Protector -- Slowable</C>
+<br><c "#0069FF">Tolapmuj -- Slowable</C>
+<br><c "#FF0000">Trakanon -- Unslowable</C>
+<br><c "#0069FF">Undead Bard -- Slowable</C>
+<br>
+<br>Skyfire
+<br>----------------------------
+<br><c "#0069FF">Ancient Wyvern -- Slowable</C>
+<br><c "#0069FF">Guardian Wurm -- Slowable</C>
+<br><c "#FF0000">Talendor -- Unslowable</C>
+<br><c "#0069FF">Zordakalicus Ragefire -- Slowable</C>
+<br>
+<br>Swamp of No hope
+<br>----------------------------
+<br><c "#0069FF">Kaggy Krupp -- Slowable</C>
+<br><c "#FF0000">Uulump -- Unslowable</C>
+<br>
+<br>Trakanons Teeth
+<br>----------------------------
+<br><c "#0069FF">Zhaoku -- Slowable</C>
+<br>
+<br>Veeshans Peak
+<br>----------------------------
+<br><c "#0069FF">Guardian Wurm -- Slowable</C>
+<br><c "#FF0000">Hoshkar -- Unslowable</C>
+<br><c "#0069FF">Nexona -- Slowable</C>
+<br><c "#00FF00">Silverwing -- Disease</C>
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

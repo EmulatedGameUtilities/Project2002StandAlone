@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>Odus Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Odus Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+Erud's Crossing <FONT COLOR="#8080FF">Sea Horse Roe</FONT> Erudite cultural tailoring (brewing)   <br>
+Stonebrunt Mountains <FONT COLOR="#8080FF">Bamboo Shoot </FONT> Quest for Wakizashi of the Frozen Skies & Erudite cultural tailoring (brewing)  <br>
+Stonebrunt Mountains <FONT COLOR="#8080FF"> Kejekan Palm Fruit</FONT>  Quest for Wakizashi of the Frozen Skies   <br>     
+Toxxulia Forest  <FONT COLOR="#8080FF">Bag of Caynar Nuts</FONT> Baking & Wakening Lands Quest for Crest of The Wood Nymphs  <br> 
+
+
+
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+
+
+
+</BODY>
+</HTML>

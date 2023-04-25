@@ -1,0 +1,13 @@
+PoP Portal Locations - Qeynos <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Qeynos<br>
+Portal Zone: North Qeynos<br>
+Zone Location: +219, +487<br>
+Description: Along the wall to the left from the city<br>
+<c "#00CC00">========================== </c><br>

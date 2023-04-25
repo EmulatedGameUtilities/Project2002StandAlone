@@ -1,0 +1,13 @@
+PoP Portal Locations - Great Divide <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Great Divide<br>
+Portal Zone: The Great Divide<br>
+Zone Location: -41, -1811<br>
+Description: Along a wall north of the zone to the Eastern Wastes<br>
+<c "#00CC00">========================== </c><br>

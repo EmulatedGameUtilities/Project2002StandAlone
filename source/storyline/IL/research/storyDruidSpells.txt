@@ -1,0 +1,164 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Druid Spells <br>
+
+<br><c "#00ff00">Improved Superior Camouflage 50<br> 
+<c "#0088ff">Rune of Synergy Page 61 <br>
+Yaeth's Compendium (Right) <br> 
+
+<br><c "#00ff00">Circle of Winter 51 <br>
+<c "#0088ff">Rune of Draught <br>
+Primordial Substance<br> 
+
+<br><c "#00ff00">Everlasting Breath 51 <br>
+<c "#0088ff">Page 50 Yaeth's Compendium (Left)<br> 
+Sliver of Moonstone <br>
+
+<br><c "#00ff00">Levitation 51 <br>
+<c "#0088ff">Page 70 Yaeth's Compendium (Left) <br>
+Dew Clover <br> 
+
+<br><c "#00ff00">Upheaval 51 <br>
+<c "#0088ff">Rune of Amalgamation<br> 
+Dew Clover <br>
+
+<br><c "#00ff00">Call of Karana 52 <br>
+<c "#0088ff">Mist of Povar <br>
+Rune of Coalition <br> 
+
+<br><c "#00ff00">Circle of Summer 52 <br>
+<c "#0088ff">Rune of Ellipse <br>
+Flake of Loadstone <br> 
+
+<br><c "#00ff00">Glamour of Tunare 53 <br>
+<c "#0088ff">Page 18 of Toharon's Memoir (Left)<br> 
+Primordial Substance <br>
+
+<br><c "#00ff00">Spirit of Scale 53 <br>
+<c "#0088ff">Page 80 Yaeth's Compendium (Left)<br> 
+Dew Clover <br>
+
+<br><c "#00ff00">Blizzard 54 <br>
+<c "#0088ff">Rune of Gale <br>
+Runed Emblem <br>
+
+<br><c "#00ff00">Form of the Howler 54 <br>
+<c "#0088ff">Page 65 Yaeth's Compendium (Left)<br> 
+Primordial Substance <br>
+
+<br><c "#00ff00">Remove Greater Curse 54 <br>
+<c "#0088ff">Words of Apparition <br>
+Page 73 Yaeth's Compendium (Right)<br> 
+
+<br><c "#00ff00">Girdle of Karana 55 <br>
+<c "#0088ff">Coin of Xev <br>
+Page 63 Yaeth's Compendium (Right)<br> 
+
+<br><c "#00ff00">Nature Walker's Behest 55 <br>
+<c "#0088ff">Coin of Xev <br>
+Words of Tenacy <br> 
+
+<br><c "#00ff00">Tunare's Request 55 <br>
+<c "#0088ff">Page 70 Yaeth's Compendium (Left)<br> 
+Etched Signet <br>
+
+<br><c "#00ff00">Breath of Karana 56 <br>
+<c "#0088ff">Rune of Alteration <br>
+Etched Signet <br>
+Words of Abrogation<br> 
+
+<br><c "#00ff00">Ro's Smoldering Disjunction 56 <br>
+<c "#0088ff">Rune of Flash <br>
+Flake of Lodestone<br> 
+Rune of Coruscating <br>
+
+<br><c "#00ff00">Wake of Karana 56 <br>
+<c "#0088ff">Page 72 Yaeth's Compendium (Left)<br> 
+Runed Emblem <br>
+Rune of Divergency<br> 
+
+<br><c "#00ff00">Bonds of Tunare 57 <br>
+<c "#0088ff">Rune of Conglomeration <br>
+Words of Holding <br>
+Words of Expertise <br>
+
+<br><c "#00ff00">Frost 57 <br>
+<c "#0088ff">Rune of Draught<br> 
+Dew Clover <br>
+Rune of Tempest<br> 
+
+<br><c "#00ff00">Succor 57 <br>
+<c "#0088ff">Rune of Opposition<br> 
+Rune of Contradiction <br>
+Page 81 Yaeth's Compendium<br> 
+
+<br><c "#00ff00">Circle of Seasons 58 <br>
+<c "#0088ff">Rune of Conglomeration <br>
+Etched Signet <br>
+Rune of Tempest <br>
+
+<br><c "#00ff00">Fist of Karana 58 <br>
+<c "#0088ff">Page 14 Zeannor's Thesis (Left)<br> 
+Rune of Flash <br>
+Rune of Incitation<br> 
+
+<br><c "#00ff00">Regrowth of the Grove 58 <br>
+<c "#0088ff">Page 78 Yaeth's Compendium (Left)<br> 
+Dew Clover <br>
+Page 92 Yaeth's Compendium<br> 
+
+<br><c "#00ff00">Legacy of Thorn 59 <br>
+<c "#0088ff">Scales of Veeshan <br>
+Rune of Incendiary <br>
+Words of Expertise <br>
+
+<br><c "#00ff00">Spirit of Oak 59 <br>
+<c "#0088ff">Bolts of Tallon <br>
+Page 94 Yaeth's Compendium (Right)<br> 
+Page 95 Yaeth's Compendium <br>
+
+<br><c "#00ff00">Banishment 60 <br>
+<c "#0088ff">Words of Agony <br>
+Words of Obliteration<br> 
+Rune of Divergency <br>
+
+<br><c "#00ff00">Entrapping Roots 60 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Words of Covert <br>
+Rune of Association <br> 
+
+<br><c "#00ff00">Form of the Hunter 60 <br>
+<c "#0088ff">Page 94 Yaeth's Compendium (Left) <br>
+Page 94 Yaeth's Compendium (Right) <br>
+Words of Virtue <br>
+
+<br><c "#00ff00">Mask of the Hunter 60 <br>
+<c "#0088ff">Card of Bristlebane <br>
+Dew Clover Page 115 <br>
+Yaeth's Compendium <br>
+
+<br><c "#00ff00">Mask of the Stalker 60 <br>
+<c "#0088ff">Page 117 Yaeth's Compendium (Left) <br>
+Dew Clover <br>
+Page 118 Yaeth's Compendium (Left) <br>
+Rune of Zephyr <br>
+
+<br><c "#00ff00">Moonfire 60 <br>
+<c "#0088ff">Rune of Flash <br>
+Flake of Lodestone<br> 
+Rune of Coruscating <br>
+Words of Potence <br>
+
+<br><c "#00ff00">Protection of the Glades 60<br> 
+<c "#0088ff">Page 21 Toharon's Memoir (Left)<br> 
+Runed Emblem <br>
+Page 22 Toaron's Memoir<br> 
+
+<br><c "#00ff00">Nature's Recovery 60 <br>
+<c "#0088ff">Page 102 Yaeth's Compendium (Left)<br> 
+Dew Clover <br>
+Page 83 Yaeth's Compendium<br> 
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

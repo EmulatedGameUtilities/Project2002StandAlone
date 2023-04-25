@@ -1,0 +1,275 @@
+Foraging: Zone-Specific Foraged Goodies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00FF00">All Norrath </c><br>    
+All   - <c "#99FF33"> Fruit  </c> -  can be brewed and baked<br>
+All   - <c "#99FF33"> Berries  </c> -  can be brewed and baked<br>
+All   - <c "#99FF33"> Vegetables  </c> -  can be brewed and baked (snack)<br>
+All  - <c "#99FF33"> Rabbit meat </c> -  can be baked into stew<br>
+All  - <c "#99FF33"> Roots </c> -  can be brewed and used in fishing<br>
+All  - <c "#99FF33"> Pod of Water </c> -  can be brewed into normal flasks of water <br>
+All  - <c "#99FF33"> Fishing Grubs </c> -  Used w/ Fishing Skill and brewed into an essence<br>
+<br>
+<c "#00FF00">Antonica Forages  </c><br>    
+All Karanas  - <c "#99FF33"> Plains Pebble </c> -  Can be imbued by Karana Druid or Cleric; Iksar Monk Quest<br>
+East Commons   - <c "#99FF33"> Griffon Egg </c> -  can be baked into dough<br>
+East Karana  - <c "#99FF33"> Tea Leaves </c> -  can be brewed into tea; Kerra Island Quest<br>
+Everfrost  - <c "#99FF33"> Frost Crystal </c> -  <br>
+Everfrost  - <c "#99FF33"> Frost Turnips </c> -  can be brewed into an essence<br>
+Everfrost  - <c "#99FF33"> Chilled Tundra Root </c> -  Druid/Ranger Epic Quest item<br>
+Feerrott  - <c "#99FF33"> Alligator Eggs </c> -  can be baked into Dough<br>
+Gorge of King Xorbb  - <c "#99FF33"> Gorge Moss </c> -  <br>
+Innothule Swamp  - <c "#99FF33"> Speckled Molded Mushroom </c> -  Druid/Ranger Epic Quest item<br>
+Innothule Swamp  - <c "#99FF33"> Speckled Toadstool </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Dew of the Hatchling </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Jaggedpine Needles </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Jaggedpine Sap </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Plant Shoot </c> -  can be baked<br>
+Jaggedpine Forest  - <c "#99FF33"> Shadowjade Fern Leaves </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Shadowjade Fern Seeds </c> -  <br>
+Jaggedpine Forest  - <c "#99FF33"> Shadowjade Moss </c> -  <br>
+Kithicor Forest  - <c "#99FF33"> Oak Bark </c> -  tanning agent for Wood Elf Cultural Tradeskills<br>
+Kithicor Forest  - <c "#99FF33"> Wild Radish </c> -  <br>
+Lake Rathe  - <c "#99FF33"> Rathe Berries </c> -  Can be brewed into juice; Wakening Land Quest<br>
+Lavastorm  - <c "#99FF33"> Ashweed </c> -  Rogue Poison Component<br>
+Misty Thicket  - <c "#99FF33"> Sweetened Mudroot </c> -  Druid/Ranger Epic Quest item<br>
+Misty Thicket  - <c "#99FF33"> Black Root </c> -  can be brewed into an essence<br>
+Misty Thicket  - <c "#99FF33"> Misty Acorn </c> -  brewed into a tanning agent for Halfling Cultural Tradeskills<br>
+Nektulos Forest  - <c "#99FF33"> Glow Lichen </c> -  can be brewed into an essence<br>
+North Karana  - <c "#99FF33"> Wild Cabbage </c> -  Can be used to make Lucky Cabbage for the Druid PotC quest<br>
+North Ro   - <c "#99FF33"> Cactus Pulp </c> -  can be brewed into an essence<br>
+Oasis of Marr  - <c "#99FF33"> Bag of Sea Salt </c> -  can be brewed into an essence<br>
+Ocean of Tears  - <c "#99FF33"> Marr Cherries </c> -  Wakening Land Quest, can be baked into Chocolate Marr Cherries<br>
+Qeynos Hills  - <c "#99FF33"> Surefall Sap </c> -  can be brewed into an essence<br>
+Rathe Mountains  - <c "#99FF33"> Basilisk Egg </c> -  Can be baked into dough<br>
+South Karana  - <c "#99FF33"> Thunderhoof Mushroom </c> -  Kerra Island Quest<br>
+South Ro  - <c "#99FF33"> Dates of Ro </c> -  <br>
+West Commons  - <c "#99FF33"> Plains Roots </c> -  <br>
+West Karana  - <c "#99FF33"> Miller Carrots </c> -  <br>
+<br>    
+<c "#00FF00">Faydwer Forages </c><br>    
+note: no "normal" food/drink forages are currently found in Kedge. Instead, it seems to be working off the fishing table <br>   </c> -  
+All Faydarks  - <c "#99FF33"> Morning Dew </c> -  Brewing for Elven Wine; Also for Wood Elf Cultural Armor, High Elf cultural armor, and brewed into Moonlight Temper<br>
+Butcherblock  - <c "#99FF33"> Aviak Egg </c> -  Can be baked into dough, brewed into oil or eggnog<br>
+Butcherblock  - <c "#99FF33"> Vineclinger Berries </c> -  Druid Only; Wakening Land Quest<br>
+Dagnor's Cauldron  - <c "#99FF33"> Cauldron Prawns </c> -  <br>
+Greater Faydark  - <c "#99FF33"> Ripened Heart Fruit </c> -  Druid/Ranger Epic Quest item; Wakening Land Quest<br>
+Greater Faydark  - <c "#99FF33"> Cinnamon Sticks </c> -  Can be baked into Pixie Powder Cinnesticks and brewed into an essence<br>
+Kedge Keep  - <c "#99FF33"> Discarded shark tooth </c> -  <br>
+Kedge Keep  - <c "#99FF33"> Bottle of Kalish </c> -  <br>
+Kedge Keep  - <c "#99FF33"> Fish scale </c> -  <br>
+Kedge Keep  - <c "#99FF33"> Fresh fish </c> -  <br>
+Kedge Keep  - <c "#99FF33"> Tattered cloth sandal </c> -  <br>
+Kedge Keep  - <c "#99FF33"> Rusty dagger </c> -  <br>
+Lesser Faydark  - <c "#99FF33"> Sylvan Berries </c> -  Can be brewed into juice and schnapps<br>
+Steamfont  - <c "#99FF33"> Steamfont Springwater </c> -  refreshing drink, can be brewed into schnapps<br>
+<br>    
+<c "#00FF00">Odus Forages  </c><br>    
+Erud's Crossing  - <c "#99FF33"> Sea Horse Roe </c> -  <br>
+Stonebrunt Mountains  - <c "#99FF33"> Bamboo Shoot </c> -  Stonebrunt wakizashi quest<br>
+Stonebrunt Mountains  - <c "#99FF33"> Kejekan Palm Fruit  </c> -  Stonebrunt wakizashi quest<br>
+Toxxulia Forest  - <c "#99FF33"> Bag of Caynar Nuts  </c> -  Wakening Land Quest, can be baked into Canyar stuffed trout<br>
+<br>    
+<c "#00FF00">Kunark Forages  </c><br>    
+Burning Wood  - <c "#99FF33"> Giant Hornet Egg </c> -  <br>
+Burning Wood  - <c "#99FF33"> Mendglow Clay </c> -  Iksar Shaman Quest<br>
+Burning Wood  - <c "#99FF33"> Radiant Meteorite </c> -  Iksar Monk Quest<br>
+Dreadlands  - <c "#99FF33"> Drachiling Silk </c> -  2 types can be foraged. One is no drop, the other is not<br>
+Dreadlands  - <c "#99FF33"> Frost Crystal </c> -  <br>
+Dreadlands  - <c "#99FF33"> Honey Berry </c> -  <br>
+Emerald Jungle  - <c "#99FF33"> Emerald Oranges </c> -  Wakening Land Quest; can also be brewed into juice and schnapps<br>
+Emerald Jungle  - <c "#99FF33"> Ancient Coin </c> -  used in Nostrolo Tambourine quest<br>
+Emerald Jungle  - <c "#99FF33"> Emerald Palm Root </c> -  <br>
+Emerald Jungle  - <c "#99FF33"> Mantrap Bud </c> -  <br>
+Field of Bone  - <c "#99FF33"> Deadbone Barley </c> -  can brewed for iksar quest and brewed into an essence<br>
+Field of Bone  - <c "#99FF33"> Farefire Seeds </c> -  Wakening Land Quest<br>
+Field of Bone  - <c "#99FF33"> Iksar Phalange </c> -  dagger<br>
+Firiona Vie  - <c "#99FF33"> Drachiling Silk </c> -  <br>
+Firiona Vie  - <c "#99FF33"> Dung Crawler </c> -  <br>
+Firiona Vie  - <c "#99FF33"> Firiona Rose </c> -  used in druid/ranger epic quests<br>
+Firiona Vie   - <c "#99FF33"> Lichenclover  </c> -  <br>
+Frontier Mountains   - <c "#99FF33"> Drench Flower  </c> -  <br>
+Frontier Mountains   - <c "#99FF33"> Frontier Stink Beetles  </c> -  <br>
+Frontier Mountains   - <c "#99FF33"> Gold Nugget  </c> -  2 types can be foraged: One is sellable and the other is not. Non-sellable is for Iksar warrior quest, and Iksar monk quest<br>
+Frontier Mountains   - <c "#99FF33"> Honey Berry  </c> -  <br>
+Frontier Mountains   - <c "#99FF33"> Lichenclover  </c> -  <br>
+Frontier Mountains   - <c "#99FF33"> Moss Root  </c> -  Can be used to make flasks of purified water<br>
+Lake of Ill Omen   - <c "#99FF33"> Barracuda Bones  </c> -  <br>
+Lake of Ill Omen   - <c "#99FF33"> Mud Crabs  </c> -  Iksar Shaman Quest <br>
+Lake of Ill Omen   - <c "#99FF33"> Vein Worm  </c> -  <br>
+Lake of Ill Omen   - <c "#99FF33"> Water Reed  </c> -  Can be used to make flasks of purified water<br>
+Mines of Nurga  - <c "#99FF33"> Sponge Mushroom </c> -  part of an Iksar quest for Xinth<br>
+Overthere, The  - <c "#99FF33"> Cockatrice Egg  </c> -  can be baked into dough and brewed into oil<br>
+Overthere, The  - <c "#99FF33"> Cracked Shell  </c> -  <br>
+Overthere, The  - <c "#99FF33"> Cursed Clover of Viesar  </c> -  <br>
+Overthere, The  - <c "#99FF33"> Wet Clay  </c> -  <br>
+Skyfire   - <c "#99FF33"> EarthDragon Crystal  </c> -  can be turned into a fused dragon crystal<br>
+Skyfire   - <c "#99FF33"> Fire Dragon Crystal  </c> -  can be turned into a fused dragon crystal<br>
+Skyfire   - <c "#99FF33"> Ice Dragon Crystal  </c> -  can be turned into a fused dragon crystal<br>
+Skyfire   - <c "#99FF33"> Wind Dragon Crystal  </c> -  can be turned into a fused dragon crystal<br>
+Swamp of No Hope   - <c "#99FF33"> Hopeless Willow Moss  </c> -  part of an Overthere quest for Trooper Scale Pauldrons<br>
+Swamp of No Hope   - <c "#99FF33"> Maneater Bud  </c> -  <br>
+Swamp of No Hope   - <c "#99FF33"> Moss Root  </c> -  Can be used to make flasks of purified water<br>
+Swamp of No Hope   - <c "#99FF33"> Muckskipper  </c> -  <br>
+Timorous Deep  - <c "#99FF33"> Gunthak Sea Shell </c> -  <br>
+Timorous Deep   - <c "#99FF33"> Timorous Coconut  </c> -  <br>
+Timorous Deep   - <c "#99FF33"> Rile's Sand Coin </c> -  Iksar Monk Quest <br>
+Timorous Deep   - <c "#99FF33"> Sand Crabs  </c> -  <br>
+Trakanon's Teeth  - <c "#99FF33"> Cockatrice Egg  </c> -  can be baked into dough and brewed into oil<br>
+Trakanon's Teeth   - <c "#99FF33"> Emerald Oranges  </c> -  Wakening Land Quest; can be brewed into juice<br>
+Trakanon's Teeth  - <c "#99FF33"> Mantrap Bud </c> -  <br>
+Trakanon's Teeth   - <c "#99FF33"> Trakanon Fernroot  </c> -  <br>
+Warslik Woods   - <c "#99FF33"> Bixle Berry Pie  </c> -  Iksar Warrior Quest <br>
+Warslik Woods   - <c "#99FF33"> Kromdul Carrot  </c> -  <br>
+Warslik Woods   - <c "#99FF33"> Oak Bark  </c> -  tanning agent for Wood Elf Cultural Tradeskills<br>
+Warslik Woods   - <c "#99FF33"> Petrified Redwood  </c> -  Iksar monk quest, Iksar Warrior Quest (footman's pike)<br>
+Warslik Woods   - <c "#99FF33"> Sop Bark  </c> -  <br>
+<br>    
+<c "#00FF00">Velious Forages  </c><br>    
+All Velious  - <c "#99FF33"> Glob of Slush Water </c> -  <br>
+All Velious  - <c "#99FF33"> Tuft of Dire Wolf Fur </c> -  can be tailored into Leatherfoot Bags<br>
+All Velious  - <c "#99FF33"> Small Chunk of Velium  </c> -  +5 HP<br>
+Cobalt Scar  - <c "#99FF33"> Arctic Mussels  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Cobalt Scar  - <c "#99FF33"> Arctic Clams </c> -  <br>
+Cobalt Scar  - <c "#99FF33"> Small Clam </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Cobalt Scar  - <c "#99FF33"> Arctic King Crab </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Cobalt Scar  - <c "#99FF33"> Cobalt Rock Crab </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Cobalt Scar  - <c "#99FF33"> Brackish water </c> -  <br>
+Cobalt Scar  - <c "#99FF33"> Cobalt Abalone </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Cobalt Scar  - <c "#99FF33"> Arctic Scallops  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Dragon Necropolis  - <c "#99FF33"> Cracked Dragon Bone </c> -  1HB: dam 5,delay 32, ALL/ALL<br>
+Dragon Necropolis  - <c "#99FF33"> Dragon Claw Sliver </c> -  ranged weapon: dam 5, delay 36, range 45<br>
+Dragon Necropolis  - <c "#99FF33"> Withered Dragon Scale </c> -  <br>
+Dragon Necropolis  - <c "#99FF33"> Rotting Dragon Scale </c> -  <br>
+Eastern Wastes  - <c "#99FF33"> Branch of Sylvan Oak </c> -  used for Wood Elf Cultural Fletching<br>
+Eastern Wastes  - <c "#99FF33"> Fresh Fish </c> -  <br>
+Great Divide  - <c "#99FF33"> Fresh Fish </c> -  other fished items also foraged in this zone<br>
+Great Divide  - <c "#99FF33"> Kedge Carp </c> -  <br>
+Great Divide  - <c "#99FF33"> Arctic Mussels </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Great Divide  - <c "#99FF33"> Lichen Roots </c> -  <br>
+Iceclad Ocean   - <c "#99FF33"> Arctic Mussels  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Iceclad Ocean   - <c "#99FF33"> Arctic King Crab </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Iceclad Ocean   - <c "#99FF33"> Arctic Scallops  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Iceclad Ocean   - <c "#99FF33"> Iceclad Shrimp  </c> -  <br>
+Plane of Growth  - <c "#99FF33"> Branch of Planar Oak </c> -  can be used to make a fishing pole and used for Wood Elf Cultural tradeskills<br>
+Plane of Growth  - <c "#99FF33"> Ripened Mango  </c> -  <br>
+Skyshrine   - <c "#99FF33"> Drake Egg </c> -  Tanning Agent for Velious leathers and can be used to make clump of dough<br>
+Skyshrine   - <c "#99FF33"> Wurm Egg </c> -  can be used to make clump of dough<br>
+Skyshrine   - <c "#99FF33"> Arctic Mussels  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Skyshrine   - <c "#99FF33"> Arctic Scallops  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Temple of Veeshan  - <c "#99FF33"> Dragon Claw Sliver </c> -  ranged weapon: dam 5, delay 36, range 45<br>
+Temple of Veeshan  - <c "#99FF33"> Dragon Egg </c> -  can be used to make clump of dough and can be brewed into oil<br>
+Temple of Veeshan  - <c "#99FF33"> Drake Egg </c> -  Tanning Agent for Velious leathers and can be used to make clump of dough<br>
+Temple of Veeshan  - <c "#99FF33"> Wurm Egg </c> -  can be used to make clump of dough<br>
+Thurgadin  - <c "#99FF33"> Arctic Mussels  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Thurgadin  - <c "#99FF33"> Arctic Scallops  </c> -  can be baked into Shellcracker's Seafood Salad<br>
+Tower of Frozen Shadow  - <c "#99FF33"> Splinter of Frozen Shadow </c> -  +5 HP<br>
+Tower of Frozen Shadow  - <c "#99FF33"> Bone chips </c> -  <br>
+Wakening Lands  - <c "#99FF33"> Branch of Sylvan Oak </c> -  used for Wood Elf Cultural Fletching<br>
+Wakening Lands   - <c "#99FF33"> Bark Binding  </c> -  <br>
+Wakening Lands   - <c "#99FF33"> Fresh Tree Sap  </c> -  for Iceclad Quest<br>
+Wakening Lands   - <c "#99FF33"> Ripened Mango  </c> -  <br>
+Wakening Lands   - <c "#99FF33"> Yew Leaf </c> -  brewed into tanning agent for velious tailoring<br>
+Western Wastes  - <c "#99FF33"> Dragon Claw Sliver </c> -  ranged weapon: dam 5, delay 36, range 45<br>
+Western Wastes  - <c "#99FF33"> Dragon Egg </c> -  can be used to make clump of dough and can be brewed into oil<br>
+Western Wastes  - <c "#99FF33"> Drake Egg </c> -  Tanning Agent for Velious leathers and can be used to make clump of dough<br>
+Western Wastes  - <c "#99FF33"> Wurm Egg </c> -  can be used to make clump of dough<br>
+<br>    
+<c "#00FF00">Luclin Forages  </c><br>    
+All Luclin**  - <c "#99FF33"> Ancient Tarnished Coin </c> -  <br>
+All Luclin**  - <c "#99FF33"> Mushroom </c> -  can be baked into truffles<br>
+All Luclin**  - <c "#99FF33"> Feather </c> -  <br>
+Dawnshroud Peaks  - <c "#99FF33"> Dawnflower Seeds </c> -  Used in this quest for foraging machette<br>
+Dawnshroud Peaks  - <c "#99FF33"> Dawnshroud Seeds </c> -  <br>
+Dawnshroud Peaks  - <c "#99FF33"> Wild Blueberries </c> -  <br>
+Dawnshroud Peaks  - <c "#99FF33"> Wild Crimson Berries </c> -  <br>
+Fungus Grove  - <c "#99FF33"> Fungus Compost </c> -  Used in this quest<br>
+Fungus Grove  - <c "#99FF33"> Owlbear Egg </c> -  <br>
+Fungus Grove  - <c "#99FF33"> Silt Slider Egg </c> -  <br>
+The Grey  - <c "#99FF33"> Bone Chips </c> -  <br>
+The Grey  - <c "#99FF33"> Chagra Spice </c> -  <br>
+The Grey  - <c "#99FF33"> Petrified Bone Club </c> -  1HB 29/5, Weight 6, Range 40<br>
+The Grey  - <c "#99FF33"> Rotting Sshissar Scales </c> -  <br>
+The Grey  - <c "#99FF33"> Small Ball of Clay </c> -  <br>
+Grimling Forest  - <c "#99FF33"> Azure Nightshade </c> -  <br>
+Grimling Forest  - <c "#99FF33"> Nepeta Cataria Mint </c> -  Snack<br>
+Grimling Forest  - <c "#99FF33"> Ripened Yellow Heartfruit </c> -  <br>
+Grimling Forest  - <c "#99FF33"> Rough Stone Phalange </c> -  <br>
+Grimling Forest  - <c "#99FF33"> Wild Blueberries </c> -  <br>
+Hollowshade Moor  - <c "#99FF33"> Owlbear Egg </c> -  <br>
+Hollowshade Moor  - <c "#99FF33"> Rough Stone Phalange </c> -  A newbie-type dagger<br>
+Hollowshade Moor  - <c "#99FF33"> Silt Slider Egg </c> -  <br>
+Hollowshade Moor  - <c "#99FF33"> Wild Blueberries </c> -  <br>
+Maiden's Eye  - <c "#99FF33"> Nepeta Cataria Mint </c> -  Snack<br>
+Maiden's Eye  - <c "#99FF33"> Twilight Orchid </c> -  Used in this quest for foraging machette<br>
+Marus Seru  - <c "#99FF33"> Rockweed Bulb </c> -  <br>
+Marus Seru  - <c "#99FF33"> Wild Crimson Berries </c> -  <br>
+Mons Letalis  - <c "#99FF33"> Chagra Spice </c> -  <br>
+Mons Letalis  - <c "#99FF33"> Letalis Zenith Vine </c> -  Used in this quest for foraging machette<br>
+Mons Letalis  - <c "#99FF33"> Rockweed Bulb </c> -  <br>
+Netherbian Lair  - <c "#99FF33"> Netherbian Nitrate </c> -  Used in this quest<br>
+Paludal Caverns  - <c "#99FF33"> Fungus Compost </c> -  <br>
+Paludal Caverns  - <c "#99FF33"> Owlbear Dung </c> -  Used in this quest<br>
+Scarlet Desert  - <c "#99FF33"> Red Sands Cactus </c> -  Used in this quest for foraging machette<br>
+Scarlet Desert  - <c "#99FF33"> Chagra Spice </c> -  <br>
+Scarlet Desert  - <c "#99FF33"> Rockweed Bulb </c> -  <br>
+Shadeweaver's Thicket  - <c "#99FF33"> Darkpine Acorns </c> -  <br>
+Shadeweaver's Thicket  - <c "#99FF33"> Luclin Clover </c> -  No rent; used in this quest<br>
+Shadeweaver's Thicket  - <c "#99FF33"> Nepeta Cataria Mint </c> -  Snack<br>
+Shadeweaver's Thicket  - <c "#99FF33"> Payala Fruit </c> -  Snack<br>
+Shadeweaver's Thicket  - <c "#99FF33"> Wild Blueberries </c> -  <br>
+Ssaeshza Temple  - <c "#99FF33"> Rotting Sshissar Scales </c> -  <br>
+Tenebrous Mountains  - <c "#99FF33"> Bloodshrub Thorns </c> -  <br>
+Tenebrous Mountains  - <c "#99FF33"> Wild Blueberries </c> -  <br>
+The Twilight Sea  - <c "#99FF33"> Nepeta Cataria Mint </c> -  Snack<br>
+The Twilight Sea  - <c "#99FF33"> Twilight Orchid </c> -  Used in this quest for foraging machette<br>
+The Twilight Sea  - <c "#99FF33"> Wild Crimson Berries </c> -  <br>
+Umbral Plains  - <c "#99FF33"> Dawnflower Seeds </c> -  Used in this quest for foraging machette<br>
+Vex Thal  - <c "#99FF33"> Twilight Orchid </c> -  Used in this quest for foraging machette<br>
+**cannot be foraged in Nexus or Bazaar<br>    
+<br>    
+<c "#00FF00">Planes of Power  </c><br>    
+Several of the PoP zones that have special forages do not contain normal forages, or only contain certain ones. Of note are: Decay, Disease, Innovation - only the listed forages, and no "common" or edible forages. Justice, Knowledge - listed forages, roots, pods of water; Tactics - listed forages, and water flasks (the vendor-sellable stuff, not normal foraged pods of water) <br>   </c> -  
+Bastion of Thunder  - <c "#99FF33"> rain water </c> -  used for human smithing temper<br>
+Bastion of Thunder  - <c "#99FF33"> lightning stone </c> -  wt 0.5, small, all/all<br>
+Bastion of Thunder  - <c "#99FF33"> thunder stone </c> -  wt 0.5, small, all/all<br>
+Crypt of Decay  - <c "#99FF33"> cockroach </c> -  used in baking<br>
+Crypt of Decay  - <c "#99FF33"> deadly mushroom </c> -  wt 0.6, small, all/all<br>
+Crypt of Decay  - <c "#99FF33"> dusty cobweb </c> -  wt 0.1, small, all/all<br>
+Crypt of Decay  - <c "#99FF33"> fetid fluid </c> -  wt 0.5, small, all/all<br>
+Disease  - <c "#99FF33"> deadly mushroom </c> -  wt 0.6, small, all/all<br>
+Disease  - <c "#99FF33"> malarian larvae </c> -  wt 0.1, tiny, all/all, slot: ammo, skill mod: fishing 3%<br>
+Disease  - <c "#99FF33"> fetid fluid </c> -  wt 0.5, small, all/all<br>
+Fire  - <c "#99FF33"> chunk of sulfur </c> -  wt 0.5, small, all/all<br>
+Fire  - <c "#99FF33"> everburning oil </c> -  wt 0.5, small, all/all<br>
+Fire  - <c "#99FF33"> magnesium powder </c> -  wt 0.5, small, all/all<br>
+Fire  - <c "#99FF33"> sliver of onyx </c> -  wt 0.5, small, all/all<br>
+Innovation  - <c "#99FF33"> clockwork grease </c> -  used in tinkering<br>
+Innovation  - <c "#99FF33"> phosphorescent goop </c> -  <br>
+Innovation  - <c "#99FF33"> pile of rust </c> -  <br>
+Justice  - <c "#99FF33"> breadcrumbs </c> -  meal (stats in database) used in baking<br>
+Justice  - <c "#99FF33"> cockroach </c> -  (stats in database) used in baking<br>
+Justice  - <c "#99FF33"> justice fruit </c> -  feast (stats in database), used in baking<br>
+Knowledge  - <c "#99FF33"> bookworm </c> -  used as fishing bait, ammo, skill mod: fishing 2%, wt 0.1, tiny, all/all<br>
+Knowledge  - <c "#99FF33"> habanero pepper </c> -  enduring meal, wt 0.8, small, all/all, used in baking<br>
+Tactics  - <c "#99FF33"> broken rallosian blade </c> -  wt 0.5, small, all/all<br>
+Tactics  - <c "#99FF33"> Pieces of shattered armor </c> -  wt 0.5, small, all/all<br>
+Tactics  - <c "#99FF33"> Tuft of war boar fur </c> -  wt 0.4, small, all/all<br>
+Temple of Marr (Honor B)  - <c "#99FF33"> heartfruit walnut </c> -  wt 0.1, all/all<br>
+Temple of Marr (Honor B)  - <c "#99FF33"> phoenix egg </c> -  feast, wt 0.6, small, all/all, used in baking<br>
+Torment  - <c "#99FF33"> scrap of flesh </c> -  wt 0.5, small, all/all<br>
+Torment  - <c "#99FF33"> acidic water </c> -  wt 0.5, small, all/all<br>
+Torment  - <c "#99FF33"> keen metal spike </c> -  wt 0.5, small, all/all<br>
+Water  - <c "#99FF33"> cluster of kelp </c> -  wt 1.0, small, all/all, not vendor-sellable<br>
+<br>    
+<br>    
+    
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

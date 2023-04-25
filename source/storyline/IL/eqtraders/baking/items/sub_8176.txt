@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/566.txt">Hearty Meat Sauce</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51 or 52)&nbsp;&nbsp;&nbsp;(Griffon Meat, Jug of Sauces, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/364.txt">Hearty Meat Sauce</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51 or 52)&nbsp;&nbsp;&nbsp;(Anaconda Meat, Jug of Sauces, Spices) <br>

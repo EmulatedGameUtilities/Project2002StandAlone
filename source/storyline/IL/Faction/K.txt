@@ -1,0 +1,57 @@
+Faction Lists
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <a href="file:///storyline/il/Faction/B.txt">B</a> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <c "#FFFF00">K</c> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br><a href="file:///storyline/il/Faction/K/KaladimMerchants.txt">Kaladim Merchants</a>
+<br><a href="file:///storyline/il/Faction/K/KaneBayle.txt">Kane Bayle</a>
+<br><a href="file:///storyline/il/Faction/K/KaranaBandits.txt">Karana Bandits</a>
+<br><a href="file:///storyline/il/Faction/K/KaranaResidents.txt">Karana Residents</a>
+<br><a href="file:///storyline/il/Faction/K/KazonStormhammer.txt">Kazon Stormhammer</a>
+<br><a href="file:///storyline/il/Faction/K/KeepersoftheArt.txt">Keepers of the Art</a>
+<br><a href="file:///storyline/il/Faction/K/KelethinMerchants.txt">Kelethin Merchants</a>
+<br><a href="file:///storyline/il/Faction/K/KerraIsle.txt">Kerra Isle</a>
+<br><a href="file:///storyline/il/Faction/K/KhatiSha.txt">Khati Sha</a>
+<br><a href="file:///storyline/il/Faction/K/KingAkAnon.txt">King Ak`Anon</a>
+<br><a href="file:///storyline/il/Faction/K/KingAT.txt">King Aythox Thex</a>
+<br><a href="file:///storyline/il/Faction/K/KingNT.txt">King Naythorne Thex</a>
+<br><a href="file:///storyline/il/Faction/K/KingTT.txt">King Tearis Thex</a>
+<br><a href="file:///storyline/il/Faction/K/KingTormax.txt">King Tormax</a>
+<br><a href="file:///storyline/il/Faction/K/KingXorbb.txt">King Xorbb</a>
+<br><a href="file:///storyline/il/Faction/K/KithicorRes.txt">Kithicor Residents</a>
+<br><a href="file:///storyline/il/Faction/K/KlyofDalnir.txt">Kly of Dalnir</a>
+<br><a href="file:///storyline/il/Faction/K/KnightsofThunder.txt">Knights of Thunder</a>
+<br><a href="file:///storyline/il/Faction/K/KnightsofTruth.txt">Knights of Truth</a>
+<br><a href="file:///storyline/il/Faction/K/KoboldsofFirePit.txt">Kobolds of Fire Pit</a>
+<br><a href="file:///storyline/il/Faction/K/Krag.txt">Krag</a>
+<br><a href="file:///storyline/il/Faction/K/Kromdek.txt">Kromdek</a>
+<br><a href="file:///storyline/il/Faction/K/Kromdul.txt">Kromdul</a>
+<br><a href="file:///storyline/il/Faction/K/Kromrif.txt">Kromrif</a>
+<br><a href="file:///storyline/il/Faction/K/Kromzek.txt">Kromzek</a>
+<br><a href="file:///storyline/il/Faction/K/KunarkFireGiants.txt">Kunark Fire Giants</a>

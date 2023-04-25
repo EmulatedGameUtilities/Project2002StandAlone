@@ -1,0 +1,110 @@
+Shar Vahl Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+Alkanet Root, Mugwart, Yebamante, Reucoat's, Sticklewort, Bistort, Boneset, Vox's Dust, Eyebright, Sea Spirit, Burdock Root, Stinging Nettle, Damiana, Ground Figwort, Horehound, Vetiver Root, Bugbane, Feverfew, Woundwart, Medicine Bag - Spiritist Ragnar (-284, -368), Kanaad (shaman guild), Mydi Darjik (-254, -389) note that Mydi's prices are cheaper than Spiritist Ragnar's prices, but she roams, and is not always open for business <br>
+sandalwood - Alchemist Hikal (building at -284, -368) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelen's Quick Treats, Binelen's Succulence, Xectia's Favored Flavors, Xectia's Hot Pie, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Ghumim's Delights, Ghumim's Classical Dishes, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go, Sorin's Tasty Kills - Trade Historian Hajika (-111, 66), Cook Mylis (castle, 460, -163) <br>
+mixing bowl - Merchant Gamouz (building at 249, -254) <br>
+mixing bowl, water flask, lettuce - Brokh (building at 249, -254) <br>
+bat wings - Alchemist Hikal (building at -284, -368) <br>
+bottle of milk, water flask - Jheral Alezya (-456, -33), Ulman Talmil (370, -20) <br>
+oven - loc -476, 1, loc -139, 433, loc -201, -178, 2 at loc 382, 29 <br>
+water flask - Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Mahj Hujara (443, -53) <br>
+Spices, Garnish, Jug of Sauces, Vinegar, Frosting, Cup of Flour, Bottle of Milk, Spit, Mixing Bowl - Cook Yalkiin (castle, 460, -163), Supply Master Guresh (451, 118) <br>
+loaf of bread, water flask - Jharia Talmil (370, -20)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+Brewer's Limericks, Garsen's Brewing List, Garsen's Notes, Garsen's Secret Brews - Librarian Almasa (125, 67) <br>
+grapes - Merchant Gamouz (building at 249, -254) <br>
+Barley, Hops, Rice, Malt, Yeast, Wine Yeast, Natures Beverages - Salla (building at 249, -254), Brewmaster Hizier (-205, -223), Brewer Mikkis (-205, -223) <br>
+bottle, cask - Arrin Murij (building at 249, -254), Kojik (-497, 44) <br>
+snake scales - Alchemist Hikal (building at -284, -368) <br>
+water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Mahj Hujara (443, -53) <br>
+brew barrel - 3 at loc -201, -178 <br>
+short beer, water flask - Jharia Talmil (370, -20) <br>
+water flask, bottle - Ulman Talmil (370, -20) <br>
+barley, hops, rice, malt, yeast, wine yeast, packet of paeala sap, bottle, shotglass, cask, paeala bark - Brewer Mikkis (-196, -177), Brewmaster Hizier (-208, -228) <br>
+mistletoe - Alchemist Hikal (building at -284, -368)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+fishing pole, bait - Dharr Nadim (-350, 125), Ulman Talmil (370, -20) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+A Bowyers Guide, Fletching - Librarian Almasa (125, 67) <br>
+Field Point Arrowheads, Hooked Arrowheads, Silver Tipped Arrowheads, Bundled Wooden Arrow Shafts, Bundled Bone Arrow Shafts, Bundled Ceramic Arrow Shafts, Bundled Steel Arrow Shafts, Several Round Cut Fletchings, Several Parabolic Cut Fletchings, Several Shield Cut Fletchings, Set of Wooden Arrow Vanes, Set of Bone Arrow Vanes, Set of Ceramic Arrow Vanes, Fletching, Large Groove Nocks, Medium Groove Nocks, Small Groove Nocks, Fletching Kit, Tailoring Quivers - Rytan (-403, 410) <br>
+Hickory Bow Staff, Elm Bow Staff, Ashwood Bow Staff, Oak Bow Staff, Darkwood Bow Staff, Whittling Blade, Planing Tool, Standard Bow Cam, Hemp Twine, Linen String, Silk String, Fletching Kit, A Bowyers Guide - Hokar (-384, 454)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+silver/electrum/gold/platinum bars, jeweller's kit, Legacy of Jewelcraft, fire opal, star ruby, fire emerald - Jhimis Khadwi (300, -367), Katja (-215, -27) <br>
+Carnelian, Malachite, Lapis Lazuli, Turquoise, Hematite, Bloodstone, Jasper, Star Rose Quartz, Amber, Jade, Pearl, Topaz, Cat's Eye Agate, Onyx, Peridot, Emerald, Opal, Fire Opal, Sapphire, Ruby - Uhlma Mareesh (219, -367) <br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+Miners Guide to Toxicology, Poisons of the Lost Continent, Renux's Translations, Scouts Poisons, Secrets of the White Rose, Study of Ethereal Suspension - Toxicologist Tariid (-85, 54) <br>
+An Old Delivered Book, suspension, mortar and pestle, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial - Mugdah (-348, 503)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+Basic Pottery - Librarian Almasa (125, 67) <br>
+water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Jharia & Ulman Talmil (370, -20), Mahj Hujara (443, -53) <br>
+Skewers Sketch, Small Jar Sketch, Medium Jar Sketch, Large Jar Sketch, Bowl Sketch, Pot Sketch, Small Deity Sketch, Smoker Sketch, Pie Tin Sketch, Cake Round Sketch, Muffin Tin Sketch, Medium Bowl Sketch, Large Bowl Sketch, Ceramic Lining Sketch, Barbarian Template, Gnome Template, Troll Template, Animal Template, Idol Sketch - Larken (building at 273, -455) <br>
+clay (block, small block, large block) - Nocia (building at 273, -455) <br>
+clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), Glass Shard, Basic Pottery, Vial Sketch, Lined Vial Sketch, Sealed Vial Sketch, Sculpting Tools, Glaze Mortar, Idol Sketch, Ceramic Lining Sketch, Small Deity Sketch - Gherick Alarhun (building at 273, -455), Chogar (-483, -313) <br>
+3 pottery wheels, 3 kilns - building at 273, -455 <br>
+pottery wheel - loc -488, -312 <br>
+Vah Shir model sketch - Merchant Ayyad (240, -187) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+Armor and Weapons Guide - Librarian Almasa (125, 67) <br>
+Basic Blacksmithing; Armor and Weapons Guide; Dirge of the ForgeFire; Ikthars Fine Steel Skin; Fireprides Guide to Shield; Craft Rings, Chains, and Arrowheads - Trade Historian Hajika (-111, 66) <br>
+Wolf Bane Lore: Volume. I, Wolf Bane Lore: Volume. II, Wolf Bane Lore: Volume. III, Weapon Assembly Kit - Arms Historian Qua (-177, 51) <br>
+Hinge Mold, Container Base Mold, Container Lid Mold, Small Container Lid Mold, Small Container Base Mold, Large Container Base Mold, Large Container Lid Mold, Lantern Casing Mold, File Mold, Dual-Edged Blade Mold, Heavy Steel Blade Mold, Spiked Ball Mold, Hilt Mold, Pommel Mold, Dirge of the ForgeFire - Master Barkhem (building at 179, -156) <br>
+Barbarian Cookie Mold, Gnome Cookie Mold, Troll Cookie Mold, Animal Cookie Mold, Muffin Tin Mold, Pie Tin Mold, Cake Round Mold, Skewer Mold, Bread Tin Mold, Pot Mold, Smoker Base Mold, Standing Legs Mold, Smoker Support Mold, Hinge Mold, Scaler Mold, Lantern Casing Mold, Basic Blacksmithing, Spit - Apprentice Kafy (building at 179, -156) <br>
+sheet metal, (medium) banded armor molds, Basic Blacksmithing, Armor and Weapons Guide - Apprentice Garr (building at 179, -156) <br>
+water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Jharia & Ulman Talmil (370, -20), <br>
+needle mold, thimble mold - Jala (upstairs, -302, -367) <br>
+ore (small piece, small & large brick), sharpening stone, smithy hammer, smithing chisel, forging hammer, sheet metal - Nocia (building at 273, -455), Supply Sergean Ker'Far (417, 396) <br>
+nepeta oil extract - Chialle (-501, 116), Jolod Amulek (461, 217) <br>
+forge - loc 284, -201, 2 at loc 413, 403 <br>
+sandalwood - Alchemist Hikal (building at -284, -368) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+How To Sew: Medium Sizes, How To Sew: Small Sizes, How To Sew: Large Sizes, Tailoring, Tailoring Quivers, Vah Shir Tailoring, Vah Shir Silken Products - Librarian Almasa (125, 67) <br>
+Fleeting Quiver Pattern, Quiver Pattern, Backpack Pattern, Tailoring, How To Sew: Medium Sizes, How To Sew: Small Sizes, How To Sew: Large Sizes, Large Sewing Kit, Mask Pattern, Gorget Pattern, Cloak Pattern, Belt Pattern, Shoulderpad Pattern, Whip Pattern, Wristband Pattern - Jala (upstairs, 302, -367) <br>
+loom - loc 279, -375 (upstairs) <br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+large lantern - Gawra (-347, 313)<br>
+large lantern, bottle - Ulma Talmil (370, -20), Mahj Hujara (443, -53)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

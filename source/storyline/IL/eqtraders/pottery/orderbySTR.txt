@@ -1,0 +1,16 @@
+<c "#66CCFF">Recipes Listed By Stat (STR)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/932.txt">Ceramic Gavel of Justice</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">10</c> MR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/940.txt">Ceramic Water Sprinkler of Marr</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">10</c> DEX: 10 WIS: 8 INT: 8 FR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/987.txt">Grandmaster Potter's Sculpter</a></c>  &nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">10</c> WIS: 10 INT: 10 CHA: 50)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/820.txt">Golden Idol of Bristlebane</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 7STR: <c "#66CCFF">9</c> AGI: 5 DEX: 5)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/828.txt">Golden Idol of Rallos Zek</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Unknown)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 10STR: <c "#66CCFF">9</c> STA: 5 HP: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/819.txt">Golden Idol of Brell Serilis</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 7STR: <c "#66CCFF">7</c> STA: 7 WIS: 4)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/821.txt">Golden Idol of Cazic Thule</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 5STR: <c "#66CCFF">7</c> WIS: 5 INT: 5 MANA: 30)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/827.txt">Golden Idol of Quellious</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 6STR: <c "#66CCFF">7</c> AGI: 6 DEX: 6 HP: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/913.txt">Idol of Rallos Zek</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<=248)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">5</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/904.txt">Idol of Brell Serilis</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">3</c> STA: 4)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/906.txt">Idol of Cazic Thule</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(248)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">2</c> INT: 3)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/916.txt">Idol of the Tribunal</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: <c "#66CCFF">2</c> WIS: 3)<br>

@@ -1,0 +1,42 @@
+Legacy of Ykesha Spell Research Information<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<body link="#0088ff" mlink="#00ccff">
+<c "#FF0000">Legacy of Ykesha Spell Research Information
+<br>
+<c "#00ff00">Components Listed by Type</c>
+<br>
+<a href="file:///storyline/il/research/storyComponents.txt"> <c "#00008B">1) <c "#FF8C000">By Misc Components</a>
+<br>
+<a href="file:///storyline/il/research/storyRunes.txt"> <c "#00008B">2) By<c "#00ff00"> Rune Components</a>
+<br>
+<a href="file:///storyline/il/research/storyToharon.txt"> <c "#00008B">3) <c "#00ff00">By Toharon Components</a>
+<br>
+<a href="file:///storyline/il/research/storyWords.txt"> <c "#00008B">4) <c "#00ff00">By Word Components</a>
+<br>
+<a href="file:///storyline/il/research/storyYaeth.txt"> <c "#00008B">5) <c "#00ff00">By Yaeth Components</a>
+<br>
+<a href="file:///storyline/il/research/storyZeannor.txt"> <c "#00008B">6) <c "#00ff00">By Zeannor Components</a>
+<br><br>
+<c "#00ff00">Components Listed By Class</c>
+<br>
+<a href="file:///storyline/il/research/storyClericSpells.txt"><c "#00008B">1) <c "#00ff00">Cleric Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyDruidSpells.txt"><c "#00008B">2) <c "#00ff00">Druid Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyEnchanterSpells.txt"><c "#00008B">3) <c "#00ff00">Enchanter Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyMagicianSpells.txt"><c "#00008B">4) <c "#00ff00">Magician Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyNecromancerSpells.txt"><c "#00008B">5) <c "#00ff00">Necromancer Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyShamanSpells.txt"><c "#00008B">6) <c "#00ff00">Shaman Spells</a>
+<br>
+<a href="file:///storyline/il/research/storyWizardSpells.txt"><c "#00008B">7) <c "#00ff00">Wizard Spells</a>
+<br>
+<br>
+<br>
+Thanks to Ramsus for the original compilation Spell Research Information Guide. I made a slight modification to component list to sort by component types like Runes and Words. Also, I included the WIS Spell Class Research. Many of us will be collecting components for several classes, I wanted to find information quicker from Merchant Mining, Bazaar Searching and Mob Drops.<br>
+
+<c "#FF0000">Uuena Van`Light, Arcanist on Xegony<br>
+<c "#FF0000">Uuena@keldar.com<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>

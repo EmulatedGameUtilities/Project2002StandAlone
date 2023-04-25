@@ -1,0 +1,82 @@
+nt
+EQ TRADERS CORNER TRADE SUPPLIES LIST
+<br>
+Last Updated <c "#FF0000">2/27/03</c><br>
+Created for the EverQuest StoryWindow by: <br>
+<c "#FFFF00">Quesci Jinete</c>, Oracle of Wings of Wrath guild, Quellious server (<c "#FFFF00">Quescient@yahoo.com</c>)<br>
+<br>
+All information comes from the locations guides found at http://www.eqtraders.com
+<br><br>
+
+<c "#00CC00"> ========================= </c> <br>
+<c "#00CC00"> By Skill</c> <br>
+<c "#00CC00"> ========================= </c> <br>
+<a href="file:///storyline/il/eqtraders/alchemysupplies.txt">Alchemy </a><br>
+<a href="file:///storyline/il/eqtraders/bakingsupplies.txt">Baking </a><br>
+<a href="file:///storyline/il/eqtraders/brewingsupplies.txt">Brewing </a><br>
+<a href="file:///storyline/il/eqtraders/fishingsupplies.txt">Fishing </a><br>
+<a href="file:///storyline/il/eqtraders/fishingzones.txt">Zone-specific fish</a><br>
+<a href="file:///storyline/il/eqtraders/fletchingsupplies.txt">Fletching </a><br>
+<a href="file:///storyline/il/eqtraders/foragingzones.txt">Zone specific forages</a><br>
+<a href="file:///storyline/il/eqtraders/jewelcraftsupplies.txt">Jewelcraft </a><br>
+<a href="file:///storyline/il/eqtraders/poisonsupplies.txt">Make Poison </a><br>
+<a href="file:///storyline/il/eqtraders/potterysupplies.txt">Pottery </a><br>
+<a href="file:///storyline/il/eqtraders/smithingsupplies.txt">Smithing </a><br>
+<a href="file:///storyline/il/eqtraders/researchsupplies.txt">Spell Research </a><br>
+<a href="file:///storyline/il/eqtraders/tailoringsupplies.txt">Tailoring </a><br>
+<a href="file:///storyline/il/eqtraders/tinkeringsupplies.txt">Tinkering </a><br><br>
+
+
+<c "#00CC00"> ========================= </c> <br>
+<c "#00CC00"> By Zone</c><br>
+<c "#00CC00"> ========================= </c> <br>
+<a href="file:///storyline/il/eqtraders/zonepoknowledge.txt"><c "#FFFF00">Plane of Knowledge</c></a><br>
+<a href="file:///storyline/il/eqtraders/zoneakanon.txt">Ak Anon</a><br>
+<a href="file:///storyline/il/eqtraders/zonebazaar.txt">Bazaar</a><br>
+<a href="file:///storyline/il/eqtraders/zonebutcherblock.txt">Butcherblock Mountains</a><br>
+<a href="file:///storyline/il/eqtraders/zonecabilis.txt">Cabilis</a><br>
+<a href="file:///storyline/il/eqtraders/zoneecommons.txt">Commonlands, East</a><br>
+<a href="file:///storyline/il/eqtraders/zonewcommons.txt">Commonlands, West</a><br>
+<a href="file:///storyline/il/eqtraders/zoneerudin.txt">Erudin</a><br>
+<a href="file:///storyline/il/eqtraders/zoneeverfrost.txt">Everfrost</a><br>
+<a href="file:///storyline/il/eqtraders/zonefelwithe.txt">Felwithe</a><br>
+<a href="file:///storyline/il/eqtraders/zonefieldofbone.txt">Field of Bone</a><br>
+<a href="file:///storyline/il/eqtraders/zonefiriona.txt">Firiona Vie</a><br>
+<a href="file:///storyline/il/eqtraders/zonefreeport.txt">Freeport</a><br>
+<a href="file:///storyline/il/eqtraders/zonehalas.txt">Halas</a><br>
+<a href="file:///storyline/il/eqtraders/zonehighhold.txt">Highpass Hold</a><br>
+<a href="file:///storyline/il/eqtraders/zonehighkeep.txt">Highpass Keep</a><br>
+<a href="file:///storyline/il/eqtraders/zonejaggedpine.txt">Jaggedpine</a><br>
+<a href="file:///storyline/il/eqtraders/zonekael.txt">Kael Drakkel</a><br>
+<a href="file:///storyline/il/eqtraders/zonekaladim.txt">Kaladim</a><br>
+<a href="file:///storyline/il/eqtraders/zonekatta.txt">Katta Castellum</a><br>
+<a href="file:///storyline/il/eqtraders/zonekelethin.txt">Kelethin</a><br>
+<a href="file:///storyline/il/eqtraders/zonekithicor.txt">Kithicor Forest</a><br>
+<a href="file:///storyline/il/eqtraders/zonelfay.txt">Lesser Faydark</a><br>
+<a href="file:///storyline/il/eqtraders/zonemisty.txt">Misty Thicket</a><br>
+<a href="file:///storyline/il/eqtraders/zoneoasis.txt">Oasis</a><br>
+<a href="file:///storyline/il/eqtraders/zoneoot.txt">Ocean of Tears</a><br>
+<a href="file:///storyline/il/eqtraders/zoneoggok.txt">Oggok</a><br>
+<a href="file:///storyline/il/eqtraders/zonepaineel.txt">Paineel</a><br>
+<a href="file:///storyline/il/eqtraders/zonepoinnovation.txt">Plane of Innovation</a><br>
+<a href="file:///storyline/il/eqtraders/zonepostorms.txt">Plane of Storms</a><br>
+<a href="file:///storyline/il/eqtraders/zonepotranquility.txt">Plane of Tranquility</a><br>
+<a href="file:///storyline/il/eqtraders/zoneqeynos.txt">Qeynos</a><br>
+<a href="file:///storyline/il/eqtraders/zoneqey2qrg.txt">Qeynos Hills</a><br>
+<a href="file:///storyline/il/eqtraders/zonerivervale.txt">Rivervale</a><br>
+<a href="file:///storyline/il/eqtraders/zonenro.txt">Ro Desert, Northern</a><br>
+<a href="file:///storyline/il/eqtraders/zonesro.txt">Ro Desert, Southern</a><br>
+<a href="file:///storyline/il/eqtraders/zonesanctus.txt">Sanctus Seru</a><br>
+<a href="file:///storyline/il/eqtraders/zoneskyshrine.txt">Skyshrine</a><br>
+<a href="file:///storyline/il/eqtraders/zoneqrg.txt">Surefall Glade</a><br>
+<a href="file:///storyline/il/eqtraders/zoneshadowhaven.txt"><c "#FFFF00">Shadowhaven</c></a><br>
+<a href="file:///storyline/il/eqtraders/zonesharvahl.txt">Shar Vahl</a><br>
+<a href="file:///storyline/il/eqtraders/zonesteamfont.txt">Steamfont</a><br>
+<a href="file:///storyline/il/eqtraders/zonetoxxulia.txt">Toxxulia Forest</a><br>
+<a href="file:///storyline/il/eqtraders/zonethurgadin.txt">Thurgadin</a><br>
+<a href="file:///storyline/il/eqtraders/zonewarslik.txt">Warslik Woods</a><br>
+Other zones to be added as I can<br><br>
+<c "#00CC00"> ========================= </c> <br><br>
+
+<c "#99FF33">The fine print: All text on EQTraders is copyright by the respective authors. The game EverQuest is a registered trademark of Sony Computer Entertainment America, Inc. This site is not meant to represent official EQ policy, and neither EQTraders nor the creator of this work are responsible for errors/omissions that occur due to changes in EverQuest trade skills.</c>
+

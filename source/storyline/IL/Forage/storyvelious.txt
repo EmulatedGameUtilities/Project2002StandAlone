@@ -1,0 +1,62 @@
+<HTML>
+
+<HEAD>
+<TITLE>Velious Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Velious Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+All Velious Zones <FONT COLOR="#8080FF">Glob of Slush Water</FONT>     <br>
+All Velious Zones <FONT COLOR="#8080FF">Tuft of Dire Wolf Fur</FONT>  Tailoring  <br>
+All Velious Zones <FONT COLOR="#8080FF">Small Chunk of Velium</FONT>   +5 HP   <br>
+Cobalt Scar  <FONT COLOR="#8080FF">Arctic Mussels </FONT> Baking <br> 
+Cobalt Scar  <FONT COLOR="#8080FF">Arctic Clams</FONT> <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Artic Scallops</FONT> Baking <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Small Clam </FONT> Baking <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Arctic King Crab </FONT>Baking  <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Cobalt Rock Crab</FONT> Baking <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Brackish Water</FONT>  <br>  
+Cobalt Scar  <FONT COLOR="#8080FF">Cobalt Abalone</FONT> Baking <br>  
+Dragon Necropolis <FONT COLOR="#8080FF">Cracked Dragon Bone </FONT>  <br>  
+Dragon Necropolis <FONT COLOR="#8080FF">Dragon Claw Sliver </FONT>  <br>
+Dragon Necropolis <FONT COLOR="#8080FF">Withered Dragon Scale</FONT>  <br>
+Dragon Necropolis <FONT COLOR="#8080FF"> Rotting Dragon Scale </FONT>  <br>
+Eastern Wastes  <FONT COLOR="#8080FF">Artic King Crab</FONT> Baking <br>
+Eastern Wastes  <FONT COLOR="#8080FF">Arctic Mussels</FONT> Baking <br>
+Eastern Wastes  <FONT COLOR="#8080FF">Arctic Scallops</FONT> Baking <br>
+Eastern Wastes  <FONT COLOR="#8080FF">Branch of Sylvan Oak</FONT>Fletching   <br>
+Great Divide <FONT COLOR="#8080FF"> Arctic Mussels </FONT>   Baking  <br> 
+Great Divide <FONT COLOR="#8080FF"> Lichen Roots </FONT>    <br> 
+Iceclad Ocean <FONT COLOR="#8080FF"> Arctic Mussels</FONT>   Baking  <br> 
+Iceclad Ocean <FONT COLOR="#8080FF"> Arctic King Crab </FONT>  Baking   <br> 
+Iceclad Ocean <FONT COLOR="#8080FF"> Arctic Scallops</FONT>  Baking   <br> 
+Iceclad Ocean <FONT COLOR="#8080FF"> Iceclad Shrimp </FONT>    <br> 
+Skyshrine <FONT COLOR="#8080FF"> Drake Egg </FONT>  Baking & Tanning Agent   <br>
+Skyshrine <FONT COLOR="#8080FF"> Wurm Egg </FONT>  Baking   <br> 
+Skyshrine <FONT COLOR="#8080FF"> Arctic Mussels </FONT>   Baking  <br> 
+Skyshrine <FONT COLOR="#8080FF"> Arctic Scallops </FONT>  Baking   <br> 
+Temple of Veeshan <FONT COLOR="#8080FF">  Dragon Egg </FONT>  Baking & Brewing  <br>
+Temple of Veeshan <FONT COLOR="#8080FF"> Dragon Claw sliver </FONT>    <br> 
+Temple of Veeshan <FONT COLOR="#8080FF"> Drake Egg </FONT>  Baking & Tanning Agent   <br> 
+Temple of Veeshan <FONT COLOR="#8080FF"> Wurm Egg </FONT>   Baking   <br> 
+Thurgadin <FONT COLOR="#8080FF">Arctic Mussels </FONT>  Baking   <br>   
+Thurgadin <FONT COLOR="#8080FF">Arctic Scallops</FONT>  Baking   <br>  
+Tower of Frozen Shadow <FONT COLOR="#8080FF"> Bone Chips  </FONT>     <br>     
+Tower of Frozen Shadow <FONT COLOR="#8080FF"> Splinter of Frozen Shadow  </FONT>  +5 HP    <br>    
+Wakening Lands  <FONT COLOR="#8080FF"> Branch of Sylvan Oak </FONT>   Fletching   <br>     
+Wakening Lands  <FONT COLOR="#8080FF"> Bark Binding </FONT>     <br>     
+Wakening Lands  <FONT COLOR="#8080FF"> Fresh Tree Sap </FONT>  Iceclad Quest for Rough Silver Chain   <br>     
+Wakening Lands  <FONT COLOR="#8080FF"> Ripened Mango </FONT>     <br>     
+Wakening Lands  <FONT COLOR="#8080FF"> Yew Leaf </FONT>  Tanning Agent    <br>     
+Western Wastes <FONT COLOR="#8080FF">  Dragon Egg </FONT>  Baking & Brewing  <br>
+Western Wastes <FONT COLOR="#8080FF"> Dragon Claw sliver </FONT>    <br> 
+Western Wastes <FONT COLOR="#8080FF"> Drake Egg </FONT>  Baking & Tanning Agent   <br> 
+Western Wastes <FONT COLOR="#8080FF"> Wurm Egg </FONT>   Baking   <br> 
+
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+</BODY>
+</HTML>

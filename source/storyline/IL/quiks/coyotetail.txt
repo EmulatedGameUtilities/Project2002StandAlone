@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Coyote Tail</c><br>
+Vendor: Gindlin Toxfodder (-3000, -13400)<br>
+Location: West Karana<br>
+Poison: Eyeburn Solution / Retinal Deactivator / Shadowveil Hemlock<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

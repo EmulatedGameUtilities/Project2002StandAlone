@@ -1,0 +1,24 @@
+Icewell Keep Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+These merchants are underneath the main keep. Note that the area under the keep has quite a few 50+ mobs in it, and we've yet to find a path to these merchants that does NOT involve fighting your way through to them. Also be aware that once you do get to them, there's a side-path that leads away from them that appears to end in a pit. Stepping through there will send you through a 1-way zone and dump you into the tizmak caves in the Great Divide.
+<br><br>
+
+<c "#00CC00">Jewelcraft </c><br>
+* 18 gems, Legacy of Jewelcraft, jewelry kit - Coldain Outcast (under keep, 53, 920) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* small banded armor molds, lantern casing mold - Coldain Oucast (under keep, 12, 894) <br>
+* forge - 20, 888 (under keep)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

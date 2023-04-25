@@ -1,0 +1,213 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Rune of Alteration<br>
+<c "#0088ff">Breath of Karana (Druid 56)<br>
+Pillar of Lightening (Wizard 54)<br>
+Markar’s Discord (Wizard 56)<br>
+Reckoning (Cleric 54)<br>
+Tishan’s Discord (Wizard 51)<br>
+Acumen of Dar'khura (Shaman 58)<br>
+
+<br><c "#00ff00">Rune of Amalgamation<br>
+<c "#0088ff">Upheaval (Druid 51)<br>
+Entrapping Roots (Druid 60)<br>
+Improved Invisibility (Wizard 55)<br>
+Elnerick’s Electrical Rending (Wizard 60)<br>
+Greater Familiar (Wizard 60)<br>
+Sunstrike (Wizard 60)<br>
+Upheaval (Cleric 52)<br>
+Torrent of Poison (Shaman 55)<br>
+
+<br><c "#00ff00">Rune of Antithesis<br>
+<c "#0088ff">Disintegrate (Wizard 60)<br>
+Vengeance of Al’Kabor (Wizard 60)<br>
+Improved Invisibility to Undead (Cleric 50)<br>
+
+<br><c "#00ff00">Rune of Association<br>
+<c "#0088ff">Entrapping Roots (Druid 60)<br>
+Evacuate (Wizard 57)<br>
+Eye of Tallon (Wizard 57)<br>
+Flaming Sword of Xuzl (Wizard 59)<br>
+Greater Familiar (Wizard 60)<br>
+Primal Avatar (Shaman 60)<br>
+
+<br><c "#00ff00">Rune of Cascade<br>
+<c "#0088ff">Improved Invisibility (Wizard 55)<br>
+Firetree’s Familiar Enhancement (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Coalition<br>
+<c "#0088ff">Call of Karana (Druid 52)<br>
+Eye of Tallon (Wizard 57)<br>
+Sunskin (Cleric 51)<br>
+
+<br><c "#00ff00">Rune of Complexity<br>
+<c "#0088ff">Decession (Wizard 56)<br>
+Spellshield (Wizard 58)<br>
+Firetree’s Familiar Enhancement (Wizard 60)<br>
+Ethereal Elixir (Cleric 60)<br>
+
+<br><c "#00ff00">Rune of Conglomeration<br> 
+<c "#0088ff">Bonds of Tunare (Druid 57)<br>
+Circle of Seasons (Druid 58)<br>
+Atol’s Spectral Shackles (Wizard 51)<br>
+Levitation (Wizard 51)<br>
+Firetree’s Familiar Enhancement (Wizard 60)<br>
+Word of Redemption (Cleric 60)<br>
+Banishment of Shadows (Cleric 60)<br>
+
+<br><c "#00ff00">Rune of Conjunction<br>
+<c "#0088ff">Plainsight (Wizard 55)<br>
+Evacuate (Wizard 57)<br>
+Pillar of Flame (Wizard 57)<br>
+Greater Familiar (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Contradiction<br>
+<c "#0088ff">Succor (Druid 57)<br>
+Spellshield (Wizard 58)<br>
+Banishment of Shadows (Cleric 60)<br>
+
+<br><c "#00ff00">Rune of Coruscating<br>
+<c "#0088ff">Ro's Smoldering Disjunction (Druid 56)<br>
+Moonfire (Druid 60)<br>
+Garison’s Superior Sundering (Wizard 60)<br>
+Sunstrike (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Current<br>
+<c "#0088ff">Levitation (Wizard 51)<br>
+Tears of Druzzil (Wizard 52)<br>
+Invert Gravity (Wizard 59)<br>
+Lure of Ice (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Divergency<br>
+<c "#0088ff">Wake of Karana (Druid 56)<br>
+Banishment (Druid 60)<br>
+Pillar of Flame (Wizard 57)<br>
+Ice Spear of Solist (Wizard 60)<br>
+Talisman of The Cat (Shaman 57)<br>
+Cannibalize IV (Shaman 58)<br>
+
+<br><c "#00ff00">Rune of Draught<br>
+<c "#0088ff">Circle of Winter (Druid 51)<br>
+Frost (Druid 57)<br>
+Draught of Jiva (Wizard 55)<br>
+
+<br><c "#00ff00">Rune of Druzzil<br>
+<c "#0088ff">Tears of Druzzil (Wizard 52)<br>
+
+<br><c "#00ff00">Rune of Ellipse<br>
+<c "#0088ff">Circle of Summer (Druid 52)<br>
+Inferno of Al’Kabor (Wizard 53)<br>
+Plainsight (Wizard 55)<br>
+Retribution of Al’Kabor (Wizard 56)<br>
+Garison’s Superior Sundering (Wizard 60)<br>
+Vengeance of Al’Kabor (Wizard 60)<br>
+Judgement (Cleric 56)<br>
+Acumen (Shaman 56)<br>
+
+<br><c "#00ff00">Rune of Fennin Ro<br>
+<c "#0088ff">Pillar of Flame (Wizard 57)<br>
+Flaming Sword of Xuzl (Wizard 59)<br>
+
+<br><c "#00ff00">Rune of Flash<br>
+<c "#0088ff">Ro's Smoldering Disjunction (Druid 56)<br>
+Fist of Karana (Druid 58)<br>
+Moonfire (Druid 60)<br>
+Inferno of Al’Kabor (Wizard 53)<br>
+Yaulp V (Cleric 56)<br>
+
+<br><c "#00ff00">Rune of Gale<br>
+<c "#0088ff">Blizzard (Druid 54)<br>
+Pillar of Frost (Wizard 51)<br>
+Pillar of Lightening (Wizard 54)<br>
+Markar’s Discord (Wizard 56)<br>
+Tears of Prexus (Wizard 58)<br>
+Ice Spear of Solist (Wizard 60)<br>
+Hammer of Divinity (Cleric 58)<br>
+Mark of Karn (Cleric 56)<br>
+
+<br><c "#00ff00">Rune of Glint<br>
+<c "#0088ff">Draught of Jiva (Wizard 55)<br>
+Garison’s Superior Sundering (Wizard 60)<br>
+Sunstrike (Wizard 60)<br>
+Enforced Reverence (Cleric 58)<br>
+
+<br><c "#00ff00">Rune of Impulse<br>
+<c "#0088ff">Translocate (Wizard 50)<br>
+Manasink (Wizard 58)<br>
+Winds of Gelid (Wizard 60)<br>
+The Unspoken Word (Cleric 59)<br>
+
+<br><c "#00ff00">Rune of Incendiary<br>
+<c "#0088ff">Legacy of Thorn (Druid 59)<br>
+Atol’s Spectral Shackles (Wizard 51)<br>
+Translocate Group (Wizard 52)<br>
+Decession (Wizard 56)<br>
+Flaming Sword of Xuzl (Wizard 59)<br>
+
+<br><c "#00ff00">Rune of Incitation<br>
+<c "#0088ff">Fist of Karana (Druid 58)<br>
+Manasink (Wizard 58)<br>
+Disintegrate (Wizard 60)<br>
+Lure of Ice (Wizard 60)<br>
+Vengeance of Al’Kabor (Wizard 60)<br>
+Paralyzing Earth (Cleric 56)<br>
+
+<br><c "#00ff00">Rune of Incitement<br>
+<c "#0088ff">Manasink (Wizard 58)<br>
+Spellshield (Wizard 58)<br>
+Disintegrate (Wizard 60)<br>
+Voice of the Berserker (Shaman 59)<br>
+Yaulp IV (Cleric 53)<br>
+
+<br><c "#00ff00">Rune of Opposition<br>
+<c "#0088ff">Succor (Druid 57)<br>
+Invert Gravity (Wizard 59)<br>
+Winds of Gelid (Wizard 60)<br>
+Paralyzing Earth (Cleric 56)<br>
+
+<br><c "#00ff00">Rune of Prexus<br>
+<c "#0088ff">Pillar of Frost (Wizard 51)<br>
+Tears of Prexus (Wizard 58)<br>
+Ice Spear of Solist (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Scintillation<br>
+<c "#0088ff">Garison’s Superior Sundering (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Synergy <br>
+<c "#0088ff">Improved Superior Camouflage (Druid 50)<br>
+Lure of Ice (Wizard 60)<br>
+Enforced Reverence (Cleric 58)<br>
+
+<br><c "#00ff00">Rune of Tallon Zek <br>
+<c "#0088ff">Eye of Tallon (Wizard 57)<br>
+
+<br><c "#00ff00">Rune of Tempest <br>
+<c "#0088ff">Frost (Druid 57)<br>
+Circle of Seasons (Druid 58)<br>
+Retribution of Al’Kabor (Wizard 56)<br>
+Tears of Prexus (Wizard 58)<br>
+Invert Gravity (Wizard 59)<br>
+Elnerick’s Electrical Rending (Wizard 60)<br>
+Winds of Gelid (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Transpose <br>
+<c "#0088ff">Translocate (Wizard 50)<br>
+Translocate Group (Wizard 52)<br>
+Decession (Wizard 56)<br>
+Evacuate (Wizard 57)<br>
+Stun Command (Cleric 55)<br>
+
+
+<br><c "#00ff00">Rune of Vortex <br>
+<c "#0088ff">Tishan’s Discord (Wizard 51)<br>
+Retribution of Al’Kabor (Wizard 56)<br>
+Elnerick’s Electrical Rending (Wizard 60)<br>
+
+<br><c "#00ff00">Rune of Zephyr <br>
+<c "#0088ff">Mask of the Stalker (Druid 60)<br>
+Elnerick’s Electrical Rending (Wizard 60)<br>
+Marzin's Mark (Cleric 60)<br>
+

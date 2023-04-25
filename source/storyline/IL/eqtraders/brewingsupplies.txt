@@ -1,0 +1,475 @@
+Brewing Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* cask, bottle - clockwork merchant at 1264, -773 <br>
+* brew barrel - inside bar at 1258, -901 <br>
+* cask, shotglass, short beer, mead, brandy, gnomish spirits - clockwork barkeeps (inside bar at 1258, -901) <br>
+* water flask, bottle, mead - clockwork merchant near Priest of Discord (482, -111), 2 clockwork merchants by Forge of Defiance, clockwork merchant (1290, -917) <br>
+* flask of water - clockwork grocer (2nd floor of tower at 903, -285) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - clockwork brewmaster (1261, -918) 
+<br><br>
+
+<c "#00CC00">Bazaar </c><br>
+
+* water flask - Gliblixl Rocktok (-685, -33), Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) 
+<br><br>
+
+<c "#00CC00">Butcherblock </c><br>
+
+* barley, hops, malt, rice yeast, wine yeast, Nature's Beverages - Indudul Dumirgun (2839, -648, 1st shop on left out from Kaladim) <br>
+* Pages from Brodders Diary I, III, IV, V, VI - Iglan Thranon (2801, -900, 2nd shop out on left from Kaladim entrance) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c><br>
+
+* Bottle, cask - Klok Vednir (East, 61, -12) <br>
+* short ale, grapes, shotglass, bottle, keg, kiola sap - Klok Sass (East, 663, -32) <br>
+* barley, hops, rice, malt, yeast, wine yeast - Brewer Prixal (East, 671, 30) <br>
+* brew barrel - East, 678, -14; Side room in Tink N Babble (East, 915, -66) <br>
+* water - Lybar (West, 290, 531) <br>
+* shotglass, cask, bottle - Klok Poklan (East, Tink N Babble, 908, -73) <br>
+* mistletoe - Jondin (West, -35, 511) <br>
+* allspice, yarrow - Klok Scaleroot (West, 400, 515, near necro guild) 
+<br><br>
+
+<c "#00CC00">Cobalt Scar (Velious) </c><br>
+
+* Cask, bottle, fish wine, 4 types of algae (azure, ochre, brown, white) - Blumblum Swigwater (othmir vendor, 235, -1481) <br>
+* brew barrel 259, -1500 
+<br><br>
+
+<c "#00CC00">Crystal Caverns (Velious) </c><br>
+
+* water, bottle - Grabble Coldheart (dwarven outpost, -262, 172), Milace Gemshard (dwarven outpost, -260, 235) <br>
+* cask, shotglass, brewers limericks, short beer, dwarven ale, gnomish spirits - Hardat Gemshard (dwarven outpost, -241, 185) <br>
+* short beer, shotglass, grapes, packet of kiola sap, cask -Gilliad Coldheart (dwarven outpost) 
+<br><br>
+
+<c "#00CC00">Dawnshroud Peaks (Luclin) </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast, packet of paeala sap, bottle, shotglass, cask, paeala bark - Tharzia Spiritis (-900, 1357) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - Yharrv Valorus (-953, 1356) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c><br>
+
+* water, mead, short beer - Innkeep Blaise (3rd inn, loc 330, 4846), Innkeep Dolman ("orc camp inn", loc 1027, 3683), Innkeep Juna (2nd inn, loc -323, 3029), Innkeep Harold (1st Inn, loc -181, 116) <br>
+* grapes, bottle, cask, kiola sap, short beer, mead, fish wine, red wine white wine, brandy, shotglass - Innkeep Calen (3rd inn, loc 315, 488), Innkeep Fenia ("orc camp inn", loc 1020, 3725), Innkeep Leo (2nd inn, loc -318, 2979), Innkeep Elora (1st Inn, loc -188, 67) <br>
+* rat ears, fire beetle eyes - Katha Firespinner (next to Inn 3, loc 233, 4734) 
+<br><br>
+
+<c "#00CC00">East Karana </c><br>
+
+* bottle - Bradly & Julie (shop at -833, -109) 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin) </c><br>
+
+* water flask - Echo Tradesman (1385, -609) 
+<br><br>
+
+<c "#00CC00">Erudin </c><br>
+
+* bottle, cask - Nerth Sailwind (street merchant near docks), Reihan Wilhemson (bldg next to Erudin Surplus), Luren Renthalis (Vasty Deep Inn), Kisrin Breezeshadow & Reko Saltamer (Erudin Port Authority), Tan & Judge Monosty, Vall Stonewisp (Erudin City Office) <br>
+* brew barrel - inside Blue Hawks, upstairs inside bldg next to Erudin Surplus <br>
+* bottle - Borge Finleather & Teria Finleather (Erudin Surplus), Rem Knarjon (Temple of Divine Light) 
+<br><br>
+
+<c "#00CC00">Felwithe </c><br>
+
+* cask, bottle - Merchant Issynal (Shop of All Holds, N. Felwithe) <br>
+* brew barrel - basement of Tovaniks Venom (N. Felwithe) 
+white wine, red wine, elven wine, shotglass, cask - Wela Muselender & Tyle Songwhisper (Tovaniks Venom, N. Felwithe) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, cask, shotglass, grapes - Feraniel Leafsway (Tovaniks Venom, N. Felwithe) <br>
+* water flask, mead - Merchant Sorintal (Shop of All Holds, N. Felwithe) <br>
+* cask - Fishmonger Jassa (Bait & Tackle, N. Felwithe) <br>
+* mistletoe - Merchant Yisasan (shop just inside S. Felwithe zone) 
+<br><br>
+
+<c "#00CC00">Field of Bone (Kunark) </c><br>
+
+* snake scales - Klok Acet (-2460, 2993) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) (Kunark) </c><br>
+
+* bottle, cask - Broawn Gosheart (building at -3898, 1663), Dom Pathfinder (building at -2817, 2656) <br>
+* shotglass, grapes, bottle, cask, kiola sap, short beer - Samson (building at -3037, 2984) <br>
+* barley, hops, rice, malt, yeast, wine yeast - Frothy (building at -3037, 2984) <br>
+* brew barrel - inside building at -3037, 2984 <br>
+* yarrow, allspice - Marlyn McMerin (building at -3898, 1663) 
+<br><br>
+
+<c "#00CC00">Freeport </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - Krystin Charcoal (between West Gate and zone to North Freeport) <br>
+* brew barrel - outside Hog Callers Inn (W. Freeport, loc -175, -483), inside Seafarers Roost (E. Freeport, loc -206, -856), inside Grub & Grog Tavern (E. Freeport, loc 19, -722), inside Traders Holiday (E. Freeport, loc 140, -328), inside Tassel's Tavern (N. Freeport, loc 65, 6), inside unlabeled inn near bank (N. Freeport, loc -202, -59) <br>
+* grapes, bottle, cask, shot glass, packet of kiola sap, red wine, short beer, short ale, mead, red wine, white wine, brandy, fish wine - Cloud Alemaker (3rd floor Trader's Holiday, loc 121, -259), River Alemaker (Traders Holiday, E. Freeport, loc 127, -266), Sun Alemaker (Traders Holiday, E. Freeport, loc 125,-251) ; Judicia Riverfield (Tassel's Tavern, N. Freeport, loc 67, -23), Shonia Tassel (Tassel's Tavern, N. Freeport, loc 86, -25); Swin Blackeye & Drona Whystlethin (Hog Caller's Inn, W. Freeport); Lynda Tapper (Chops N Hops, E. Freeport) <br>
+* bottle, water flask, mead - Tradesman Lyna, Tradesman Tulan (Coalition of Tradesfolk, N. Freeport),Yellus Gravien & Gibbon Morfield (Office of Landholders, N. Freeport), Alec & Ran Greenglade (blue building next to bank, N. Freeport) <br>
+* bottle, cask, short beer, mead - Jaleel Hoglomp (Grub N Grog - East Freeport, loc 32, -741) <br>
+* white wine, gnomish spirits, dwarven ale, elven wine, ogre swill - Myrissa O'Donner (Velithe & Bardo's Imported Goods, E. Freeport, loc 91, -437), Ston O'Donner (upstairs Velithe & Bardo's Imported Goods, E. Freeport, loc 95, -416), Monita O'Donner (Velithe & Bardo's Imported Goods, E. Freeport, loc 104, -387) <br>
+* water flask, short beer - Innkeep Evelona, Innkeep Rille (Jade Tigers Den, N. Freeport), Innkeep Paola (-175, -58, N. Freeport) <br>
+* water flask, short beer, mead - Gern Tassel (upstairs, Tassels Tavern, N. Freeport, loc 67, -56) <br>
+* bottle, shotglass, mead - Galio (-177, -36, N. Freeport) <br>
+* short beer, red wine, white wine, mead, brandy, fish wine - Nesin Tapper (Chops & Hops, E. Freeport, loc -276, -213), Lunce Nasin (upstairs Seafarer's Roost, loc -243, -862) <br>
+* keg - Tanlok Harson, Iseba Gargurd, Tarker Gargurd (Port Authority, E. Freeport) <br>
+* mistletoe - Olyna Midel , Torlig Mudel (79, -899, W. Freeport) <br>
+* fish wine - Tanlok Harson (upstairs Port Authority, E. Freeport, loc 87, -846), Iseba Gargurd (Port Authority, E. Freeport, loc 62, -883), Tarker Gargurd (Port Authority, E. Freeport, loc 64, -888) <br>
+* water flask, mead, red wine, white wine, short beer, brandy, elven wine, dwarven ale, gnomish spirits, ogre swill, fish wine - Gregor Nasin (Seafarer's Roost, loc -228, -835) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin) </c><br>
+
+* ogre swill, dwarven ale, gnomish spirits, elven wine, white wine - Jolly Arval (-1193, -548) <br>
+* bottle, water flask, Wandering Drogard's Brew Book (vol 1 & 2) - Cen Snoworb (-1216, -988), <br>
+* bottle, water flask, mead - Thar Anton (-1339, -800) <br>
+* snake scales - Samfort Ruggen (-1668, -918) <br>
+* flask of bloodwater - Thom the Fish (-946, -471) 
+<br><br>
+
+<c "#00CC00">Grimling Forest (Luclin) </c><br>
+
+* water flask - Merchant Hammar (-482, -1197) 
+<br><br>
+
+<c "#00CC00">Grobb </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, shotglass, cask, grapes - Gartonka (Gunthaks Bench) <br>
+* bottle, water, mead - Ootok (street vendor near warrior's guild), Bimuk (outside Krungs Clubs & Junk) <br>
+* bottle, cask - Graktak (Gunthaks Bench) <br>
+* mead, ogre swill, ale, water flask - Zatok & Wista (Gunthak's Bench) <br>
+* brew barrel - inside Gunthak's Bench (95, -334) <br>
+* mistletoe - Raztara (loc 448, -396, near shaman guild) <br>
+* allspice, yarrow - Blergagg (Shaman guild) <br>
+* large leather boot - Iskopa (497, -230) 
+<br><br>
+
+<c "#00CC00">Halas </c><br>
+
+* brew barrels - in McDonald's Fine Cider (225, -142) and in McQuaid's Dark & Stout (117, -260) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - Becka McGuzzlin (McDonald's Fine Cider, loc 225, -142) <br>
+* cask, shotglass, short beer, mead, fish wine, brandy - Brandyn McDonald (McDonald's Cider, loc 179, -153), Scon McDaniel (McDaniel's Smokes, loc 343, -343), Brin McQuaid (McQuaid's Dark & Stout, loc 93, -218), Donald McQuaid (McQuaid's Dark & Stout, loc 89, -207) <br>
+* cask, bottle - Rose McDowell (loc 397, 165, between wolf pens & shaman's guild) <br>
+* empty bottles - Dok (Dok's Cigars, loc 211, 271), Greta Terrilon (outside McDaniels Smokes, loc 282, -324) <br>
+* allspice, yarrow - Dargon (Shaman's guild, loc 350, 353) <br>
+* large leather boots - Cindl (Mac's Kilts, 274, -184) 
+<br><br>
+
+<c "#00CC00">High Keep </c><br>
+
+* bottle, cask - Merchant Dominik (outside building) <br>
+* barley, hops, rice, malt, yeast, wine yeast - a clerk (1st floor, -73, -185), dealers (2nd floor, -94, -321 and -68, -354) <br>
+* brew barrel (2nd floor, 54, -216, across from the gambling area) 
+<br><br>
+
+<c "#00CC00">Highpass Hold </c><br>
+
+* bottle, cask, grapes, short beer, shotglass, kiola sap - bartenders (Golden Roosters), bartender (Tigers Roar) <br>
+* bottle, cask, grapes, shotglass, kiola sap - Bartholemew & Paulina (The Lumber Yard) <br>
+* barley, hops, rice, malt, yeast, wine yeast - dealers (Golden Roosters), <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages - Lyn Tarburner (Tigers Roar) <br>
+* brew barrel - inside Tigers Roar, inside The Lumber Yard (2 - upstairs and down), in smuggler area (58, 316) <br>
+* ogre swill (ogre temper ingredient), dwarven ale (dwarven temper ingredient), white wine, gnomish spirits, dwarven ale, elven wine - Dyn Tarburner (2nd floor, Tigers Roar) <br>
+* bottle, water flask - Maign Greyeagle (shop at /loc 202, 507) <br>
+* water flask - Sernn Rossook (Serpent Supply) 
+<br><br>
+
+<c "#00CC00">Hollowshade Moor (Luclin) </c><br>
+
+* flask of water - Tokk Smippah (1058, 1997), Rittuh Purrik (1069, 2027) 
+<br><br>
+
+<c "#00CC00">Jaggedpine Forest </c><br>
+
+* mead - Selia Wetstone (1115, 2045), Quartermaster Garucks (-1100, 3236, Brell gnoll temple) 
+<br><br>
+
+<c "#00CC00">Kaladim </c><br>
+
+* Brewers Limericks (book), cask, shot glass, short beer, gnomish spirits, brandy - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim) <br>
+* bottle, cask, grapes, kiola sap, shot glass, brandy, mead, red wine, white wine - Tumpy Irontoe (Irontoe's Eats, S. Kaladim) <br>
+* bottle, cask - Aarina Ratsbone (unmarked bldg., S. Kaladim at 181, -146)) <br>
+* brew barrel (Pub Kal, S. Kaladim), inside Greybloom Farm (N. Kaladim) <br>
+* grapes - Tisin Greybloom, Serenk Greybloom (Greybloom Farm, N. Kaladim) <br>
+* dwarven ale (for earth temper) - Dura Darkfoam, Hanamaf Darkfoam (Pub Kal, S. Kaladim) <br>
+* water flask, mead, bottle - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) <br>
+* underfoot mushroom (blue mushroom ground spawn icon), a strange dark fungus (red mushroom ground spawn icon) - ground spawn next to Greybloom Farm (N. Kaladim) <br>
+* mistletoe - Baldoleky Rockfinder (252, -191, S. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast, packet of paeala sap, bottle, shotglass, cask, paeala bark - Gaerock Rednose (247, -1370) <br>
+* bottle, cask - Nannette Farcloud (245, -1115) <br>
+* water flask - Kitty Barleou (225, -1115) <br>
+* brew barrel at loc -290, -878 <br>
+* allspice, yarrow - Morfesh O'Koyle (252, -1147) <br>
+* cork - Blaylock Geerlock (-810, -223) 
+<br><br>
+
+<c "#00CC00">Kelethin </c><br>
+
+* cask, bottle - Merchant Tilluen(Packwearers Goods, -81, 269), Merchant Aluuvila (Packwearers Goods, -91, 224), Merchant Aildien (-492, -133) <br>
+* bottle - Merchant Iludarae (next to first lift), Merchant Kwein (155, 332) <br>
+* shotglass, bottle, cask - Barkeep Lysslan (Tavern, 130, 800), Merchant Malawen (Heartwood Tavern, 332, 540), Merchant Ulianu (Heartwood Tavern, 288, 520) <br>
+* grapes, shotglass, bottle, cask, kiola sap- Barkeep Tuviena (Tavern, 130, 800) <br>
+* cask, shotglass - Barkeep Sissya (-559, -556), Barkeep Myrisa (400, 677), Barkeep Syntan (872, 93) <br>
+* brew barrel - near Soldiers of Tunare, -525, 199 <br>
+* gnomish spirits - Barkeep Aanlawen ("Tavern", 603, 688) 
+<br><br>
+
+<c "#00CC00">Kerra Isle </c><br>
+
+* short beer, mead, short ale, red wine, white wine, brandy, shotglass, grapes, bottle, keg, packet of kiola sap - Raarrk (110, 126) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c><br>
+
+* bottle, cask - Eithne Walker (loc 1429, -828) <br>
+* short beer - Innkeep Lynnie (-303, 3797), Innkeep Darvon (1137, -676), Innkeep Jurn (-289, 3822), Innkeep Min (1457, 2381), Innkeep Morgan (1447, 2385) 
+<br><br>
+
+<c "#00CC00">Lake of Ill Omen (Kunark) </c><br>
+
+* snake scales - Klok Gnask (6398, -6348) 
+<br><br>
+
+<c "#00CC00">Lake Rathe </c><br>
+
+* bottle, cask - Srynda (gypsy camp, -502, 635) <br>
+* bottle - Turga (ogre camp, NE corner of zone) 
+<br><br>
+
+<c "#00CC00">Neriak </c><br>
+
+* brew barrel - outside Slugs Tavern NFQ, inside basement of The Blind Fish COM, inside Maidens Fancy 3G <br>
+* barley, hops, rice, malt, yeast, wine yeast - Wiska (Smuggler's Inn, balcony NFQ) <br>
+* grapes, shot glass, bottle, cask, kiola sap - Tenso H'Rugla & Rista S'Ion (Toadstool COM), Rysva To'Biath & Marenkor To'Biath (The Blind Fish COM), Grazis L'Crit & Katrara L'Crit (Cuisine Excelsior 3G), Cecile KJartan (Maidens Fancy 3G), Tala & Darin Felton (Smuggler's Inn NFQ), Damar Nislan, Tanai Tambor, Uawn Betell (Slug's Tavern NFQ), Slunga (Warrior's guild SFQ) <br>
+* bottle - Yala Thiss, Sera Buelle, Dran 'slug' Rembo, Vala Tambor (Slug's Tavern NFQ), Slunga (Warrior's guild SFQ) <br>
+* bottle, cask - Palais Derekor (outside Smuggler's Inn NFQ) <br>
+* large leather boots - Farlain Stonethrower (195, -60, NFQ) 
+<br><br>
+
+<c "#00CC00">North Karana </c><br>
+
+* grapes, shot glass, bottle, cask, kiola sap- Barkeep Milo & Barkeep Jeny (building at 459, 2233) <br>
+* bottle, cask - Mrysila (gypsy camp) 
+<br><br>
+
+<c "#00CC00">Northern Desert of Ro </c><br>
+
+* grapes, bottle, cask - Innkeep Tozie (Inn south of Freeport) 
+<br><br>
+
+<c "#00CC00">Oasis of Marr </c><br>
+
+* bottle, cask - Synthan (gypsy encampment) 
+<br><br>
+
+<c "#00CC00">Ocean of Tears </c><br>
+
+* kiola nut - Cleonae Kalen (Erollisi Isle) 
+<br><br>
+
+<c "#00CC00">Oggok </c><br>
+
+* cask, bottle - Brokk Boxtripper (near Priest of Discord) <br>
+* bottle - Angrog (next to tunnel leading to Feerott) <br>
+* brew barrel - next to Clurg (Meet and Drink Tew Bie) <br>
+* snake scales - Hrak (shaman guild) <br>
+* ogre swill (needed for smithing temper), elven wine, brandy, red wine, white wine, short beer - Clurg (255, -247) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, shotglass, cask, grapes - Korgag Swillchugger (180, -240) <br>
+* water, mead, short beer - Crunga & Erung (unmarked shop down hall from armor merchants, 529, -190) <br>
+* allspice, yarrow - Garakbar (unlabeled room with skull floating in the middle of it) <br>
+* large leather boot - Uoola (650, 690) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c><br>
+
+* bottle, cask - Tin Merchant II, 2682, 2578 <br>
+* brew barrel - 2700, 2384 <br>
+* cork - Tin Merchant V, 2615, 2537 
+<br><br>
+
+<c "#00CC00">Paineel </c><br>
+
+* brew barrel - shackled Spirits <br>
+* grapes, bottle, cask, shot glass, kiola sap - Taralani Rahnta (Shackled Spirits) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c><br>
+
+* mistletoe - Mirao Frostpouch (-88, -207) <br>
+* water flask, mead, bottle - Ferin Lightfoot (-110, -166), Peras Glickon (-59, 1530), Amile Pitt (-297, 803) <br>
+* red wine, water flask - Klen Ironstove (-86, 238) <br>
+* tanaan brew barrel - 86, 261, 15, 204 <br>
+* barley, hops, yeast, wine yeast, rice, malt, Nature's Beverages, bottle, shotglass, cask, grapes - Basur TuQual (107, 259), Bargol Halith (85, 233) <br>
+* barley, hops, yeast, wine yeast, rice, malt, paeala sap, bottle, shotglass, cask, paeala bark, emerald tea leaf - Sirekoth Eshe (103, 280) <br>
+* barley, hops, yeast, wine yeast, rice, malt, Nature's Beverages - Merabo Sotath (105, 302) <br>
+* bottle, water flask, mead - Vuli Ironstove (-20, 249) <br>
+* soda, fishing grubs, gnomish spirits - Caden Zharik (-344, 756) 
+<br><br>
+
+<c "#00CC00">Plane of Storms (PoP) </c><br>
+
+* mead. bottle, water flask - Grok (-1144, -2519) 
+<br><br>
+
+<c "#00CC00">Plane of Tranquility (PoP) </c><br>
+
+* water flask, mead - Aliia Tal Amad (482, -1716), Jimmik Greenstone (589, -1636), Jasir Armisan (586, -1621) <br>
+* mistletoe - Adrania Fireyese (736, -1888) <br>
+* snake scales, fire beetle eye - Parija Kalamir (671, -1898) 
+<br><br>
+
+<c "#00CC00">Qeynos </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast - Heidi Grainsifter (Voleen's Fine Baked Goods, S. Qeynos) <br>
+* bottle, cask - Fellesha Varshen & Raheim Varshen (Bag N Barrel, S, Qeynos), Basanio Weekin & Gahna Salbeen (street vendors south of Fire Prides, S. Qeynos) <br>
+* bottle, grapes, shot glass, cask, kiola sap - Nug Rellash. Earron Huntlan, Tasya Huntlan (Lions Mane Tavern & Inn, S. Qeynos), Sunsa Jocub, Fish Ranamer (Fish's Ale, S. Qeynos), Sabnie Blagard (Crow's Pub, N. Qeynos) <br>
+* brew barrel - Lions Mane Tavern (S. Qeynos), Crow's Pub (N. Qeynos), Fish's Ale (S. Qeynos) <br>
+* water - Karn Tassen, Voleen Tassen (Voleen's Fine Baked Goods, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c><br>
+
+* bottle, cask - Roshmael Tandre (gypsy camp near Feerrott, 1560, -883) 
+<br><br>
+
+<c "#00CC00">Rivervale </c><br>
+
+* brew barrel - next to Meeka Diggs (near Fools Gold), on second floor of Fools Gold <br>
+* bottle, mead, water flask - Wibble Bramblebush (next to dock) <br>
+* bottle, cask - bag merchant (across river from dock, 214, -223) <br>
+* mead, red wine, white wine, packet of kiola sap, bottle, cask, shot glass, grapes - Mac Deeppockets & Flyndia Deeppockets (Fools Gold) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, shotglass, cask, grapes - Burtle Barrelbelly (2nd floor, Fools Gold) <br>
+* water flask - Daleen Leafsway - druid area <br>
+* mistletoe - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) 
+<br><br>
+
+<c "#00CC00">Runnyeye Citadel </c><br>
+
+* short beer, shotglass, grapes, bottle, cask, kiola sap - goblin bartender 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c><br>
+
+* bottle, cask, grapes, brandy, shotglass, white wine, red wine, fish wine, ale, short ale, short beer, mead - Top McCallto (loc not available) <br>
+* brew barrels at loc -671,-1476; loc 803,-788 ; and loc -673, 992 <br>
+* Brewer's Limericks, short beer, short ale, gnomish spirits, brandy, dwarven ale, cask, shotglass - Jaeger Mort (loc not available) <br>
+* bottle, cask, grapes, brandy, shotglass, white wine, red wine, fish wine, ale, short ale, short beer, mead, packet of kiola sap - Miklos Tiost (-673, 992) 
+<br><br>
+
+<c "#00CC00">Shadeweaver's Thicket (Luclin) </c><br>
+
+* brew barrel at loc -2195, 1423 (in Gor Taku caves, be wary of faction) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c><br>
+
+* water flask - Adept Delf (28, -250), Merchant: Sanderson (-78, 31), Innkeep Alviva (25, 431), Henriala Hobialon (232, 1786), Innkeep Zara (33, 1741), Hintol Balkortak (-436, 1385), Fitonas Galaofon (1215, -239), Healian (1213, 0), Sneathe (-65, 12), Sanderson (-78, 37), Eiles (163, -46) <br>
+* brew barrel - upstairs at loc 71, 408, upstairs at loc -22, 317, at loc 419, 1418 <br>
+* Barley, Hops, Rice, Malt, Yeast Wine, Yeast, Packet of Paeala Sap, Bottle, Cask, Shotglass, Paeala Bark - Lander Furthers (172, 330) <br>
+* water flask, bottle, Wandering Drogard's Brew Book, Vol (2 volumes, neither numbered) - Granger Kenforth (16, 1166) <br>
+* water flask, short ale - Talida Furrytoes (-437, 1756) <br>
+* soda - River Mudhands (-424, 1378) <br>
+* mistletoe - Kolburn Inglewort (176, 632), Zimloro Jalobottle (-414, 1426) <br>
+* short beer, mead, fish wine, short ale, gnomish spirits, brandy, cask, shotglass - Bilkel Biddinight (188, 915) <br>
+* allspice, yarrow - Callowolf MacFuller (122, 1236), Lemsen Frostherb (122, 1216) <br>
+* cork - Marchap Biddinight (116, 1042) <br>
+* grapes - Lesia Furthers (157, 310) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c><br>
+
+* Brewer's Limericks, Garsen's Brewing List, Garsen's Notes, Garsen's Secret Brews - Librarian Almasa (125, 67) <br>
+* grapes - Merchant Gamouz (building at 249, -254) <br>
+* Barley, Hops, Rice, Malt, Yeast, Wine Yeast, Natures Beverages - Salla (building at 249, -254), Brewmaster Hizier (-205, -223), Brewer Mikkis (-205, -223) <br>
+* bottle, cask - Arrin Murij (building at 249, -254), Kojik (-497, 44) <br>
+* snake scales - Alchemist Hikal (building at -284, -368) <br>
+* water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Mahj Hujara (443, -53) <br>
+* brew barrel - 3 at loc -201, -178 <br>
+* short beer, water flask - Jharia Talmil (370, -20) <br>
+* water flask, bottle - Ulman Talmil (370, -20) <br>
+* barley, hops, rice, malt, yeast, wine yeast, packet of paeala sap, bottle, shotglass, cask, paeala bark - Brewer Mikkis (-196, -177), Brewmaster Hizier (-208, -228) <br>
+* mistletoe - Alchemist Hikal (building at -284, -368) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c><br>
+
+* brew barrel, 3rd floor at 515, -703 <br>
+* bottle, mead, water flask - Purveyor Nish (175, -683) <br>
+* ogre swill, white wine, gnomish spirits, dwarven ale, elven wine - Barkeep Gront (3rd floor, 512, -618), Barkeep Draven (3rd floor, 499, -733) <br>
+* short beer, mead, short ale, fish wine, white wine, brandy, shot glass, grapes, bottle, cask, packet of kiola sap - Barkeep Droz (3rd floor, 493, -651), Barkeep Drablen (3rd floor, 469, -710) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c><br>
+
+* bottle - Glen Garginbur (1st building on right from entrance to Ak'Anon, -1788, 3142) <br>
+* bundle of wormwood, brimstone - Ennixi Fennor (1371, -835) <br>
+* cork - Bom Knotwood (windmill at /loc 165, -881) <br>
+* king's thorn - Ennixi Fennor (1371, -835) 
+<br><br>
+
+<c "#00CC00">Swamp of No Hope (Kunark) </c><br>
+
+* snake scales - Klok Migo (2472, 2920) 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages - Tobart Dirkins (Broken Glacier) <br>
+* shot glass, bottle, keg - Durgan Bottlenip, Fogerty Bottlenip (Broken Glacier), Adia Coldbeard (The Icy Mug), Loremaster Fronden (Holy Harbinger), Bixx & Klarp Bartleby and Celtir Gronback (Vellium keg), Karey (The Icy Mug) <br>
+* short beer, mead, short ale, fish wine, brandy, cask, shotglass, bottle, keg - Doogle McBanik (Doogles Drinks) <br>
+* brew barrel - Vellium Keg (96, -389) <br>
+* bottle, cask - Agar (Agar's Adventurin' Supplies) <br>
+* short beer, brandy - Bixx & Klarp Bartleby (the Velium Keg) <br>
+* allspice, yarrow - Hulda (bank) <br>
+* rubbing alcohol - Adia Coldbeard (loc -51, 107), Karey (loc -36, 85) <br>
+* melted glacier whiskey - Celtir Gronbak (119, 405) <br>
+* kromrif spit vodka - Bixx Bartleby (41, -378) 
+<br><br>
+
+<c "#00CC00">Timorous Deep (Kunark) </c><br>
+
+* short beer, shot glass, grapes, bottle, cask, packet of kiola sap, mead, fish wine, red wine, white wine, brandy, - Micus Vloren (-5195, -4330), Portik Grolam (-11596, -2268) <br>
+* bottle, water flask, mead - Seloris Windweaver (-4870, -3440) 
+<br><br>
+
+<c "#00CC00">Toxxulia Forest </c><br>
+
+* bottle, cask - Emil Parsini, Stylla Parsini (shop to right of entrance to hunting area) 
+<br><br>
+
+<c "#00CC00">Twilight Sea (Luclin) </c><br>
+
+* water flask- Bella Stremi (-231, -885) 
+<br><br>
+
+<c "#00CC00">Warslik Woods (Kunark) </c><br>
+
+* snake scales - Klok Gragin (-1651, -712) 
+<br><br>
+
+<c "#00CC00">West Commonlands </c><br>
+
+* bottle, grapes, cask, shot glass, kiola sap - Innkeep Seke (inn near toll gate), Innkeep Redthorn (inn near lake) 
+<br><br>
+
+<c "#00CC00">West Karana </c><br>
+
+* barley, hops, rice, malt, yeast, wine yeast - Cleet Miller (-2252, -4118 ... but he wanders off his farm a lot, so it may be hard to find him) <br><br>
+
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

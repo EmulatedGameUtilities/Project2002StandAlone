@@ -1,0 +1,13 @@
+PoP Portal Locations - Oggok<br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Oggok<br>
+Portal Zone: The Feerrott<br>
+Zone Location: +908, -163<br>
+Description: Just past the huts outside the city<br>
+<c "#00CC00">========================== </c><br>

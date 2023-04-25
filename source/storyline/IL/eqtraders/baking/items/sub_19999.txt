@@ -1,0 +1,4 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/569.txt">Caynar Nut Stuffed Trout</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(128)&nbsp;&nbsp;&nbsp;(Bag of Caynar Nuts (Foraged), Fogwater Trout, Garnish, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/570.txt">Caynar Nut Stuffed Trout</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(128)&nbsp;&nbsp;&nbsp;(Bag of Caynar Nuts (Foraged), Frosty Cave Trout, Garnish, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/304.txt">Caynar Nut Stuffed Trout</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(128)&nbsp;&nbsp;&nbsp;(Bag of Caynar Nuts (Foraged), Bloodfin Trout, Garnish, Spices) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/568.txt">Caynar Nut Stuffed Trout</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(128)&nbsp;&nbsp;&nbsp;(Bag of Caynar Nuts (Foraged), Cauldron Trout, Garnish, Spices) <br>

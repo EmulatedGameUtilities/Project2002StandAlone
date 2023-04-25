@@ -1,0 +1,199 @@
+<a HREF="file:///storyline/storyil.txt">Table of Contents</a><BR><BR>
+<BR>Tacklebox Recipes 
+<BR>
+<BR>Skill checks for making these are based on fishing skill. 
+<BR>
+<BR>
+<BR><c "#00CC00">Item = Ingredients (trivial)</c>
+<br>
+<BR>
+<BR>2 fish eggs = 2 fish scales thunder salmon + skinning knife* (135) 
+<BR>
+<BR>5 fishing bait = gunthak mackerel + skinning knife (<=15)
+<BR>
+<BR>2 fish eggs = 2 fish scales greengill salmon + skinning knife (135)
+<BR>
+<BR>2 fish oil diseased fish = purified water + bottle tacklebox (182)
+<BR>
+<BR>
+<BR><c "#00CC00">Fish fillet and fish bones</c>
+<BR>
+<BR>fillet knife*, foraged root and celandine*
+<BR>
+<BR>Returns: 1 prepared fish meal, 1 fish bone and fillet knife. Sometimes the prepared fish and bones are named after the fish used. Fillet knife is returned on both success and failure.
+<BR>
+<BR>
+<BR>cave guppy = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>clockwork koi = prepared fish, fish bones, trivial 171 
+<BR>
+<BR>crysytallized cave fish = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>danak grouper = prepared fish, fish bones, trivial >163 
+<BR>
+<BR>despair chub = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>fresh fish = prepared fish, fish bones, trivial 171 
+<BR>
+<BR>frosty cave trout = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>greengill salmon = prepared greengill fillet, greengill bones >170 <=173 
+<BR>
+<BR>grotto bluegill = prepared fish, high quality fish bones 
+<BR>
+<BR>gunthak mackerel = prepared fish, fish bones, trivial <=175 
+<BR>
+<BR>highland pike = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>hound pike = prepared fish, fish bones, trivial >170 <=179 
+<BR>
+<BR>kerran catfish = prepared fish, fish bones, trivial >170 
+<BR>
+<BR>krup guppy = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>koada cichlid = prepared fish, fish bones, trivial <=175 
+<BR>
+<BR>kunzar koi = prepared fish, kunzar bones, trivial 182 
+<BR>
+<BR>nightmare cichlid = prepared fish and nightmare cichlid bones, trivial 182 
+<BR>
+<BR>pine cichlid = prepared fish, fish bones, trivial 171 or 172 
+<BR>
+<BR>red roughy = prepared fish, high quality fish bones >181 
+<BR>
+<BR>rygorrian toothfish = prepared fish, fish bones <=183 
+<BR>
+<BR>rujarkian chub = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>thulian mudskipper = prepared fish, fish bones, trivial <=179 
+<BR>
+<BR>thunder salmon = prepared salmon fillet, thunder salmon bones, trivial 171 
+<BR>
+<BR>timorous tuna = prepared fish, fish bones, trivial >170 <=179 
+<BR>
+<BR>vallorian discus = prepared fish and vallorian discus bones, trivial 182 
+<BR>
+<BR>weary wrass = prepared weary wrass, high quality fish bones, trivial >181 <=200 
+<BR>
+<BR>wulf fish = prepared fish, high quality fish bones, trivial >179 <=183 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR><c "#00CC00">Blessed fishing rod</c>
+<BR>
+<BR>spool, treated silk fibres, blessed dust of Karana, branch of planar oak (foraged), celestial essence 
+<BR>
+<BR>Primary hand, 5% fishing modifier, STR 10, recommended level 1, wt 2.2, used for the PoTC Quest. trivial >200 (yes, this can break, just like any other fishing pole ...) 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR><c "#00CC00">Fishing lures</c>
+<BR>  
+<BR>Player-made fishing lures now add a bonus to your fishing skill (2% on dry flys, 3% on treble flies, 4% on circular flies), and are used up at the same rate as normal bait. Note that silk thread is made via the tailoring skill, not merchant-sold.
+<BR>
+<BR>
+<BR>Name = Ingredients, trivial
+<br>
+<BR>
+<BR>
+<BR><c "#00CC00">2% bonus to fishing skill:</c>
+<BR>
+<BR>
+<BR>busy bee dry fly  bixie wing, silk thread, dry hook 
+<BR>  
+<BR>giant bloodsucker dry fly  giant mosquito wings, silk thread, dry hook
+<BR>   
+<BR>night swooper dry fly bat fur, silk thread, dry hook <=35 
+<BR>
+<BR>purple trickster dry fly pixie wing, silk thread, dry hook   
+<BR>
+<BR>screeching dry fly giant bat fur, silk thread, dry hook   
+<BR>
+<BR>shimmering gossamer dry fly faerie wing, silk thread, dry hook  
+<BR> 
+<BR>slobbering hound dry fly medium quality dire wolf fur, silk thread, dry hook   
+<BR>
+<BR>small bloodsucker dry fly small mosquito wing, silk thread, dry hook
+<BR>   
+<BR>squeaking nibbler dry fly rat fur, silk thread, dry hook <=35 
+<BR>
+<BR>yappin doggie dry fly gnoll fur, silk thread, dry hook   
+<BR>
+<BR>yellowjacket dry fly wasp wing, silk thread, dry hook <=47 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR><c "#00CC00">3% bonus to fishing skill:</c>
+<BR>
+<BR>
+<BR>busy bee treble fly  bixie wing, silk thread, treble hook   
+<BR>
+<BR>giant bloodsucker treble fly  giant mosquito wings, silk thread, treble hook    
+<BR>
+<BR>night swooper treble fly bat fur, silk thread, treble hook   
+<BR>
+<BR>purple trickster treble fly pixie wing, silk thread, treble hook   
+<BR>
+<BR>screeching treble fly giant bat fur, silk thread, treble hook   
+<BR>
+<BR>shimmering gossamer treble fly faerie wing, silk thread, treble hook   
+<BR>
+<BR>slobbering hound treble fly medium quality dire wolf fur, silk thread, treble hook   
+<BR>
+<BR>small bloodsucker treble fly small mosquito wing, silk thread, treble hook   
+<BR>
+<BR>squeaking nibbler treble fly rat fur, silk thread, treble hook   
+<BR>
+<BR>yappin doggie treble fly gnoll fur, silk thread, treble hook   
+<BR>
+<BR>yellowjacket treble fly wasp wing, silk thread, treble hook   
+<BR>
+<BR>
+<BR>
+<BR>
+<br><c "#00CC00">4% bonus to fishing skill:</c>
+<BR>
+<BR>
+<BR>busy bee circular fly  bixie wing, silk thread, circular hook   
+<BR>
+<BR>giant bloodsucker circle fly  giant mosquito wings, silk thread, circular hook  
+<BR>
+<BR>jelly bandit circular fly  giant wasp wing, silk thread, circular hook   
+<BR>
+<BR>night swooper circular fly bat fur, silk thread, circular hook   
+<BR>
+<BR>purple trickster circular fly pixie wing, silk thread, circular hook
+<BR>
+<BR>screeching circular fly giant bat fur, silk thread, circular hook >47 
+<BR>
+<BR>shimmering gossamer circular fly faerie wing, silk thread, circular hook   
+<BR>
+<BR>slobbering hound circular fly medium quality dire wolf fur, silk thread, circular hook 
+<BR>
+<BR>small bloodsucker circular fly small mosquito wing, silk thread, circular hook   
+<BR>
+<BR>squeaking nibbler circular fly rat fur, silk thread, circular hook   
+<BR>
+<BR>yappin doggie circular fly gnoll fur, silk thread, circular hook 53 
+<BR>
+<BR>yellowjacket circular fly wasp wing, silk thread, circular hook 53 
+<BR>
+<BR>fire wing circle fly  fire wing, silk thread, circular hook 
+<BR>
+<BR>
+<BR>
+<BR>* Non fishing supplies:
+<BR>
+<BR>skinning knife - blacksmith made
+<BR>
+<BR>fillet knife - blacksmith made
+<BR>
+<BR>celandine - alchemy vendor
+<BR>
+<BR>
+<br><a HREF="file:///storyline/il/storyil.txt">Table of Contents</a>
+
+

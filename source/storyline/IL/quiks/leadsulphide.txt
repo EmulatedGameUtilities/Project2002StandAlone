@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Lead Sulphide</c><br>
+Vendor: Myre (+560, +225)<br>
+Location: South Kaladim<br>
+Component: Lead Peroxide and White Lead<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,13 @@
+PoP Portal Locations - Kelethin <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyPortals.txt">Return to Portal List</a>
+<br>
+=====================
+<br><br>
+<c "#00CC00">========================== </c><br>
+Portal Name: Kelethin<br>
+Portal Zone: Greater Faydark<br>
+Zone Location: -188, -734<br>
+Description: On the path to Felwithe<br>
+<c "#00CC00">========================== </c><br>

@@ -1,0 +1,17 @@
+Slowing List
+<br>
+<br>Compiled from Shaman's Crucible slowing list
+<br>http://www.dith.demon.co.uk/slows/
+<br><c "#FF0000">Last Updated 26th October 2002</c>
+<br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+<c "#00CC00"> ========================= </c> <br>
+<a href="file:///storyline/IL/Slows/Antonica.txt">Old World</a><br>
+<a href="file:///storyline/IL/Slows/Kunark.txt">Kunark</a><br>
+<a href="file:///storyline/IL/slows/Luclin.txt">Luclin</a><br>
+<a href="file:///storyline/IL/Slows/Planes.txt">Planes</a><br>
+<a href="file:///storyline/IL/Slows/PoP.txt">Planes of Power</a><br>
+<a href="file:///storyline/IL/Slows/Velious.txt">Velious</a><br>
+<a href="file:///storyline/IL/Slows/Ykesha.txt">Ykesha</a><br>
+<c "#00CC00"> ========================= </c> <br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>

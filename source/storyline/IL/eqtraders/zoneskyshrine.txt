@@ -1,0 +1,64 @@
+Skyshrine Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* vinegar, spices, jug of sauce, garnish, frosting, flour, milk, 13 recipe books - Chef Kollof (144, -475) <br>
+* vinegar, spices, jug of sauce, garnish, frosting, flour, milk, spit, mixing bowl, loaf of bread - Chef Norador (161, -469) <br>
+* water flask, milk - Purveyor Nish (175, -683) <br>
+* oven at 182, -413<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* brew barrel, 3rd floor at 515, -703 <br>
+* bottle, mead, water flask - Purveyor Nish (175, -683) <br>
+* ogre swill, white wine, gnomish spirits, dwarven ale, elven wine - Barkeep Gront (3rd floor, 512, -618), Barkeep Draven (3rd floor, 499, -733) <br>
+* short beer, mead, short ale, fish wine, white wine, brandy, shot glass, grapes, bottle, cask, packet of kiola sap - Barkeep Droz (3rd floor, 493, -651), Barkeep Drablen (3rd floor, 469, -710)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Purveyor Nish (175, -683) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Purveyor Borrin (second floor, 303, -609)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, star ruby, fire emerald, sapphire, Legacy of Jewelcraft, jeweller's kit - Purveyor Chop (second floor, 368, -635)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* kiln at 320, -488 <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge on second floor at 321, -763 <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* loom on second floor at 286, -485 <br>
+* patterns (mask, cap, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Purveyor Stitch (second floor, -477, 44)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* bottle, large lantern - Purveyor Nish (175, -683) <br>
+* gnomish spirits - Barkeep Gront (3rd floor, 512, -618), Barkeep Draven (3rd floor, 499, -733)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/679.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;(Hollow Palm Roots, Spices, Water Flask) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/678.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;(<a HREF="file:///storyline/il/eqtraders/Brewing/items/675.txt">Crystal Clear Water</a>, Hollow Palm Roots, Spices) <br>

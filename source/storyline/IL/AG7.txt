@@ -1,0 +1,140 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FF2400">Part 7: Baking</c> <br>
+<br>
+Skill requirement: 220 (or higher) Baking <br>
+<br>
+Flag requirement: Rallos Zek<br>
+Your Flag MUST say - The parchment of Rallos are scribed in a language you cannot comprehend; they do however have detailed drawings of the manaetic behemoth you have already destroyed. <br>
+<br>
+Finally, the last monster. Baking. This was one of the most annoying recipes for folks to figure out. So when you make it, thank the people who spent the months combining and researching and just smashing their heads against their monitors figuring it out for you (before it was finally added to the game). Combine three of the Bristlebane Party Platters and your signet in the Satchel he gives you. <br>
+<br>
+Original Text: <br>
+<br>
+You say, 'I am a Master Chef'<br>
+Aid Grimel says 'When we adventure in the Planes there is only one meal that keeps us in top fighting shape. It is called a Bristlebane's Party Platter. Unfortunately the platter is awkward and not easy to adventure with so you need to place them in this satchel. I know not how to make the Platter, a rather nice female Halfling cleric always used to deliver them to us but I heard she was crushed by a Regrua while hunting for a rare component in the Plane of Water. Brell bless her soul! Combine three of the platters and the signet inside the satchel.' <br>
+Turn in text: <br>
+<br>
+Aid Grimel says 'Truly amazing! Now the Councilman and I can be off on our expedition to the Elemental Planes!' He takes out a tool and marks his signet before handing it to you, 'Before we depart you may want to ask the Councilman about the signet.' <br>
+Items given to you by Grimel:<br>
+<br>
+Field Satchel<br>
+Container: CLOSED.<br>
+LORE ITEM NO DROP <br>
+WT: 0.5   Weight Reduction: 0%<br>
+Capacity: 4   Size Capacity: GIANT<br>
+<br>
+Item Statistics:<br>
+<br>
+<c "#FFFF00">Bristlebanes Party Platter</c><br>
+NO DROP <br>
+This is a Miraculous Meal<br>
+STR: +10   DEX: +10   STA: +10   WIS: +10   INT: +10   AGI: +10   <br>
+HP: +75   MANA: +75   <br>
+WT: 8.5   Size: GIANT<br>
+Class: ALL<br>
+Race: ALL<br><br>
+
+<c "#FFFF00">Marked Runed Signet</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 17<br>
+STR: +17   DEX: +17   STA: +17   WIS: +17   INT: +17   AGI: +17   <br>
+HP: +115   MANA: +115   <br>
+SV FIRE: +12   SV DISEASE: +12   SV COLD: +12   SV MAGIC: +12   <br>
+SV POISON: +12   <br>
+Effect: Regeneration (Worn)<br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<c "#FFFF00">Recipes</c> <br>
+<br>
+<c "#FFFF00">Bristlebane's Party Platter(Tanaan Oven/Collapsible Spit, >250 Trivial)</c><br>
+Justice Fruit Pie<br>
+Justice Fruit Pie<br>
+Slarghilug Stuffed Poppers<br>
+Hero Sandwich<br>
+Bucket of Crab Legs<br>
+Picnic Basket <br>
+<br>
+<c "#FFFF00">Packed Field Satchel (Name is a guess) (Field Satchel, Trivial check not likely done)</c><br>
+Bristlebane's Party Platter<br>
+Bristlebane's Party Platter<br>
+Bristlebane's Party Platter<br>
+Marked Signet (from part 6) <br>
+<br>
+<c "#FFFF00">The Last Step</c> <br>
+<br>
+Skill requirement: None extra! (But you MUST meet previous skill requirements from Grimel) <br>
+<br>
+Flag requirement: None extra! (but you NEED access to Elemental Planes in order to do this step) <br>
+<br>
+Following Grimel's advice, hailing the councilman gives a quest similar to Secrets of the Planes: Go fetch a Hope Stone! This step has been verified to NOT be MQable. The councilman will reject items that are turned in to him one at a time. Turn in the signet and the Hope Stone, and you will receive a disgustingly droolworthy earring. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'Hail, Councilman Taldarius'<br>
+Councilman Taldarius regards you, and grins. 'Greetings, _____. I am Councilman Taldarius, mighty Paladin of Mithaniel Marr and Guardian of the City of Tanaan! If you cannot find what you are looking for here in the Myrist library, I most certainly can add it to my list of things to look for in the Planes. Unfortunately, I am quite busy at the moment, planning my next trip to the Elemental Planes. I believe my aid may have some tasks he could use help with. That is, if you are skilled enough.' <br>
+(Something missing here I believe, Krazick)<br>
+man about the signet.' <br>
+You say, 'What about the Marked Runed Signet' <br>
+Councilman Taldarius says 'I see you have helped Grimel immensely. He would not have given up his signet very easily. I cannot let him deprive himself of such a valuable tool. If you were to do a task for me I would grant you something I picked up in the Planes. Are you interested in the task?' <br>
+You say, 'i am interested in the task' <br>
+Councilman Taldarius says 'Very well _____. I warn you I will not grant this without proof that you possess a valiant spirit. You may have the trust of my aid but I still require a noble deed. Through research done by the council they have discovered something called a Hope Stone that exists in the Elemental Planes. Bring me one of these stones and the signet of Grimel. Fear not I shall reward you well.' <br>
+Turn in text: <br>
+<br>
+Councilman Taldarius says 'Wonderful! You have proven yourself as both a Master of the Trade as well as a valiant spirit. Take this and may it serve you well!' You gain experience!! <br>
+If you have a mana bar (other than bards), you will recieve this:<br>
+<br>
+<c "#FFFF00">Signet Of The Arcane</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 25<br>
+STR: +25   DEX: +25   STA: +25   WIS: +25   INT: +25   AGI: +25   <br>
+HP: +130   MANA: +150   <br>
+SV FIRE: +15   SV DISEASE: +15   SV COLD: +15   SV MAGIC: +15   <br>
+SV POISON: +15   <br>
+Effect: Flowing Thought III (Worn)<br>
+Focus Effect: Preservation of Xegony<br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+If you are a pure melee or bard, you will receive this:<br>
+<br>
+<c "#FFFF00">Signet Of Might</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 25<br>
+STR: +25   DEX: +25   STA: +25   WIS: +25   INT: +25   AGI: +25   <br>
+HP: +145   <br>
+SV FIRE: +15   SV DISEASE: +15   SV COLD: +15   SV MAGIC: +15   <br>
+SV POISON: +15   <br>
+Effect: Aura of Bravery (Worn)<br>
+WT: 2.0   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

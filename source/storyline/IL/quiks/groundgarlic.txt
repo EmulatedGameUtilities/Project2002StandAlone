@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Ground Garlic</c><br>
+Vendor: Jerris W'selo (+630, -1390)<br>
+Location: Neriak 3rd Gate<br>
+Poison: Anti Elemental / Corrosive Solvent<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

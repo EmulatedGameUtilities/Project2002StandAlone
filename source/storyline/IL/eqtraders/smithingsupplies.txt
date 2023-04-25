@@ -1,0 +1,519 @@
+Smithing Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c>
+
+<br>* Ak'Anon Forge - outside Forge of Defiance 
+<br>* flask of water - clockwork merchant near Priest of Discord (482, -111), 2 clockwork merchants by Forge of Defiance, clockwork grocer (2nd floor of tower at 903, -285) 
+<br>* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall)) 
+<br>* enchant brellium - clockwork merchant (enchanter's guild) 
+<br>* forge at loc 1254, -705 
+<br>* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft - clockwork miner (756, -145) 
+<br>* weapon molds (spiked ball, dual-edged blade, heavy steel blade, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) - clockwork smith (2163, -544) 
+<br>* molds (file, hinge, container base, container lid, small container base, small container lid, large container base, large container lid, lantern casing, needle, thimble) - clockwork merchant (1176, -742) 
+<br>* small plate armor molds, small shield molds (buckler, round, targ, kite, tower), hilt mold - clockwork merchant (1217, -710) 
+<br>* small chainmail patterns - clockwork armorer (1329, -733) 
+<br><br>
+
+<c "#00CC00">Bazaar (Luclin) </c>
+
+<br>* forge - loc -514, 206, loc -348, -120, loc -691, -116 
+<br>* medium quality sheet metal, block medium quality ore, large & small bricks medium quality ore, smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Sateal Deirosap (-670, -35) 
+<br>* small plate armor molds, small buckler mold, small round shield mold, small targ shield mold, small kite shield mold, small tower shield mold, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings, Chains, and Arrowheads - Stinak Goldknuckle (-686, 10) 
+<br>* (medium) plate armor molds, Ikthars Fine Steel Skin - Alabaer Escorioan (-670, 10) 
+<br>* large plate armor molds - Galarono McHalorsos (-649, 10) 
+<br>* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), smithy hammer, water flask - Gliblixl Rocktok (-685, -33) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest 
+<br>* water flask - Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) 
+<br><br>
+
+<c "#00CC00">Butcherblock Mountains </c>
+
+<br>* container molds, Armor & Weapons Guide, Basic Blacksmithing, weapon molds (pommel, hilt, dual-edged blade, heavy steel blade, spiked ball), Dirge of Forgefire, lantern casing mold - Kaila Rucksack (2797, -694, 1st shop on left out from Kaladim) 
+<br>* small (banded) armor molds, lantern casing mold - Ayen Rindlor (2821, -677, 1st shop on left out from Kaladim) 
+<br>* cooking molds, Basic Blacksmithing, lantern casing mold, scaler mold - Nalda Gristbone (2716, -962, 3rd shop on left out from Kaladim) 
+<br>* needle & thimble molds - Alga Bruntbuckler (-1183, -1951) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c>
+
+<br>* (banded) armor molds, sheet metal, Basic Blacksmithing, Armor & Weapons Guide - Klok Nalgoz (East, 230, -294) 
+<br>* forge - (East) 224, -301, (East, near warrior guild) -371, -44 
+<br>* ore (3), sharpening stones - Klok Toren (East, 198, -300) 
+<br>* needle mold, thimble mold - Klok Stitch (East, 125, -15) 
+<br>* baking molds, Basic Blacksmithing - Klok Gritchit (East, 592, 150) 
+<br>* water - Lybar (West, 290, 531) 
+<br>* (quest items - iron rod, steel rod, titanium rod, pike head, mancatcher crown, Of Pike and Mancatcher), forging hammer - Weaponsmith Grugal (East - near warrior guild, -422, -35) 
+<br>* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, shan'tok blade, fer'esh blade, sheer blade), oak shaft - Smithy Krikt (East, warrior guild, -428, -202) 
+<br>* small/large bricks of skyiron, small block of skyiron, skyiron sheet - Smithy Xzatik (East, 2nd floor, warrior guild, -533, 21) 
+<br>* shield molds (buckler, round shield, targ shield, kite shield, tower shield), Firepride's Guide to Shield Craft - Smithy Zern (East, 2nd floor of warrior guild, -516, 13) 
+<br>* lantern casing mold, file mold, weapon molds (dual edged blade, heavy steel blade, spiked ball, hilt, pommel), Dirge of the Fireforge - Smithy Vyx (East, warrior guild, -433, -205) 
+<br>* scroll of imbue: amber [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild) 
+<br>* Cabilis forge - East, 2nd floor of warrior guild, loc -530, -15 
+<br><br>
+
+<c "#00CC00">Crystal Caverns (Velious) </c>
+
+<br>* Forge at -191, 291 (dwarven outpost), at -168, 292 (dwarven outpost), and at -128, 340 
+<br><br>
+
+<c "#00CC00">Dawnshroud Peaks (Luclin) </c>
+
+<br>* (medium) chainmail patterns - Mikhal Young (1340, -1282) 
+<br>* small chainmail patterns - David Dextor (1404, -1375) 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin) </c>
+
+<br>* water flask - Echo Tradesman (1385, -609) 
+<br><br>
+
+<c "#00CC00">Erudin </c>
+
+<br>* forge - behind Deepwater Knights 
+<br>* Erud forge - outside City Armory (-740, -268) (racial forge, cannnot be used for normal smithing) 
+<br>* bricks of ore (3), sharpening stone, smithy hammer, smithing chisel, forging hammer, - Shinan Orefinder (outside City Armory) 
+<br>* imbue topaz spell [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious) 
+<br>* needle & thimble molds - Gayle Weaven (street vendor near Port Authority) 
+<br><br>
+
+<c "#00CC00">Everfrost </c>
+
+<br>* large banded armor molds - Dansie McVicker (in cave between Everfrost and Halas) 
+<br><br>
+
+<c "#00CC00">Feerrott </c>
+
+<br>* large banded armor molds - Mugu (974, 1239) 
+<br>* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head), oak shaft - Murg (1001, 1236) 
+<br><br>
+
+<c "#00CC00">Felwithe </c>
+
+<br>* mithril bricks (small/large) mithril blocks, small piece of mithril, sheets of mithril, elven smithy hammer, (medium) chainmail patterns - Tanalin Silverkale (upstairs, Shop of All Holds, N. Felwithe) (also hail him for information on mithril chainmail) 
+<br>* shield molds - Mearchant Tearlin (Emerald Armor, N. Felwithe) 
+<br>* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head), oak shaft - Opal Leganyn (Emerald Armor, N. Felwithe) 
+<br>* plate armor molds, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft - Nerisia Irontree (upstairs, Emerald Armor, N. Felwithe) 
+<br>* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) 
+<br>* enchant: mithril [enchanter] - Merchant Lyssia (enchanter guild, S. Felwithe) 
+<br>* koada'dal forge - inside Emerald Armor, N. Felwithe (-104, -409) 
+<br>* ore (small piece, small block, large brick), sharpening stone, smithy hammer, oak shaft - Bedida Claygrinder (upstairs, Shop of All Holds, N. Felwithe) 
+<br>* sandalwood - Merchant Yisasan (shop just inside S. Felwithe zone) 
+<br>* forge at -90, -385 (inside Emerald Armor, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) </c>
+
+<br>* needle & thimble molds -Dionin Needlespin (building at -3644, 2054) 
+<br>* forge - -2784, 2883 
+<br><br>
+
+<c "#00CC00">Freeport </c>
+
+<br>* molds (container base & lids in small, {medium} and large, file, lantern, needle, thimble, toolbox) - Jilian Dayson (Vilithe & Bardo's Imported Goods, E. Freeport, loc 153, -373) 
+<br>* cooking molds (cookie, muffin tin, cake round, skewer, pot, bread tin, smoker support, standing legs, smoker base, hinge, scaler, pie tin), lantern casing mold, Basic Blacksmithing - Tislan (Traders Holiday, E. Freeport, loc 136, -296) 
+<br>* (medium) banded armor molds, Basic Blacksmithing, Armor & Weapons Guide, sheet metal - Issilyn Ristan (Armor by Ithkar, E. Freeport) 
+<br>* ore (sm & lg bricks, small pieces), sharpening stone, smithy hammer, smithing chisel, forging hammer - Kyrin Steelbone (Groflah's Forge, N. Freeport, loc -21, 474) 
+<br>* medium quality sheet metal, medium quality ore (small piece, small brick, large brick, block), smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid (Trudie Steelbone, Groflah's Forge, N. Freeport, loc -31, 472) 
+<br>* forge - outside Groflah's Forge (N. Freeport, loc -53, 534), outside Armor by Ithkar (E. Freeport), outside The Emporium (N. Freeport), 2nd floor of Freeport Militia (W. Freeport), behind the Warrior's Guild (W. Freeport), outside Gord's Smithy (E. Freeport) 
+<br>* Freeport (cultural) forge - on a platform behind the Warrior's Guild (W. Freeport) 
+<br>* Shield molds (buckler, round, targ, kite, tower) in large, medium and small sizes, Firepride's Guide to Shield Craft, "Rings, Chains & Arrowheads" - Kif (Armor by Ithkar, East Freeport, loc 52, -182) 
+<br>* weapon molds (Dagger blade, thin blade, short blade, axe head, halberd head, curved blade, throwing knife, mace head, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, hilt) and oak shaft - Jenna Smith (upstairs, Gord's Smithy, E. Freeport, loc -169, -168) 
+<br>* (medium) Plate armor molds, Ikthar's Fine Steel Skin, Fireprides Guide to Shieldcraft - Valentin Fireheart (2nd floor of Ikthar's Forge, E. Freeport, loc 56, -170) 
+<br>* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Cleric/pally guild, N. Freeport) 
+<br>* information on Seafarers' weapons and Seafarers' Buckler [hail him] - Gord Smith (Gord's Smithy, E. Freeport, loc -175, -137) 
+<br>* arrow shaft mold - Valla Strongbranch (-79, -41, N. Freeport) 
+<br>* (medium) chainmail patterns - Daria Smith (2nd floor of Ikthar's Forge, E. Freeport, loc 48, -219) 
+<br>* rusty weapons - Tohsan Hallard (Hallard's Resales, E. Freeport, loc -79, -455), Harg Tonicka (Hallard's Resales, E. Freeport, loc -41, -489), Rolfic Gohar (Slums, E. Freeport, loc -185, -279) 
+<br>* sandalwood - Olyna Midel , Torlig Mudel (Torligs Herbs & Medicines, loc 79, -899, W. Freeport) 
+<br>* (medium) leather armor for seafarer's armor (skullcap, mask, gorget, tunic, shoulderpads, cloak, belt, sleeves, wristbands, gloves, leggings) - Winlar Tanner (Leather & Hide, E. Freeport, loc 42, -562), Winsa Tanner (Leather & Hide, E. Freeport, loc 40, -542), Sanhan Tanner (Leather & Hide, E. Freeport, loc 69, -568) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin) </c>
+
+<br>* flask of bloodwater (for iksar cultural) - Thom the Fish (-942, -470) 
+<br>* ogre swill (for ogre cultural) - Jolly Arval (-1193, -548) 
+<br>* water flask - Cen Snoworb (-1216, -988), Thar Anson (-1339, -800) 
+<br>* lockpick mold - Jasan Fiay (-1470, -991) 
+<br><br>
+
+<c "#00CC00">Grimling Forest (Luclin) </c>
+
+<br>* water flask - Merchant Hammar (-482, -1197) 
+<br><br>
+
+<c "#00CC00">Grobb </c>
+
+<br>* ores (small piece, small brick, large brick), sharpening stone, smithy hammer, forging hammer, smithing chisel - Okun (outside Knight Keep) 
+<br>* imbue: amber spell [Cazic-Thule] - Barsk (shaman guild) 
+<br>* Grobb forge - 539, -225 (no known use at this time ... really!) 
+<br>* molds (barbarian, troll, gnome & animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing - Garklog (outside Krungs Clubs & Junk) 
+<br>* forge - Krungs Clubs & Junk 
+<br>* sandalwood - Grabah (Shaman guild) 
+<br><br>
+
+<c "#00CC00">Halas </c>
+
+<br>* forge - 2 outside McPherson's Bloody Blades (loc 238, -291 plus loc 182, -255) 
+<br>* Northman Forge (barbarian only) - outside McPherson's Bloody Blades (loc 232, -316) 
+<br>* cooking molds, lantern/hinge molds, Basic Blacksmithing - Jil McDaniel (2nd floor McDaniel's Smokes and Spirits, loc 364, -290) 
+<br>* Imbue Ivory [The Tribunal] - Boraskor (shaman guild) 
+<br>* 12 large plate armor molds, 5 large shield molds, Fireprides Guide to Shieldcraft, Ikthars Fine Steel Skin, smithy hammer, hilt mold - Ambril McRohrer (2nd floor McDaniel's Smokes and Spirits, loc 319, -305) 
+<br>* large chainmail patterns - Lynda McDobbs (McDaniel's Smokes and Spirits, 2nd floor, loc 364, -290) 
+<br>* Weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, oak shaft, hilt) - April (McPherson's Bloody Blades) 
+<br>* ore (small pieces, small bricks, large bricks), sharpening stone, smithy hammer, file mold, smithing chisel - Greta O'Reilly (70, -245) 
+<br>* sandalwood - Spirita (Shaman's guild, loc 346, 34) 
+<br>* large leather armor for barbarian cultural (skullcap, mask, tunic, shoulderpads, cloak, belt, sleeves, wristbands, gloves, boots) - Cindl (Macs Kilts, loc 273, -171) 
+<br><br>
+
+<c "#00CC00">High Keep </c>
+
+<br>* ore (3), sharpening stone, smithy hammer - Miner Harton (basement, 43, -274) 
+<br>* medium quality sheet metal, block/brick/small brick medium quality ore, smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton) 
+<br>* high quality ore: loot drop off goblins 
+<br><br>
+
+<c "#00CC00">Highpass Hold </c>
+
+<br>* forge - inside Serpent Supply (next to Dyona Rossook), outside Greenbane's Weapons 
+<br>* needle & thimble mold - Dyona Rossook (Serpent Supply) 
+<br>* water flask - Sernn Rosook (Serpent Supply), Maign Greyeagle (shop at /loc 202, 507) 
+<br><br>
+
+<c "#00CC00">Hollowshade Moor (Luclin) </c>
+
+<br>* flask of water - Tokk Smippah (1058, 1997), Rittuh Purrik (1069, 2027) 
+<br><br>
+
+<c "#00CC00">Icewell Keep (Velious) </c>
+
+<br>* small banded armor molds, lantern casing mold - Coldain Oucast (under keep, 12, 894) 
+<br>* forge - 20, 888 (under keep) 
+<br><br>
+
+<c "#00CC00">Jaggedpine Forest </c>
+
+<br>* molds (barbarian cookie, gnome cookies, troll cookie, animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing, frying pan), Basic Blacksmithing - Tallien Brightflash (1089, 2022), Dunari (-1048, 3454, Brell gnoll temple) 
+<br><br>
+
+<c "#00CC00">Kaladim </c>
+
+<br>* forge - outside Redfists Metal (S. Kaladim), outside Everhot Forge (N. Kaladim) 
+<br>* Dwarven forge - outside Redfists Metal 
+<br>* small plate armor molds, small shield molds, Ikthar's Fine Steel Skin, Firepride's Guide to Shield Craft, "Rings, Chains & Arrowheads" (book) - Tortuk Everhot (Everhot Forge, N. Kaladim) 
+<br>* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, oak shaft) - Bndainy Everhot (second floor, Everhot Forge, N. Kaladim) 
+<br>* Imbue Ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild) 
+<br>* bricks, blocks, and sheets of Brellium, Dwarven Smithy Hammer, small piece of ore, small/large bricks of ore, sharpening stone - Bloarn Norkhitter (inside mine, N. Kaladim) 
+<br>* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), water flask, smithy hammer - Harnoff Splitrock (inside mine, N. Kaladim) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest 
+<br>* sandalwood - Baldoleky Rockfinder (252, -191, S. Kaladim) 
+<br>* water flask - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c>
+
+<br>* Forge - loc 19, -1538; loc -42, -1541 
+<br>* container molds, file mold, needle mold, thimble mold, lantern casing mold - Tsuia Matuya (229, -1210) 
+<br>* cookie molds (barbarian, gnome, troll, animal), muffin tin mold, pie tin mold, cake round mold, skewer mold, bread tin mold, pot mold, smoker base mold, standing legs mold, smoker support mold, hinge mold, scaler mold, lantern casing mold, Basic Blacksmithing - Mahri Matuya (230, -1276) 
+<br>* water flask - Kitty Barleou (225, -1115) 
+<br>* medium quality sheet metal, block of medium quality ore, large brick of medium quality ore, small brick of medium quality ore, smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Bole Bricktop (52, -1530) 
+<br>* dual-edged blade mold, heavy steel blade mold, spiked ball mold, hilt mold, pommel mold, dagger blade mold, thin blade mold, short blade mold, axe head mold, halberd head mold, curved blade mold, mace head mold, throwing knife mold, javelin mold, shuriken mold, throwing axe mold, long blade mold, hammer head mold, spear head mold, pick head mold - Berda Granitefist (16, -1502) 
+<br>* (medium) banded armor molds - Harvin Talbson (-75, -1533) 
+<br>* Basic Blacksmithing, Armor and Weapons Guide, Dirge of the ForgeFire, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings, Chains, and Arrowheads - Yanni Talbson (Lightening Blades Smithy: -103, -1503) 
+<br>* (medium) chainmail patterns - Mercusius Farcloud ( -109, -1475) 
+<br>* (medium) plate molds - Marda Granitefist (-144, -1489) 
+<br>* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft, smithing chisel - Gundal Bronzebrow (-404, -662) 
+<br>* combine smithy hammer - Granic Malicus (100, -1480) 
+<br>* sandalwood - Margy O'Koyle (233, -1163) 
+<br>* toolbox mold - Tsuia Mataya (226, -1198) 
+<br><br>
+
+<c "#00CC00">Kelethin </c>
+
+<br>* thimble & needle mold - Merchant Gaeadin (-116, -130) 
+<br>* container, lantern, hinge & file molds, Basic Blacksmithing, Armor & Weapons Guide, weapon molds (pommel, hilt, dual-edged blade, heavy steel blade, spiked ball), Dirge of Forgefire - Merchant Nluolian (-107, -563) 
+<br>* forge (-249, 62) 
+<br>* Fier'dal forge (-480, 79) 
+<br>* cookie molds, other cooking molds, skewer mold, Basic Blacksmithing - Merchant Uaylain (near Packwearers Goods, -25, 114) 
+<br>* (medium banded) armor molds, lantern casing mold, Basic Blacksmithing, Armor & Weapon Guide, sheet metal - Merchant Linolyen (108, 343) 
+<br>* small chainmail patterns - Merchant Ninwiny (-191, 133) 
+<br>* arrow shaft mold - Merchant Lanin (412, 328) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c>
+
+<br>* leather boots - Clomen Walker (1438, -840) 
+<br><br>
+
+<c "#00CC00">Lesser Faydark </c>
+
+<br>* thicken mana, crystalize mana, distill mana, purify mana, clarify mana spells (enchanter) - brownie merchant in brownie village (these spells needed by enchanters to enchant your armor - be aware that brownies hate most everyone and that extreme caution should be used shopping here) 
+<br><br>
+
+<c "#00CC00">Misty Thicket </c>
+
+<br>* small banded armor molds - Hanga Wiskin, /loc 332.00, -2270.00 
+<br>* needle & thimble molds - Tipa Lighten, /loc 581.00, -2201.00 
+<br><br>
+
+<c "#00CC00">Neriak </c>
+
+<br>* forge - outside Pig Sticker SFQ, outside shop at bottom of entrance ramp SFQ, near Adamant Armor COM 
+<br>* molds (hinges, container (3), lid (3), file, lantern casing, toolbox) - Ungia (bottom of entrance ramp SFQ) 
+<br>* ore (3), sharpening stone, smithy hammer, chisel - Glazin D'Unnar (Blind Fish, Neriak Down Under COM) 
+<br>* small banded armor molds, lantern casing mold - Halvn B'Doph (Toadstool, COM) 
+<br>* large chainmail patterns, About Ogre Splintmail (written in ogre) - Putad (ramp, -214, -293 NFQ) 
+<br>* Weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, oak shaft) - Sivy G'Noir (basement of Blind Fish, Neriak Down Under COM) 
+<br>* information on Adamantite Armor and Dragoon Shields [hail him] - Felok N'Tan (Adamant Armor COM) 
+<br>* information on Indigo Sabres [hail him]- Zanotix Ixtaz (BF- the weapons shop COM) 
+<br>* small plate armor molds, shield molds, Ikthar's Fine Steel Skin, Firepride's Guide to Shield Craft, "Rings, Chains & Arrowheads" - Kristianna N'Ryt (860, neg 1505, 3G) 
+<br>* Tier'Dal Forge (835, neg 1570, 3G) 
+<br>* imbue sapphire spell (cleric: Innoruuk) - Svlia C'Luzz (next to Cleric Guildmaster, 3G) 
+<br>* Enchant Adamantite spell (enchanter: lvl 49) - Mizr N'Mar(Bottom floor of Library, 3G) 
+<br>* small and large bricks of adamantite ore, block of admantite ore, sheet of adamantite, Teir`Dal smithy hammer, 12 chainmail patterns - Draan N'Ryt (700, -1750, 3G) 
+<br>* neriak nectar (for smithing temper) - Cecile KJartan (Maidens Fancy, upstairs, 3G), Belyea Kjartan (Maidens Fancy, downstairs, 3G) 
+<br>* medium quality sheet metal, medium quality ore (block, large brick, small brick), smithy hammer, How to Dye and Stain, Jar of Lacquer, Resin, Empty Vial, Jar of Acid - Treven Rue'Soe (45, -902, COM) 
+<br>* small plate armor molds, small shield molds (tower shield, buckler, round shield, targ shield, kite shield), hilt mold - Trista N'Ryt (66, -855, COM) 
+<br><br>
+
+<c "#00CC00">North Karana </c>
+
+<br>* imbue plains pebble spell [druid/cleric: Karana], imbue emerald [druid/cleric: Tunare] - Tak Whistler (druid circle) 
+<br><br>
+
+<c "#00CC00">Northern Desert of Ro </c>
+
+<br>* thimble mold, needle mold - Spoolie Gee (Inn south of Freeport) 
+<br><br>
+
+<c "#00CC00">Ocean of Tears </c>
+
+<br>* About Seafarer Ringmail - Sanian Shearsin (Zachariah Reigh's Island, building at -2103, 7796) and Craven Jonsbrow (Zachariah Reigh's Island, on the beach by the dock -2256, 7596) 
+<br><br>
+
+<c "#00CC00">Oggok </c>
+
+<br>* forge - inside Metil Armer 
+<br>* imbue jade spell [shaman: Rallos Zek] spell - Barsk (shaman guild) 
+<br>* Oggok Forge (cultural forge) - 141, 931 ("end of let of 3 tunnels" or so says the ogre who sent this in) 
+<br>* large chainmail patterns - Pugla (98, 849) 
+<br>* information on ogre cultural weapons [hail him] - Varrok Neckchopper (321, -206) 
+<br>* information on ogre armor and shields [hail him] - Zarg Knightbane (245, -194) 
+<br>* large plate molds, large shield molds, smithy hammer, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft - Bubbgrib (291, -206) 
+<br>* ore (small piece, small and large block), smithy hammer, sharpening stone, oak shaft, file mold - Blergerda (195, 910, near the still-useless Oggok cultural forge) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c>
+
+<br>* needle & thimble molds - Tin Merchant IX, 2673, 2613 
+<br>* forge at 2498, 3247 
+<br><br>
+
+<c "#00CC00">Paineel </c>
+
+<br>* forge - Shadowknight guild (933, 425) 
+<br>* Erud forge - Shadowknight guild, beside the normal forge 
+<br>* ore (3), sharpening stone - Tentus Brackmar (False Idols) 
+<br><br>
+
+<c "#00CC00">Permafrost </c>
+
+<br>* high quality ore: loot drop off goblins 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c>
+
+<br>* baking molds (4 cookie cutter, muffin tin, pie, tin, cake round, skewers, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing book - Savet Ironstove (-103, 293) 
+<br>* large (banded) armor molds, Basic Blacksmithing, Armor and Weapons Guide, lantern casing mold, About Northman Ringmail - Dalin Greskar (-35, 325) 
+<br>* large plate armor molds, large shield molds (buckler, round, targ, kite, tower), hilt mold - Boiron Ston (26, 323) 
+<br>* (medium) plate armor molds, (medium) shield molds (buckler, round, targ, kite, tower), hilt mold - Magnar Quok (45, 327), Horil Imsin (396, 1087) 
+<br>* weapon molds: dual-edged blade, heavy steel blade, spiked ball, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head - Glena Quok (74, 323) 
+<br>* small brick of high quality ore, large brick of high quality ore, block of high quality ore, small brick medium quality ore, large brick medium quality ore, block medium quality ore, water flask, smithy hammer - Yeril Imsin (439, 1070) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest 
+<br>* small (banded) molds - Radie Imsin (425, 1084) 
+<br>* thimble mold, needle mold - Tratlan Matrick (124, 1461) 
+<br>* tanaan forge at 94, 1438, at -423, 560, at -397, 479, at -400, 435 
+<br>* large chainmail patterns - Zosran Hammertail (132, 1431) 
+<br>* hinge mold, container base mold, container lid mold, small container base mold, small container lid mold, large container base mold, large container lid mold, lantern casing mold, file mold, thimble mold, needle mold, toolbox mold, bucket mold - Kertak Hammertail (134, 1417) 
+<br>* small chainmail patterns - Jahzo Hammertail (89, 1368) 
+<br>* small piece of ore, small brick of ore, large brick of ore, sharpening stone, smithy hammer, smithing chisel, forging hammer - Szrix Hammertail (129, 1377) 
+<br>* small piece of ore, small brick of ore, large brick of ore, sharpening stone, smithy hammer, smithing chisel, forging hammer, tanaan smithing hammer - Tallis Paerk (67, 1388) 
+<br>* (medium) chainmail patterns - Halena Paerk (72, 1374) 
+<br>* medium quality sheet metal, block of medium quality ore, small brick medium quality ore, large brick medium quality ore, smithy hammer, How to Dye and Stain book, jar of lacquer, resin, empty vial, jar of acid - Kanio Paerk (15, 1367) 
+<br>* cam parts mold - Ellis Cloudchaser (-132, 1457) 
+<br>* arrow shaft mold - Jaren Cloudchaser (-88, 1471) 
+<br>* small plate armor molds, small shield molds, hilt mold - Wegal Darkanvil (-454, 554) 
+<br>* (medium banded) molds, sheet metal, Basic Blacksmithing book, Armor & Weapons Guide - Kaleras Darkanvil (-441, 560) 
+<br>* full plate armor molds, The Legend of Full Plate (book), superb leather padding - Borik Darkanvil (-370, 497) 
+<br>* large (banded) molds, Basic Blacksmithing book, Armor & Weapons Guide - Merin Darkanvil (-373, 490) 
+<br>* cam parts mold - Ellis Cloudchaser (-132, 1457) 
+<br><br>
+
+<c "#00CC00">Qeynos </c>
+
+<br>* forge - outside Tin Soldier (S. Qeynos), outside Fire Prides (S. Qeynos), behind Ironforge's (N. Qeynos) 
+<br>* Royal Forge - near clock tower, S. Qeynos 
+<br>* shield molds - Ton Firepride (Firepride's, S. Qeynos) 
+<br>* weapon molds (Dagger blade, thin blade, short blade, axe head, halbard head, curved blade, throwing knife, mace head, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) and oak shaft - Dren Ironforge (Ironforge's, N. Qeynos) 
+<br>* chainmail patterns (med)- Connie Link (street vendor across from Ironforge's, N. Qeynos) 
+<br>* plate armor molds, Ikthar's Fine Steel Skin - Liln Sedder (upstairs, Tin Soldier, S. Qeynos) 
+<br>* full plate armor mold, The Legend of Full Plate - Mar Sedder (downstairs, Tin Soldier, S. Qeynos) 
+<br>* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) 
+<br>* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433) 
+<br>* enchant: steel [enchanter] - Moreo O'Meek (behind caster's guild, S. Qeynos) 
+<br>* water - Karn Tassen, Voleen Tassen (Voleen's Fine Baked Goods, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos) 
+<br>* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), smithy hammer, flask of water - Yakum Oreslinger (Tin Soldier, S. Qeynos) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest 
+<br><br>
+
+<c "#00CC00">Qeynos Hills </c>
+
+<br>* banded armor molds, sheet metal - Marton Sayer (cottage) 
+<br>* baking molds - Mira Sayer (cottage) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c>
+
+<br>* small/large bricks of medium quality ore, blocks of medium quality ore, smithing hammer, empty vials, resin, lacquer, acid, How to Dye and Stain - Ukla (ogre/troll camp, 1730, 1300) 
+<br><br>
+
+<c "#00CC00">Rivervale </c>
+
+<br>* forge - next to druid's guild 
+<br>* Imbue Peridot spell [Bristlebane] - Blippo Stumbletoe (Cleric guild) 
+<br>* small chainmail patterns - Charlotte Diggs (-180, -230, near Kevlin Diggs) 
+<br>* books: Basic Blacksmithing, Armor and Weapons Guide, Dirge of the Forgefire, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft; Rings, Chains and Arrowheads - Frankle Ironhair (-250, -109) 
+<br>* small plate armor molds - Jimji Bottletoe (-258, -116) 
+<br>* molds (barbarian cookie, gnome cookie, troll cookie, animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, standing legs, smoker base, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing - Yola Sweetcookie (-218, -131) 
+<br>* molds (hinge, container base, small container base, small container lid, large container base, large container lid, lantern casing, file, thimble, needle, thimble) - Betty Brickbaker (-280, -122) 
+<br>* molds (dual-edged blade, heavy steel blade, spiked ball, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) - Bipdo Hargin (-218, -70) 
+<br>* arrow shaft mold - Joana Jinklebelly (-229, -79) 
+<br>* water flask - Daleen Leafsway - druid area, Wibble Bramblebush (next to dock) 
+<br>* Vale forge - 178, -176 (near bard) 
+<br>* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft, smithing chisel - Bodbin Gimple (druid guild, -87, -367) 
+<br>* sandalwood - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) 
+<br><br>
+
+<c "#00CC00">Runnyeye </c>
+
+<br>* high quality ore: loot drop off goblins 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c>
+
+<br>* Dual-Edged Blade Mold, Heavy Steel Blade Mold, Spiked Ball Mold, Hilt Mold, Pommel Mold, Dagger Blade Mold, Thin Blade Mold, Short Blade Mold, Axe Head Mold, Halberd Head Mold, Curved Blade Mold, Mace Head Mold, Throwing Knife Mold, Javelin Mold, Shuriken Mold, Throwing Axe Mold, Long Blade Mold, Hammer Head Mold, Spear Head Mold, Pick Head Mold - Boloth Daeron (298, -742) 
+<br>* forge at loc -985, 542 
+<br>* (medium) chainmail patterns (boot, coif, veil, neckguard, tunic, mantle, cloak, skirt, sleeve, bracelet, glove, pant) - Faber Hintoa (87, -937) 
+<br>* arrow shaft mold - Fareye Yewback (loc not available) 
+<br>* Basic Blacksmithing, Armor and Weapons Guide, Dirge of the ForgeFire, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings Chains and Arrowheads - Armorer Caedus (84, 500) 
+<br>* (medium) plate armor molds (gorget, bracer, boot, helm, visor, pauldron, belt, vambrace, greaves, breastplate, gauntlet, cloak), buckler mold, targ shield mold, kite shield mold, tower shield mold - Dolus Rical (137, 535) 
+<br>* Medium Quality Sheet Metal, Block of Medium Quality Ore, Large Brick of Medium Quality Ore, Small Brick of Medium Quality Ore, Smithy Hammer, How to Dye and Stain, Jar of Lacquer, Resin, Empty Vial, Jar of Acid - Wulan Goldsmith (7, 1016), Melda Goldsmith 
+<br><br>
+
+<c "#00CC00">Shadeweaver's Thicket </c>
+
+<br>* forge - near loc -2684, 950 (in Gor Taku caves, be wary of faction) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c>
+
+<br>* weapon molds: dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear, pick head, oak shaft - Galoran Precon (25, -318) 
+<br>* water flask - Adept Delf (28, -250), Merchant: Sanderson (-78, 31), Innkeep Alviva (25, 431), Granger Kenforth (16, 1166), Henriala Hobialon (232, 1786), Innkeep Zara (33, 1741), Hintol Balkortak (-436, 1385), Talida Furrytoes (-437, 1756), Fitonas Galaofon (1215, -239), Healian (1213, 0), Sneathe (-65, 12), Sanderson (-78, 37), Eiles (163, -46) 
+<br>* arrow shaft mold - Tabart Tailforth (263, 976), Sroj Arrowsmith (219, 1182) 
+<br>* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, small brick of medium quality ore, large brick of medium quality ore, medium quality sheet metal, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid, smithing chisel, forging hammer - Smithy Firehand (33, 1306), Hardam Stonegrinder (-314, 1460), Smithy Edcar (128, 136) 
+<br>* forge - loc 31, 1308, loc -336, 1465, loc 124, 143 
+<br>* Fireprides Guide to Shieldcraft, Rings Chains and Arrowheads (book), shield molds in all three sizes (small, medium, large): buckler mold, round shield mold, targ shield mold, kite shield mold, tower shield mold - Jiovfer Precon (15, 1261) 
+<br>* small banded armor molds, lantern casing mold - Bronklad Stoneshaper (-334, 1451) 
+<br>* needle mold, thimble mold - Gelson (154, -48) 
+<br>* molds (hinge, container base, container lid, small container base, small container lid, large container base, large container lid, lantern casing, file, dual-edged blade, heavy steel blade, spiked ball, hilt, pommel, toolbox), Dirge of the Forgefire - Kelly Blackhand (163, 177) 
+<br>* sheet metal, large banded armor molds, Armor and Weapons Guide, lantern casing mold, Basic Blacksmithing - Robert Blackhand (179, 115) 
+<br>* sheet metal, (medium) banded armor molds, Basic Blacksmithing, Armor and Weapons Guide - Rusty Blackhand (194, 118) 
+<br>* molds (barbarian cookie, gnome cookie, troll cookie, animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing - Jolan (136, 175) 
+<br>* sandalwood - Kolburn Inglewort (176, 632), Zimloro Jalobottle (-414, 1426), Polson Medicinal (133, 1196) 
+<br>* imbue plains pebble spell [druid/cleric: Karana] - Ealerel Tidebringer (druid guild, loc 281, 1250) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c>
+
+<br>* Armor and Weapons Guide - Librarian Almasa (125, 67) 
+<br>* Basic Blacksmithing; Armor and Weapons Guide; Dirge of the ForgeFire; Ikthars Fine Steel Skin; Fireprides Guide to Shield; Craft Rings, Chains, and Arrowheads - Trade Historian Hajika (-111, 66) 
+<br>* Wolf Bane Lore: Volume. I, Wolf Bane Lore: Volume. II, Wolf Bane Lore: Volume. III, Weapon Assembly Kit - Arms Historian Qua (-177, 51) 
+<br>* Hinge Mold, Container Base Mold, Container Lid Mold, Small Container Lid Mold, Small Container Base Mold, Large Container Base Mold, Large Container Lid Mold, Lantern Casing Mold, File Mold, Dual-Edged Blade Mold, Heavy Steel Blade Mold, Spiked Ball Mold, Hilt Mold, Pommel Mold, Dirge of the ForgeFire - Master Barkhem (building at 179, -156) 
+<br>* Barbarian Cookie Mold, Gnome Cookie Mold, Troll Cookie Mold, Animal Cookie Mold, Muffin Tin Mold, Pie Tin Mold, Cake Round Mold, Skewer Mold, Bread Tin Mold, Pot Mold, Smoker Base Mold, Standing Legs Mold, Smoker Support Mold, Hinge Mold, Scaler Mold, Lantern Casing Mold, Basic Blacksmithing, Spit - Apprentice Kafy (building at 179, -156) 
+<br>* sheet metal, (medium) banded armor molds, Basic Blacksmithing, Armor and Weapons Guide - Apprentice Garr (building at 179, -156) 
+<br>* water flask - Brokh (building at 249, -254), Jheral Alezya (-456, -33), Ahahd Tolm (-405, 217), Gawra (-347, 313), Dharr Nadim (-350, 125), Jharia & Ulman Talmil (370, -20), 
+<br>* needle mold, thimble mold - Jala (upstairs, -302, -367) 
+<br>* ore (small piece, small & large brick), sharpening stone, smithy hammer, smithing chisel, forging hammer, sheet metal - Nocia (building at 273, -455), Supply Sergean Ker'Far (417, 396) 
+<br>* nepeta oil extract - Chialle (-501, 116), Jolod Amulek (461, 217) 
+<br>* forge - loc 284, -201, 2 at loc 413, 403 
+<br>* sandalwood - Alchemist Hikal (building at -284, -368) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c>
+
+<br>* forge on second floor at 321, -763 
+<br><br>
+
+<c "#00CC00">Solusek A </c>
+
+<br>* high quality ore: loot drop off goblins 
+<br><br>
+
+<c "#00CC00">Solusek B </c>
+
+<br>* imbue fire opal spell [Solusek Ro] Zordak Ragefire (merchant that spawns in Nagafen's spot after Nagafen dies) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c>
+
+<br>* thimble & needle molds - Freed Fimplefur (2nd building from left of entrance to Ak'Anon) 
+<br>* small banded armor molds, lantern mold - Fodin Frugrin (1st building from left of entrance to Ak'Anon) 
+<br>* cooking molds, Basic Blacksmithing - Oren Furdenbline (2nd building from right of entrance to Ak'Anon) 
+<br>* ore (3), sharpening stone, smithy hammer, small/large bricks of medium quality ore, medium quality sheet metal, book:How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid, steel wire(?) - Godbin Strumharp (windmill at /loc 51, -611) 
+<br>* imbue plains pebble [druid/cleric spell: Karana] - merchant at druid ring (name?) 
+<br><br>
+
+<c "#00CC00">Stonebrunt Mountains </c>
+
+<br>* forge - 1352, -592 
+<br>* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head), oak shaft- Kalaarno Steelclaws (1375, -586) 
+<br>* ore (3), sharpening stones, smithy hammer, smithing chisel, forging hammer - Kevar Claypaws (1386, -578 ) 
+<br><br>
+
+<c "#00CC00">Surefall Glade </c>
+
+<br>* baking molds, scaler mold, Basic Blacksmithing - Frannie (just inside entrance) 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c>
+
+<br>* forge - Underbelly's Arms (-430, -111) 
+<br>* small (banded) armor molds - Brimgald Brightsteel (Scars Edge) 
+<br>* cooking molds, Basic Blacksmithing, lantern casing mold, scaler mold - Wevil Doughbeard (bank) 
+<br>* needle mold, thimble mold - Rexx Frostweaver (bank) 
+<br>* ore (piece, small block, large block, brick), sharpening stone, smithy hammer, velium smithy hammer, coldain velium temper - Nimren Stonecutter (shop at 41, -111) 
+<br>* water - Mordin Frostcleaver (Mordin's Meats) 
+<br><br>
+
+<c "#00CC00">Toxxulia Forest </c>
+
+<br>* banded armor molds, sheet metal, Basic Blacksmithing, Armor & Weapon Guide, lantern casing mold - Win Karnam (shop near ocean) 
+<br><br>
+
+<c "#00CC00">Twilight Sea (Luclin) </c>
+
+<br>* water flask- Bella Stremi (-231, -885) 
+<br><br>
+
+<c "#00CC00">West Karana </c>
+
+<br>* large banded armor molds, lantern casing mold, Armor & Weapons Guide, Basic Blacksmithing, About Northman Ringmail - Sera McMannus (-4021, -2224) 
+<br>* file mold, container molds, lantern mold, Armor & Weapons Guide, Basic Blacksmithing, weapon molds (pommel, hilt, dual-edged blade, heavy steel blade, spiked ball), Dirge of Forgefire - Spinner (-1454, -12841) 
+<br>* needle & thimble molds - Alysa (425, -4362) <br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

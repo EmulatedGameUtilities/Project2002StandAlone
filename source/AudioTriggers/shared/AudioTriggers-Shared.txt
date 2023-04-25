@@ -1,0 +1,3 @@
+Put .wav files in this folder for them to be visible by the audio trigger sound selector when the *any* audio trigger folder is selected.
+These files can be seen by any folder selection.
+

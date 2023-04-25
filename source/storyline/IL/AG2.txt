@@ -1,0 +1,84 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Part 2: Brewing</c><br>
+<br>
+Skill Requirement: 220 (or higher) Brewing. <br>
+<br>
+Flag Requirement: Terris Thule.<br>
+Your Flag MUST say - Saved from a world of eternal nightmares, Thelin is forever in your debt. <br>
+<br>
+Grimel will give you a portable Brew Barrel with 4 slots in it, as well as 3 Fermenting Dust. You can ask him for more Fermenting Dust, and will be making a Portable Drink. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I have skill in brewing' <br>
+Aid Grimel says 'I bet you could make a wicked brew! However I am forced to drink a refreshing drink while out adventuring. I do have this powder that will give the best drinks quite a bite though. Mix the powder in with two Kaladim Constitutionals and a flask of pure water. If you need more dust just ask for it! Put three twice brewed constitutionals and the signet in this drink barrel. As hard as drink barrels are to get these days, you need to return it to me along with the drink you create with it' <br>
+At first Grimel would only give you one dust to ferment, and you would have to ask for more. There has been an update that he now gives you three to get started. But if for some reason you need more (failed combined, destroyed... or otherwise gotten rid of), you can still ask for more: <br>
+<br>
+You say 'I need more dust'<br>
+(Saying I need more powder does NOT work even though that's what he called is first :/)<br>
+Aid Grimel says 'Here you go! Good luck in your brewing!' <br>
+NOTE: It has been reported that this phrase does not work, getting a response that you are not skilled enough. But if you use the orignal key phrase 'I have skill in brewing' you will get more dust.<br>
+<br>
+(Aside: And yes, you CAN combine normal brewing combines in it! Only up to 4 slots though. It is unknown if this was intended or not.) <br>
+<br>
+Turn in the Portable Drink and Portable Brew Barrel to receive the following text and a Clay Signet. <br>
+<br>
+Aid Grimel gulps down a Twice Brewed Kaladim Constitutional and Burps loudly! 'Ahhhh that was refreshing! That should hold me over for quite some time. I see you are quite deft of hand, perhaps you would care to put your jewel craft skills to the test?' <br>
+
+<br>
+<c "#FFFF00">Clay Signet</c><br>
+Slot: EAR<br>
+AC: 4<br>
+STR: +4   STA: +4   WIS: +4   INT: +4   <br>
+WT: 0.1   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<br>
+<c "#FFFF00">Items given to you by Grimel: </c><br>
+<br>
+Portable Brew Barrel <br>
+Fermenting Dust (3 recieved per request) <br>
+<br>
+<c "#FFFF00">Recipes</c><br><br>
+ 
+<c "#FFFF00">Purified Water: (Brew Barrel, trivial <=117)</c> <br>
+Celestial Essence<br>
+Flask of Water<br>
+Flask of Water <br><br>
+
+<c "#FFFF00">Twice Brewed Constitutional: (Brew Barrel, trivial >250)</c> <br>
+Kaladim Constitutional<br>
+Kaladim Constitutional<br>
+Purified Water<br>
+Fermenting Powder <br><br>
+
+<c "#FFFF00">Portable Drink: (Portable Brew Barrel, No trivial given)</c> <br>
+Twice Brewed Constitutional<br>
+Twice Brewed Constitutional<br>
+Twice Brewed Constitutional<br>
+Hardened Leather Signet (from Part 1) <br>
+<br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

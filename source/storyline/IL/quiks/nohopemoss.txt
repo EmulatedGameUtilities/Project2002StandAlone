@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Nohope Moss</c><br>
+Vendor: NPC Drop<br>
+Location: Frogloks in Swamp of No Hope<br>
+Poison: Susceptible Essence<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

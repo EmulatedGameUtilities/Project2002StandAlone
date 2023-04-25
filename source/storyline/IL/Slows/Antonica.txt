@@ -1,0 +1,67 @@
+Antonica Slowable list
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a><br>
+<br>Everfrost
+<br>----------------------------
+<br><c "#0069FF">Miragul -- Slowable</C>
+<br><c "#FF0000">Sulon Mcmoor -- Unslowable</C>
+<br>
+<br>Highhold Pass
+<br>----------------------------
+<br><c "#FF0000">Stanos Herkanor -- Unslowable</C>
+<br>
+<br>The Hole
+<br>----------------------------
+<br><c "#0069FF">High Scale kirn -- Slowable</C>
+<br><c "#0069FF">Jael the Wretched -- Slowable</C>
+<br><c "#0069FF">Keeper of the Tombs -- Slowable</C>
+<br><c "#0069FF">Master Yael -- Slowable</C>
+<br><c "#0069FF">Ratman Guard -- Slowable</C>
+<br>
+<br>Jaggedpine Forrest
+<br>----------------------------
+<br><c "#FF0000">Potameid Bewilder -- Unslowable</C>
+<br><c "#FF0000">Potameid Matriarch -- Unslowable</C>
+<br><c "#FF0000">Potameid Protector -- Unslowable</C>
+<br><c "#FF0000">Queen Nhyalia -- Unslowable</C>
+<br>
+<br>Kedge Keep
+<br>----------------------------
+<br><c "#0069FF">Estrella Gloomwater -- Slowable</C>
+<br><c "#0069FF">Phinigel Autropos -- Slowable</C>
+<br>
+<br>Kithicor
+<br>----------------------------
+<br><c "#0069FF">Coercer -- Slowable</C>
+<br><c "#00FF00">General V'Ghera -- Disease</C>
+<br>
+<br>Lavastorm
+<br>----------------------------
+<br><c "#FF0000">Eejag -- Unslowable</C>
+<br>
+<br>Lesser Faydark
+<br>----------------------------
+<br><c "#0069FF">Corrupted/Tainted Brownie -- Slowable</C>
+<br><c "#0069FF">Equestrielle the Corrupted -- Slowable</C>
+<br>
+<br>Nektulos Forest
+<br>----------------------------
+<br><c "#0069FF">Kirak Vil -- Slowable</C>
+<br>
+<br>Permafrost
+<br>----------------------------
+<br><c "#FF0000">Lady Vox -- Unslowable</C>
+<br>
+<br>Steamfont
+<br>----------------------------
+<br><c "#0069FF">Renux -- Slowable</C>
+<br>
+<br>SolB
+<br>----------------------------
+<br><c "#FF0000">Lord Nagafen -- Unslowable</C>
+<br>
+<br>Temple of Solsek Ro
+<br>----------------------------
+<br><c "#0069FF">Plasmatic Priest -- Slowable</C>
+<br><br>
+<a href="file:///storyline/il/storySlow.txt">Back to Slow List</a>

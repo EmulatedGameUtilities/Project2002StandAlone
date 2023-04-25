@@ -1,0 +1,16 @@
+Jewelry Recipes
+<body link="#0088ff" mlink="#00ccff">
+<c "#FF0000">Jewelry Recipes
+<br>
+<c "#00ff00">Jewelry Recipes</c>
+<br>
+<a href="file:///storyline/il/jewelry/standard.txt"> <c "#00008B">1) <c "#FF8C000">Standard Jewelry Recipes</a> - Silver, electrum, gold, platinum, and velium recipes
+<br>
+<a href="file:///storyline/il/jewelry/pop.txt"> <c "#00008B">2) <c "#FF8C000">PoP Jewelry Recipes</a>
+<br>
+<br>
+<br>
+Compiled from information from Eqtraders.com and Gumkak's Stuffz an' Tinkz. Does not include recipes for quests or other combines, imbued jewelry, or Cazic-Thule jewelry.  Any mistakes in combines, trivials, or stats are from Eqtraders.com or Gumkak's Stuffz an' Tinkz, so please do not report them to me, unless they are typos on my part.<br><br>
+
+<c "#FF0000">Mistress Keshara Ashke'vron, Phantasmist of Xegony<br>
+<c "#FF0000">keshara@alliekat.net<br>

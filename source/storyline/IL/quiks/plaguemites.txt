@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Plague Mites</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Karnors Castle / Kael Drakkal / Crypt of Decay<br>
+Poison: Mangled Tendon / Wasted Flesh<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

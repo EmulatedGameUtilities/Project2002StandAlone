@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Ash Hornet Venom</c><br>
+Vendor: NPC Drop<br>
+Location: Ash Hornets in Burning Woods<br>
+Poison: Xegony's Curse<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

@@ -1,0 +1,62 @@
+Bazaar Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+
+<c "#00CC00">Baking </c><br>
+* oven - loc -610, 104 <br>
+* bat wing - Dashelo Dalroshan (-744, 10) <br>
+* water flask - Gliblixl Rocktok (-685, -33), Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* water flask - Gliblixl Rocktok (-685, -33), Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Dashelo Dalroshan (-744, 10) <br>
+* jar of lacquer - Sateal Deirosap (-670, -35) <br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* celestial solvent - Dashelo Dalroshan (-744, 10) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel - loc -638, -94<br> 
+* kiln - loc -637, -191 <br>
+* water flask - Gliblixl Rocktok (-685, -33), Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) <br>
+* jar of acid - Sateal Deirosap (-670, -35) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - loc -514, 206, loc -348, -120, loc -691, -116 <br>
+* medium quality sheet metal, block medium quality ore, large & small bricks medium quality ore, smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Sateal Deirosap (-670, -35) <br>
+* small plate armor molds, small buckler mold, small round shield mold, small targ shield mold, small kite shield mold, small tower shield mold, Ikthars Fine Steel Skin, Fireprides Guide to Shield Craft, Rings, Chains, and Arrowheads - Stinak Goldknuckle (-686, 10) <br>
+* (medium) plate armor molds, Ikthars Fine Steel Skin - Alabaer Escorioan (-670, 10) <br>
+* large plate armor molds - Galarono McHalorsos (-649, 10) <br>
+* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), smithy hammer, water flask - Gliblixl Rocktok (-685, -33) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest <br>
+* water flask - Gaelsori Heriseron, Tontoal Heriseron (upstairs, loc -660, -18) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns (mask, cap, gorget, tunic, shoulderpad, cloak, belt, sleeve, wristband, glove, pant, boot, whip, robe, quiver, backpack, fleeting quiver), large sewing kit - Dolsoj Warrebs (-601, -19) <br>
+* How to Sew (small, medium, large), Tailoring, Tailoring Quivers, small sewing kit, Master Wu's Tailoring Secrets - Domalisar Cournoyer (-613, -19) <br>
+* loom - loc -384, -89 <br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

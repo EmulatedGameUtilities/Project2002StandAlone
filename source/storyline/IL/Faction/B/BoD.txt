@@ -1,0 +1,83 @@
+<a href="file:///storyline/il/Faction/B.txt">Faction Lists >> B</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <a href="file:///storyline/il/storyFaction.txt">A</a> |
+  <c "#FFFF00">B</c> |
+  <a href="file:///storyline/il/Faction/C.txt">C</a> |
+  <a href="file:///storyline/il/Faction/D.txt">D</a> |
+  <a href="file:///storyline/il/Faction/E.txt">E</a> |
+  <a href="file:///storyline/il/Faction/F.txt">F</a> |
+  <a href="file:///storyline/il/Faction/G.txt">G</a> |
+  <a href="file:///storyline/il/Faction/H.txt">H</a> |
+  <a href="file:///storyline/il/Faction/I.txt">I</a> |
+  <a href="file:///storyline/il/Faction/J.txt">J</a> |
+  <a href="file:///storyline/il/Faction/K.txt">K</a> |
+  <a href="file:///storyline/il/Faction/L.txt">L</a> |
+  <a href="file:///storyline/il/Faction/M.txt">M</a> |
+  <a href="file:///storyline/il/Faction/N.txt">N</a> |
+  <a href="file:///storyline/il/Faction/O.txt">O</a> |
+  <a href="file:///storyline/il/Faction/P.txt">P</a> |
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> |
+  <a href="file:///storyline/il/Faction/R.txt">R</a> |
+  <a href="file:///storyline/il/Faction/S.txt">S</a> |
+  <a href="file:///storyline/il/Faction/T.txt">T</a> |
+  <a href="file:///storyline/il/Faction/U.txt">U</a> |
+  <a href="file:///storyline/il/Faction/V.txt">V</a> |
+  <a href="file:///storyline/il/Faction/W.txt">W</a> |
+  <c "#7F7F7F">X</c> |
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> |
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">Brood of Di'Zok</c>
+<br>Description: This is the faction for one of the Sarnak clans.
+<br>
+<br><c "#F17C0D">Monsters That Raise This Faction</c>
+<br>Goblin Whipcracker
+<br>Iksar Bandit
+<br>Iksar Brigand
+<br>Iksar Footpad
+<br>
+<br><c "#F17C0D">Monsters That Lower This Faction</c>
+<br>Atheling Plague
+<br>Chardokai Lacerator
+<br>Chardokai Sunderfiend
+<br>Chardoki Golem
+<br>Chokidai Mangler
+<br>Dai`Zok Royal Guard
+<br>Judicator of Di`Zok
+<br>Korasal Klyseer
+<br>Korocust
+<br>Overking Bathezid
+<br>Prince Selrach Di`zok
+<br>Queen Velazul Di`zok
+<br>Sarnak Accoucheur
+<br>Sarnak Arbiter
+<br>Sarnak Aruspex
+<br>Sarnak Aruspice
+<br>Sarnak Avenger
+<br>Sarnak Caedosaur
+<br>Sarnak Champion
+<br>Sarnak Conscript
+<br>Sarnak Enthusiast
+<br>Sarnak Extremist
+<br>sarnak hatchling
+<br>Sarnak Janissary
+<br>Sarnak Knight
+<br>Sarnak Myrmidon
+<br>Sarnak Templar
+<br>Sarnak Zealot
+<br>Sorcerer of Di`Zok
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>Field of Bone
+<br>Lake of Ill Omen
+<br>Swamp of No Hope
+<br>Warsliks Woods
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>Burning Wood
+<br>Chardok
+<br>Frontier Mountains
+<br>Lake of Ill Omen

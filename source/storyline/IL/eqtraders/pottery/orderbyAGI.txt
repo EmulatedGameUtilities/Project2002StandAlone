@@ -1,0 +1,13 @@
+<c "#66CCFF">Recipes Listed By Stat (AGI)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/934.txt">Ceramic Hammer of Innovation</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AGI: <c "#66CCFF">12</c> PR: 10)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/939.txt">Ceramic Incense Burner of Ro</a></c>  &nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 10 AGI: <c "#66CCFF">12</c> WIS: 8 INT: 8 CR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/942.txt">Ceramic Totem of Xegony</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AGI: <c "#66CCFF">12</c> DEX: 12 WIS: 5 INT: 5 MR: 15 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/938.txt">Ceramic Shield of Valor</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 8 AGI: <c "#66CCFF">8</c> WIS: 8 HP: 25 MANA: 25)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/967.txt">Planar Opal Encrusted Stein</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 4STA: 9 AGI: <c "#66CCFF">7</c> MANA: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/827.txt">Golden Idol of Quellious</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 6STR: 7 AGI: <c "#66CCFF">6</c> DEX: 6 HP: 20)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/941.txt">Ceramic Totem of The Rathe</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 15 AGI: <c "#66CCFF">5</c> DEX: 10 PR: 10 DR: 10 HP: 65 MANA: 65)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/820.txt">Golden Idol of Bristlebane</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;(>240)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AC: 7STR: 9 AGI: <c "#66CCFF">5</c> DEX: 5)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/905.txt">Idol of Fizzlethorpe Bristlebane</a></c>  (>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(AGI: <c "#66CCFF">4</c> DEX: 3)<br>

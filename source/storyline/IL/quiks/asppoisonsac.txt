@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Asp Poison Sac</c><br>
+Vendor: NPC Drop<br>
+Location: Asp in East Commons / N. Ro & S. Ro / Oasis<br>
+Poison: Asp Poison / Retinal Deactivator<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">White Hellbore</c><br>
+Vendor: NPC Drop<br>
+Location: Gnolls in Lake Rathetear<br>
+Poison: Visionistic Pain<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

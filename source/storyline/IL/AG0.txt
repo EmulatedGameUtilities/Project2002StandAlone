@@ -1,0 +1,36 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FF2400">PoP: Aid Grimel Introduction</c><br>
+<br>
+This quest originates in the top of the Plane of Knowledge Library, with Aid Grimel. It requires advanced planar flags for PoP zones, multiple tradeskills over 200 (exact requirements listed below) and, of course, the Planes of Power expansion. Note that while the Brewing Step (Part 2) of this quest apparently can be multi-quested, you will still be unable to complete this quest until such time as you have all the proper flags and all the appropriate tradeskills at 220 or higher. <br>
+<br>
+After Hailing Aid Grimel he will mention that he needs someone willing to help him who is a master of trades AND who has travelled the planes. In other words, you will need to meet a certain minimum skill level (without any tradeskill improving devices like the various Geerlok tools being taken into account) in a tradeskill AND have been flagged for a certain plane or two for each tradeskill quest he gives you. If you do not have the appropriate planar flag yet, he will reply to you with: <br>
+<br>
+Aid Grimel says 'I am sorry but one who has such limited knowledge of the Planes would not be able to assist me.' <br>
+If your skill does not meet the requirement, he will insult your ability in the skill. The flag has priority over skill level. <br>
+<br>
+Once you start combining the signet in recipes, keep in mind that you WILL get the signet back if the combine fails. So don't stress out (as much) about failed combines. <br>
+<br>
+This assumes that all combines are done in either a Planar kit of some sort (i.e. Planar Fletching Kit, Planar Sewing Kit, etc) or in a stationary container IN the Plane of Knowledge. Thus if something does not combine in a normal container, try a planar one or a container in the Plane of Knowledge instead. <br>
+<br>
+Also, flags, unless said otherwise, are flags you get from killing the god. <br>
+<br>
+MQs: ONLY the Brewing part is MQable. And since the requirement is checked again on the LAST STEP, if you do not meet the requirements then, you will STILL need to get Smithing to 220, unmodified. <br>
+<br>
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

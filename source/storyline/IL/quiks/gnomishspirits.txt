@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Gnomish Spirits</c><br>
+Skill: Brewing<br>
+Combine: 1x rat ears & 1x spider legs & 1x rice & 1x bottle<br>
+Vendor: Caden Zharik (-344, +756)<br>
+Location: Plane of Knowledge<br>
+Component: Quicksilver / Drops of Mercury / Amber Resin<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

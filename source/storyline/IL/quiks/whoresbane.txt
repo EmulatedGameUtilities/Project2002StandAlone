@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Whore's Bane</c><br>
+Vendor: NPC Drop<br>
+Location: Mages and Ogre Guards in Najena<br>
+Poison: Lethargic Bliss<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

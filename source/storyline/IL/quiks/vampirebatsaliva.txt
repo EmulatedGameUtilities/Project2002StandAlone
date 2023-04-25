@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Vampire Bat Saliva</c><br>
+Vendor: NPC Drop<br>
+Location: Vampire Bats in Eruds Crossing / Lower Guk / Sol B<br>
+Poison: Delusional Swiftness<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

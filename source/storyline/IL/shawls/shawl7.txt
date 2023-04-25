@@ -1,0 +1,164 @@
+#7: Runed Coldain Prayer Shawl <br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+========================  <br><br>
+All information compiled from www.EQTraders.com    <br><br>
+
+<a HREF="file:///storyline/il/storyShawls.txt"> Thurgadin Shawls Quest - main index </a> <br><br>
+
+========================  <br><br>
+
+Quick Reference List: <br><br>
+
+HIGHEST SKILL TRIVIALS - <BR>
+Brewing: 162 <br>
+Fletching: 168 <br>
+Jewelcraft: 162 <br>
+Pottery: 162 <br>
+Tailoring: 162 <br><br>
+
+DROPS TO COLLECT <br><br>
+
+Runed Sea Shell (w/ 1 charge Enduring Breath) (non-stackable) <br>
+Small Brick of Velium (non-stackable) <br>
+Swordfish Tooth (no drop) <br>
+Ulthork Tusk (non-stackable) <br>
+Molkor Hide (non-stackable) <br>
+3 Iceclad Cutlassfish (fished, not a drop per se) <br>
+2 Small Pieces of Velium <br>
+Royal Kromrif Blood (non-stackable) <br><br>
+
+INGREDIENTS TO BUY FROM VENDORS <br><br>
+2 Flasks of Water <br>
+1 High Quality Firing Sheet <br>
+1 Rubbing Alcohol <br>
+2 Bars of Platinum <br><br>
+
+========================  <br><br>
+
+Overview of the Recipes 
+
+
+Combine in Mortar and Pestle: Runed Sea Shell + Small Brick of Velium = Enchanted Velium Powder (Pottery <128)  <br>
+Combine in Pottery Wheel: Enchanted Velium Powder + Water = Unfired Rune (Pottery 162)  <br>
+Combine in Kiln: Unfired Rune + High Quality Firing Sheet + Water = Blank Rune (Pottery 17)  <br>
+Combine in Fletching Kit: Swordfish Tooth + Ulthork Tusk + Molkor Hide = Burin (Fletching 122-135)  <br>
+Combine in Fletching Kit: Etched Rune Pattern + Burin + Blank Rune = Etched Rune (Fletching 168) (also returns burin on success or failure)  <br>
+Combine in Fish Oil Extractor: 3 Iceclad Cutlass Fish = Cutlassfish Oil (Never Fails)  <br>
+Combine in Brew Barrel: Rubbing Alcohol + Small Piece of Velium = Liquid Velium (Brewing 135)  <br>
+Combine in Brew Barrel: Liquid Velium + Cutlassfish Oil + Royal Kromrif Blood = Sacred Velium Ink ( Brewing 162)  <br>
+Combine in Fletching Kit: Sacred Velium Ink + Etched Rune = Velium Etched Rune (Fletching 168)  <br>
+Combine in Jewelry Kit: Casing Pattern + Small Piece of Velium + 2 Platinum Bars = Rune Casing (Jewelcraft 152)  <br>
+Combine in Jewelry Kit: Rune Casing + Velium Etched Rune = Encased Velium Etched Rune (Jewelcraft 162)  <br>
+Combine in Tailoring Kit: Encased Velium Etched Rune + Runed Prayer Shawl Pattern + Embroidered Coldain Prayer Shawl = Runed Coldain Prayer Shawl (Tailoring 162)  <br>
+
+========================  <br><br>
+
+NPC TEXT   <br><br>
+
+Give BETTI FROSTWEAVER your EMBROIDERED COLDAIN PRAYER SHAWL   <br><br>
+
+Betti Frostweaver says, "Spectacular artistry! I doubt I could have done better myself. You’ll have to forgive me, I know time is short and I tend to carry on. This is the pattern for the making of a rune sacred to our people. It will be our final test of your craftsmanship and will put many of your skills to the test, but I trust you'll find the finished product to be more than worth the effort. Show Gilthan the silk shawl, he will set you on the path. May Brell always be with you outlander."   <br><br>
+
+Receive: RUNED PRAYER SHAWL PATTERN & your Embroidered Coldain Prayer Shawl   <br><br>
+
+Give GILTHAN BRITTLEBLADE your Embroidered Coldain Prayer Shawl   <br><br>
+
+Gilthan Brittleblade says ‘So, you’ve been chosen to attempt the rune, eh? Been ages since anyone’s even made an attempt. The rune represents the very essence of our people, our culture, and our religion. Take a sea shell runed with enduring breath and a small brick of velium and grind them together in a mortar and pestle. Add water to the powder and model the rune. Fire the rune with water and the best of firing sheets. Show the product to Trademaster Kroven."   <br><br>
+
+Receive: Embroidered Coldain Prayer Shawl   <br><br>
+
+RUNED SEA SHELL: The shell that you need only drops off of SIRENS in SIREN'S GROTTO and has ONE charge of ENDURING BREATH. There is a necklace that drops in Cobalt Scar and maybe also in SG that has multiple charges of EB, but it will not work. Likewise there is a shell also called a Runed Sea Shell that drops in CS that has charges of Cloud. That also will not work. They are not no drop, so buying them might be a good option if you can afford it and cannot get a group sufficient to tackle the sirens in SG. They're not easy. I do know that they are at the bottom of the well and cannot be pulled out of the water to the area above the well. You must go down to them to fight them, although I believe it is possible for a sufficiently high level person to single pull them away from their spawn locations. They are tough and the shell is a somewhat rare drop. Once you have your shell and are ready to attempt the first combine, be aware that the trivial is very low so it is unlikely to fail...but the possibility is there. This was so reliable that it was thought to be unfailable until a very recent report that it had in fact failed on someone. Unfortunately, there haven't been any reports on attempts made at very low skill, so it may take a while to find out more specifics. Be aware that the mortar and pestle container used for the first combine is not a pottery item but is used in poison making. See the Poison Vendors for the one nearest you. <BR><BR>
+
+SMALL PIECES OF VELIUM and SMALL BRICK OF VELIUM: See the Fourth Shawl Details for the scoop on how to get these. <BR><BR>
+
+========================  <br><br>
+
+Give Trademaster Kroven: Blank Rune   <br><br>
+
+Trademaster Kroven says, "Fine piece of work there, Yournamehere, especially fer an outlander. Now yer gunna need to make a burin to etch the rune with. Once that's done ye need to kneel in the chapel and recite this prayer with total sincerity in yer heart. If yer plea be heard by our Father Brell he’ll bless ya with the knowledge necessary to carry on. With that knowledge you'll take the blank rune, the burin and a fletching kit to etch the rune. Show Grimthor the etched rune and he’ll guide you from there."   <br><br>
+
+Receive: Prayer to Brell & Blank Rune   <br><br>
+
+You say, "What burin?"   <br><br>
+
+Trademaster Kroven says, "You’ll need a fletching kit and a fair bit of skill for this one, Yournamehere. Round up a tooth from a swordfish and attach it to an Ulthork tusk wrapped in a Molkor hide."   <br><br>
+
+ETCHED RUNE PATTERN or How do I use this infernal Prayer to Brell?? First, go to the Temple of Lore and stand facing the stage. See how there are steps on either side of the stage that lead up to it? Go stand in the area to the left of the stage at the base of the steps on that side. Then recite the prayer that Trademaster Kroven gave to you. Make sure you are saying it in /say and without any misspellings and that you do not have anyone targeted. Don't put it into a hotkey on the five different lines, it must be typed out all in one big long shot. You will get the message "You have been inspired!" and the pattern will appear on the ground in front of the stage... NOT at your feet . There are reports that it is on a timer, so it is possible that you might do everything right and still not get inspired if someone has done it within 45 minutes or so. Try coming back later. Note also that there seems to be a problem getting the pattern to appear if the Grand Historian Thoridain is not in his usual spot on the stage. If he is out of place you may need to petition for him to be escorted back before Brell will see fit to provide you with the pattern.   <br><br>
+
+For reference, since you can't read the prayer scroll and type it at the same time, the prayer is:    <br><br>
+
+"Oh Brell, Thank you for protecting me and seeing me through my trials. Forgive me for the things I think and say and do that displease you. Please reveal to me your will and bless me with the patience and obedience to do that which you desire. Amen."   <br><br>
+
+SWORDFISH TOOTH: These only drop from the swordfish in SIREN'S GROTTO. They are found in a few different places, but are often in the company of the seahorses. Seahorses are are quite a handful because of their nasty stuns, so I recommend going for the spawns up top where it is possible to single pull one swordfish. Using invis, from the West Wastes zone follow the tunnel turning right when it branches. When you reach the open area, hug the right wall and move up to the edge of the water. The little corner of land against the wall next to the water is reported to be a safe spot if you sit all the way back. We only found one swordfish there but I do not know for sure whether there are ever more than that, so plan accordingly. You'll probably have to move out into the middle of the pool to get close enough to pull, so make sure your puller is careful to watch the wanderers that come near the water out there. Also while pulling and fighting, be careful not to get too close to the two static spawns on the far side of the pool opposite our little ledge. My group of three 54+ took out the fish but it was a tough fight. We fought on the underwater ledge at the base of the little waterfall, but tried to stay away from the far side of it to avoid agroing the static spawns just across the water. The tooth does not drop every time, but they are reasonably common.   <br><br>
+
+ULTHORK TUSK: Ulthorks are found in EASTERN WASTES and in SIREN'S GROTTO. The tusks are tradeable but valuable because they can also be turned in to one of the Othmir in Cobalt Scar for a quest that sometimes results in a high end gem reward. This is good because it means people might hang onto them and not just destroy em immediately, but it also means that they might cost you a bit if you try to buy. Ulthorks are very common in Siren's Grotto, but are also much tougher. So, if you're in no particular hurry and want some exp, that's a great place to try. The ulthorks in East Wastes are equally common and much easier, so that's a faster source.   <br><br>
+
+MOLKOR HIDE: As far as I know, molkor are only found in SIREN'S GROTTO, where they are very common. The hides are tradeable and not good for much else, so you could probably get one from other folks if you can't round up enough troops to do them yourself.   <br><br>
+
+Combine in Fletching Kit: Swordfish Tooth + Ulthork Tusk + Molkor Hide = Burin (Fletching 122-135)  <br>
+Combine in Fletching Kit: Etched Rune Pattern + Burin + Blank Rune = Etched Rune (Fletching 168) (also returns burin on success or failure)  <br><br>
+
+========================  <br><br>
+
+Give Grimthor Brewbeard: Etched Rune   <br><br>
+
+Grimthor Brewbeard says, "That looks about right. You’re moving along well outlander. Next you’ll be needin to brew up a sacred ink to fill the grooves in your rune. Take Iceclad Cutlass fish oil, liquid velium, and some Royal Kromrif blood, BREW them in the barrel here then take the product and the RUNE and combine them in a FLETCHING kit. Show Talem Tucker the resulting item if yer successful."   <br><br>
+
+Receive Etched Rune   <br><br>
+
+You say, "What cutlass fish oil?"   <br><br>
+
+Grimthor Brewbeard says, "Grab a pole and fish the waters in Iceclad until you catch yourself three Iceclad Cutlass fish. Place them in this oil extractor and you'll have whatcha need."   <br><br>
+
+ICECLAD CUTLASSFISH: These must be fished out of the water in the Iceclad Ocean but can be fished even if you start with 0 skill   <br><br>
+
+Receive: Fish Oil Extractor   <br><br>
+
+You say, "What liquid velium?"   <br><br>
+
+Grimthor Brewbeard says, "Collect a small piece of velium and a bottle of rubbing alcohol and brew them together in a barrel. It ain't easy, but it should prove to be a minor task for the likes of you."   <br><br>
+
+RUBBING ALCOHOL: Praise Brell! Rubbing alcohol is now available in Thurgadin! Go pay a visit to the bartenders of The Icy Mug at -50, 100 in Thurgadin for your very own locally sourced rubbing alcohol. While you're there have a drink in memory of the mortician in Cabilis, whose sales have dropped off rather suddenly. 
+
+ROYAL KROMRIF BLOOD: Get thee to Kael, and bring along some help. The blood only drops off of either of the two Iceshards, Klaggan Iceshard or Vorken Iceshard, who spawn by the throne in the "Icehouse". They do not always drop the blood but it is quite common. If the giant has any on him, it can be pickpocketed by a non-kos rogue with very high skill. Pickpocketing always runs the risk of creating agro, however, so make sure your rogue is aware of the danger and prepared to flee. I am told that if it is successfully pickpocketed the giant's loot table will eventually reset after an unknown period of time, perhaps half an hour or more. It seems that a sufficiently talented single group of level 55-60 can crawl their way to the area and kill these giants. The blood, however, is not no drop. So, if you cannot find a way to get it off the giants yourself, you can always try to buy. This ingredient and the runed seashell are the ones that holds up the seventh shawl for most folks. <br><br>
+
+Combine in Brew Barrel: Liquid Velium + Cutlassfish Oil + Royal Kromrif Blood = Sacred Velium Ink ( Brewing 162)  <br>
+Combine in Fletching Kit: Sacred Velium Ink + Etched Rune = Velium Etched Rune (Fletching 168)  <br><BR>
+
+========================  <br><br>
+
+Give TALEM TUCTER your VELIUM ETCHED RUNE   <br><br>
+
+Talem Tucter says, "I’ve heard of your mission, Yournamehere. I must admit that I had my doubts you’d make it this far. The rune’s creation is nearly impossible for even the most skilled of Coldain craftsmen. You should be exceedingly proud. Many have attempted this feat and nearly all have lacked the skill, faith, patience and persistence that is prerequisite for what destiny holds in store for you. You are now ready to use this pattern to construct the sacred rune’s casing and complete the runed shawl."   <br><br>
+
+Receive: CASING PATTERN & VELIUM ETCHED RUNE   <br><br>
+
+You say, "What casing?"   <br><br>
+
+Talem Tucter says, "Combine two PLATINUM BARS, A SMALL PIECE OF VELIUM and the CASING PATTERN in a Jeweler’s kit. Take the COMPLETED CASING and the RUNE and combine them in the same kit. When this is done all that’s left is to tailor the rune to the shawl with the pattern. Take the finished product to Borannin, I’m sure he’s eager to speak with you."   <br><br>
+
+Result: Encased Velium etched Rune: MAGIC LORE NO DROP Trivial at Jewel Craft 182   <br><br>
+
+Take the final Rune, the pattern you originally received from Betti at the start and your 6th shawl and combine in a tailoring kit. (Trivial at Tailoring 212)   <br><br>
+
+Result: Runed Coldain Prayer Shawl<br><br>
+
+========================  <br><br>
+
+Give Loremaster Borannin: Runed Coldain Prayer Shawl  <br><br>
+
+Loremaster Borannin says, "Incredible! Never before has an outlander been skilled and determined enough to craft our sacred rune. You are now worthy of the Dain’s most perilous tasks. One is being prepared for you as we speak, please check back with me soon and I will outline the details for you. Until then, Yournamehere, allow me to commend you on a job well done!"  <br><br>
+
+Receive: RUNED COLDAIN PRAYER SHAWL   <br><br>
+
+STATS: AC+7 Sta+7 Wis+7 Int +7 Cha+7 FR+7 CR+7 PR+7 Weight: 2.0, ALL/ALL magic, lore, no drop; effect: permanent Flowing Thought 1 (+1 mana/tick) <br><br>
+
+========================  <br><br>
+
+<a HREF="file:///storyline/il/storyShawls.txt"> Thurgadin Shawls Quest - main index </a> <br><br>
+
+========================  <br><br>
+
+Quest info last updated 4/7/03  by Verdandi as posted on the www.EQTraders.com website <br><br>
+
+Formatted for EQ StoryWindows by www.meryddian.net (5/03) <br>

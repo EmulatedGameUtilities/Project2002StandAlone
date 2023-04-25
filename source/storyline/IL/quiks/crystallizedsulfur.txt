@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Crystallized Sulfur</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Various Zones<br>
+Poison: Warlords Rage / Spine Bruiser / Spine Rend<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

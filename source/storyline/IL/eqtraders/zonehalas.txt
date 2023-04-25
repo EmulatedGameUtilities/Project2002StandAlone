@@ -1,0 +1,97 @@
+Halas Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Dargon (Shaman's guild, loc 350, 353) <br>
+* medicine bag, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jatamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss, sandalwood - Spirita (Shaman's guild, loc 346, 346) <br>
+* medicine bag - Holana O'Leary (Yee Majik)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, mixing bowl, Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelen's Quick Treats, Binelen's Succulence, Delivered Note - Teria O'Danos, next to dock (loc -3, -39) <br>
+* oven - outside McDaniels Smokes & Spirits (loc 304, -303) <br>
+* vinegar, spices, sauces, garnish, frosting, flour, milk, Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelen's Quick Treats, Binelen's Succulence, Ghumim's Delights, Ghumim's Classical Dishes, Xectia's Favored Flavors, Xectia's Hot Pie, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go - Sissia (2nd floor McDaniels Smokes and Spirits, loc 369, -325) <br>
+* spit - Jill McDaniel (upstairs, McDaniel's Smokes and Spirits, loc 326, -290) <br>
+* milk - Greta Terillon (outside McDaniels Smokes & Spirits, loc 282, -324) <br>
+* bread, short beer - Hetie McDonald (McDonalds Fine Cider, loc 237, -154) <br>
+* short beer - Brandyn McDonald (Mcdonalds Fine Cider, loc 181, -152), Donald McQuaid (McQuaids Fine Cider, loc 91, -207) <br>
+* fish - Quillion O'Zinn (The Found Mermaid, -11, 64) <br>
+* allspice, benzoin - Dargon (Shaman's guild, loc 350, 353) <br>
+* fennel, eucalyptus leaf - Spirita (Shaman's guild, loc 346, 34)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* brew barrels - in McDonald's Fine Cider (225, -142) and in McQuaid's Dark & Stout (117, -260) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - Becka McGuzzlin (McDonald's Fine Cider, loc 225, -142) <br>
+* cask, shotglass, short beer, mead, fish wine, brandy - Brandyn McDonald (McDonald's Cider, loc 179, -153), Scon McDaniel (McDaniel's Smokes, loc 343, -343), Brin McQuaid (McQuaid's Dark & Stout, loc 93, -218), Donald McQuaid (McQuaid's Dark & Stout, loc 89, -207) <br>
+* cask, bottle - Rose McDowell (loc 397, 165, between wolf pens & shaman's guild) <br>
+* empty bottles - Dok (Dok's Cigars, loc 211, 271), Greta Terrilon (outside McDaniels Smokes, loc 282, -324) <br>
+* allspice, yarrow - Dargon (Shaman's guild, loc 350, 353) <br>
+* large leather boots - Cindl (Mac's Kilts, 274, -184) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Quillion O'Zinn (The Found Mermaid, loc -141, 62), Greta Terrilon (outside McDaniels Smokes, loc 282, -324), Leopok Terrilon (bank area, loc 201, 151), Dok (Dok's Cigars, loc 211, 271) <br>
+* celandine herb - Dargon (Shaman's guild, loc 350, 353) <br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit - Rain (McPherson's Bloody Blades, loc 176, -291)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* Secrets of the White Rose, gelsemium petls, gelsemium root, snowfall algae - Elona McMahon (above the bank, loc 208, 182)
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* all sketches other than vials - Skoni (next to dock, loc 6, -37) <br>
+* kiln - behind Golden Torc (176, 425) <br>
+* pottery wheel - inside the Golden Torc (192, 383) <br>
+* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery book, vial sketches (3) - Merin (Dok's Cigars, loc 259, 269)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - 2 outside McPherson's Bloody Blades (loc 238, -291 plus loc 182, -255) <br>
+* Northman Forge (barbarian only) - outside McPherson's Bloody Blades (loc 232, -316) <br>
+* cooking molds, lantern/hinge molds, Basic Blacksmithing - Jil McDaniel (2nd floor McDaniel's Smokes and Spirits, loc 364, -290) <br>
+* Imbue Ivory [The Tribunal] - Boraskor (shaman guild) <br>
+* 12 large plate armor molds, 5 large shield molds, Fireprides Guide to Shieldcraft, Ikthars Fine Steel Skin, smithy hammer, hilt mold - Ambril McRohrer (2nd floor McDaniel's Smokes and Spirits, loc 319, -305) <br>
+* large chainmail patterns - Lynda McDobbs (McDaniel's Smokes and Spirits, 2nd floor, loc 364, -290) <br>
+* Weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, oak shaft, hilt) - April (McPherson's Bloody Blades) <br>
+* ore (small pieces, small bricks, large bricks), sharpening stone, smithy hammer, file mold, smithing chisel - Greta O'Reilly (70, -245) <br>
+* sandalwood - Spirita (Shaman's guild, loc 346, 34) <br>
+* large leather armor for barbarian cultural (skullcap, mask, tunic, shoulderpads, cloak, belt, sleeves, wristbands, gloves, boots) - Cindl (Macs Kilts, loc 273, -171) <br>
+banded armor molds in Everfrost
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns, How To Sew (Med/Large Sizes) - Cindl (Macs Kilts, loc 273, -171) <br>
+* small sewing kit - Greta Terrilon (outside McDaniels Smokes & Spirits, loc 282, -324) <br>
+* small sewing kit, How To Sew (Med/Large Sizes) - Mac (Macs Kilts, loc 304, -178) <br>
+* (large kit and patterns for quivers, secondary armor, etc. in Everfrost) <br>
+* 10-slot loom - to the north of Mac's Kilts (374, -161) <br>
+* mandrake root - Dargon (Shaman's guild, loc 350, 353)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* water, large lantern, bottle - Greta Terrilon (outside McDaniels Smokes), Leopok Terrilon (bank area), Dok (Dok's Cigars)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

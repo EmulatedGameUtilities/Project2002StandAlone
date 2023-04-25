@@ -1,0 +1,135 @@
+Make Poison Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* scent of marr - Clockwork Merchant (Library Mechanamagica, 1075, -1040, near Tergon Brenclog) used for celestial essence 
+<br><br>
+
+<c "#00CC00">Bazaar (Luclin)  </c><br>
+
+* celestial solvent - Dashelo Dalroshan (-744, 10) 
+<br><br>
+
+<c "#00CC00">Dagnor's Cauldron  </c><br>
+
+* An Old Delivered Book, suspension, mortar/pestle, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial, Conium's Notebook Parts 1 & 2 - Conium Darkblade (dwarf on island) 
+<br><br>
+
+<c "#00CC00">East Commonlands  </c><br>
+
+* scent of marr - Lyth Spellstar (building next to Inn 3, loc 269, 4906), used for celestial essence 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin)  </c><br>
+
+* An Old Delivered Book, Suspension, Constrict Suspension, Mortar and Pestle, Larent Suspension, Poison Vial, Sealed Poison Vial, Lined Poison Vial - Olowakn Telrok (1409, -855) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) (Kunark)  </c><br>
+
+* old delivered book, suspension, mortar & pestle, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial - Brak Daggermist (building at -3560, 2350) 
+<br><br>
+
+<c "#00CC00">Freeport  </c><br>
+
+* mortar/pestle, suspension, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial - Toxdil (In Sewers in W. Freeport - head out the gate, hug the right wall until you find the secret sewer entrance) 
+<br><br>
+
+<c "#00CC00">Fungus Grove(Luclin)  </c><br>
+
+* celestial solvent - Esti Elvenblood 
+<br><br>
+
+<c "#00CC00">Halas  </c><br>
+
+* Secrets of the White Rose, gelsemium petals, gelsemium root, snowfall algae - Elona McMahon (above the bank) 
+<br><br>
+
+<c "#00CC00">High Keep  </c><br>
+
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton) - used by rogues to make dye 
+<br><br>
+
+<c "#00CC00">Kaladim  </c><br>
+
+* Miner's Guide to Toxicology, limestone, lead sulphide, cinnabar - Myre (near bank, North Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Catellum (Luclin)  </c><br>
+
+* celestial solvent - Wendel Starshiner (3rd floor, caster guild) 
+<br><br>
+
+<c "#00CC00">Lake of Ill Omen (Kunark)  </c><br>
+
+* poison vial (3), suspension, larent suspension, constrict suspension, Poisons of the Lost Continent, crystal nightshade, snowcap amanita, ethereal suspension - Nubs Blackgranite (Windmill, -2542, -2941) -- this is a dwarf merchant, unsure of faction, con carefully as there is also an erudite within this windmill. 
+<br><br>
+
+<c "#00CC00">Lesser Faydark  </c><br>
+
+* dogbane, castorbean, hounds tongue, snake head iris, Scouts Poisons - Anelia Thrywiel (-318, 1248) 
+<br><br>
+
+<c "#00CC00">Neriak </c><br> 
+
+* Weapons of the Black Mask, ground garlic, red hellebore - Jerris W'Selo, Kanthu M'Rekkor (rogue's guild, 3G) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP)  </c><br>
+
+* celestial solvent - Darius Gandril (52, 1530) <br>
+* sketch book(?), suspension, constrict suspension, arent suspension, scent of marr, lined poison vial, lined poison vial, sealed poison vial, creeper ivy, ivory poppy, delphinium - Loran Thu`Leth (-112, 1407) <br>
+* mortar and pestle, suspension, larent suspension, constrict suspension, poison vial, lined poison vial, sealed poison vial, mercuric ore - Ciren Darkbog (-131, 1421) <br>
+* An Old Delivered Book, mortar and pestle, suspension, larent suspension, constrict suspension, poison vial, lined poison vial, sealed poison vial, coyotetail, thorny ergot, alocasia root, lactera, delphinium - Telir Na`Shalith (-116, 1437) 
+<br><br>
+
+<c "#00CC00">Qeynos  </c><br>
+
+* Renux's Translations - Pleshia Thuxpire (rogue's guild, NQ) <br>
+* scent of Marr - Hanlore Escaval, (Herb Jar, S. Qeynos, 305, -570) used in celestial essence 
+<br><br>
+
+<c "#00CC00">Rathe Mountains  </c><br>
+
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Ukla (ogre/troll camp, 1730, 1300) used by rogues to make dye 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin)  </c><br>
+
+* An Old Delivered Book, Suspension, Mortar and Pestle, Constrict Suspension, Larent Suspension, Poison Vial, Lined Poison Vial, Sealed Poison Vial - Ferusal (206, -44) <br>
+* celestial solvent - Bargain Merchant, Sedaitam Cournsian (318, -82) <br>
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Smithy Firehand (33, 1306), Hardam Stonegrinder (-314, 1460), Smithy Edcar (128, 136) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin)  </c><br>
+
+* Miners Guide to Toxicology, Poisons of the Lost Continent, Renux's Translations, Scouts Poisons, Secrets of the White Rose, Study of Ethereal Suspension - Toxicologist Tariid (-85, 54) <br>
+* An Old Delivered Book, suspension, mortar and pestle, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial - Mugdah (-348, 503) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains  </c><br>
+
+* king's thorn, blood rose, bundle of wormwood, brimstone, Cobals Cures of the Undeath, Kaxon's Beauty Tips - Ennixi Frennor (1371, -835) <br>
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Godbin Strumharp (windmill at /loc 51, -611) used to make dye 
+<br><br>
+
+<c "#00CC00">Thurgadin  </c><br>
+
+* Ethereal Suspension, suspension, constrict suspension, larent suspension, Study of Ethereal Suspension - Clara (shop at 47, -118) 
+<br><br>
+
+<c "#00CC00">West Karana  </c><br>
+
+* old delivered book, suspension, mortar/pestle, constrict suspension, larent suspension, poison vial (3), coyotetail, thorny ergot, alocasia root, lactera, delphinium - Gindlin Toxfodder (-2989 , -13399) <br><br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

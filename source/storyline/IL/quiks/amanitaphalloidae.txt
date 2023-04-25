@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Amanita Phalloidae</c><br>
+Vendor: NPC Drop<br>
+Location: Various Mobs in Unrest<br>
+Poison: Essence of Rallos<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

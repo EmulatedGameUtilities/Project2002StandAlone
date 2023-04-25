@@ -1,0 +1,36 @@
+Northern Desert of Ro Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* fresh fish - Tia Sandfisher, Juni Sandfisher (edge of ocean)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* grapes, bottle, cask - Innkeep Tozie (Inn south of Freeport)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole & bait - Tia Sandfisher, Juni Sandfisher (edge of ocean) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* thimble mold, needle mold - Spoolie Gee (Inn south of Freeport)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), tailoring book - Spoolie Gee (Inn south of Freeport)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,140 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Enchanter Spells<br>
+
+<br><c "#00ff00">Improved Invisibility 50 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 50 (Left)<br> 
+Yaeth's Compendium Pg. 50 (Right) <br> 
+
+<br><c "#00ff00">Everlasting Breath 51 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 63 (Left)<br> 
+Yaeth's Compendium Pg. 63 (Right) <br> 
+
+<br><c "#00ff00">Levitation 51 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 65 (Left)<br> 
+Yaeth's Compendium Pg. 65 (Right) <br> 
+
+<br><c "#00ff00">Theft of Thought 51 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 61 (Left)<br> 
+Yaeth's Compendium Pg. 61 (Right) <br> 
+
+<br><c "#00ff00">Color Slant 52 <br>
+<c "#0088ff">Keris' Dissertation Pg. 5 (Left)<br> 
+Keris' Dissertation Pg. 5 (Right) <br> 
+
+<br><c "#00ff00">Cripple 53 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 70 (Left) <br>
+Yaeth's Compendium Pg. 70 (Right) <br>
+
+<br><c "#00ff00">Dementia 54 <br>
+<c "#0088ff">Zeannor's Thesis Pg. 12 (Left)<br> 
+Zeannor's Thesis Pg. 12 (Right) <br> 
+
+<br><c "#00ff00">Illusion: Vah Shir 54 <br>
+<c "#0088ff">Keris' Dissertation Pg. 7 (Left)<br> 
+Keris' Dissertation Pg. 7 (Right) <br> 
+
+<br><c "#00ff00">Gift of Insight 55 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 72 (Left)<br> 
+Yaeth's Compendium Pg. 72 (Right) <br> 
+
+<br><c "#00ff00">Lagarn's Lamentation 55 <br>
+<c "#0088ff">Zeannor's Thesis Pg. 14 (Left)<br> 
+Zeannor's Thesis Pg. 14 (Right) <br> 
+
+<br><c "#00ff00">Wind of Tashani 55 <br>
+<c "#0088ff">Toharon's Memoir Pg. 15 (Left)<br> 
+Toharon's Memoir Pg. 15 (Right) <br> 
+
+<br><c "#00ff00">Zurnaik's Animation 55 <br>
+<c "#0088ff">Finnok's Treatise Pg. 2 (Left)<br> 
+Finnok's Treatise Pg. 2 (Right) <br> 
+
+<br><c "#00ff00">Augment 56 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 80 (Left)<br> 
+Yaeth's Compendium Pg. 80 (Right) <br>
+Yaeth's Compendium Pg. 81 (Full) <br>
+
+<br><c "#00ff00">Horrifying Visage 56 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 78 (Left) <br> 
+Yaeth's Compendium Pg. 78 (Right) <br> 
+
+<br><c "#00ff00">Torment of Argli 56 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 73 (Left)<br> 
+Yaeth's Compendium Pg. 73 (Right) <br> 
+
+<br><c "#00ff00">Enlightenment 57 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 82 (Left)<br> 
+Yaeth's Compendium Pg. 82 (Right) <br>
+Yaeth's Compendium Pg. 83 (Full) <br>
+
+<br><c "#00ff00">Forlorn Deeds 57 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 91 (Left)<br> 
+Yaeth's Compendium Pg. 91 (Right) <br>
+Yaeth's Compendium Pg. 92 (Full) <br>
+
+<br><c "#00ff00">Umbra 57 <br>
+<c "#0088ff">Toharon's Memoir Pg. 18 (Left)<br> 
+Toharon's Memoir Pg. 18 (Right) <br>
+Toharon's Memoir Pg. 19 (Full) <br>
+
+<br><c "#00ff00">Bedlam 58 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 94 (Left)<br> 
+Yaeth's Compendium Pg. 94 (Right) <br>
+Yaeth's Compendium Pg. 95 (Full) <br>
+
+<br><c "#00ff00">Dementing Visions 58 <br>
+<c "#0088ff">Zeannor's Thesis Pg. 15 (Left)<br> 
+Zeannor's Thesis Pg. 15 (Right) <br>
+Zeannor's Thesis Pg. 16 (Full) <br>
+
+<br><c "#00ff00">Glamorous Visage 58 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 97 (Left) <br> 
+Yaeth's Compendium Pg. 97 (Right) <br>
+Yaeth's Compendium Pg. 98 (Full) <br>
+
+<br><c "#00ff00">Asphyxiate 59 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 104 (Left) <br> 
+Yaeth's Compendium Pg. 104 (Right) <br>
+Yaeth's Compendium Pg. 105 (Full) <br>
+
+<br><c "#00ff00">Gift of Pure Thought 59 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 102 (Left) <br> 
+Yaeth's Compendium Pg. 102 (Right) <br>
+Yaeth's Compendium Pg. 103 (Full) <br>
+
+<br><c "#00ff00">Dictate 60 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 112 (Left) <br>
+Yaeth's Compendium Pg. 112 (Right) <br>
+Yaeth's Compendium Pg. 113 (Full) <br>
+
+<br><c "#00ff00">Gift of Brilliance 60 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 107 (Left)<br> 
+Yaeth's Compendium Pg. 107 (Right) <br>
+Yaeth's Compendium Pg. 108 (Full) <br>
+
+<br><c "#00ff00">Koadic's Endless Intellect 60 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 25 (Left) <br>
+Yaeth's Compendium Pg. 25 (Right) <br>
+Yaeth's Compendium Pg. 26 (Left) <br>
+Yaeth's Compendium Pg. 26 (Right) <br>
+
+<br><c "#00ff00">Speed of the Brood 60 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 117 (Left)<br> 
+Yaeth's Compendium Pg. 117 (Right) <br>
+Yaeth's Compendium Pg. 118 (Left) <br>
+Yaeth's Compendium Pg. 118 (Right) <br>
+
+<br><c "#00ff00">Visions of Grandeur 60 <br>
+<c "#0088ff">Yaeth's Compendium Pg. 114 (Left) <br> 
+Yaeth's Compendium Pg. 114 (Right) <br>
+Yaeth's Compendium Pg. 115 (Full) <br>
+
+<br><c "#00ff00">Wind of Tashanian 60 <br>
+<c "#0088ff">Toharon's Memoir Pg. 21 (Left) <br>
+Toharon's Memoir Pg. 21 (Right) <br>
+Toharon's Memoir Pg. 22 (Full) <br>
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

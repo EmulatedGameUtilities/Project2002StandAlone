@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Basilisk Eyestalk</c><br>
+Vendor: NPC Drop<br>
+Location: Lava Basilisk in Lavastorm<br>
+Poison: Basilisk Poison / Kinetic Suppressent<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

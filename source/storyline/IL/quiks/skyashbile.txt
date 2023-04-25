@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Skyash Bile</c><br>
+Vendor: NPC Drop<br>
+Location: Skyfire Drake in Skyfire Mountains<br>
+Poison: Paradoxial Peptide / Rending Swiftness<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

@@ -1,0 +1,33 @@
+Misty Thicket Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* spices, vinegar, frosting, jug of sauces, garnish, milk, flour and cookbooks - Bim Buskin, /loc 905.00, -2344.00<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (3), firing sheets (3), Basic Pottery book, glass shard, vial sketches (3) - Topper Drodo, /loc 585.00, -2356.00<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* small armor molds - Hanga Wiskin, /loc 332.00, -2270.00 <br>
+* needle & thimble molds - Tipa Lighten, /loc 581.00, -2201.00<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2), - Tipa Lighten, /loc 581.00, -2201.00 <br>
+* small sewing kit, leather armor patterns - Sonsa Fromp, /loc 672.00, -2210. NOTE: Sonsa's prices are considerably higher than those in town, and you should only shop with her if there's a reason you can't go into town (i.e., you don't want to lose wolf form/illusion/pet, etc.). <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

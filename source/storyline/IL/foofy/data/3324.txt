@@ -1,0 +1,2 @@
+Rathe's Son
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Pet: SumEarthR15<br><br><c "#66CCFF">Casting Time:</c> 10.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Mana:</c> 400<br><c "#66CCFF">Recast Time:</c> 2.25<br><c "#66CCFF">Resist:</c> Disease<br><c "#66CCFF">Skill:</c> Conjuration<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> MAG/65<br><c "#66CCFF">Duration:</c> Instant<br><br><c "#66CCFF">Cast on other:</c> Foofy calls to the Rathe's earth.<br><br>♥<br>

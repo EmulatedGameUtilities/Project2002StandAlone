@@ -1,0 +1,77 @@
+<c "#FF0000">Planes of Power Recipes - Requires planar jeweller's kit<br><br>
+<a href="file:///storyline/il/storyJewelry.txt"> <c "#00ff00">Return to Main Jewelry Recipes</a>
+<br><br>
+<c "#FF0000">Glittering Ring of Judgement
+<br><c "#00ff00">trivial >250; magic, AC 10, WIS 20, HP 50, all/all, recommended level 60, required level 46<br> 
+<c "#0088ff">glittering ring<br>
+white diamond of justice - imbue justice: raw diamond, alkaline etched stone<br>
+2 crystallized cloudy eyes<br>
+<br>
+<c "#FF0000">Helm of Nocturnal Phantasms
+<br><c "#00ff00">trivial >250, AC 10, WIS 10, INT 10, mana 40, sv magic 15, required level 46, effect: mana preservation III, CLR, PAL, RNG, SHD, DRU, BRD, SHM, NEC, WIZ, MAG, ENC, BST; ALL<br> 
+<c "#0088ff">ivory skull<br>
+2 midnight stones<br>
+emblem of nightmare - blank emblem, enchanted bar of nightmare (smithing, trivial 135 - distilled mana, brick of nightmare iron), black diamond of nightmares (imbue nightmare: raw diamond and nightmare mephit blood)<br>
+lock of banshee hair<br>
+<br>
+<c "#FF0000">Bone Bracelet of Corruption
+<br><c "#00ff00">trivial >250, magic, AC 15, DEX 5, WIS 5, INT 5, AGI 5, sv disease 25, sv poison 10, recommended level 60, required level 46, all/all<br> 
+<c "#0088ff">runed lepertoloth bone segment - research, trivial 180-188: lepertoloth bone segment, blood rune ink (combine inky secretions and bubonian blood in a small clay jar [pottery, trivial 31 - block of clay, small jar sketch, water flask, quality firing sheet])<br>
+green diamond of disease - imbue disease: raw diamond, bubonian blood<br>
+<br>
+<c "#FF0000">Necklace of Biting Insanity
+<br><c "#00ff00">trivial not reported, AC 2, HP 50, mana 50, sv fire 4, sv disease 4, sv cold 4, sv poison 4, all/all. recommended/required levels not reported<br> 
+<c "#0088ff">3 teeth of the insane<br>
+purple diamond of torment - imbue torment: raw diamond, putrescent blood<br>
+cord of tormented muscle<br>
+<br>
+<c "#FF0000">Iron Amulet of Unseen Horrors
+<br><c "#00ff00">trivial >250; AC 10, DEX 5, INT 10, mana 75, sv magic 25, recommended level 60, required level 46, all/all<br> 
+<c "#0088ff">enchanted bar of nightmare iron - smithing, trivial 135: distilled mana, brick of nightmare iron<br>
+midnight stone<br>
+black diamond of nightmares - imbue nightmare: raw diamond, nightmare mephit blood<br>
+<br>
+<c "#FF0000">Electrified Earring of Tempests
+<br><c "#00ff00">trivial >250; AC 7, HP 35, mana 35, sv fire 12, sv cold 12, sv magic 12, all/all, recommended level 60, required level 46<br> 
+<c "#0088ff">enchanted bar of electrified copper - smithing, trivial 135: distilled mana, brick of electrified copper<br>
+gray diamond of storms - imbue storm: raw diamond, storm rider blood<br>
+wind-worn stone<br>
+<br>
+<c "#FF0000">Valorium Ring of Gallantry
+<br><c "#00ff00">trivial >250; AC 5, STR 8, STA 8, DEX 8, AGI 8, HP 65, mana 40, sv fire 5, sv cold 5, all/all, magic, recommended level 60, required level 46<br> 
+<c "#0088ff">enchanted bar of valorium - smithing, trivial 135: distilled mana, brick of valorium<br>
+yellow diamond of valor - imbue valor: raw diamond, metallic liquid<br>
+razorfiend talon<br>
+<br>
+<c "#FF0000">Bloodmetal Earring of Engagement
+<br><c "#00ff00">trivial >250; AC 7, STR 12, STA 8, AGI 6, HP 70, mana 40, sv magic 15, recommended level 60, required level 46, all/all<br> 
+<c "#0088ff">enchanted bar of bloodmetal - smithing, trivial <=181: distilled mana, brick of bloodmetal<br>
+orange diamond of war - imbue war: raw diamond, war wraith blood<br>
+highly polished gem<br>
+<br>
+<c "#FF0000">Molten Ring of Incineration
+<br><c "#00ff00">trivial not provided but suspected >250, AC 10, STR 7, DEX 7, INT 7, WIS 7, HP 60, mana 90, sv cold 20, all/all, recommended level 63, required level 46<br> 
+<c "#0088ff">enchanted molten bar - smithing, trivial not provided: distilled mana, molten ore<br>
+red diamond of fire - imbue fire: raw diamond, fire mephit blood<br>
+eye of eternal fire<br>
+<br>
+<c "#FF0000">Ice Ring of Chilling Depths
+<br><c "#00ff00">trivial >250; AC 9, STA 5, INT 10, AGI 15, HP 75, mana 75, sv fire 20, recommended level 63, required level 46, all/all<br> 
+<c "#0088ff">bar of enchanted e'cian ice - smithing, trivial <=184: distilled mana, brick of e'cian ice<br>
+aqua diamond of water - imbue water: raw diamond, water mephit blood<br>
+kraken eye<br>
+<br>
+<c "#FF0000">Steel Ring of Earthen Resilience
+<br><c "#00ff00">trivial >250; AC 12, STR 10, STA 10, HP 90, mana 60, sv disease 12, sv poison 12, recommended level 63, all/all
+<br> 
+<c "#0088ff">enchanted brick of immaculate steel - smithing, trivial 176: distilled mana, brick of immaculate steel<br>
+brown diamond of earth - imbue earth: raw diamond, earth mephit blood<br>
+an elemental stone<br>
+<br>
+<c "#FF0000">Cloudy Ring of Pneumatic Force
+<br><c "#00ff00">trivial not provided but suspected >250, AC 9, DEX 15, WIS 10, AGI 15, HP 75, mana 75, sv magic 20, recommended level 63, required level 46, all/all<br> 
+<c "#0088ff">enchanted bar of wind metal - smithing, trivial not provided: distilled mana, brick of wind metal<br>
+cloudy diamond of air - imbue air: raw diamond, air mephit blood<br>
+multifaceted arachnid eye<br>
+<br><a href="file:///storyline/il/storyJewelry.txt"> <c "#00ff00">Return to Main Jewelry Recipes</a>
+<br>

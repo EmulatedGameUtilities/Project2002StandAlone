@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Succulent Sap</c><br>
+Vendor: NPC Drop<br>
+Location: Succulents in Overthere<br>
+Poison: Maddening Sap / Zek Frost / Warlords Rage<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

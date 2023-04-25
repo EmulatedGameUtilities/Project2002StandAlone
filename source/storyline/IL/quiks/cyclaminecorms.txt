@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Cyclamine Corms</c><br>
+Vendor: NPC Drop<br>
+Location: Snow Orc in Everfrost<br>
+Poison: Cyclan Butil<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

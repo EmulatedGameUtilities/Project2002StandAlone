@@ -1,0 +1,275 @@
+Jewelcraft Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+Note that anywhere it mentions "18 gems", the following gems will be found on the merchant: malachite, lapis, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby. <br><br>
+
+Also note that the following jewelcraft gems are loot drop only, and will not be found on normal vendors (unless they were sold to the vendor by a player): ivory, diamond, blue diamond, black sapphire, jacinth, black pearl 
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald - two clockwork jewelers inside 1340, -906 <br>
+* malachite, lapis, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jewelers kit, Legacy of Jewelcraft - clockwork jeweler in bank (1352, -883) <br>
+* cats eye agate, hematite, jasper, peridot - clockwork merchant next to Useah Harnbock (Library Mechanamagica) <br>
+* peridot, wolfs eye agate - clockwork merchant near Tergon Brenclog (Library Mechanamagica) <br>
+* scroll of imbue ruby [cleric: Brell Sirilis], scroll of imbue peridot [cleric: Bristlebane] - a clockwork merchant (1221,-187 in Abbey of Deep Musing (cleric guild hall) 
+<br><br>
+
+<c "#00CC00">Bazaar (Luclin) </c><br>
+
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Dashelo Dalroshan (-744, 10) <br>
+* jar of lacquer - Sateal Deirosap (-670, -35) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c><br>
+
+* 17 gems, Legacy of Jewelcraft - Klok Ixmid (East, 655, 147) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, fire emerald, carnelian, turquoise - Klok Oxmod (East, 641, 152) 
+scroll of imbue: amber [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c><br>
+
+* peridot, hematite, jasper - Pardor the Blessed (one of the first buildings out from Freeport, loc -120, -781) <br>
+* carnelian, malachite, peridot, lapis, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, pearl, cats eye agate, onyx - Katha Firespinner (next to Inn 3, loc 233, 4734) <br>
+* peridot, wolf's eye agate - Lyth Spellstar (next to Inn 3, loc 269, 4906) 
+<br><br>
+
+<c "#00CC00">Echo Caverns (Luclin) </c><br>
+
+* Legacy of Jewelcraft, Jeweller's kit, silver/electrum/gold/platinum bars - Echo Tradesman (1336, -799) <br>
+* malachite - Echo Tradesman 1596, -767) <br>
+* malachite, Lapis Lazuli, Hematite, Turquoise, Cat's Eye Agate, Bloodstone, Jasper, Onyx, Carnelian, Star Rose Quartz, Jade, Amber, Jeweller's Kit, Legacy of Jewel Craft, Ruby, Opal, Peridot, Emerald, Topaz, Pearl - Echo Tradesman (1318, -545) 
+<br><br>
+
+<c "#00CC00">Erudin </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Sothure Gemcutter (Sothure's Fine Gems, Erudin Palace) <br>
+* 16 gems, jewelers kit, Legacy of Jewelcraft - Anite Gemcutter (Sothure's Fine Gems, Erudin Palace), Elbsin Denuen & Myrcin Denuen (Vials of Vitality, Erudin Palace) <br>
+* cat's eye agate, bloodstone, jasper, peridot, star rose quartz- Gwynora Armista (Enchanters Guild, Erudin Palace) <br>
+* cat's eye agate, bloodstone, jasper, peridot - Andane Starinen (Wizard's Guild, Erudin Palace) <br>
+* peridot, lapis lazuli, hematite, bloodstone, jasper, amber - Tika Shockstep (Wizard's Guild, Erudin Palace) <br>
+* peridot, wolf's eye agate, aquamarine, malachite - Harbon Ranflash (Mage Guild, Erudin Palace) <br>
+* carnelian, malachite, peridot, lapis lazuli, turquoise, bloodstone, rose quartz, amber, cat's eye agate, wolf's eye agate, aquamarine - Frena Runeflash (Mage Guild, Erudin Palace) <br>
+* peridot, star rose quartz - Jeliala Glimmercharm (Enchanters Guild, Erudin Palace) <br>
+* imbue topaz [cleric: Quellious] spell, imbue black pearl spell [cleric: Prexus] - Stolace Printell (balcony of temple of Quellious) 
+<br><br>
+
+<c "#00CC00">Felwithe </c><br>
+
+* malachite, lapis, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jewelers kit, Legacy of Jewelcraft - Merchant Tyslin (Shop of All Holds, N. Felwithe -- also same exact merchant located in building just inside entrance to S. Felwithe) <br>
+* metal bars (silver, electrum, gold, platinum), Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Merchant Silspin (next to Bait & Tackle, N. Felwithe) <br>
+* cats eye agate, bloodstone, jasper, peridot, star rose quartz - Merchant Lyssia (Enchanters Guild, S. Felwithe) <br>
+* peridot, wolfs eye agate, malachite - Merchant Jewyln (outside mage guild, S. Felwithe) <br>
+* enchant silver, enchant electrum, enchant gold, enchant platinum - Alicia Starshimmer (Enchanters Guild, S. Felwithe) <br>
+* imbue: emerald spell [cleric/druid: Tunare] - Allia Moondancer (cleric guild, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) (Kunark) </c><br>
+
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Drake Mountainstorm (building at -3622, 2431) <br>
+* fire emerald,stary ruby, sapphire, silver/electrum/gold/platinum bars, jewelers kit - Brisla Fyrestone (building at -3622, 2431) 
+<br><br>
+
+<c "#00CC00">Freeport </c><br>
+
+* carnelian, malachite, peridot, lapis lazuli, turquoise, bloodstone, star rose quartz, amber, cats eye agate, wolf's eye agate, aquamarine - Lysin Smokkan (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, star rose quartz - Lysa Truegreen (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, wolf's eye agate, malachite, aquamarine - Mekoma Buma (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, lapis, hematite, bloodstone, jasper, carneliam - Zasrin Blueflame (Academy of Arcane Sciences, W. Freeport) <br>
+* cats eye agate, bloodstone, jasper, peridot, star rose quartz - Dulia Jestes <br>
+* cats eye agate, bloodstone, jasper, peridot - Voglan Dransed (Academy of Arcane Sciences, W. Freeport) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewellers kit, star ruby, fire opal, fire emerald- Amber (upstairs in unlabeled blue building just outside the Freeport Market, N. Freeport, loc -167, 195) <br>
+* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Cleric/pally guild, N. Freeport) <br>
+* carneliam, malachite, lapis lazuli, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, jade, pearl, topaz, cat's eye agate, onyx, peridot, emerald, opal, fire opal, sapphire, ruby - Jade (unlabeled blue building just outside the Freeport Market, N. Freeport, loc -167, 195, Aimie Moonspin (bank, N. Freeport) <br>
+* jar of lacquer - Trudie Steelbone (Groflah's Forge, N. Freeport) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin) </c><br>
+
+* malachite, cat's eye agate, bloodstone, jasper, peridot, pearl, emerald - Esti Elvenblood (-1497, -954) 
+<br><br>
+
+<c "#00CC00">Grobb </c><br>
+
+* carnelian, malachite, lapis, turquoise, hematite, bloodstone, jasper, star rose quartz, carnelian, jade, pearl, topaz, cats eye agate, onyx, peridot, emerald, opal, fire opal, sapphire, ruby, jewelers kit, Legacy of Jewelcraft - Rezslog (outside Krungs Clubs & Junk), Uzak (loc 553, -318) <br>
+* imbue: amber spell [Cazic-Thule] - Barsk (shaman guild) 
+<br><br>
+
+<c "#00CC00">Halas </c><br>
+
+* imbue: ivory spell [shaman: The Tribunal] - Boraskor (shaman guild) 
+<br><br>
+
+<c "#00CC00">High Keep </c><br>
+
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Merchant Edina (1st floor, -91, -294) <br>
+* jar of lacquer - Graham Embersmith (basement) 
+<br><br>
+
+<c "#00CC00">Icewell Keep (Velious) </c><br>
+
+* 18 gems, Legacy of Jewelcraft, jewelry kit - Coldain Outcast (under keep, 53, 920) 
+<br><br>
+
+<c "#00CC00">Kaladim </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Aanina Rockfinder (Everhot Forge, N. Kaladim) <br>
+* malachite, lapis lazuli, turquoise, hematite, cats eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jeweler's kit, Legacy of Jewelcraft - Bonaf Norkhitter (inside mine, N. Kaladim) <br>
+* imbue: ruby spell [Brell Serilis] - Duppa Pickstone (cleric guild) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jeweller's kit, fire opal, star ruby, fire emerald - Monika Helsin (601, -168) <br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Wendel Starshiner (-704, 253, third floor of caster guild) <br>
+* jar of lacquer - Bole Bricktop (52, -1530) 
+<br><br>
+
+<c "#00CC00">Kelethin </c><br>
+
+* metal bars (silver, electrum, gold, platinum),, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Merchant Kweilli (Sparkling Glass, 414, 293) <br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Merchant Laedar (610, 537) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c><br>
+
+* peridot, bloodstone - Jeena Firechaser (-215, 3820) 
+<br><br>
+
+<c "#00CC00">Neriak </c><br>
+
+* carnelian , amber - Tanai Tambor (Slug's Tavern NFQ) <br>
+* star rose quartz - Ungia (bottom of entrance ramp SFQ), Bull Crusher (Warrior's guild SFQ), Canarie (Shinie Tings SFQ) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Canarie (Shinie Tings SFQ), Zartox Ru'Sae (upstairs, Forge House, COM) <br>
+* 18 gems, Legacy of Jewelcraft, jewelers kit - Telnor D'Unnar (The Bauble 3G), Nekola N'Ryt (upstairs, Forge House, COM) <br>
+* enchant silver, enchant electrum, enchant gold, enchant platinum - Mizr N'Mar (Library, 3G) <br>
+* imbue sapphire spell (cleric: Innoruuk) - Svlia C'Luzz (next to Cleric Guildmaster, 3G) <br>
+* jar of lacquer - Treven Rue'Soe (45, -902, COM) 
+<br><br>
+
+<c "#00CC00">North Karana </c><br>
+
+* imbue plains pebble spell [druid/cleric: Karana], imbue emerald [druid/cleric: Tunare] - Tak Whistler (druid circle) 
+<br><br>
+
+<c "#00CC00">Oggok </c><br>
+
+* peridot - Hrak (entry to shaman guild) <br>
+* imbue jade spell [shaman: Rallos Zek] spell - Barsk (shaman guild) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c><br>
+
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Tin Merchant IV, 2634, 2525 <br>
+* Legacy of Jewelcraft, silver/electrum/gold/platinum bars, jewelers kit, star ruby, fire emerald, sapphire - Tin Merchant III, 2671, 2557 
+<br><br>
+
+<c "#00CC00">Paineel </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Dannis Faleet (Fortune's Fancy) <br>
+* pearl, Cats Eye Agate, Bloodstone, Jasper, and Peridot - Keletha Nightweaver & Linnlue Brackmar (the Abbatoir, 735, 845) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c><br>
+
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Darius Gandril (52, 1530) <br>
+* silver/electrum/gold/platinum bars, fire opal, star ruby, fire emerald, blank emblem, planar jeweller's kit - Noirin Khalen (-85, 325), Audri Deepfacet (405, 756) <br>
+* carnelian, malachite, lapis lazuli, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, jade, pearl, topaz, cat's eye agate, onyx, peridot, emerald, opal, fire opal, sapphire, ruby - Kirem Deepfacet (419, 768) <br>
+* amber - Ciren Darkbog (-131, 1421) 
+<br><br>
+
+<c "#00CC00">Plane of Tranquility (PoP) </c><br>
+
+* peridot, star rose quartz - Parija Kalamir (671, -1898) <br>
+* silver/electrum/gold/platinum bars, jeweller's kit - Aelisian Taliz (889, -1743) 
+<br><br>
+
+<c "#00CC00">Qeynos </c><br>
+
+* metal bars (silver, electrum, gold, platinum), Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Ziska Ironforge (The Jewel Box, N. Qeynos) <br>
+* peridot, wolfs eye agate - Hanlore Escaval (The Herb Jar, S. Qeynos) <br>
+* 18 gemstones, jewelers kit, Legacy of Jewelcraft - Svena Ironforge (The Jewel Box, N. Qeynos) <br>
+* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) <br>
+* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433) 
+<br><br>
+
+<c "#00CC00">Rathe Mountains </c><br>
+
+* 18 gems, jeweler's kit, Legacy of Jewelcraft - Darfumpel Zirubbel (side building next to inns, 4100, 900) 
+<br><br>
+
+<c "#00CC00">Rivervale </c><br>
+
+* imbue: peridot spell [cleric: Bristlebane] - Blippo Stumbletoe (Cleric guild) 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c><br>
+
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jeweller's kit, fire opal, star ruby, fire emerald - Asotha Balais (-934, -944) <br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Gaston Facetmaker (-53, 1018) <br>
+* jar of lacquer - Wulan Goldsmith (7, 1016), Melda Goldsmith 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c><br>
+
+* silver/electrum/gold/platinum bars, jeweller's kit, Legacy of Jewelcraft - Garn Allonode (-12, 652) <br>
+* malachite, lapis lazuli, turquoise, hematite, cat's eye agate, bloodstone, onyx, jasper, carnelian, star rose quartz, amber, jade, pearl, topaz, peridot, emerald, opal, ruby, jeweller's kit, Legacy of Jewelcraft - Adinson Allonode (-11, 634), Pilop Stolarix (-715, 1581), Eriska Malosona (1169, 45, second floor, caster guild) <br>
+* malachite, cat's eye agate, bloodstone, pearl, jasper, peridot, emerald - Bargain Merchant (212, 287), Sedaitan Cournsian (318, -82) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, star ruby, fire emerald, sapphire - Aeksola Faerlonifer (1195, 46) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c><br>
+
+* silver/electrum/gold/platinum bars, jeweller's kit, Legacy of Jewelcraft, fire opal, star ruby, fire emerald - Jhimis Khadwi (300, -367), Katja (-215, -27) <br>
+* carnelian, Malachite, Lapis Lazuli, Turquoise, Hematite, Bloodstone, Jasper, Star Rose Quartz, Amber, Jade, Pearl, Topaz, Cat's Eye Agate, Onyx, Peridot, Emerald, Opal, Fire Opal, Sapphire, Ruby - Uhlma Mareesh (219, -367) 
+<br><br>
+
+<c "#00CC00">Skyshrine </c><br>
+
+* silver/electrum/gold/platinum bars, star ruby, fire emerald, sapphire, Legacy of Jewelcraft, jeweller's kit - Purveyor Chop (second floor, 368, -635) 
+<br><br>
+
+<c "#00CC00">Solusek B </c><br>
+
+* imbue fire opal spell [Solusek Ro] Zordak Ragefire (merchant that spawns in Nagafen's spot after Nagafen dies) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c><br>
+
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Torodrane Frompwaddle (-1599, -1839) <br>
+* jar of lacquer - Godbin Strumharp (windmill at /loc 51, -611) <br>
+* imbue plains pebble [druid/cleric spell: Karana] - merchant at druid ring (name?) 
+<br><br>
+
+<c "#00CC00">Temple of Solusek Ro </c><br>
+
+* fire opal - Genni (quest-based, she will sell one to you for 550 gold) 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c><br>
+
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Meg Tucter (-348, -59) <br>
+* metal bars (silver, electrum, gold, platinum, velium), Legacy of Jewelcraft, star ruby, fire emerald, sapphire - Talem Tucter (-337, -59) <br>
+* enchant velium (spell) - Nimren Stonecutter (46, -113) 
+<br><br>
+
+<c "#00CC00">Toxxulia Forest </c><br>
+
+* cats eye agate, jasper, bloodstone, peridot - Islan Hetstan (shop near ocean), <br>
+* cats eye agate, jasper, bloodstone, peridot, star rose quartz - Xylania Rainsparkle (shop to left of entrance to hunting area) 
+<br><br>
+
+<c "#00CC00">West Commonlands </c><br>
+
+* metal bars (silver, electrum, gold, platinum), Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald - Naresa Sparkle (building near entrance to Befallen) - I've not yet figured out her faction, but she is different than the other merchants in the area, and is seriously overpriced. <br><br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

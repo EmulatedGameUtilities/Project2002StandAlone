@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Putrid Bile</c><br>
+Vendor: NPC Drop
+Location: Fire Drakes in Lavastorm<br>
+Poison: Corrosive Solvent / Putrid Bane / Acidic Dissolver / Calcium Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

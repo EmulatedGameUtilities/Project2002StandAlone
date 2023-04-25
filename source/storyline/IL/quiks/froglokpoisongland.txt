@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Froglok Poison Glands</c><br>
+Vendor: NPC Drop<br>
+Location: Frogloks in Upper & Lower Guk<br>
+Poison: Regalis Poison<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

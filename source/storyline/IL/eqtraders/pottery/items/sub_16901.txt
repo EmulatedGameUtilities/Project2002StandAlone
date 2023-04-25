@@ -1,0 +1,2 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/846.txt">Block of Clay</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)&nbsp;&nbsp;&nbsp;(3 Small Block of Clay, Water Flask) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Pottery/items/1051.txt">Block of Clay</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)&nbsp;&nbsp;&nbsp;(Large Block of Clay, Water Flask) <br>

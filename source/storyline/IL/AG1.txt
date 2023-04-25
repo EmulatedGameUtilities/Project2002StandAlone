@@ -1,0 +1,75 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Part 1: Smithing</c><br>
+<br>
+Skill Requirement: 220 (or higher) Smithing. <br>
+<br>
+Flag Requirement: Bertoxxulous AND rescuing Mylik and Adier<br>
+Your Flag MUST say - Saved from certain doom, Milyk and Adler are forever in your debt. <br>
+<br>
+Grimel will hand you a breastplate, ask that you wash it, and then coat with a temper and add two Black Diamonds of Nightmares to it. Keep in mind that if you fail to combine the breastplate, you WILL lose it. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I am well versed in the art of smithing'<br>
+Aid Grimel says 'Thank you for offering to help _____. Take this breastplate and clean it with a diluted acid wash to get all of the debris out of it. Brew the wash by combining acid and a three celestial essence's. Once the armor is cleaned, coat it with hurricane temper. Finally add two black diamonds of nightmare to the breastplate. This should provide adequate protection for our next journey.' <br>
+Turn in the finished Imbued Breastplate for the following text and a Leather Signet. Do not throw away the Leather Signet. <br>
+<br>
+Aid Grimel smiles. 'What a wonderful job! Councilman Taldarius shall wear this on our next adventure, I am sure he will find it more protective than his old one. Take this signet as a token of my gratitude. If you are not too busy I have another task, do you have any brewing skill?' <br>
+<br>
+<c "#FFFF00">Hardened Leather Signet</c><br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 2<br>
+STR: +2   STA: +2   WIS: +2   INT: +2   <br>
+WT: 0.1   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<br>
+<c "#FFFF00">Items given to you by Grimel: </c><br>
+<br>
+Filthy Breastplate <br>
+<br>
+<c "#FFFF00">Recipes</c><br>
+<br>
+<c "#FFFF00">Acid Wash : (Tannan Brew barrel, Trivial <= 151) </c><br>
+Jar of Acid<br>
+Celestial Essence<br>
+Celestial Essence<br>
+Celestial Essence<br>
+<br>
+<c "#FFFF00">Cleansed Breastplate : (Forge, Trivial = 227) </c><br>
+Acid Wash <br>
+Filthy Breastplate <br>
+<br>
+<c "#FFFF00">Tempered Breastplate : (Forge, Trivial = 231) </c><br>
+Cleansed Breastplate <br>
+Hurricane Temper <br>
+<br>
+<c "#FFFF00">Imbued Breastplate: (Forge, Trivial > 250) </c><br>
+Tempered Breastplate <br>
+Black Diamond of Nightmares<br>
+Black Diamond of Nightmares<br><br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

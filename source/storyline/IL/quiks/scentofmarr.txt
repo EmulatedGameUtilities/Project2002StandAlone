@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Scent of Marr</c><br>
+Vendor: Loran Thu`Leth (-100, +1400)<br>
+Location: Plane of Knowledge<br>
+Component: Celestial Essence<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

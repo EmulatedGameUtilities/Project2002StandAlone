@@ -1,0 +1,341 @@
+<c "#FF0000">Listed by Gem, trivial listed next to metal type<br><br>
+<a href="file:///storyline/il/storyJewelry.txt"> <c "#00ff00">Return to Main Jewelry Recipes</a>
+<br><br>
+<c "#FF0000">Amber
+<br><c "#00ff00">Silver - 36
+<br><c "#0088ff">Ring - 2 str
+<br><c "#00ff00">Electrum - 100
+<br><c "#0088ff">Earring - 1 str
+<br><c "#00ff00">Gold - 172
+<br><c "#0088ff">Earring - 3 str
+<br><c "#00ff00">Platinum - 244
+<br><c "#0088ff">Ring - 4 str
+<br><c "#00ff00">Velium - 244
+<br><c "#0088ff">Ring - 5 str
+<br><br>
+<c "#FF0000">Black Pearl
+<br><c "#00ff00">Silver - 52
+<br><c "#0088ff">Ring - 3 dex 3 agi
+<br><c "#00ff00">Electrum - 122 
+<br><c "#0088ff">Necklace - 4 dex 4 agi
+<br><c "#00ff00">Gold - 195 
+<br><c "#0088ff">Necklace - 7 dex 7 agi
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 6 dex 6 agi
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 7 dex 7 agi
+<br><br>
+<c "#FF0000">Black Sapphire
+<br><c "#00ff00">Silver - 68
+<br><c "#0088ff">Necklace - 3 ac 30 hp 30 mana
+<br><c "#00ff00">Electrum - 140
+<br><c "#0088ff">Earring - 2 ac 35 hp 25 mana
+<br><c "#00ff00">Gold - <=211
+<br><c "#0088ff">Earring - 25 hp 35 mana
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Necklace - 55 hp 55 mana
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Necklace - 65 hp 65 mana
+<br><br>
+<c "#FF0000">Bloodstone
+<br><c "#00ff00">Silver - 26
+<br><c "#0088ff">Earring - 2 sta
+<br><c "#00ff00">Electrum - 87
+<br><c "#0088ff">Necklace - 3 sta
+<br><c "#00ff00">Gold - 159
+<br><c "#0088ff">Necklace - 5 sta
+<br><c "#00ff00">Platinum - 231
+<br><c "#0088ff">Earring - 6 sta
+<br><c "#00ff00">Velium - 231
+<br><c "#0088ff">Earring - 7 sta
+<br><br>
+<c "#FF0000">Blue Diamond
+<br><c "#00ff00">Silver - <=151
+<br><c "#0088ff">Ring - 10 mana 4 svAll
+<br><c "#00ff00">Electrum - <=152
+<br><c "#0088ff">Earring - 15 mana 4 svm 6 svc/f 11 svp/d
+<br><c "#00ff00">Gold - >=198
+<br><c "#0088ff">Necklace - 20 mana 4 svm 11 svc/f 6 svp/d
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Tiara - 25 mana 8 svAll
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Bracer - 30 mana 9 svm 11 svc 9 svf 9 svp/d
+<br><br>
+<c "#FF0000">Carnelian
+<br><c "#00ff00">Silver - 32
+<br><c "#0088ff">Ring - 2 agi
+<br><c "#00ff00">Electrum - 95
+<br><c "#0088ff">Ring - 3 agi
+<br><c "#00ff00">Gold - 167
+<br><c "#0088ff">Ring - 5 agi
+<br><c "#00ff00">Platinum - 239
+<br><c "#0088ff">Ring - 7 agi
+<br><c "#00ff00">Velium - 239
+<br><c "#0088ff">Ring - 8 agi
+<br><br>
+<c "#FF0000">Cat's Eye Agate
+<br><c "#00ff00">Silver - 24
+<br><c "#0088ff">Necklace - 3 cha
+<br><c "#00ff00">Electrum - 84
+<br><c "#0088ff">Bracer - 4 cha
+<br><c "#00ff00">Gold - 156
+<br><c "#0088ff">Bracer - 7 cha
+<br><c "#00ff00">Platinum - 228
+<br><c "#0088ff">Necklace - 9 cha
+<br><c "#00ff00">Velium - 228
+<br><c "#0088ff">Necklace - 10 cha
+<br><br>
+<c "#FF0000">Diamond
+<br><c "#00ff00">Silver - 71
+<br><c "#0088ff">Ring - 3 svAll
+<br><c "#00ff00">Electrum - 143
+<br><c "#0088ff">Veil - 3 svm 5 svc/f 10 svp/d
+<br><c "#00ff00">Gold - 218
+<br><c "#0088ff">Veil - 3 svm 10 svc/f 5 svp/d
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 7 svAll
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 8 svAll
+<br><br>
+<c "#FF0000">Emerald
+<br><c "#00ff00">Silver - 48
+<br><c "#0088ff">Ring - 2 ac 5 svf
+<br><c "#00ff00">Electrum - 116
+<br><c "#0088ff">Bracer - 3 ac 4 svf
+<br><c "#00ff00">Gold - 188
+<br><c "#0088ff">Bracer - 4 ac 6 svf
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 4 ac 10 svf
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 5 ac 11 svf
+<br><br>
+<c "#FF0000">Fire Emerald
+<br><c "#00ff00">Silver - 58
+<br><c "#0088ff">Ring - 3 str 3 dex
+<br><c "#00ff00">Electrum - 130
+<br><c "#0088ff">Bracer - 3 str 5 dex
+<br><c "#00ff00">Gold - 202
+<br><c "#0088ff">Bracer - 5 str 3 dex
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 5 str 5 dex
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 6 str 6 dex
+<br><br>
+<c "#FF0000">Fire Opal
+<br><c "#00ff00">Silver - 54
+<br><c "#0088ff">Ring - 2 ac 30 hp
+<br><c "#00ff00">Electrum - 125
+<br><c "#0088ff">Ring - 3 ac 35 hp
+<br><c "#00ff00">Gold - 196
+<br><c "#0088ff">Ring - 4 ac 45 hp
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 5 ac 55 hp
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 6 ac 65 hp
+<br><br>
+<c "#FF0000">Hematite
+<br><c "#00ff00">Silver - 22
+<br><c "#0088ff">Ring - 2 svf
+<br><c "#00ff00">Electrum - 82
+<br><c "#0088ff">Necklace - 4 svf
+<br><c "#00ff00">Gold - 154
+<br><c "#0088ff">Necklace - 7 svf
+<br><c "#00ff00">Platinum - 226
+<br><c "#0088ff">Ring - 7 svf
+<br><c "#00ff00">Velium - 226
+<br><c "#0088ff">Ring - 9 svf
+<br><br>
+<c "#FF0000">Jacinth
+<br><c "#00ff00">Silver - 65
+<br><c "#0088ff">Ring - 10 ac 7 svm
+<br><c "#00ff00">Electrum - 137
+<br><c "#0088ff">Ring - 7 ac 3 svm
+<br><c "#00ff00">Gold - 218
+<br><c "#0088ff">Ring - 3 ac 7 svm
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 13 svm
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 14 svm
+<br><br>
+<c "#FF0000">Jade
+<br><c "#00ff00">Silver - 40
+<br><c "#0088ff">Ring - 1 ac 5 hp 5 mana
+<br><c "#00ff00">Electrum - 106
+<br><c "#0088ff">Bracer - 2 ac 10 hp 10 mana
+<br><c "#00ff00">Gold - 178
+<br><c "#0088ff">Bracer - 2 ac 15 hp 15 mana
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 4 ac 20 hp 20 mana
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 5 ac 30 hp 30 mana
+<br><br>
+<c "#FF0000">Jasper
+<br><c "#00ff00">Silver - 30
+<br><c "#0088ff">Ring - 2 wis
+<br><c "#00ff00">Electrum - 92
+<br><c "#0088ff">Earring - 2 wis
+<br><c "#00ff00">Gold - 164
+<br><c "#0088ff">Earring - 3 wis
+<br><c "#00ff00">Platinum - 236
+<br><c "#0088ff">Ring - 6 wis
+<br><c "#00ff00">Velium - 236
+<br><c "#0088ff">Ring - 7 wis
+<br><br>
+<c "#FF0000">Lapis Lazuli
+<br><c "#00ff00">Silver - 16
+<br><c "#0088ff">Necklace - 2 svd
+<br><c "#00ff00">Electrum - 76
+<br><c "#0088ff">Earring - 3 svd
+<br><c "#00ff00">Gold - 148
+<br><c "#0088ff">Earring - 5 svd
+<br><c "#00ff00">Platinum - 220
+<br><c "#0088ff">Necklace - 7 svd
+<br><c "#00ff00">Velium - 220
+<br><c "#0088ff">Necklace - 8 svd
+<br><br>
+<c "#FF0000">Malachite
+<br><c "#00ff00">Silver - 21
+<br><c "#0088ff">Ring - 2 svp
+<br><c "#00ff00">Electrum - 74
+<br><c "#0088ff">Bracer - 3 svp
+<br><c "#00ff00">Gold - 146
+<br><c "#0088ff">Bracer - 5 svp
+<br><c "#00ff00">Platinum - 218
+<br><c "#0088ff">Ring - 7 svp
+<br><c "#00ff00">Velium - 218
+<br><c "#0088ff">Ring - 8 svp
+<br><br>
+<c "#FF0000">Onyx
+<br><c "#00ff00">Silver - 28
+<br><c "#0088ff">Bracer - 2 dex
+<br><c "#00ff00">Electrum - 90
+<br><c "#0088ff">Necklace - 3 dex
+<br><c "#00ff00">Gold - 162
+<br><c "#0088ff">Necklace - 5 dex
+<br><c "#00ff00">Platinum - 234
+<br><c "#0088ff">Bracer - 6 dex
+<br><c "#00ff00">Velium - 234 
+<br><c "#0088ff">Bracer - 7 dex
+<br><br>
+<c "#FF0000">Opal
+<br><c "#00ff00">Silver - 50
+<br><c "#0088ff">Ring - 3 sta 2 agi
+<br><c "#00ff00">Electrum - 119
+<br><c "#0088ff">Necklace - 4 sta 3 agi
+<br><c "#00ff00">Gold - 191
+<br><c "#0088ff">Necklace - 9 sta 6 agi
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 7 sta 5 agi
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 8 sta 6 agi
+<br><br>
+<c "#FF0000">Pearl
+<br><c "#00ff00">Silver - 42
+<br><c "#0088ff">Ring - 2 ac 4 svp
+<br><c "#00ff00">Electrum - 108
+<br><c "#0088ff">Necklace - 3 ac 6 svp
+<br><c "#00ff00">Gold - 180
+<br><c "#0088ff">Necklace - 5 ac 9 svp
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 4 ac 10 svp
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 5 ac 11 svp
+<br><br>
+<c "#FF0000">Peridot
+<br><c "#00ff00">Silver - 46
+<br><c "#0088ff">Ring - 2 ac 5 svc
+<br><c "#00ff00">Electrum - 114
+<br><c "#0088ff">Bracer - 3 ac 4 svc
+<br><c "#00ff00">Gold - 186
+<br><c "#0088ff">Bracer - 4 ac 6 svc
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Ring - 4 ac 10 svc
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Ring - 5 ac 11 svc
+<br><br>
+<c "#FF0000">Ruby
+<br><c "#00ff00">Silver - 62
+<br><c "#0088ff">Veil - 4 str 4 wis
+<br><c "#00ff00">Electrum - 135
+<br><c "#0088ff">Ring - 4 str 2 wis
+<br><c "#00ff00">Gold - 207
+<br><c "#0088ff">Ring - 2 str 4 wis
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Veil - 7 str 7 wis
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Veil - 8 str 8 wis
+<br><br>
+<c "#FF0000">Sapphire
+<br><c "#00ff00">Silver - 60
+<br><c "#0088ff">Necklace - 4 str 4 int
+<br><c "#00ff00">Electrum - 133
+<br><c "#0088ff">Earring - 4 str 2 int
+<br><c "#00ff00">Gold - 204
+<br><c "#0088ff">Earring - 2 str 4 int
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Necklace - 7 str 7 int
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Necklace - 8 str 8 int
+<br><br>
+<c "#FF0000">Star Rose Quartz
+<br><c "#00ff00">Silver - 34
+<br><c "#0088ff">Ring - 2 int
+<br><c "#00ff00">Electrum - 98
+<br><c "#0088ff">Necklace - 2 int
+<br><c "#00ff00">Gold - 170
+<br><c "#0088ff">Necklace - 4 int
+<br><c "#00ff00">Platinum - 242
+<br><c "#0088ff">Ring - 4 int
+<br><c "#00ff00">Velium - 242
+<br><c "#0088ff">Ring - 5 int
+<br><br>
+<c "#FF0000">Star Ruby
+<br><c "#00ff00">Silver - 34
+<br><c "#0088ff">Ring - 5 dex 5 cha
+<br><c "#00ff00">Electrum - 98
+<br><c "#0088ff">Necklace - 5 dex 7 cha
+<br><c "#00ff00">Gold - 170
+<br><c "#0088ff">Necklace - 7 dex 5 cha
+<br><c "#00ff00">Platinum - 242
+<br><c "#0088ff">Ring - 9 dex 9 cha
+<br><c "#00ff00">Velium - 242
+<br><c "#0088ff">Ring - 10 dex 10 cha
+<br><br>
+<c "#FF0000">Topaz
+<br><c "#00ff00">Silver - 44
+<br><c "#0088ff">Necklace - 3 ac 5 svd
+<br><c "#00ff00">Electrum - 111
+<br><c "#0088ff">Earring - 2 ac 5 svd
+<br><c "#00ff00">Gold - 183
+<br><c "#0088ff">Earring - 3 ac 8 svd
+<br><c "#00ff00">Platinum - >250
+<br><c "#0088ff">Necklace - 5 ac 13 svd
+<br><c "#00ff00">Velium - >250
+<br><c "#0088ff">Necklace - 6 ac 14 svd
+<br><br>
+<c "#FF0000">Turquoise
+<br><c "#00ff00">Silver - 18
+<br><c "#0088ff">Bracer - 2 svc
+<br><c "#00ff00">Electrum - 79
+<br><c "#0088ff">Ring - 3 svc
+<br><c "#00ff00">Gold - 151
+<br><c "#0088ff">Ring - 5 svc
+<br><c "#00ff00">Platinum - 223
+<br><c "#0088ff">Bracer - 7 svc
+<br><c "#00ff00">Velium - 223
+<br><c "#0088ff">Bracer - 8 svc
+<br><br>
+<c "#FF0000">Wolf's Eye Agate
+<br><c "#00ff00">Silver - 38
+<br><c "#0088ff">Necklace - 4 svm
+<br><c "#00ff00">Electrum - 103
+<br><c "#0088ff">Bracer - 4 svm
+<br><c "#00ff00">Gold - 175
+<br><c "#0088ff">Bracer - 7 svm
+<br><c "#00ff00">Platinum - 247
+<br><c "#0088ff">Necklace - 9 svm
+<br><c "#00ff00">Velium - 247
+<br><c "#0088ff">Necklace - 10 svm
+
+<br><a href="file:///storyline/il/storyJewelry.txt"> <c "#00ff00">Return to Main Jewelry Recipes</a>
+<br>

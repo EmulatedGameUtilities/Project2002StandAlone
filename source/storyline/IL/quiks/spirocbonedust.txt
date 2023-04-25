@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Spiroc Bonedust</c><br>
+Vendor: NPC Drop<br>
+Location: Spirocs in Timorous Deep<br>
+Poison: Rending Swiftness<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

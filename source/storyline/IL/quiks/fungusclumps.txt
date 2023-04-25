@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Fungus Clumps</c><br>
+Vendor: NPC Drop<br>
+Location: Various Giants in Bastion of Thunder<br>
+Poison: Mental Implosion / Oozing Irritation<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

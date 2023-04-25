@@ -1,0 +1,55 @@
+P2002 Information Center<br>
+<br>
+<c "#FF0000">Information Center</c><br><br>
+
+
+<c "#FFFF00">General</c><br>
+
+<a href="file:///storyline/IL/AA.txt">Activating AAs, </a>
+<a href="file:///storyline/IL/chat.txt">Chat System Command List:, </a>
+<a href="file:///storyline/IL/Commands.txt">Commands, </a>
+<a href="file:///storyline/IL/Common.txt">Common Chat Terms, </a>
+<a href="file:///storyline/IL/Emotes.txt">Emotes, </a>
+<a href="file:///storyline/IL/storyEpics.txt">Epic Guides, </a>
+<a href="file:///storyline/il/storyFoofySpells.txt">Spells, </a>
+<a href="file:///storyline/il/storyFaction.txt">Faction, </a>
+<a href="file:///storyline/il/storyFactionLevel.txt">Faction Level, </a>
+<a href="file:///storyline/IL/focus.txt">Focus Effects, </a>
+<a href="file:///storyline/IL/fun/fun.txt">Fun, </a>
+<a href="file:///storyline/IL/HS.txt">Hollowshade War, </a>
+<a href="file:///storyline/IL/Armor.txt">POP Armor, </a>
+<a href="file:///storyline/IL/storyPortals.txt">PoP Portal Locations, </a>
+<a href="file:///storyline/IL/Flags.txt">POP Flags, </a>
+<a href="file:///storyline/IL/serubane.txt">Seru bane weapons, </a>
+<a href="file:///storyline/IL/storySkills.txt">Skill listings, </a>
+<a href="file:///storyline/IL/SS.txt">SS armor (smithing to 250)&, </a>
+<a href="file:///storyline/IL/storySlow.txt">Slow Guide.</a><br>
+
+<c "#FFFF00">Tradeskills</c><br>
+<a href="file:///storyline/IL/storyAlchemy.txt">Alchemy, </a>
+<a href="file:///storyline/il/storyLothBake.txt">Baking, </a>
+<a href="file:///storyline/il/storyLothBrew.txt">Brewing, </a>
+<a href="file:///storyline/il/storyFishing.txt">Fishing, </a>
+<a href="file:///storyline/il/storyjewelry.txt">Jewelry, </a>
+<a href="file:///storyline/il/storyLothpott.txt">Pottery, </a>
+<a href="file:///storyline/il/storyPoisonRecipies.txt">F's Poisons, </a>
+<a href="file:///storyline/il/storypoisons.txt">Q's Poisons, </a>
+<a href="file:///storyline/il/storyResearch.txt">Spell research,</a>
+<a href="file:///storyline/il/storyTinkering.txt">Tinkering, </a>
+<a href="file:///storyline/il/storyEQtraders.txt">Tradeskill Drop Locations, </a>
+<a href="file:///storyline/IL/storyforage.txt">Forage Guide & </a>
+<a href="file:///storyline/IL/Trade0.txt">Learn A Tradeskill.</a><br>
+
+
+
+<c "#FFFF00">Quests</c><br>
+<a href="file:///storyline/IL/AG0.txt">Aid Grimel (7 X 220 tradeskills), </a>
+<a href="file:///storyline/IL/CT1.txt">Clockwork Talisman, </a>
+<a href="file:///storyline/IL/storyColdring.txt">Coldain Ring, </a>
+<a href="file:///storyline/IL/storyShawls.txt">Coldain Shawl, </a>
+<a href="file:///storyline/IL/empkey.txt">Key to the Emperor's Chamber, </a>
+<a href="file:///storyline/IL/VTkey.txt">Key to Vex Thal, </a>
+<a href="file:///storyline/IL/storynurga.txt">Nurga Quests, </a>
+<a href="file:///storyline/IL/storyPlaneofhate2.txt">Plane of Hate - v.2, </a>
+<a href="file:///storyline/IL/Armor.txt">POP Armor & </a>
+<a href="file:///storyline/il/storyEarXanthe.txt">Xanthe Earing.</a><br>

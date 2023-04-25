@@ -1,0 +1,27 @@
+Ring 4(Gold Coldain Insignia Ring)<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyColdring.txt">Table of Contents</a>
+<br>
+=====================
+<br>
+This is the fourth Garadain Quest. He wants you to get him a hammer to smith the knife you just got for him. He gives you a note to give to Tain Frostbite, however, you really want to give it to Tain Hammerfrost.<br> 
+<br>
+If you head straight out from the dragon bone bridge in the eastern wastes...you will very soon (after the first hill) come to a small dwarven cleric named Tain.<br> 
+<br>
+Giving him the note does not do much, but if you hail him, he'll mention that he was ambushed by frost giants and he desperately needs [help].<br> 
+<br>
+If you say "I will help you" he sits down (I think he actually despawns and despawns immediately, which may be important) and says "they will be here soon! Kill Grhek and give me his vial".<br> 
+<br>
+4 Frost giants, and one named giant....spawn not too far and run up to kill the dwarf. They are all blue to a 56<br>
+<br>
+If you can kill the named Giant, you can loot a blue vial ALL/ALL no stats. (it had a name..for the life of me I don't recall it...). Tradeable.<br> 
+<br>
+If the dwarf despawns and respawns before you can give him the vial, you get nothing. If you give the vial to him before he despawns (or perhaps after triggering him again) he gives you a Coldain Smithing Hammer, a no drop lore item with no stats. Take that back to Garadain along with your gold ring and he will give you the platinum ring.<br>
+<br>
+=====================
+<br>
+<a HREF="file:///storyline/il/Coldring/ring5.txt">Next----> Ring 5(Platinum Coldain Insignia Ring)</a>
+<br>
+=====================

@@ -1,0 +1,87 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Part 5: Tailoring</c> <br>
+<br>
+Skill requirement: 220 (or higher) Tailoring <br>
+<br>
+Flag requirement: Solusek Ro / Plane of Fire<br>
+Your Flag MUST say - The true route to the Plane of Fire is now clear in your mind. <br>
+<br>
+After the grueling work of finding different components, the item Grimel wants you to make in Tailoring...is surprisingly simple--with the only risky step being the final combine. All it is essentially is a Robe of Eternal Fire with two extra, (relatively) easy to get components: A Vial of Purified Mana and your previous Signet. However, the success rate on the robe may drive you nuts. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I am skilled with the needle'<br>
+Aid Grimel says 'I appreciate the help _____. I need a new tunic made for Councilman Taldarius. Last trip through the Plane of Disease, one of those flies spit mucus on him and it dripped through his armor seams! The result was a gooey mess that ate away all the leather underneath. It was a blessing he was wearing something under all that metal! Combine three firesilk swatches, a vial of purified mana, an emblem of fire, a firestrand curing agent, a tunic pattern and the signet. Bring it to me when you have completed it.' <br>
+Turn in text: <br>
+<br>
+Aid Grimel inspects the tunic. 'Good work _____. This will definitely serve Councilman Taldarius well. Here take this! If you have skills with a fletching knife I may have a job for you to do.' <br>
+Item Statistics:<br>
+<br>
+Fire Undergarment Tunic<br>
+MAGIC ITEM LORE ITEM NO DROP <br>
+Slot: CHEST<br>
+WT: 10.0   Size: LARGE<br>
+Class: WAR CLR PAL SHD BRD <br>
+Race: HUM BAR ERU ELF HIE DEF <br>
+             HEF DWF TRL OGR HFL GNM <br>
+             VAH <br>
+<br>
+<c "#FFFF00">Marked Signet</c><br>
+Slot: EAR<br>
+STR: +12   STA: +12   WIS: +12   INT: +12   HP: +75   MANA: +75   <br>
+SV FIRE: +7   SV DISEASE: +7   SV COLD: +7   SV MAGIC: +7   <br>
+SV POISON: +7   <br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<c "#FFFF00">Recipes:</c><br>
+<br>
+<c "#FFFF00">Firesilk Swatch: (Loom/Planar Sewing Kit, Trivial = 15)</c> <br>
+Fire Silk <br>
+Fire Silk <br>
+<br>
+<c "#FFFF00">Emblem of Fire: (Planar Jeweler's Kit, Trivial > 250)</c> <br>
+Blank Emblem <br>
+Red Diamond of Fire <br>
+(Enchanted Bar of Molten Ore) <br>
+<br>
+<c "#FFFF00">Firestrand Curing Agent: (Brew Barrel, Trivial <= 194)</c> <br>
+Obsidianwood Sap <br>
+Obsidianwood Sap <br>
+Obsidianwood Sap <br>
+Vial of Purified Mana <br>
+<br>
+<c "#FFFF00">Fire Undergarment Tunic: (Loom, Trivial > 250)</c> <br>
+Firesilk Swatch <br>
+Firesilk Swatch <br>
+Firesilk Swatch <br>
+Vial of Purified Mana <br>
+Emblem of Fire <br>
+Firestrand Curing Agent <br>
+Tunic Pattern <br>
+Metal Signet (from part 4) <br>
+<br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

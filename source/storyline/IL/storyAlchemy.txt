@@ -1,0 +1,608 @@
+Alchemy Recipes
+
+<br><br><c "#FF69B4">Note that the durations for potions may be shorter if the drinker is under level 25.</c>
+
+<br><br>The format for each recipe is: <c "#66CCFF">Name</c>
+<br> Ingredients
+<br> Trivial 
+<br> Effects
+<br> Notes
+
+<br><br><c "#00FF00">Stat & Aura Potions</c>
+ 
+<br><br><c "#66CCFF">Lesser Stability</c>
+<br> Lucern, Sage Leaf
+<br> 17
+<br> + 5 Stamina & Strength
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Lesser Vigor</c>
+<br> Lucern, Birthwart
+<br> 17
+<br> + 5 Agility & Strength
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Lesser Power</c>
+<br> Lucern, Fenugreek
+<br> 22
+<br> + 5 Dexterity & Strength
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Lesser Adroitness</c>
+<br> Sage Leaf, Birthwart
+<br> 22
+<br> + 5 Agility & Stamina
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Lesser Cohesion</c>
+<br> Sage Leaf, Fenugreek
+<br> 22
+<br> + 5 Stamina & Dexterity
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Lesser Accuracy</c>
+<br> Birthwart, Fenugreek
+<br> 22
+<br> + 5 Agility & Dexterity
+<br>Duration ~ 21 min 
+
+<br><br><c "#66CCFF">Minor Aura of Cold</c>
+<br> Birthwart, Allspice
+<br> 27
+<br> + 5 Agility & Fire Resist
+<br>Duration ~ 15 min 
+
+<br><br><c "#66CCFF">Minor Aura of Antibody</c>
+<br> Maidenhair Fern, Mullein
+<br> 27
+<br> + 5 Charisma & Disease Resist
+<br>Duration ~15 min 
+
+<br><br><c "#66CCFF">Minor Aura of Heat</c>
+<br> Sage Leaf, Benzoin
+<br> 32
+<br> + 5 Stamina & Cold Resist
+<br>Duration ~ 15 min 
+
+<br><br><c "#66CCFF">Minor Aura of Purity</c>
+<br> Lucern, Night Shade
+<br> 32
+<br> + 5 Strength & Poison Resist
+<br>Duration ~ 15 min 
+
+<br><br><c "#66CCFF">Minor Aura of Null</c>
+<br> Fenugreek, Mandrake Root
+<br> 32
+<br> + 5 Dexterity & Magic Resist
+<br>Duration ~ 15 min 
+
+<br><br><c "#66CCFF">Stability</c>
+<br> Lucern, Sage Leaf, Blue Vervain Bulb
+<br> 76
+<br> + 10 Stamina & Strength
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Vigor</c>
+<br> Lucern, Birthwart, Blue Vervain Bulb
+<br> 76
+<br> + 10 Agility & Strength
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Cohesion</c>
+<br> Sage Leaf, Fenugreek, Blue Vervain Bulb
+<br> 76
+<br> + 10 Stamina & Dexterity
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Power</c>
+<br> Lucern, Fenugreek, Blue Vervain Bulb
+<br> 83
+<br> + 10 Dexterity & Strength
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Adroitness</c>
+<br> Sage Leaf, Birthwart, Blue Vervain Bulb
+<br> 83
+<br> + 10 Agility & Stamina
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Accuracy</c>
+<br> Birthwart, Fenugreek, Blue Vervain Bulb
+<br> 83
+<br> + 10 Agility & Dexterity
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Aura of Null</c>
+<br> Fenugreek, Mandrake Root, Blue Vervain Bulb
+<br> 90
+<br> + 15 Dexterity & Magic Resist
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Aura of Antibody</c>
+<br> Maidenhair Fern, Mullein, Blue Vervain Bulb
+<br> 90
+<br> + 15 Charisma & Disease Resist
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Aura of Heat</c>
+<br> Sage Leaf, Benzoin, Blue Vervain Bulb
+<br> 96
+<br> + 15 Stamina & Cold Resist
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Aura of Cold</c>
+<br> Birthwart, Allspice, Blue Vervain Bulb
+<br> 96
+<br> + 15 Agility & Fire Resist
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Aura of Purity</c>
+<br> Lucern, Night Shade, Blue Vervain Bulb
+<br> 103
+<br> + 15 Strength & Poison Resist
+<br>Duration ~30 min 
+
+<br><br><c "#66CCFF">Greater Stability</c>
+<br> Lucern, Sage Leaf, Valerian Root
+<br> 143
+<br> + 15 Stamina & + 25 Strength 
+
+<br><br><c "#66CCFF">Greater Vigor</c>
+<br> Lucern, Birthwart, Valerian Root
+<br> 143
+<br> + 15 Agility & + 25 Strength 
+
+<br><br><c "#66CCFF">Greater Cohesion</c>
+<br> Sage Leaf, Fenugreek, Valerian Root
+<br> 143
+<br> + 15 Stamina & + 25 Dexterity 
+
+<br><br><c "#66CCFF">Greater Power</c>
+<br> Lucern, Fenugreek, Valerian Root
+<br> 150
+<br> + 15 Dexterity & + 25 Strength 
+
+<br><br><c "#66CCFF">Greater Adroitness</c>
+<br> Sage Leaf, Birthwart, Valerian Root
+<br> 150
+<br> + 15 Agility & + 25 Stamina 
+
+<br><br><c "#66CCFF">Greater Accuracy</c>
+<br> Birthwart, Fenugreek, Valerian Root
+<br> 150
+<br> + 15 Agility & + 25 Dexterity 
+
+<br><br><c "#66CCFF">Greater Aura of Cold</c>
+<br> Birthwart, Allspice, Valerian Root
+<br> 156
+<br> + 25 Agility & Fire Resist 
+
+<br><br><c "#66CCFF">Greater Aura of Null</c>
+<br> Fenugreek, Mandrake Root, Valerian Root
+<br> 156
+<br> + 25 Dexterity & Magic Resist 
+
+<br><br><c "#66CCFF">Greater Aura of Antibody</c>
+<br> Maidenhair Fern, Mullein, Valerian Root
+<br> 156
+<br> + 25 Charisma & Disease Resist
+ 
+<br><br><c "#66CCFF">Greater Aura of Heat</c>
+<br> Sage Leaf, Benzoin, Valerian Root
+<br> 163
+<br> + 25 Stamina & Cold Resist 
+
+<br><br><c "#66CCFF">Greater Aura of Purity</c>
+<br> Lucern, Night Shade, Valerian Root
+<br> 163
+<br> + 25 Strength & Poison Resist
+
+<br><br><c "#00FF00">Utility Potions</c>
+
+<br><br><c "#66CCFF">Adrenaline Tap</c>
+<br> Comfrey, Dhea
+<br> 170
+<br> Flurry 40% Haste at lvl 30
+<br>Duration ~5 min 
+
+<br><br><c "#66CCFF">AntiWeight</c>
+<br> Hydrangea, Sumbul
+<br> 52
+<br> Levitate
+(Requires bat wing reagent)
+<br>Duration ~5 min(lvl 5) - 20 min (lvl 65) 
+
+<br><br><c "#66CCFF">Ant's Potion</c>
+<br> Sumbul, Celandine Herb
+<br> 70
+<br> Shrink
+<br>Duration: until you die, camp, or zone 
+
+<br><br><c "#66CCFF">Aquatic Haunt</c>
+<br> Jatamasi, Hydrangea
+<br> 47
+<br> Everlasting Breath
+<br>Duration ~27 min 
+
+<br><br><c "#66CCFF">Blood of the Wolf</c>
+<br> Birthwart, Fenugreek, Wolf Blood
+<br> 37
+<br> Spirit of the Wolf
+<br>Duration ~27 min (lvl 9) - 36 min (lvl 50) 
+
+<br><br><c "#66CCFF">Bone Field</c>
+<br> Sandalwood, Heliotrope
+<br> 170
+<br> Self teleport to Field of Bone
+(Loc +340, -1961, near Kaesora)
+<br>Cast Time: 30 seconds 
+
+<br><br><c "#66CCFF">Dulsehound</c>
+<br> Hill Giant Toes, Balm Leaves
+<br> 131
+<br> Rage
+(+18 STR, 180 HP Regen at 6 HP/tick)
+<br>Duration ~3 min 
+
+<br><br><c "#66CCFF">Ethira's Poison Antidote</c>
+<br> Lady's Mantle, Hyssop
+<br> 57
+<br> Counteract Poison
+<br>Cast Time: 4 seconds 
+
+<br><br><c "#66CCFF">Frost</c>
+<br> Heliotrope, Oakmoss
+<br> 170
+<br> Self teleport to Everfrost Peaks
+(Loc -919, +114, near "Three Igloos")
+<br>Cast Time: 30 seconds 
+
+<br><br><c "#66CCFF">Graveyard Dust</c>
+<br> Fire Giant Toes, Dragonwart
+<br> >158
+<br> +48 STR, +20 AGI, Haste
+<br>Duration: 1.8 min decline with reduced STR & AGI afterwards 
+
+<br><br><c "#66CCFF">Kilva's Blistering Flesh</c>
+<br> Jatamasi, Clubmoss
+<br> 52
+<br> Scorching Skin
+Damage Shield (approx [drinker's lvl/4]+1)
+<br>Duration: ~1 min (lvl 1) - 14 min (lvl 65) 
+
+<br><br><c "#66CCFF">Kilva's Skin of Flame</c>
+<br> Jatamasi, Clubmoss, Clover
+<br> 136
+<br> Damage Shield (approx [drinker's lvl/2]+1)
+<br>Duration: ~1 min (lvl 1) - 14 min (lvl 65) 
+
+<br><br><c "#66CCFF">Kithar's Disease Treatment</c>
+<br> Lady's Mantle, Echinacea
+<br> 57
+<br> Counteract Disease
+<br>Cast Time: 2 seconds 
+
+<br><br><c "#66CCFF">Negation</c>
+<br> Mystic Ash, Mercury
+<br> 47
+<br> Cancel Magic
+(Removes top spell effect) 
+
+<br><br><c "#66CCFF">Negation, Greater</c>
+<br> Mystic Ash, Mystic Ash, Mercury
+<br> 122-123
+<br> Nullify Magic
+(Removes top two spell effects) 
+
+<br><br><c "#66CCFF">Rejuvenation, Lesser</c>
+<br> Lucern, Sage Leaf, Yarrow
+<br> 37
+<br> Regeneration
++ 10 HP/Tick, - 10 INT, - Attack Speed
+<br>Duration ~2 min 
+
+<br><br><c "#66CCFF">Rejuvenation</c>
+<br> Lucern, Sage Leaf, Figwort
+<br> 103
+<br> Regeneration
++HP/tick (lvl+1), 20% Slow,
+-INT (2 [lvl 1] - 66 [lvl 65])
+<br>Duration ~2 min 
+
+<br><br><c "#66CCFF">Rejuvenation, Greater</c>
+<br> Lucern, Sage Leaf, Agrimony
+<br> 163
+<br> Regeneration
++ 40 HP/Tick, - 40 INT, - Attack Speed
+<br>Duration ~2 min 
+
+<br><br><c "#66CCFF">Serpent's Conviction</c>
+<br> Fennel, Eucalyptus Leaf
+<br> 63
+<br> Serpent Sight
+(Infravision)
+<br>Duration: ~27 min 
+
+<br><br><c "#66CCFF">Serpent's Drink</c>
+<br> Sumbul, Clubmoss
+<br> 63
+<br> Scale Skin 
++6 AC
+<br>Duration ~27 min  
+
+<br><br><c "#66CCFF">Shadeweaver</c>
+<br> Comfrey, Figwort, Heliotrope
+<br> 170
+<br> Self teleport to Shadeweaver's Thicket
+(Loc -2155, +2533, NE corner of zone)
+<br>Cast Time: 30 seconds 
+
+<br><br><c "#66CCFF">Spirit Shield</c>
+<br> Sumbul, Clubmoss, Clover
+<br> 110
+<br> Shifting Shield
++17 (lvl 1) - 18 (lvl 35) AC
+<br>Duration ~45 min 
+
+<br><br><c "#66CCFF">Stinging Wort</c>
+<br> Ice Giant Toes, Balm Leaves
+<br> 156
+<br> +17 STR, +300 HP
+<br>Duration: 6 min decline 
+
+<br><br><c "#66CCFF">Swamp</c>
+<br> Heliotrope, Bladderwrack
+<br> 170
+<br> Self teleport to Innothule Swamp
+(Loc 1188, 544, near spell vendor 
+[non-kos to all])
+<br>Cast Time: 30 seconds
+ 
+<br><br><c "#66CCFF">Vial of Tamed Mercury</c>
+<br> Comfrey, Mercury
+<br> 70
+<br> Flurry Quickness
+(Haste)
+<br>Duration ~3 min 
+
+<br><br><c "#66CCFF">Unlife Awareness</c>
+<br> Fennel, Elderberry
+<br> 42
+<br> Invisibility to Undead
+<br>Duration: varies, up to 27 min 
+
+<br><br><c "#00FF00">Luclin Potions</c>
+
+<br><br><c "#66CCFF">Titan</c>
+<br> Maliak Leaf, Tri-Fern Leaf
+<br> 180
+<br> Grow
+<br>Duration: until you die, camp, or zone 
+
+<br><br><c "#66CCFF">Hawk's Eye Tonic</c>
+<br> Star Reach Clover, Tri-Fern Leaf
+<br> 191
+<br> + to archery skill
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Elixir of Divine Endurance</c>
+<br> Blade Leaf, Beltherium Bark
+<br> >200
+<br> +10 to all resists
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Mystical Infusion</c>
+<br> 2 Sickle Leaf (not stacked)
+<br> >200
+<br> +50 to mana pool
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Greater Mystical Infusion</c>
+<br> Yerbhimba, Sickle Leaf
+<br> >200
+<br> +100 to mana pool
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Elixir of Concentration</c>
+<br> Yerbhimba, Violet Tri-tube
+<br> >200
+<br> Regen 2 mana per tick
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Greater Elixir of Concentration</c>
+<br> Duskglow Vine, Violet Tri-tube
+<br> >200
+<br> Regen 3 mana per tick
+<br>Duration: ~20 min 
+
+<br><br><c "#66CCFF">Mystical Aptitude</c>
+<br> Duskglow Vine, Yerhimba
+<br> >200
+<br> Intellectual Advancement
+(raises effective casting level +3,
+reducing fizzles)
+<br>Duration: ~20 min
+
+<br><br><c "#00FF00">Old Alchemy Potions</c>
+ 
+<br><br><c "#66CCFF">Assailing</c>
+<br> Bugbane, Cyclops Eye
+<br> ?? 
+<br>Haste, + to STR & AGI
+<br>Duration: ~2 min 
+
+<br><br><c "#66CCFF">Charming Deceit</c>
+<br> Undead Froglok Tongue, Mugwart
+<br> <=70
+<br> + Charisma 
+
+<br><br><c "#66CCFF">Copal's Demise</c>
+<br> Evil Eye Eyestalk, Horehound
+<br> <=102
+<br> Cancel Magic 
+
+<br><br><c "#66CCFF">Fleeting Languor</c>
+<br> Burdock Root, White Wolf Skin
+<br> <104
+<br> Extinguish Fatigue 
+
+<br><br><c "#66CCFF">Frosty Insurgency</c>
+<br> Polar Bear Skin, Bistort
+<br> <104
+<br> Endure Cold 
+
+<br><br><c "#66CCFF">Gnomish Boils</c>
+<br> Bat Fur, Eyebright
+<br> <=70
+<br> Ultravision
+<br>Duration ~25 min 
+
+<br><br><c "#66CCFF">Gorging Toxin</c>
+<br> Giant Wasp Venom Sac, Boneset
+<br> <=155
+<br> Cure Poison 
+
+<br><br><c "#66CCFF">Gulon's Impunity</c>
+<br> Ground Figwort, Lightstone
+<br> <102
+<br> Levitation 
+
+<br><br><c "#66CCFF">Shumar's Breath</c>
+<br> Vampire Dust, Horehound
+<br> 101-155
+<br> Endure Magic 
+
+<br><br><c "#66CCFF">Skin of Ro</c>
+<br> Vox's Dust, Fire Drake Scale
+<br> <116
+<br> Endure Fire 
+
+<br><br><c "#66CCFF">Soluan's Vigor</c>
+<br> Werewolf Pelt, Vetiver Root
+<br> 72-166
+<br> Regen +10 HP/tick, slowed attack speed
+<br>Duration: ~5 min 
+
+<br><br><c "#66CCFF">Soul of the Incorporeal</c>
+<br> Feather, Stinging Nettle
+<br> 61-194 
+<br>See Invisible
+<br>Required Level 25 to cast 
+
+<br><br><c "#66CCFF">Spurn Affliction</c>
+<br> Zombie Skin, Reucoat Herb
+<br> <102
+<br> Cure Disease 
+
+<br><br><c "#66CCFF">Troll's Essence</c>
+<br> Yebamente, Fairie Wing
+<br> ??
+<br>Increase HP 3/tick, + 10 Str
+<br>Duration: ~3 min 
+
+<br><br><c "#66CCFF">Undead's Recourse</c>
+<br> Warbone Chips, Damiana
+<br> <91
+<br> +15 STR and +150 HP
+<br>Duration ~5 min dot decline 
+
+<br><br><c "#66CCFF">Vampiric Spirit</c>
+<br> Griffon Feathers, Feverfew
+<br> 116
+<br> HpToMana
+-180 HP, +60 mana 
+
+<br><br><c "#66CCFF">Vox's Vitality</c>
+<br> Froglok Leg, Sea Spirit
+<br> <90
+<br> Everlasting Breath 
+
+<br><br><c "#66CCFF">Wolves Blood</c>
+<br> High Quality Wolf Skin, Sticklewart
+<br> <117
+<br> Increased rate of stamina regeneration 
+
+<br><br><c "#66CCFF">Wrackbane</c>
+<br> Mammoth Meat, Woundwart
+<br> 115-127
+<br> ManaToHp
++60 HP, -180 mana
+
+<br><br><c "#00FF00">Dye Extracts</c>
+
+<br><br><c "#66CCFF">Black Extract</c>
+<br> Charcoal, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in black dye 
+
+<br><br><c "#66CCFF">Black Extract</c>
+<br> Blue Slumber Fungus, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in black dye 
+
+<br><br><c "#66CCFF">Black Extract</c>
+<br> Froglok Skin, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in black dye 
+
+<br><br><c "#66CCFF">Black Extract</c>
+<br> Green Goblin Skin, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in black dye 
+
+<br><br><c "#66CCFF">Black Extract</c>
+<br> Red Cockatrice Feather, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in black dye 
+
+<br><br><c "#66CCFF">Blue Extract</c>
+<br> Permafrost Crystals, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in blue dye 
+
+<br><br><c "#66CCFF">Brown Extract</c>
+<br> Russet Oxide, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in brown dye 
+
+<br><br><c "#66CCFF">Green Extract</c>
+<br> Evergreen Leaves, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in green dye 
+
+<br><br><c "#66CCFF">Red Extract</c>
+<br> Sarcoscypha Fungus, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in berry red dye 
+
+<br><br><c "#66CCFF">Rust Red Extract</c>
+<br> Iron Oxide, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in rusty red dye 
+
+<br><br><c "#66CCFF">Yellow Extract</c>
+<br> Jack-O-Lantern Fungus, Flask of Water, Empty Vial
+<br> 36
+<br> Ingredient in yellow dye 
+
+<br><br><c "#00FF00">Other</c>
+
+<br><br><c "#66CCFF">Quintessence of Knowledge</c>
+<br> Erudition Vine, Tanaan Ginko
+<br> <36
+<br> Reagent for gate effect of
+Small Clockwork Talisman (quest reward)
+and Belt of Return (mage-summoned) 
+
+<br><br><c "#66CCFF">Grandmaster's Medicine Bag</c>
+<br>Artisan's Seal, Potion of Mystical Aptitude
+<br>OR
+<br>Artisan's Seal, Duskglow Vine, Yerhimba
+(yes, the loose herbs work as well)
+<br> >200
+<br> Combine in Medicine Bag
++5% to Alchemy Skill
+STR +10, CHA +50, WIS +15
+<br>Effect: Grandmaster's Satchel
+
+<br><br>Most of this information is from EQTraders.com.  Please visit their excellent tradeskills website!

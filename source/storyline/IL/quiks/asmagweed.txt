@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Asmag Weed</c><br>
+Vendor: NPC Drop<br>
+Location: Fire Goblins in Lavastorm / Sol A<br>
+Poison: Choking Asmag<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

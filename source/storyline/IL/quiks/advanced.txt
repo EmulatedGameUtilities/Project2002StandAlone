@@ -1,0 +1,203 @@
+Quikfingers of Zebuxoruk v1.1<br>
+Poison Ingredients Tables (10-22-03)<br>
+<br>
+<c "#00FFFF">- = [ 184 - 250+ Skill Poisons ] = -</c><br>
+---------------------------------------------<br>
+<br>
+Name: <c "#FF0000">Shadowveil Hemlock</c><br>
+Type: Blind<br> 			
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 184<br>
+Ingredients: <a href="file:///storyline/il/quiks/soothemlock.txt">Soot Hemlock</a> & <a href="file:///storyline/il/quiks/coyotetail.txt">Coyotetail</a> & <a href="file:///storyline/il/quiks/burntoutlightstone.txt">Burnt out Lightstone</a><br> 
+<br>
+Name: <c "#FF0000">Monk's Hood Aconite</c><br>
+Type: Weaken<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 190<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/wolvesbane.txt">Wolve's Bane</a><br>
+<br>
+Name: <c "#FF0000">Visionistic Pain</c><br> 	
+Type: Contact<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 204<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/whitehellbore.txt">White Hellbore</a><br>
+<br>
+Name: <c "#FF0000">Stiffening Ergot</c><br> 	
+Type: Paralyze<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 204<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/heartstingvenomsac.txt">Heartsting Venom Sac</a><br>
+<br>
+Name: <c "#FF0000">Pacifying Whisper</c><br> 	
+Type: Muscle Lock<br>  		
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br> 		
+Trivial: 210<br>
+Ingredients: <a href="file:///storyline/il/quiks/gelseniumroot.txt">Gelsenium Root</a> & <a href="file:///storyline/il/quiks/thornyergot.txt">Thorny Ergot</a> & <a href="file:///storyline/il/quiks/wolvesbane.txt">Wolve's Bane</a><br> 
+<br>
+Name: <c "#FF0000">Metallic Alkaloid</c><br> 	
+Type: System Shock<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 213<br>
+Ingredients: <a href="file:///storyline/il/quiks/leadperoxide.txt">Lead Peroxide</a> & <a href="file:///storyline/il/quiks/quicksilver.txt">Quicksilver</a> & <a href="file:///storyline/il/quiks/whitelead.txt">White Lead</a><br> 
+<br>
+Name: <c "#FF0000">Cranial Cryofreeze</c><br> 	
+Type: Feeble Mind<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 221<br>
+Ingredients: 3x <a href="file:///storyline/il/quiks/frostydatura.txt">Frosty Datura</a><br> 
+<br>
+Name: <c "#FF0000">Visceral Rot</c><br> 		
+Type: Flesh Rot<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 231<br>
+Ingredients: <a href="file:///storyline/il/quiks/darkbonemarrow.txt">Darkbone Marrow</a> & <a href="file:///storyline/il/quiks/gravemold.txt">Grave Mold</a> & <a href="file:///storyline/il/quiks/woodrose.txt">Woodrose</a><br> 
+<br>
+Name: <c "#FF0000">Amnesic Lolium</c><br> 		
+Type: Injected<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 236<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/tareslichen.txt">Tare's Lichen</a> & <a href="file:///storyline/il/quiks/snowfallalgae.txt">Snowfall Algae</a><br> 
+<br>
+Name: <c "#FF0000">Essence of Rallos</c><br> 	
+Type: Berserker Madness<br>	
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 244<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/amanitaphalloidae.txt">Amanita Phalloida</a>e & <a href="file:///storyline/il/quiks/pixiedust.txt">Pixie Dust</a><br> 
+<br>
+Name: <c "#FF0000">Crippling Peptide</c><br> 	
+Type: Dizzy<br>  			
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 245+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/deathcap.txt">Death Cap</a> & <a href="file:///storyline/il/quiks/blackhenbane.txt">Black Henbane</a><br> 
+<br>
+Name: <c "#FF0000">Acidic Dissolver</c><br> 	
+Type: Summoned<br> 		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 245+<br>
+Ingredients: <a href="file:///storyline/il/quiks/putridbile.txt">Putrid Bile</a> & <a href="file:///storyline/il/quiks/redhellbore.txt">Red Hellbore</a> & <a href="file:///storyline/il/quiks/soothemlock.txt">Soot Hemlock</a><br> 
+<br>
+Name: <c "#FF0000">Temporal Rot</c><br> 		
+Type: Liquid Silver<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 245+<br>
+Ingredients: <a href="file:///storyline/il/quiks/woodrose.txt">Wood Rose</a> & <a href="file:///storyline/il/quiks/embalmingdust.txt">Embalming Dust</a> & <a href="file:///storyline/il/quiks/kingsthorn.txt">King's Thorn</a><br> 
+<br>
+Name: <c "#FF0000">Cyclic Vertigo</c><br> 		
+Type: Lower Resist<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 245+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/snowcapamanita.txt">Snowcap Amanita</a> & <a href="file:///storyline/il/quiks/crystalnightshade.txt">Crystal Nightshade</a><br> 
+<br>
+Name: <c "#FF0000">Carnivore Mortis</c><br> 	
+Type: Animal<br>  		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 245+<br>
+Ingredients: <a href="file:///storyline/il/quiks/blackhenbane.txt">Black Henbane</a> & <a href="file:///storyline/il/quiks/snakeheadiris.txt">Snake Head Iris</a> & <a href="file:///storyline/il/quiks/chunkofmeat.txt">Chunk of Meat</a><br> 
+<br>
+Name: <c "#FF0000">Paradoxial Peptide</c><br> 	
+Type: Brittle Haste<br>  		
+Vial: Sealed Vial<br>
+Susp: Constrict Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/chromodracwing.txt">Chromadrac Wing</a> & <a href="file:///storyline/il/quiks/skyashbile.txt">Skyash Bile</a><br>
+<br>
+Name: <c "#FF0000">Iron Dimethy</c><br> 		
+Type: System Shock<br> 		
+Vial: Sealed Vial<br>
+Susp: Larent Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/quicksilver.txt">Quicksilver</a> & <a href="file:///storyline/il/quiks/ironsulphide.txt">Iron Sulphide</a><br> 
+<br>
+Name: <c "#FF0000">Soul Burn</c><br> 		
+Type: Contact<br> 		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/scorpicovenomsac.txt">Scorpico Venom Sac</a><br> 
+<br>
+Name: <c "#FF0000">Spirit of Sloth</c><br> 	
+Type: Muscle Lock<br>  		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/creeperivy.txt">Creeper Ivy</a><br> 
+<br>
+Name: <c "#FF0000">Rending Swiftness</c><br>	
+Type: Brittle Haste<br> 		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/spirocbonedust.txt">Spiroc Bonedust</a> & <a href="file:///storyline/il/quiks/skyashbile.txt">Skyash Bile</a><br> 
+<br>
+Name: <c "#FF0000">Mages Bane</c><br> 		
+Type: Feeble Mind<br> 		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/ivorypoppy.txt">Ivory Poppy</a> & <a href="file:///storyline/il/quiks/frostydatura.txt">Frosty Datura</a><br> 
+<br>
+Name: <c "#FF0000">Warlords Rage</c><br> 		
+Type: Berserker Madness<br>  	
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/crystallizzedsulfur.txt">Crystallized Sulfur</a> & <a href="file:///storyline/il/quiks/succulentsap.txt">Succulent Sap</a><br> 
+<br>
+Name: <c "#FF0000">Susceptible Essence</c><br> 	
+Type: Lower Resist<br>  	
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/nohopemoss.txt">Nohope Moss</a> & <a href="file:///storyline/il/quiks/snowcapamanita.txt">Snowcap Amanita</a><br> 
+<br>
+Name: <c "#FF0000">Twisting Disorientation</c><br> 
+Type: Dizzy<br>  		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: <a href="file:///storyline/il/quiks/crystalnightshade.txt">Crystal Nightshade</a> & <a href="file:///storyline/il/quiks/blackhenbane.txt">Black Henbane</a> & <a href="file:///storyline/il/quiks/deathcap.txt">Death Cap</a><br>
+<br> 
+Name: <c "#FF0000">Horrendous Atrophy</c><br> 	
+Type: Weaken<br> 		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/shriveledflesh.txt">Shriveled flesh</a><br> 
+<br>
+Name: <c "#FF0000">Smoldering Cyanide</c><br> 	
+Type: Injected<br>  		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/emeraldberrycyanide.txt">Emeraldberry Cyanide</a><br> 
+<br>
+Name: <c "#FF0000">Mind Melt</c><br> 		
+Type: System Shock<br>  		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/mountdeathsalts.txt">Mount Death Salts</a> & <a href="file:///storyline/il/quiks/quicksilver.txt">Quicksilver</a><br>
+<br> 
+Name: <c "#FF0000">Inferno Blood</c><br> 		
+Type: Injected<br> 		
+Vial: Sealed Vial<br>
+Susp: Etheral Suspension<br> 		
+Trivial: 250+<br>
+Ingredients: 2x <a href="file:///storyline/il/quiks/bloodthornextract.txt">Blood Thorn Extract</a> & <a href="file:///storyline/il/quiks/emeraldberrycyanide.txt">Emeraldberry Cyanide</a><br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a><br>

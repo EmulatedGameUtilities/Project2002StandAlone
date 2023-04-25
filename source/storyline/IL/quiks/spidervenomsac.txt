@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Spider Venom Sac</c><br>
+Vendor: NPC Drop<br>
+Location: Various Spiders<br>
+Poison: Spider Venom<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

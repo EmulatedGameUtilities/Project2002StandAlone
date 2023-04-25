@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Wood Rose</c><br>
+Vendor: Ennixy Frennor (+1380, -830)<br>
+Location: West Karana<br>
+Poison: Temporal Rot / Visceral Rot<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

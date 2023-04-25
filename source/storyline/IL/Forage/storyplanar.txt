@@ -1,0 +1,50 @@
+<HTML>
+
+<HEAD>
+<TITLE>Planar Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Planar Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+
+
+Bastion of Thunder  <FONT COLOR="#8080FF">  Rain Water  </FONT>      <br>     
+Bastion of Thunder <FONT COLOR="#8080FF"> Lightning Stone    </FONT>      <br>  
+Bastion of Thunder <FONT COLOR="#8080FF">   Thunder Stone  </FONT>      <br>  
+Plane of Disease  <FONT COLOR="#8080FF">  Deadly Mushroom  </FONT>      <br> 
+Plane of Disease <FONT COLOR="#8080FF">  Malarian Larvae   </FONT>   Fishing    <br> 
+Plane of Disease  <FONT COLOR="#8080FF">  Fetid Fluid  </FONT>      <br>   
+Plane of Fire (Doomfire, The Burning Lands)  <FONT COLOR="#8080FF"> Chunk of Sulfur   </FONT>      <br> 
+Plane of Fire (Doomfire, The Burning Lands) <FONT COLOR="#8080FF">  Everburning Oil   </FONT>      <br>   
+Plane of Fire (Doomfire, The Burning Lands)  <FONT COLOR="#8080FF">  Magnesium Powder  </FONT>      <br>   
+Plane of Fire (Doomfire, The Burning Lands)  <FONT COLOR="#8080FF">  Sliver of Onyx  </FONT>      <br>   
+Plane of Growth <FONT COLOR="#8080FF">   Branch of Planar Oak  </FONT>      <br>      
+Plane of Innovation <FONT COLOR="#8080FF">   Clockwork Grease  </FONT>   Tinkering    <br>    
+Plane of Innovation  <FONT COLOR="#8080FF">  Phosphorescent Goop  </FONT>      <br>      
+Plane of Innovation  <FONT COLOR="#8080FF">  Pile of Rust  </FONT>      <br>      
+Plane of Justice  <FONT COLOR="#8080FF">  Breadcrumbs  </FONT>   Baking    <br> 
+Plane of Justice  <FONT COLOR="#8080FF">   Cockroach </FONT>   Baking   <br>  
+Plane of Justice <FONT COLOR="#8080FF">  Justice Fruit   </FONT>   Baking    <br> 
+Plane of Knowledge  <FONT COLOR="#8080FF">  Bookworm  </FONT>   Fishing    <br>  
+Plane of Knowledge  <FONT COLOR="#8080FF">  Habanero Pepper  </FONT>   Baking    <br> 
+Plane of Knowledge  <FONT COLOR="#8080FF">   Rile's Sand Coin </FONT>      <br>  
+Plane of Tactics (Drunder, Fortress of Zek)  <FONT COLOR="#8080FF">  Broken Rallosian Blade  </FONT>      <br>  
+Plane of Tactics (Drunder, Fortress of Zek) <FONT COLOR="#8080FF">  Pieces of Shattered Armor   </FONT>      <br>  
+Plane of Tactics (Drunder, Fortress of Zek)  <FONT COLOR="#8080FF">  Tuft of War Boar Fur  </FONT>      <br>  
+Plane of Torment  <FONT COLOR="#8080FF">  Scrap of Flesh  </FONT>      <br> 
+Plane of Torment  <FONT COLOR="#8080FF">  Acidic Water  </FONT>      <br> 
+Plane of Torment  <FONT COLOR="#8080FF">   Keen Metal Spike </FONT>      <br>  
+Plane of Water  <FONT COLOR="#8080FF">   Cluster of Kelp </FONT>      <br>  
+Ruins of Lxanvom (Crypt of Decay)  <FONT COLOR="#8080FF">  Cockroach  </FONT>     Baking   <br>
+Ruins of Lxanvom (Crypt of Decay) <FONT COLOR="#8080FF"> Deadly Mushroom    </FONT>      <br> 
+Ruins of Lxanvom (Crypt of Decay)  <FONT COLOR="#8080FF">  Dusty Cobweb  </FONT>      <br>  
+Ruins of Lxanvom (Crypt of Decay) <FONT COLOR="#8080FF">  Fetid Fluid   </FONT>      <br>   
+
+<br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br>
+
+</BODY>
+</HTML>

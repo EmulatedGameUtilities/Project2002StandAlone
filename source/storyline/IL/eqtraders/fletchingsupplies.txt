@@ -1,0 +1,172 @@
+Fletching Trade Supplies  <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'anon </c><br>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - clockwork bowyer inside 1245, -895 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c>
+
+<br>*groove nocks (3), bow staff (5), whittling blade, planing tool, standard bow cam, twine (3), fletching kit, A Bowyer's Guide - Klok Gogon (East, 132, -200) 
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit - Zotalz (West, 351, 538) 
+<br><br>
+
+<c "#00CC00">East Commonlands </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Joryd Longarms (next to inn between orc camps, /loc 985, 3760) 
+<br><br>
+
+<c "#00CC00">East Karana </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Bryan (-840, -16) 
+<br><br>
+
+<c "#00CC00">Feerrott </c>
+
+<br>*groove nocks (3), bow staff (5), whittling blade, planing tool, standard bow cam, twine, string (2), fletching kit, A Bowyers Guide - Fugla (964, 1256) 
+<br><br>
+
+<c "#00CC00">Felwithe </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Merchant Longarrow (Faydark's Bane, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (docks) </c>
+
+<br>*groove nocks (3), bow staff (5), whittling blade, planing tool, standard bow cam, twine (3), fletching kit - Jessica Winter (building at -3381, 3320) 
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit, Fletching book - Fleceal Summer (building at -3381, 3320) 
+<br><br>
+
+<c "#00CC00">Freeport </c>
+
+<br>*bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyers Guide - Timor Strongbranch (-98, -55, N. Freeport) 
+<br>*arrowheads (field point, hooked, silver tipped), bundled arrow shafts (wooden, bone, ceramic, steel), fletchings (shield cut, round cut, parabolic cut), arrow vanes (wooden, bone, ceramic), Fletching, groove nocks (small, medium, large), fletching kit - Valla Strongbranch (-79, -41, N. Freeport) 
+<br><br>
+
+<c "#00CC00">Grobb </c>
+
+arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Zazhar (outside Krungs Clubs & Junk) 
+<br><br>
+
+<c "#00CC00">Halas </c>
+
+arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit - Rain (McPherson's Bloody Blades) 
+<br><br>
+
+<c "#00CC00">Kaladim </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Alanury Stormhammer (Staff & Spear, S. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum (Luclin) </c>
+
+<br>*Field Point Arrowheads, Hooked Arrowheads, Tipped Arrowheads, Bundled Wooden Arrow Shafts, Bundled Bone Arrow Shafts, Bundled Ceramic Arrow Shafts, Bundled Steel Arrow Shafts, Several Round Cut Fletchings, Several Parabolic Cut Fletchings, Several Shield Cut Fletchings, Set of Wooden Arrow Vanes, Set of Bone Arrow Vanes, Set of Ceramic Arrow Vanes, Fletching (Book), Large Groove Nocks, Medium Groove Nocks, Small Groove Nocks, Fletching Kit, Tailoring Quivers (book), Arrow Shaft Mold - Marko Wolfeye (-140, -670) 
+<br>*Hickory Bow Staff, Elm Bow Staff, Ashwood Bow Staff, Oak Bow Staf, Darkwood Bow Staff, Whittling Blade, Planing Tool, Standard Bow Cam, Hemp Twine, Linen String, Silk String, Fletching Kit, A Bowyers Guide - Rebecca Wolfeye (-138, -679) 
+<br><br>
+
+<c "#00CC00">Kelethin </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Merchant Tiladnya (Trueshot Bows, -361, -610) 
+<br>*groove nocks (3), bow staff (5), whittling blade, planing tool, standard bow cam, hemp twine, linen & silk string, A Bowyers Guide, fletching kit - Merchant Sylnis (-411, -520) 
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), Fletching book - Merchant Lanin (412, 328) 
+<br><br>
+
+<c "#00CC00">Kithicor Forest </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Krile Arrowsmith (-325, 3879) 
+<br><br>
+
+<c "#00CC00">Neriak </c>
+
+<br>* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Dianax C'Luzz (The Bleek Fletcher COM) 
+<br><br>
+
+<c "#00CC00">Oggok </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Praak (Bouncer Keep) 
+<br><br>
+
+<c "#00CC00">The Overthere (Kunark) </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit, Fletching book - Tin Merchant X, 2704, 2611 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c>
+
+<br>*hickory bow staff, elm bow staff, ashwood bow staff, oak bow staff, darkwood bow staff, shadewood bow staff, whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, Planar Fletching Kit, A Bowyer's Guide, clump of wax, cam parts mold - Ellis Cloudchaser (-132, 1457) 
+<br>*arrow heads (3), arrow shafts (3), fletchings (3), arrow vanes (3), groove nocks (3), Fletching book, Planar Fletching Kit, Tailoring Quivers - Jaren Cloudchaser (-88, 1471) 
+<br><br>
+
+<c "#00CC00">Qeynos </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Danon Fletcher (behind Nestiff's Wooden Weapons, S. Qeynos) 
+<br><br>
+
+<c "#00CC00">Rivervale </c>
+
+<br>*bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyers Guide - Gerb Jinklebelly (-211, -80) 
+<br>*arrowheads (filed point, hooked, silver tipped), bundled arrow shafts (wooden, bone, ceramic, steel), fletchings (round cut, parabolic, shield cut), arrow vanes (wooden, bone, ceramic), Fletching, groove nocks (small, medium, large), fletching kit - Joana Jinklebelly (-229, -79) 
+<br><br>
+
+<c "#00CC00">Sanctus Seru (Luclin) </c>
+
+<br>*field point arrowheads, hooked arrowheads, silver tipped arrowheads, bundled wooden arrow shafts, bundled bone arrow shafts, bundled ceramic arrow shafts, bundled steel arrow shafts, several round cut fletchings, several parabolic cut fletchings, several shield cut fletchings, set of wooden arrow vanes, set of bone arrow vanes, set of ceramic arrow vanes, Fletching, groove nocks (small, medium, large), fletching kit , Tailoring Quivers - Fareye Yewback (-121, 485) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c>
+
+<br>*Shadewood Bow Staff, Hickory Bow Staff, Elm Bow Staff, Ashwood Bow Staff, Oak Bow Staff, Darkwood Bow Staff, Whittling Blade, Planing Tool, Standard Bow Cam, Hemp Twine, Linen String, Silk String, Fletching Kit, A Bowyers Guide - Junun Rawkins (260, 955), Narmase Flecher (246, 1194) 
+<br>*Field Point Arrowheads, Hooked Arrowheads, Silver Tipped Arrowheads, Bundled Wooden Arrow Shafts, Bundled Bone Arrow Shafts, Bundled Ceramic Arrow Shafts, Bundled Steel Arrow Shafts, Several Round Cut Fletchings, Several Parabolic Cut Fletchings, Several Shield Cut Fletchings, Set of Wooden Arrow Vanes, Set of Bone Arrow Vanes, Set of Ceramic Arrow Vanes, Fletching, Large Groove Nocks, Medium Groove Nocks, Small Groove Nocks, Fletching Kit, Tailoring Quivers - Tabart Tailforth (263, 976), Sroj Arrowsmith (219, 1182) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c>
+
+<br>*A Bowyers Guide, Fletching - Librarian Almasa (125, 67) 
+<br>*Field Point Arrowheads, Hooked Arrowheads, Silver Tipped Arrowheads, Bundled Wooden Arrow Shafts, Bundled Bone Arrow Shafts, Bundled Ceramic Arrow Shafts, Bundled Steel Arrow Shafts, Several Round Cut Fletchings, Several Parabolic Cut Fletchings, Several Shield Cut Fletchings, Set of Wooden Arrow Vanes, Set of Bone Arrow Vanes, Set of Ceramic Arrow Vanes, Fletching, Large Groove Nocks, Medium Groove Nocks, Small Groove Nocks, Fletching Kit, Tailoring Quivers - Rytan (-403, 410) 
+<br>*Hickory Bow Staff, Elm Bow Staff, Ashwood Bow Staff, Oak Bow Staff, Darkwood Bow Staff, Whittling Blade, Planing Tool, Standard Bow Cam, Hemp Twine, Linen String, Silk String, Fletching Kit, A Bowyers Guide - Hokar (-384, 454) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c>
+
+<br>*arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Purveyor Borrin (second floor, 303, -609) 
+<br><br>
+
+<c "#00CC00">South Karana </c>
+
+<br>*groove nock (3), bow staff (5), whittling blade, planing tool, standard bow cam, twine, string (2), fletching kit, A Bowyer's Guide - Ulan Meadowgreen (123, -2185) - this is a centaur merchant in the middle of the centaur village 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c>
+
+<br>*field point arrowheads, hooked arrowheads, silver tipped arrowheads, bundled arrowshafts (wooden, bone, ceramic, steel), fletchings (shield cut, round cut, parabolic cut), arrow vanes (wooden, bone, ceramic). Fletching, groove nocks (small, medium, large), arrow shaft mold - a clockwork fletcher (second windmill, loc 76, -656) 
+<br>*bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyer's Guide - a clockwork bowyer (2nd windmill, loc 97, -659) 
+<br><br>
+
+<c "#00CC00">Surefall Glade </c>
+
+<br>*bow staff (6), whittling blade, planing tools, standard bow cam, hemp twine, linen string, silk string, fletching kit, Bowyers Guide - Tonsia (inside Ranger guild) 
+<br>*arrowheads (3), arrow shafts (4), fletches (3), arrow vanes (3), "Fletching" book, groove nocks (3), fletching kit - Jarse Kedison (Archery Range), Livam T'Lant (inside Druid guild) 
+<br><br>
+
+<c "#00CC00">Thurgadin (Velious) </c>
+
+<br>*A Bowyer's Guide, groove nocks (3), Bow staff (5), whittling blade, planing tool, bow cam, hemp twine, linen string, silk string, fletching kit, Tailoring Quivers - Argash (Argash's House of Carpentry) 
+<br>*fletching kit, Tailoring Quivers, groove nock (3), vanes (3), fletchings (3), arrow shafts (4), arrowheads (3), fletching (book) - Tavir (Argash's House of Carpentry) 
+<br><br>
+
+<c "#00CC00">West Karana </c>
+
+<br>* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Brenzl McMannus (-1965, -8964) ALSO located at (-3685, -2000) 
+
+<br><br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

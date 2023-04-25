@@ -1,0 +1,82 @@
+Steamfont Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+More items can be found in the nearby city of Ak'Anon 
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Godbin Strumharp (windmill at /loc 51, -611) used to make dye<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* spices, vinegar, jug of sauces, garnish, frosting, flour, milk, recipe books - Finkel Rardobaen (-1517, -1843) <br>
+* spit - Oren Furdenbline (2nd building from right of entrance to Ak'Anon) <br>
+* milk - Glen Garginbur (1st building on right from entrance to Ak'Anon, -1788, 3142)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle - Glen Garginbur (1st building on right from entrance to Ak'Anon, -1788, 3142) <br>
+* bundle of wormwood, brimstone - Ennixi Fennor (1371, -835) <br>
+* cork - Bom Knotwood (windmill at /loc 165, -881) <br>
+* king's thorn - Ennixi Fennor (1371, -835)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Glen Garginbur (1st building on right from entrance to Ak'Anon)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* field point arrowheads, hooked arrowheads, silver tipped arrowheads, bundled arrowshafts (wooden, bone, ceramic, steel), fletchings (shield cut, round cut, parabolic cut), arrow vanes (wooden, bone, ceramic). Fletching, groove nocks (small, medium, large), arrow shaft mold - a clockwork fletcher (second windmill, loc 76, -656) <br>
+* bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyer's Guide - a clockwork bowyer (2nd windmill, loc 97, -659)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Torodrane Frompwaddle (-1599, -1839) <br>
+* jar of lacquer - Godbin Strumharp (second windmill at /loc 51, -611)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* king's thorn, blood rose, bundle of wormwood, brimstone, Cobals Cures of the Undeath, Kaxon's Beauty Tips - Ennixi Frennor (1371, -835)<br> 
+* How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid - Godbin Strumharp (windmill at /loc 51, -611) used to make dye <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* block of clay (3), jar of acid - Godbin Strumharp (windmill at /loc 51, -611)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* thimble & needle molds - Freed Fimplefur (2nd building from left of entrance to Ak'Anon) <br>
+* small armor molds, lantern mold - Fodin Frugrin (1st building from left of entrance to Ak'Anon) <br>
+* cooking molds, Basic Blacksmithing - Oren Furdenbline (2nd building from right of entrance to Ak'Anon) <br>
+* ore (3), sharpening stone, smithy hammer, small/large bricks of medium quality ore, medium quality sheet metal, How To Dye And Stain, jar of lacquer, resin, empty vials, jar of acid, steel wire(?) - Godbin Strumharp (windmill at /loc 51, -611) <br>
+* imbue plains pebble [druid/cleric spell: Karana] - merchant at druid ring (name?)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* large sewing kit, mask, gorget, belt, cloak, wristband and shoulderpad patterns, backpack, whip & quiver patterns (2) - Freed Fimplefur (2nd building from left of entrance to Ak'Anon)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* Toolbox, metal rod, cork, bottle of grease, metal shaft, spricket, metal twine, gears, sprockets, reflective shard, static orb, gnomish bolts, Journal of Gimblestan XIV, Journal of Gimblestan XV, steel lined gloves, silk lined steel helm, metal fastenings, fine coral mesh, sharkskin tubing, lime coated meshing - Bom Knotwood (windmill at /loc 165, -881) <br>
+* steel wire(?), powered gloves - Godbin Strumharp (windmill at /loc 51, -611) <br>
+* fishing pole, large lantern, bottle, water - Glen Garginbur (1st building on right from entrance to Ak'Anon, -1788, 3142)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

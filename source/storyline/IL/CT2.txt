@@ -1,0 +1,70 @@
+<c "#FF2400">Powered Clockwork Talisman </c><c "#FFFF00">(Clockwork Talisman #2)</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/IL/CT1.txt">Jimlok's Friend (Clockwork Talisman #1)</a><br>
+<a HREF="file:///storyline/IL/CT2.txt">Powered Clockwork Talisman (#2)</a><br>
+<a HREF="file:///storyline/IL/CT3.txt">The Binden Concerrentia (Talisman #3)</a><br><br>
+Powered Clockwork Talisman (#2)<br>
+<br>
+Starts in: Plane of Knowledge <br>
+Who: Tabben Bromal <br>
+Rating: Average (3.75) <br>
+Estimated Time:  <br>
+Minimum Level: 60 <br>
+Maximum Level: 65 <br>
+Best Class: All <br>
+Quest Items:<br>
+Crystalline Carapace<br>
+Dense Hammered Casing<br>
+Fiery Power Source<br>
+Small Clockwork Talisman<br>
+Strands of Living Chain<br>
+ <br>
+Additional Zones:<br>
+Drunder, Fortress of Zek<br>
+Plane of Torment<br>
+Plane of Valor<br>
+Tower of Solusek Ro<br>
+ <br>
+Related Creatures:<br>
+A Parylyx Hatchling<br>
+ <br>
+You must first complete the Jimlok's Friend quest. <br>
+<br>
+You say, 'I am ready' <br>
+<br>
+Tabben Bromal says 'Very well. You'll need to gather up a dense hammered casing for the outer shell; a crystalline carapace will act to protect the face of the device; and it requires a fiery power source to propel the rotor mechanism. The device is then attached around the neck, much like the one you are wearing. The only difference will be the strands of living chain that will keep it from slipping from around your neck. Place those four items and your talisman in that box and return it to me. We should be able to get this thing built for you without much fuss at all, should all things go well on your end of the task, of course.' <br>
+<br>
+Chrystaline Carapace : Spiders in PoValor <br>
+Strands of living Chain : Spiders in PoTorment <br>
+Dense hammered Casing : PoTA - Random Daiku's <br>
+a fiery Powersource : Tower of Solusek Ro <br>
+<br>
+Combine these 4, along with the first neck, in the box given to you, and hand it back to Tabben. He gives you the second neck, and a note to start the third neck quest. <br>
+Reward(s): <br>
+Powered Clockwork Talisman<br>
+LORE ITEM MAGIC ITEM NO DROP  <br>
+Weight: 0.8 Size: SMALL <br>
+Slot: NECK  <br>
+Str: +10 Sta: +10 Wis: +10 Int: +10 Fire Resist: +10 Disease Resist: +10 Cold Resist: +10 Magic Resist: +10 Poison Resist: +10 HP: +50 Mana: +50  <br>
+Classes: All Classes  <br>
+Races: All Races <br>
+Slot 1: Type 7 <br>
+ Effect: Talisman Gate<br>
+Type: Triggered <br>
+Charges: 15 <br>
+ <br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/IL/CT1.txt">Jimlok's Friend (Clockwork Talisman #1)</a><br>
+<a HREF="file:///storyline/IL/CT2.txt">Powered Clockwork Talisman (#2)</a><br>
+<a HREF="file:///storyline/IL/CT3.txt">The Binden Concerrentia (Talisman #3)</a><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<br><br><br>
+And a big thanks to allakhazam.com who were the source<br>

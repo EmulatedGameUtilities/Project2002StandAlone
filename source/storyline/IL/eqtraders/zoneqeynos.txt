@@ -1,0 +1,91 @@
+Qeynos Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* flour, mixing bowl, bread, baking spirits - Karn Tassen, Voleen Tassen (Voleen's Fine Baked Goods, S. Qeynos) <br>
+* oven - inside Voleen's Fine Baked Goods (S. Qeynos) <br>
+* milk - Sneed & Tanlyn Galliway (Galliways Trading Post, N. Qeynos) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages - Heidi Grainsifter (Voleen's Fine Baked Goods, S. Qeynos) <br>
+* bottle, cask - Fellesha Varshen & Raheim Varshen (Bag N Barrel, S, Qeynos), Basanio Weekin & Gahna Salbeen (street vendors south of Fire Prides, S. Qeynos) <br>
+* bottle, grapes, shot glass, cask, kiola sap - Nug Rellash. Earron Huntlan, Tasya Huntlan (Lions Mane Tavern & Inn, S. Qeynos), Sunsa Jocub, Fish Ranamer (Fish's Ale, S. Qeynos), Sabnie Blagard (Crow's Pub, N. Qeynos) <br>
+* brew barrel - Lions Mane Tavern (S. Qeynos), Crow's Pub (N. Qeynos), Fish's Ale (S. Qeynos) <br>
+* water - Karn Tassen, Voleen Tassen (Voleen's Fine Baked Goods, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Captain Rohand (Mermaid's Lure, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3) - Danon Fletcher (behind Nestiff's Wooden Weapons, S. Qeynos) <br>
+(bowmaking supplies in Surefall Glade) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, star ruby, fire emerald, sapphire - Ziska Ironforge (The Jewel Box, N. Qeynos) <br>
+* peridot, wolfs eye agate - Hanlore Escaval (The Herb Jar, S. Qeynos) <br>
+* 18 gemstones, jewelers kit, Legacy of Jewelcraft - Svena Ironforge (The Jewel Box, N. Qeynos) <br>
+* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) <br>
+* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* Renux's Translations - Pleshia Thuxpire (rogue's guild, N. Qeynos) <br>
+* Scent of Marr - Hanlore Escaval, (Herb Jar, S. Qeynos, 305, -570) used in celestial essence <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* kiln, pottery wheel - inside Bag N Barrel, (S. Qeynos) <br>
+* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) <br>
+* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - outside Tin Soldier (S. Qeynos), outside Fire Prides (S. Qeynos), behind Ironforge's (N. Qeynos) <br>
+* Royal Forge - near clock tower, S. Qeynos <br>
+* shield molds - Ton Firepride (Firepride's, S. Qeynos) <br>
+* weapon molds (Dagger blade, thin blade, short blade, axe head, halbard head, curved blade, throwing knife, mace head, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) and oak shaft - Dren Ironforge (Ironforge's, N. Qeynos) <br>
+* chain patterns - Connie Link (street vendor across from Ironforge's, N. Qeynos) <br>
+* plate armor molds, Ikthar's Fine Steel Skin - Liln Sedder (upstairs, Tin Soldier, S. Qeynos) <br>
+* full plate armor mold, The Legend of Full Plate - Mar Sedder (downstairs, Tin Soldier, S. Qeynos) <br>
+* imbue: opal spell [cleric: Rodcet Nife] - Balhallia (cleric guild "saucer", N. Qeynos) <br>
+* imbue: black sapphire spell [cleric: Bertoxxulous] - Tessia Sowtsui (temple of Bertoxx, sewers, 340, -433) <br>
+* enchant: steel [enchanter] - Moreo O'Meek (behind caster's guild, S. Qeynos) <br>
+* water - Karn Tassen, Voleen Tassen (Voleen's Fine Baked Goods, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos) <br>
+* high quality ore (small brick, large brick, block), medium quality ore (small brick, large brick, block), smithy hammer, flask of water - Yakum Oreslinger (Tin Soldier, S. Qeynos) (Note: only has 75 blocks, 150 large bricks, and 300 small bricks of HQ ore when spawned - to restock, do the Unrefined Ore quest <br>
+(other molds found in nearby Qeynos Hills)<br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* quill, parchment, various tomes - Hanlore Escaval (The Herb Jar, S. Qeynos)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* patterns, sm. sewing kit - Fhara Semhart (Fhara's Leather & Thread, S. Qeynos) <br>
+* sm. sewing kit, quiver & backpack patterns, Tailoring book, How to Sew (3) - Iala Lendard (street vendor outside Lions Mane Inn, S. Qeynos) <br>
+* sm. sewing kit - Solani Dayadil (street vendor south of Fire Prides, S. Qeynos) <br>
+* 10-slot loom - near Lion's Mane Inn (S. Qeynos)<br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

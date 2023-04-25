@@ -1,0 +1,39 @@
+Jaggedpine Forest Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Baking </c><br>
+* bat wings - Selia Wetstone (1115, 2045), Quartermaster Garucks (-1100, 3236, Brell gnoll temple) <br>
+* vinegar, spices, jug of sauces, garnish, frosting, cup of flour, bottle of milk, Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelin's Quick Treats, Binelin's Succulence, Ghumim's Delights, Ghumim's Classical Dishes, Xectia's Favored Flavors, Xectia's Hot Pie, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go - Nerdala Darkcloud (1082, 2088) <br>
+* water flask, loaf of bread, fresh fish, cheese - Pergan Darkcloud (1070, 2085), Chef Brargus (-1100, 3500) <br>
+* spit - Tallien Brightflash (1089, 2022), Dunari (-1048, 3454, Brell gnoll temple)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* mead - Selia Wetstone (1115, 2045), Quartermaster Garucks (-1100, 3236, Brell gnoll temple)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* sketches (large bowl, bowl, skewers, small jar, medium jar, large jar, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, casserole dish) - Morgan Wetstone (1100, 2000), Karka (-1122, 3269, Brell gnoll temple)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* molds (barbarian cookie, gnome cookies, troll cookie, animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, smoker base, standing legs, smoker support, hinge, scaler, lantern casing, frying pan), Basic Blacksmithing - Tallien Brightflash (1089, 2022), Dunari (-1048, 3454, Brell gnoll temple)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern - Selia Wetstone (1115, 2045), Quartermaster Garucks (-1100, 3236, Brell gnoll temple)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

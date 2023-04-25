@@ -1,0 +1,57 @@
+Highpass Keep Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton) used to make dye<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* bread, mixing bowl, 4 recipe books, Delivered Note - Baker Jena (2nd floor, 42, -258) <br>
+* oven (2nd floor, 31, -216)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* bottle, cask - Merchant Dominik (outside building) <br>
+* barley, hops, rice, malt, yeast, wine yeast - a clerk (1st floor, -73, -185), dealers (2nd floor, -94, -321 and -68, -354) <br>
+* brew barrel (2nd floor, 54, -216, across from the gambling area)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* 18 gems, jewelers kit, Legacy of Jewelcraft - Merchant Edina (1st floor, -91, -294) <br>
+* jar of lacquer - Graham Embersmith (basement)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton) used to make dye<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (3) - Miner Harton (basement, 43, -274) <br>
+* jar of acid - Graham Embersmith (basement)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* ore (3), sharpening stone, smithy hammer - Miner Harton (basement, 43, -274) <br>
+* medium quality sheet metal, medium quality ore (small brick, large brick, block) , smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid - Graham Embersmith (basement, beside Miner Harton)<br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* one rune and several words - Maryl Quinley (basement, 13, -361) I am not sure if her inventory cycles or not, so this will need verification by another on any server but Veeshan<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

@@ -1,0 +1,11 @@
+<c "#FFff00"></c><c "#FF8000"></c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/fun/fun.txt">Fun</a><br><br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>

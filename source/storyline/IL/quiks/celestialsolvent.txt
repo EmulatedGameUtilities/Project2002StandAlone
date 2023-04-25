@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Celestial Solvent</c><br>
+Vendor: Darius Gandril (+52, +1530)<br>
+Location: Plane of Knowledge<br>
+Component: Celestial Essence<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

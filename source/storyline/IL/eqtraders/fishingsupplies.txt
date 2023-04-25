@@ -1,0 +1,248 @@
+Fishing Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Ak'Anon </c><br>
+
+* fishing pole, bait - clockwork merchant on right inside main gates, clockwork merchant outside Forge of Defiance, clockwork merchant at 1287, -913, clockwork merchant near Priest of Discord, clockwork merchant at 720, 153 
+<br><br>
+
+<c "#00CC00">Butcherblock </c><br>
+
+* fishing pole, bait - Indudul Dumirgun (2839, -648, 1st shop on left out from Kaladim), Gamin Grimstone (2721, -941, 3rd shop on left out from Kaladim), Felen Razdal (tower ruins, 128, 2386) , Parn Gylwyn (dock, 1458, 2823) 
+<br><br>
+
+<c "#00CC00">Cabilis (Kunark) </c><br>
+
+* fishing pole, bait - Klok Foxmyr (East, 121, -195) 
+* celandine herb - Klok Scaleroot (West, 400, 515, near necro guild) 
+<br><br>
+
+<c "#00CC00">Crystal Caverns (Velious) </c><br>
+
+* fishing pole, bait - Grabble Coldheart (dwarven outpost, -262, 172), Milace Gemshard (dwarven outpost, -260, 235) 
+<br><br>
+
+<c "#00CC00">East Karana </c><br>
+
+* fishing pole, bait - Bradly & Julie (shop at -833, -109) 
+<br><br>
+
+<c "#00CC00">Erudin </c><br>
+
+* fishing pole, bait - Teria Finleather, Borge Finleather (Erudin Surplus) 
+<br><br>
+
+<c "#00CC00">Eruds Crossing </c><br>
+
+* fishing pole, bait - Renna (Kerra Isle, near dock) 
+<br><br>
+
+<c "#00CC00">Feerrott </c><br>
+
+* tacklebox, fishing pole, bait, catch-a-lot bait, dry hooks, treble hooks, circle hooks - Kogg (1048, 1463) 
+<br><br>
+
+<c "#00CC00">Felwithe </c><br>
+
+* fishing pole, bait - Rolyn Longwalker (Beyond Faydark, N. Felwithe), Merchant Sorintal (Shop of All Holds, N. Felwithe), Fishmonger, Jassa (Bait & Tackle, N. Felwithe) 
+<br><br>
+
+<c "#00CC00">Field of Bone (Kunark)</c><br>
+
+* fishing pole, bait - Klok Acet (-2460, 2993) 
+<br><br>
+
+<c "#00CC00">Firiona Vie (Kunark) </c><br>
+
+* fishing pole, bait - Dorg McMerin (building at -3898, 1663) 
+* celandine herb - Marlyn McMerin (building at -3898, 1663) 
+<br><br>
+
+<c "#00CC00">Freeport </c><br>
+
+* bait & fishing poles - Iscar Sailspin, Tanlok Harson, Iseba Gargurd, Tarker Gargurd (Port Authority, E. Freeport), Yellus Gravien & Gibbon Morfield (Office of Landholders, N. Freeport) 
+<br><br>
+
+<c "#00CC00">Fungus Grove (Luclin) </c><br>
+
+* fishing pole, bait - Samfort Ruggen (-1668, -918), Thar Anton (-1339, -800) <br>
+* Brother Dreymoon's Meditations - Cen Snoworb (-1216, -988) 
+<br><br>
+
+<c "#00CC00">Grobb </c><br>
+
+* fishing pole, bait - Oootok (street vendor near warrior's guild), Bimuk (outside Krungs Clubs & Junk) <br>
+* celandine herb - Blergagg (Shaman guild) 
+<br><br>
+
+<c "#00CC00">Halas </c><br>
+
+* fishing pole, bait - Quillion O'Zinn (The Found Mermaid), Greta Terrilon (outside McDaniels Smokes), Leopok Terrilon (bank area), Dok (Dok's Cigars) <br>
+* celandine herb - Dargon (Shaman's guild) 
+<br><br>
+
+<c "#00CC00">Highhold Pass </c><br>
+* fishing pole, bait - Sernn Rossook (Serpent Supply), Maign Greyeagle (shop at /loc 202, 507) 
+<br><br>
+
+<c "#00CC00">Hollowshade Moor (Luclin) </c><br>
+
+* fishing pole, bait - Rittuh Purrik (1069, 2027) 
+<br><br>
+
+<c "#00CC00">Lake of Ill Omen (Kunark) </c><br>
+
+* fishing pole, bait - Klok Gnask (6398, -6348) 
+<br><br>
+
+<c "#00CC00">Kael </c><br>
+
+* greywood fishing pole, ice worms - Srekk Fangbinder (156, 1937) 
+
+<br><br>
+
+<c "#00CC00">Kaladim </c><br>
+
+* fishing pole, bait - Doranafi Ratsbone (street merchant near cleric guild, N. Kaladim) 
+<br><br>
+
+<c "#00CC00">Katta Castellum </c><br>
+
+* celandine herb - Morfesh O'Koyle (252, -1147) 
+<br><br>
+
+<c "#00CC00">Kelethin </c><br>
+
+* fishing pole, bait - Merchant Iludarae (next to first lift, -27, -150), Merchant Kwein (next to Priest of Discord lift,155, 332), Merchant Aianya (Goods, 244, 612) 
+<br><br>
+
+<c "#00CC00">Kerra Isle </c><br>
+
+* fishing pole, bait, fishing grubs - Roary Fishpouncer (629, -673) 
+<br><br>
+
+<c "#00CC00">Lake Rathe </c><br>
+
+* fishing pole, bait - Turga (ogre camp, NE corner of zone) 
+<br><br>
+
+<c "#00CC00">Neriak </c><br>
+
+* fishing pole, bait - Yala Thiss, Sera Buelle, Dran 'slug' Rembo, Vala Tambor (Slug's Tavern NFQ), Smaka & The Gobbler (Bites 'n Pieces SFQ), Mariz Ixtaz (near Toadstool COM) 
+<br><br>
+
+<c "#00CC00">Northern Desert of Ro </c><br>
+
+* fishing pole & bait - Tia Sandfisher, Juni Sandfisher (edge of ocean) 
+<br><br>
+
+<c "#00CC00">Oggok </c><br>
+
+* fishing pole, bait - Angrog (next to tunnel leading to Feerott), Sinsaal (inside first tunnel on left in the wall of tunnels) <br>
+* celandine herb - Garakbar (unlabeled room with skull floating in the middle of it) 
+<br><br>
+
+<c "#00CC00">Ocean of Tears </c><br>
+
+* fishing pole, bait - Endan Halson (inn, Zachariah Reigh's Island - first stop from Kaladim to Freeport) <br>
+* tacklebox, fishing pole, bait, catch-a-lot bait, dry hooks, treble hooks, circle hooks - Sanian Shearsin (Zachariah Reigh's Island, building at -2103, 7796) and Craven Jonsbrow (Zachariah Reigh's Island, on the beach by the dock -2256, 7596) 
+<br><br>
+
+<c "#00CC00">Plane of Knowledge (PoP) </c><br>
+* tacklebox, hooks (3), bait, catch-a-lot-bait - Ramos Jerwan (-21, 1433) <br>
+* tacklebox, hooks (3), bait, catch-a-lot-bait, fishing pole - Daeld Atand (10, 1433) 
+<br><br>
+
+<c "#00CC00">Plane of Storms (PoP) </c><br>
+
+* fishing pole, bait - Grok (-1144, -2519) 
+<br><br>
+
+<c "#00CC00">Plane of Tranquility (PoP) </c><br>
+
+* fishing pole, bait, fishing grubs - Rataga Stoneskipper (-490, -1406) 
+<br><br>
+
+<c "#00CC00">Qeynos </c><br>
+
+* fishing pole, bait - Captain Rohand (Mermaid's Lure, S. Qeynos), Tanlyn Galliway, Sneed Galliway (Galliway's Trading Post, N. Qeynos) 
+<br><br>
+
+<c "#00CC00">Rivervale </c><br>
+
+* fishing pole, bait - Fiddy Bobbick and Wibble Bramblebush (next to dock), dock merchant (across river from dock, 214, -223) 
+<br><br>
+
+<c "#00CC00">Shadow Haven (Luclin) </c><br>
+
+* Hintol`s Fishbringer Bait (2% fishing modifier), Hintol`s Fishing Pole (2% fishing modifier) - Hintol Balkortak (-436, 1385) <br>
+* Celandine Herb - Callowolf MacFuller (122, 1236), Lemsen Frostherb (122, 1216) <br>
+* fire wing treble fly - Verte (20, 760), Barkeep Veronica (-443, 300) 
+<br><br>
+
+<c "#00CC00">Shar Vahl (Luclin) </c><br>
+
+* fishing pole, bait - Dharr Nadim (-350, 125), Ulman Talmil (370, -20) 
+<br><br>
+
+<c "#00CC00">Skyshrine (Velious) </c><br>
+
+* fishing pole, bait - Purveyor Nish (175, -683) 
+<br><br>
+
+<c "#00CC00">Steamfont Mountains </c><br>
+
+* fishing pole, bait - Glen Garginbur (1st building on right from entrance to Ak'Anon) 
+<br><br>
+
+<c "#00CC00">Surefall Glade </c><br>
+
+* fishing pole, bait - Grathin Nilm (inside ranger guild) 
+<br><br>
+
+<c "#00CC00">Swamp of No Hope (Kunark) </c><br>
+
+* fishing pole, bait - Klok Migo (2472, 2920) 
+
+<br><br>
+
+<c "#00CC00">Thurgadin </c><br>
+
+* celandine herb - Hulda (bank) 
+<br><br>
+
+<c "#00CC00">Timorous Deep (Kunark) </c><br>
+
+* fishing pole, bait - Seloris Windweaver (-4870, -3440) 
+<br><br>
+
+<c "#00CC00">Twilight Sea (Luclin) </c><br>
+
+* fishing pole, bait - Bella Stremi (-231, -885) 
+<br><br>
+
+<c "#00CC00">Warslik Woods (Kunark) </c><br>
+
+* fishing pole, bait - Klok Gragin (-1651, -712) 
+
+<br><br>
+
+<c "#00CC00">West Commons </c><br>
+
+* fishing pole, bait - Maula Fishcatcher (lone building next to lake) 
+<br><br>
+
+<c "#00CC00">West Karana </c><br>
+
+* tacklebox, bait, catch-a-lot bait, dry hooks, treble hooks, circle hooks - Misla McManus (barbarian fishing village, -4020, -2343) 
+<br><br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

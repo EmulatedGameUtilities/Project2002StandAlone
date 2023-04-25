@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Crystal Nightshade</c><br>
+Vendor: Nubs Blackgranite (-2700, -3000)<br>
+Location: Lake of Ill Omen<br>
+Poison: Zek Frost / Cyclic Vertigo / Twisting Disorientation<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

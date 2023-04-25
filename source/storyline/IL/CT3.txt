@@ -1,0 +1,80 @@
+<c "#FF2400">The Binden Concerrentia </c><c "#FFFF00">(Clockwork Talisman #3)</c><br><br>
+<a HREF="file:///storyline/IL/CT1.txt">Jimlok's Friend (Clockwork Talisman #1)</a><br>
+<a HREF="file:///storyline/IL/CT2.txt">Powered Clockwork Talisman (#2)</a><br>
+<a HREF="file:///storyline/IL/CT3.txt">The Binden Concerrentia (Talisman #3)</a><br><br>
+The Binden Concerrentia (Talisman #3)<br>
+<br>
+Starts in: Plane of Tranquility <br>
+Who: Elder Clinka <br>
+Rating: Excellent (5.00) <br>
+Estimated Time:  <br>
+Minimum Level: 65 <br>
+Maximum Level: 65 <br>
+Best Class: All <br>
+Quest Items:<br>
+A Living Fragment of Air<br>
+A Living Fragment of Earth<br>
+A Living Fragment of Fire<br>
+A Living Fragment of Water<br>
+Powered Clockwork Talisman<br>
+ <br>
+Additional Zones:<br>
+Doomfire, the Burning Lands<br>
+Eryslai, the Kingdom of Wind<br>
+Ragrax, Stronghold of the Twelve<br>
+Reef of Coirnav<br>
+Vegarlson, the Earthen Badlands<br>
+ <br>
+Related Quests:<br>
+Jimlok's Friend (Clockwork Talisman #1)<br>
+Powered Clockwork Talisman (#2)<br>
+ <br>
+You must first complete the first two quests in this series. <br>
+<br>
+Elder Clinka says 'it is a pleasure to see meet you. I've heard a great deal about you from the other elders. Please give me a moment to scan over this for you.' <br>
+<br>
+Elder Clinka scans the schematic fora few seconts, mumbling s she reads, 'This parchment states that you are to place a small shard of concentrated elemental matter into each of the holes in your talisman.' She points a finger to the diagram as she begins to recount what she has learned from it, 'They would then need to be locked into place, as the diagram indicates here.' <br>
+<br>
+Elder Clinka says 'If you bring me a fragment or shard of some living creature from each of the elemental planes, I will see if we can make this device work. Place them in this lined box and return them to me immediately with your talisman. In the meantime, I will continue to translate this document from it's origional language. <br>
+<br>
+A shard of elemental matter drops in each of the four elemental planes. Gather these together and return to her. <br>
+<br>
+Elder Clinka carefully opens the small box and takes several small tools from the pocket of her robe. Her nimble fingers place the glowing elemental pieces in the appropriate sockets and covers them with several small caps that she must have made while you were away. Elder Clinka then looks up at you and says, "This device is called the Binden Concerrentia. Its true power will be revealed to you soon. This document describes it as a device that is meant to convert the energy that can be found in true prime elemental matter, into an entirely new form of energy. The schematic states that this energy will "bind you in the now". I am not sure what that means, but I believe that you wil soon find out. <br>
+<br>
+Elder Clinka says "Take care of it and keep it with you at all times. I feel that your journey from this point will only become more dangerous. Perhaps this device will play a role in all that. Move forward along the path of enlightenment. May the balance guild your fate." <br>
+<br>
+-- <br>
+Drops Required: <br>
+<br>
+Plane of Air: A Living Fragment of Air <br>
+Plane of Earth (A or B): A Living Fragment of Earth <br>
+Plane of Fire: A Living Fragment of Fire <br>
+Plane of Water: A Living Fragment of Water <br>
+<br>
+Mephits, or mephit model mobs such as Trilouns and Vekerchikis, drop the fragments in all 4 planes. <br>
+ <br>
+Reward(s): <br>
+The Binden Concerrentia<br>
+LORE ITEM MAGIC ITEM NO DROP  <br>
+Weight: 1.0 Size: SMALL <br>
+Slot: NECK  <br>
+Str: +15 Sta: +15 Wis: +15 Int: +15 Agi: +15 Fire Resist: +15 Disease Resist: +15 Cold Resist: +15 Magic Resist: +15 Poison Resist: +15 HP: +75 Mana: +75  <br>
+Classes: All Classes  <br>
+Races: All Races <br>
+Slot 1: Type 7 <br>
+ Effect: Talisman Gate<br>
+Type: Triggered <br>
+Charges: Unlimited <br>
+ <br>
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/IL/CT1.txt">Jimlok's Friend (Clockwork Talisman #1)</a><br>
+<a HREF="file:///storyline/IL/CT2.txt">Powered Clockwork Talisman (#2)</a><br>
+<a HREF="file:///storyline/IL/CT3.txt">The Binden Concerrentia (Talisman #3)</a><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<br><br><br>
+And a big thanks to allakhazam.com who were the source<br>

@@ -1,0 +1,152 @@
+<c "#FF2400">Key to Vex Thal </c><c "#FFFF00">from allakhazam.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+Starts in: Akheva Ruins <br>
+Who: A Shimmering Presence <br>
+Rating: Good (4.15) <br>
+Estimated Time: Weeks <br>
+Minimum Level: 60 <br>
+Maximum Level: 65 <br>
+Best Class: All <br><br>
+
+<c "#FFFF00">Quest Items:</c><br>
+A Glowing Orb of Luclinite<br>
+A Lucid Shard (Dat)<br>
+A Lucid Shard (Dax)<br>
+A Lucid Shard (Kel)<br>
+A Lucid Shard (Kelera)<br>
+A Lucid Shard (Lor)<br>
+A Lucid Shard (Raf)<br>
+A Lucid Shard (Set)<br>
+A Lucid Shard (Tak)<br>
+A Lucid Shard (Ved)<br>
+A Lucid Shard (Vin)<br>
+A Planes Rift<br>
+Essence Emerald<br>
+Shadowed Scepter Frame<br>
+Summoned: Wisp Stone<br>
+Unadorned Scepter of Shadows<br>
+ <br>
+<c "#FFFF00">Related Quests:</c><br>
+Corrupted Shissar Weapons<br>
+Key to the Emperor's Chamber<br>
+ <br>
+Start off by obtaining yourself a Wisp Stone (summoned by Mages) and an Essence Emerald (created when a Necromancer sacrifices a 45+ player). Then head to Akheva Ruins and kill the Sacrificed Remains inside the Sacrificial Pit. They are PHs for "A Shimmering Presence" and have a respawn time of about five minutes. <br>
+<br>
+You say, 'Hail, A shimmering presence' <br>
+<br>
+A shimmering presence's voice invades your mind, drawing images of past present and future together into a perverse harmony. Some images you recognize as your own, but the others seem to be coming from the spirit's own [memories].' <br>
+<br>
+You say, 'What memories?' <br>
+<br>
+A shimmering presence begins to glow a bit brighter. Your mind is filled with visions of a great swirl of clouds and lightning. You can almost feel the wind of the storm creeping into the chinks in your armor. It looks as if the storm is creeping across the surface of Luclin. You see several figures standing at the entrance of a [great temple]. The storm seems to be bearing down on them.' <br>
+<br>
+You say, 'What great temple?' <br>
+<br>
+A shimmering presence continues to flood your mind with images of the storm bearing down on the temple. Your view suddenly shifts. You're still looking at the storm, but it appears to be moving toward you this time. There is a creature beside you wearing a robe, holding a scepter in one of his...four arms! He is obviously the leader of the group, As he is wearing beautiful [ornate robes] compared to the rest of the four armed figures around you. <br>
+<br>
+You say, 'What ornate robes?' <br>
+<br>
+A shimmering presence glows brighter still as your vision turns to follow the robed figure up the stairs of the entrance to the temple. The figure raises his scepter toward the storm and begins to recite some unfamiliar words. A crackle of magical energy blazes across the sky seemingly in defiance of the raging storm. The energy quickly dissipates however, and the storm continues to bear down on the temple. The figure cries out in pain as the scepter in his hand shatters into many shards. The sofly glowing gem from the scepter head rolls silently down the steps and disappears. <br>
+<br>
+Hand over the Summoned Wisp Stone. <br>
+<br>
+A shimmering presence begins to quiver and shake. The formless entity appears to grow and shrink in complete disregard to natural laws. The light in the temple around you appears to slowly dim until you are surrounded by an impenetrable cloak of shadows. Fear grips your heart as your vision slowly adapts to accommodate the low light. When you can finally make out the figure before you, you find yourself silently praying for the darkness to return. <br>
+You gain experience!! <br>
+<br>
+Once you give him the wisp stone, he will despawn and turn into The Spirit of Akelha`Ra. <br>
+<br>
+You say, 'Hail, The Spirit of Akelha`Ra' <br>
+<br>
+The Spirit of Akelha`Ra 's hollow eyes look up at you. You have the distinct impression that she can see right into the darkest shadows of your soul. She opens her mouth to speak but the sounds you hear come from inside your mind. 'Greetings mortal, thank you for releasing me from my [tormented prison].' <br>
+<br>
+You say, 'What tormented prison?' <br>
+<br>
+The Spirit of Akelha`Ra appears to be fading in and out of existence as you speak to her. The spirit's voice fills your mind. 'I am Akelha`Ra, once high priestess of Luclin and leader of the Akheva. This form you see before you now is a fading remnant of my former existence. The storm was the cause of my imprisonment in the world of undying [spirits].' <br>
+<br>
+You say, 'What spirits?' <br>
+<br>
+The Spirit of Akelha`Ra says 'We Akheva are immortal entities placed in this plane by the mistrees of shadow. We are her most perfect creation. Death has no meaning to us, as even in death we find rebirth through the power of the mistress. My imprisonment was caused by my seperation from the power of the mistress by [Atenha`Ra]. It was she who sent the storm to destroy me and all that followed me.' <br>
+<br>
+You say, 'Who is Atenha`Ra?' <br>
+<br>
+The Spirit of Akelha`Ra says 'It is more then a little ironic that Atenha`Ra is a reflection of myself. An entity created from my own consciousness, a reflection of a shadow. She now holds the seat of grand power in [Vex Thal], and I have not the power to gain entry to the city, let alone face her. You must find my scepter that was lost in the storm to gain entry to Vex Thal. The scepter has likely lost much of its power from being shattered. Once it is reassembled you will need to merge a Orb of Luclinite with a source of celestial power inside the scepter. The spirits whisper that the emperor of the Shissar holds the power to manipulate such energy. Be weary of him, he is heralded as the slayer of gods, the defiler of realities.' <br>
+<br>
+You say, 'What of Vex Thal?' <br>
+<br>
+The Spirit of Akelha`Ra says 'Vex Thal is the sacred home of the Akheva. The place where Luclin's power directly touches this world...ungh...I can not summon the frame of my scepter in my current weakened state. I need a soul to regain my pow...' As she speaks you can see her slowly fade out of existence. You wonder how long her spirit will stay with this world. She seems entirely unable to speak to you now, and can only muster the strength to point at the ground at ______'s feet. ______ reaches down a picks up a small emerald off the ground, but it disappears silently into the shadows. Akelha`ra looks as if she is trying to speak again.' <br>
+<br>
+You say, 'What frame of your scepter?' <br>
+<br>
+The Spirit of Akelha`Ra opens her mouth to speak, but the voice in your head is no longer audible. You reach forward to touch the fading shadow of a creature and draw back in horror as your hand disrupts the spirit before you. She evaporates into the shadows once more. <br>
+<br>
+Quickly give her the Essence Emerald. <br>
+<br>
+The Spirit of Akelha`Ra laughs quietly as the energy of the gem is absorbed into her being. She begins to chant in what you presume to be Akhevan. She suddenly cries out in pain and her image begins to flicker. She looks at ______ directly in the eyes and says, 'Vyanemis Tuis, use my gift wisely.' She disappears into the black marble leaving only a dark scepter frame lying on the floor. ______ picks it up. <br>
+<br>
+Receive Shadowed Scepter Frame, 10-slot container. <br>
+<br>
+You now need to gather together 10 Lucid Shards. These identify as different letters, and are thus each unique. They identify and drop as follows: <br>
+<br>
+<br>
+<br>
+<c "#FFFF00">Dat - Fungus Grove from Shik`Nar Warriors and Royals, confirmed from: </c><br>
+Shik`nar Warrior<br>
+Shik`nar Royal Guard<br>
+<br>
+<c "#FFFF00">Dax - Akheva Ruins, confirmed from: </c><br>
+A Shadow Reaver<br>
+A Shade Golem <br>
+A Rubble Rouser<br>
+Shaded Stones<br>
+<br>
+<c "#FFFF00">Kel - The Grey, confirmed from: </c><br>
+A Sun Revenant (near the lake)<br>
+<br>
+<c "#FFFF00">Kelera - Sanctus Seru or Katta, confirmed from: </c><br>
+A Legionnaire of the Hand <br>
+Named Legionnaires in the upper level of Sanctus Seru <br>
+An Intervallum Guard <br>
+Various Katta centurions (too many to list)<br>
+<br>
+<c "#FFFF00">Lor - Dawnshroud Peaks from Rockhoppers and Sambata in the cave, confirmed from: </c><br>
+Sambata Tribal Worker <br>
+A Rockhopper Ravager<br>
+<br>
+<c "#FFFF00">Raf - The Deep from Thought Horrors across the bridge, confirmed from: </C><br>
+A Thought Horror Spiriter<br>
+A Thought Horror<br>
+<br>
+<c "#FFFF00">Set - The Scarlet Desert from Sun Revenants and Reavers on the Plateau, confirmed from:</c> <br>
+A Sun Revenant<br>
+A Sun Reaver<br>
+<br>
+<c "#FFFF00">Tak - Maiden's Eye from named Goranga, confirmed from: </c><br>
+A Goranga Battlemaster<br>
+A Goranga Forager<br>
+A Goranga Prophet<br>
+A Goranga Savant<br>
+A Goranga Seer<br>
+<br>
+<c "#FFFF00">Ved - Acrylia Cavern from Grimlings in Inner Acrylia, confirmed from:</c> <br>
+A Grimling Prison Guard<br>
+A Grimling Deathguard<br>
+A Sanctum Bloodguard<br>
+<br>
+<c "#FFFF00">Vin - Ssraeshza Temple from Skeletons in the Mines, confirmed from:</c> <br>
+A Soriz Corpse<br>
+A Soriz Drudge<br>
+<br>
+Combine these in the Scepter and you will create your Unadorned Scepter of Shadows. In the new container, you will need to combine the Planes Rift (obtained from Shissar Wraiths that spawn following Emperor Ssraeshza's death) and a Glowing Orb of Luclinite (dropped from various high end Luclin Mobs). <br>
+<br>
+Upon combining those items, you'll create a Scepter of Shadows, which will get you into Vex Thal. Each member of the group must have a key to enter. <br>
+Reward(s): <br>
+The Scepter of Shadows <br>
+<br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

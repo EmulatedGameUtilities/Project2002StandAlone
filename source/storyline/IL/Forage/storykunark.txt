@@ -1,0 +1,69 @@
+<HTML>
+
+<HEAD>
+<TITLE>Kunark Forages</TITLE>
+</HEAD>
+<BODY> 
+
+ 
+<FONT COLOR="#0080FF">---</FONT><FONT COLOR="#0080FF">Kunark Forages</FONT><FONT COLOR="#0080FF">---</FONT><br>
+  
+Burning Wood <FONT COLOR="#8080FF">Giant Hornet Egg</FONT>  Baking    <br>
+Burning Wood <FONT COLOR="#8080FF">Mendglow Clay</FONT> Iksar Shaman Quest  <br>
+Burning Wood <FONT COLOR="#8080FF">Radiant Meteorite</FONT>  Iksar Monk Quest   <br>
+Dreadlands  <FONT COLOR="#8080FF">Drachiling Silk </FONT> <br>  
+Dreadlands  <FONT COLOR="#8080FF">Frost Crystal </FONT>  <br>
+Dreadlands  <FONT COLOR="#8080FF">Honey Berry</FONT> Iksar cultural tailoring (brewing)   <br>
+Emerald Jungle <FONT COLOR="#8080FF"> Emerald Oranges </FONT>   Brewing & Wakening Land Quest for Crest of The Wood Nymphs <br> 
+Emerald Jungle <FONT COLOR="#8080FF"> Ancient Coin </FONT>  Fironia Vie Quest for Nostrolo Tambourine   <br>     
+Emerald Jungle <FONT COLOR="#8080FF">  Emerald Palm Root</FONT>    <br>     
+Emerald Jungle <FONT COLOR="#8080FF"> Mantrap Bud</FONT>    <br>         
+Field of Bone   <FONT COLOR="#8080FF">Deadbone Barley</FONT> Brewing  <br>   
+Field of Bone   <FONT COLOR="#8080FF">Flarefire Seeds</FONT> Wakening Land Quest for Crest of The Wood Nymphs  <br> 
+Field of Bone   <FONT COLOR="#8080FF">Iksar Phalange</FONT> 3 dmg / 24 dly dagger  <br> 
+Field of Bone   <FONT COLOR="#8080FF">Lichenclover</FONT>  High elven cultural tailoring (brewing) <br> 
+Firiona Vie <FONT COLOR="#8080FF"> Crunchy Crawlers</FONT>  <br>  
+Firiona Vie <FONT COLOR="#8080FF"> Drachling Silk</FONT>  <br>
+Firiona Vie <FONT COLOR="#8080FF"> Rose of Firiona</FONT> Druid & Ranger Epic Quest Item  <br>
+Firiona Vie <FONT COLOR="#8080FF"> Lichenclover</FONT> High elven cultural tailoring (brewing) <br>
+Frontier Mountains <FONT COLOR="#8080FF"> Frontier Stink Beetles</FONT>  <br> 
+Frontier Mountains <FONT COLOR="#8080FF"> Gold Nugget</FONT> Iksar Warrior & Monk Quests  <br>
+Frontier Mountains <FONT COLOR="#8080FF"> Honey Berry </FONT> Iksar cultural tailoring (brewing)  <br>
+Frontier Mountains <FONT COLOR="#8080FF"> Lichenclover</FONT> High elven cultural tailoring (brewing)  <br>
+Frontier Mountains <FONT COLOR="#8080FF"> Moss Root</FONT>  Brewing  <br>
+Frontier Mountains <FONT COLOR="#8080FF"> Drench Flower</FONT>  <br>
+Lake of Ill Omen <FONT COLOR="#8080FF">  Barracuda Bones</FONT>  <br> 
+Lake of Ill Omen <FONT COLOR="#8080FF"> Mud Crabs</FONT>  Iksar Shaman Quest  <br>
+Lake of Ill Omen <FONT COLOR="#8080FF"> Vein Worm</FONT>  <br>
+Lake of Ill Omen <FONT COLOR="#8080FF">Water Reed </FONT> Brewing  <br>
+Mines of Nurga  <FONT COLOR="#8080FF">Sponge Mushroom</FONT>Iksar quest for Xinth  <br>
+Overthere <FONT COLOR="#8080FF">Cockatrice Egg </FONT>  Baking & Brewing  <br> 
+Overthere <FONT COLOR="#8080FF">Cracked Shell </FONT>   <br> 
+Overthere <FONT COLOR="#8080FF">Cursed Clover of Viesar </FONT>   <br> 
+Overthere <FONT COLOR="#8080FF">Wet Clay </FONT>   <br> 
+Skyfire <FONT COLOR="#8080FF"> Earth, Fire, Ice, & Wind Dragon Crystals </FONT> Pottery  <br> 
+Swamp of No Hope <FONT COLOR="#8080FF"> Hopeless Willow Moss</FONT> Overthere Quest for Trooper Scale Pauldron  <br> 
+Swamp of No Hope <FONT COLOR="#8080FF"> Maneater Bud</FONT> ksar cultural tailoring (brewing) & Plane of Knowledge Quest for Fine Antique Corset  <br> 
+Swamp of No Hope <FONT COLOR="#8080FF"> Moss Root</FONT> Brewing  <br> 
+Swamp of No Hope <FONT COLOR="#8080FF"> Muckskipper Fish</FONT>  <br> 
+Timorous Deep <FONT COLOR="#8080FF">Gunthak Sea Shell</FONT>   <br>
+Timorous Deep <FONT COLOR="#8080FF">Timorous Coconut</FONT>   <br>
+Timorous Deep <FONT COLOR="#8080FF">Rile's Sand Coin</FONT> Iksar Monk Quest   <br>
+Timorous Deep <FONT COLOR="#8080FF">Sand Crabs </FONT>   <br>
+Trakanon's Teeth  <FONT COLOR="#8080FF">Cockatrice Egg  </FONT> Baking & Brewing  <br> 
+Trakanon's Teeth  <FONT COLOR="#8080FF">Emerald Oranges  </FONT> Brewing & 
+Wakening Land Quest for Crest of The Wood Nymphs  <br>
+Trakanon's Teeth  <FONT COLOR="#8080FF">Mantrap Bud </FONT>  <br> 
+Trakanon's Teeth  <FONT COLOR="#8080FF">Trakanon Fernroot</FONT>  <br>
+Warslik Woods  <FONT COLOR="#8080FF">Bixie Berry Pie</FONT>  Iksar Warrior Quest  <br>
+Warslik Woods  <FONT COLOR="#8080FF">Kromdul Carrot </FONT>    <br>
+Warslik Woods  <FONT COLOR="#8080FF">Oak Bark</FONT>  Tanning Agent   <br>
+Warslik Woods  <FONT COLOR="#8080FF">Petrified Redwood </FONT>  Iksar Monk Quest &
+Cabilis East Quest for Footman's Pike  <br>
+Warslik Woods  <FONT COLOR="#8080FF">Sop Bark </FONT>    <br>
+ 
+ <br>
+<FONT COLOR="#0080FF">---</FONT><a href="file:///storyline/IL/storyforage.txt">Back </a><FONT COLOR="#0080FF">---</FONT>
+<br> 
+</BODY>
+</HTML>

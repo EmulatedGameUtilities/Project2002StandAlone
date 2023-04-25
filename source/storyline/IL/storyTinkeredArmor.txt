@@ -1,0 +1,130 @@
+Tinkered Armor<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/storyTinkering.txt">Tinkering Main</a><br><br>
+
+<c "#66CCFF">Azimuth Indicative Cuirass</c><br>
+Trivial: >250<br>
+Cost: 894.487<br>
+Steel Breastplate, Coiled Spring <c "#C71585">(Mob Drop)</c>, Gnomish Compass (Tinkering), Steel Ball Bearing <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Six<br>
+
+<br><c "#66CCFF">Clockwork Watchman Helm</c><br>
+Trivial: <219<br>
+Cost: 100.694<br>
+Small Fine Plate Helm (Blacksmithing), Cogs, Sprockets, Grease, Sifaye Dust <c "#C71585">(Mob Drop)</c>, Velium Lens, Mana Battery - Class Five, Metal Fastening, Gnomish Bolts, Metal Twine<br>
+
+<br><c "#66CCFF">Clockwork Watchman Bracer</c><br>
+Trivial: <221<br>
+Cost: 92.661<br>
+Small Fine Plate Bracer (Blacksmithing), Cogs, Sprockets, Grease, Metal Rod, Glob of Tar <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five, Metal Fastening, Metal Twine, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Clockwork Watchman Vambraces</c><br>
+Trivial: 224-227<br>
+Cost: 92.661<br>
+Small Fine Plate Vambraces (Blacksmithing), Cogs, Sprockets, Grease, Metal Rod, Holgresh Fur <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five, Metal Twine, Gnomish Bolts, Metal Fastening<br>
+
+<br><c "#66CCFF">Clockwork Watchman Greaves</c><br>
+Trivial: 224-227<br>
+Cost: 92.661<br>
+Small Fine Plate Greaves (Blacksmithing), Cogs, Sprockets, Grease, Metal Rod, Holgresh Wing <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five, Metal Fastening, Metal Twine, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Clockwork Watchman Gauntlets</c><br>
+Trivial: 228-243<br>
+Cost: 107.624<br>
+Small Fine Plate Gauntlets (Blacksmithing), Cogs, Sprockets, Grease, Block of Living Granite <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five, Metal Fastening, Metal Fastening, Metal Twine, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Clockwork Watchman Boots</c><br>
+Trivial: >227<br>
+Cost: 91.874<br>
+Small Fine Plate Boots (Blacksmithing), Cogs, Sprockets, Grease, Faun Hoof <c "#C71585">(Mob Drop)</c>, Mana Battery - Class Five, Metal Fastening, Metal Twine, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Clockwork Watchman Breastplate</c><br>
+Trivial: >250<br>
+Cost: 161.015<br>
+Small Fine Plate Breastplate (Blacksmithing), Cogs, Sprockets, Grease, Gnomish Vanishing Device (Tinkering), Mana Battery - Class Five, Metal Fastening, Metal Twine, Gnomish Bolts<br>
+
+<br><c "#66CCFF">Infused Gear</c><br>
+Trivial: >178 <=209<br>
+Gear, Celestial Temper (Brewing)<br>
+
+<br><c "#C71585">Celestial Temper (Brewing Combine)</c><br>
+Trivial: 136<br>
+Purified Water, Blue Diamond Powder<br>
+
+<br><c "#C71585">Purified Water (Brewing Combine)</c><br>
+Trivial: 58<br>
+2 Water Flasks, Celestial Essence<br>
+
+<br><c "#C71585">Celestial Essence (Poison/Alchemy Combine)</c><br>
+Trivial: No-Fail<br>
+Spell Research Component, Celestial Solvent<br>
+
+<br><c "#C71585">Blue Diamond Powder (Pottery Combine)</c><br>
+Trivial: <=93<br>
+Blue Diamond, Jar of Acid (Combine in Kiln)<br>
+
+<br><c "#C71585">Metallic Temper (Brewing Combine)</c><br>
+Trivial: 136<br>
+Minotaur Blood, Gnomish Spirits, Firewater (Tinkering)<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Boots (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Boots, Infused Gear, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Boots Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Coif (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Helm, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Coif Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Bracelet (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Bracer, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Bracer Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Gloves (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Gauntlets, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Gauntlets Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Leggings (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Greaves, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Leggings Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Sleeves (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Vambraces, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Sleeves Pattern<br>
+
+<br><c "#66CCFF">Clockwork Shadowwalker Tunic (Chain)</c><br>
+Trivial: >250<br>
+clockwork watchman Breastplate, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Chainmail Tunic Pattern<br>
+
+<br><c "#66CCFF">Clockwork Observer Boots (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Boots, Infused Gear, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Boots Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Helm (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Helm, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Helm Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Bracer (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Bracer, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Bracer Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Gauntlets (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Gauntlets, 2 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Gauntlets Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Greaves (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Greaves, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Greaves Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Vambraces (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Vambraces, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Vambraces Mold<br>
+
+<br><c "#66CCFF">Clockwork Observer Breastplate (Plate)</c><br>
+Trivial: >250<br>
+clockwork watchman Breastplate, 3 Infused Gears, Metallic Temper, Imbued Gem (imbued ruby or imbued black sapphire), Small Plate Breastplate Mold<br>
+
+<br><c "#C71585">Note: While Clockwork Shadowwalker and Observer Armor require imbued gems, they are NOT deity-specific armor sets</c><br>
+
+<br>Credits:  Most of this information taken from the Clockwork Tinker's Union and EQTraders websites.  Please visit their excellent websites!<br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br>
+<a HREF="file:///storyline/il/storyTinkering.txt.txt">Tinkering Main</a><br><br>

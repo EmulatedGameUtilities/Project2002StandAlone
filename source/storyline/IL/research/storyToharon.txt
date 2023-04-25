@@ -1,0 +1,45 @@
+<c "#FF0000">Components are listed Alphabetically<br> 
+
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 15 (Left)<br> 
+<c "#0088ff">Wind of Tashani (Enchanter 55)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 15 (Right)<br> 
+<c "#0088ff">Yaulp IV (Cleric 53)<br>
+Wind of Tashani (Enchanter 55)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 18 (Left)<br> 
+<c "#0088ff">Glamour of Tunare (Druid 53)<br>
+Naltron's Mark (Cleric 58)<br>
+Umbra (Enchanter 57)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 18 (Right)<br> 
+<c "#0088ff">Death Pact (Cleric 51)<br>
+Mark of Karn (Cleric 56)<br>
+Aegis (Cleric 57)<br>
+Umbra (Enchanter 57)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 19 <br>
+<c "#0088ff">Aegis (Cleric 57)<br>
+Umbra (Enchanter 57)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 21 (Left)<br> 
+<c "#0088ff">Protection of the Glades (Druid 60)<br>
+Divine Intervention (Cleric 60)<br>
+Wind of Tashanian (Enchanter 60)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 21 (Right)<br> 
+<c "#0088ff">Heroic Bond (Cleric 52)<br>
+Yaulp V (Cleric 56)<br>
+Wind of Tashanian (Enchanter 60)<br>
+Fortitude (Cleric 55)<br>
+
+<br><c "#00ff00">Toharon's Memoir Page 22 <br>
+<c "#0088ff">Protection of the Glades (Druid 60)<br>
+Naltron's Mark (Cleric 58)<br>
+Aegolism (Cleric 60)<br>
+Divine Intervention (Cleric 60)<br>
+Wind of Tashanian (Enchanter 60)<br>
+

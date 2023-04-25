@@ -1,0 +1,2 @@
+Intoxication I
+<br><br><br><c "#66CCFF">Slot 2:</c> Increase Movement by 1% (L1) to 5% (L8)<br><c "#66CCFF">Slot 3:</c> Unknown #160 (100/80/20)<br><br><c "#66CCFF">Casting Time:</c> 0.0<br><c "#66CCFF">Deletable:</c> No<br><c "#66CCFF">Fizzle Time:</c> 0.0<br><c "#66CCFF">Recast Time:</c> 35.0<br><c "#66CCFF">Resist:</c> Magic<br><c "#66CCFF">Skill:</c> Innate<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> None<br><c "#66CCFF">Duration:</c> 10.0 mins<br><br><br>♥<br>

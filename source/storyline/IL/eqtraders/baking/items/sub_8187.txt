@@ -1,0 +1,6 @@
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/405.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Basilisk Eggs (Foraged), Cheese) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/406.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Basilisk Egg (Looted), Cheese) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/407.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Alligator Egg (Looted), Cheese) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/408.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Aviak Eggs (Foraged), Cheese) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/409.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Cheese, Griffon Eggs) <br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Baking/items/404.txt">Omelette Du Fromage</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)&nbsp;&nbsp;&nbsp;(Cheese, Snake Egg) <br>

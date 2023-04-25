@@ -1,0 +1,2 @@
+Summon Heatstone
+<br><br><br><c "#66CCFF">Slot 1:</c> Summon Item: Summoned: Heatstone<br><br><c "#66CCFF">Casting Time:</c> 7.0<br><c "#66CCFF">Deletable:</c> Yes<br><c "#66CCFF">Fizzle Adjust:</c> 25<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Mana:</c> 40<br><c "#66CCFF">Recast Time:</c> 6.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Conjuration<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Self<br><br><c "#66CCFF">Classes:</c> MAG/16<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>

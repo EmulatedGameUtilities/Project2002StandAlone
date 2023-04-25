@@ -1,0 +1,53 @@
+<a href="file:///storyline/il/storyFaction.txt">Faction Lists >> A</a>
+<br>==========================
+<br>By Alpha
+<br>
+  <c "#FFFF00">A</c> | 
+  <a href="file:///storyline/il/Faction/B.txt">B</a> | 
+  <a href="file:///storyline/il/Faction/C.txt">C</a> | 
+  <a href="file:///storyline/il/Faction/D.txt">D</a> | 
+  <a href="file:///storyline/il/Faction/E.txt">E</a> | 
+  <a href="file:///storyline/il/Faction/F.txt">F</a> | 
+  <a href="file:///storyline/il/Faction/G.txt">G</a> | 
+  <a href="file:///storyline/il/Faction/H.txt">H</a> | 
+  <a href="file:///storyline/il/Faction/I.txt">I</a> | 
+  <a href="file:///storyline/il/Faction/J.txt">J</a> | 
+  <a href="file:///storyline/il/Faction/K.txt">K</a> | 
+  <a href="file:///storyline/il/Faction/L.txt">L</a> | 
+  <a href="file:///storyline/il/Faction/M.txt">M</a> | 
+  <a href="file:///storyline/il/Faction/N.txt">N</a> | 
+  <a href="file:///storyline/il/Faction/O.txt">O</a> | 
+  <a href="file:///storyline/il/Faction/P.txt">P</a> | 
+  <a href="file:///storyline/il/Faction/Q.txt">Q</a> | 
+  <a href="file:///storyline/il/Faction/R.txt">R</a> | 
+  <a href="file:///storyline/il/Faction/S.txt">S</a> | 
+  <a href="file:///storyline/il/Faction/T.txt">T</a> | 
+  <a href="file:///storyline/il/Faction/U.txt">U</a> | 
+  <a href="file:///storyline/il/Faction/V.txt">V</a> | 
+  <a href="file:///storyline/il/Faction/W.txt">W</a> | 
+  <c "#7F7F7F">X</c> | 
+  <a href="file:///storyline/il/Faction/Y.txt">Y</a> | 
+  <c "#7F7F7F">Z</c>
+<br>
+<br>Faction: <c "#FFFF00">Antonious Bayle</c>
+<br>Description: The Leader of Qeynos and the surrounding area of the Karanas.
+<br>
+<br><c "#F17C0D">Monsters That Lower This Faction</c>
+<br>Brother Drash
+<br>Brother Estle
+<br>Brother Nallin
+<br>exhausted guard
+<br>Hadden
+<br>sewer sentinel
+<br>Tayla Ironforge
+<br>Vin Moltor
+<br>Zepin Winsle
+<br>
+<br>
+<br><c "#F17C0D">Zones to Increase this Faction</c>
+<br>None
+<br>
+<br><c "#F17C0D">Zones to Decrease this Faction</c>
+<br>Qeynos Hills
+<br>Rathe Mountains
+<br>South Karana

@@ -1,0 +1,100 @@
+Cabilis Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* medicine bag, Yvonne's Guide to Alchemy, mercury, comfrey, sumbul, fennel, bladderwrack, eucalyptus leaf, clubmoss, echinacea, lady's mantle, hyssop, jalamasi, hydrangea, mystic ash, elderberry, clover, dhea, heliotrope, oakmoss - Jaxxtz (West, -37, 518) <br>
+* sandalwood - Jondin (West, -35, 511) <br>
+* medicine bag, lucerne, sage leaf, birthwart, fenugreek, maidenhair fern, mandrake root, allspice, benzoin, nightsharde, mullein, wolf blood, blue vervain bulb, valerian root, yarrow, figwort, agrimony, celandine herb - Klok Scaleroot (West, 400, 515, near necro guild)<br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* vinegar, spices, jug of sauce, frosting, flour, milk, 13 cookbooks - Klok Sweetie (East, 547, 149) <br>
+* spit - Klok Gritchit (East, 592, 150) <br>
+* bread, water - Lybar (West, 290, 531) <br>
+* mixing bowl, 5 recipe books - Klok Unlar (East, 535, 157) <br>
+* oven - East (529, 154) <br>
+* fennel, eucalyptus leaf - Jaxxtz (West, -37, 518) <br>
+* allspice, benzoin - Klok Scaleroot (West, 400, 515, near necro guild)<br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* Bottle, cask - Klok Vednir (East, 61, -12) <br>
+* short ale, grapes, shotglass, bottle, keg, kiola sap - Klok Sass (East, 663, -32)<br> 
+* barley, hops, rice, malt, yeast, wine yeast - Brewer Prixal (East, 671, 30) <br>
+* brew barrel - East, 678, -14; Side room in Tink N Babble (East, 915, -66) <br>
+* water - Lybar (West, 290, 531) <br>
+* shotglass, cask, bottle - Klok Poklan (East, Tink N Babble, 908, -73) <br>
+* mistletoe - Jondin (West, -35, 511) <br>
+* allspice, yarrow - Klok Scaleroot (West, 400, 515, near necro guild)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Klok Foxmyr (East, 121, -195) <br>
+* celandine herb - Klok Scaleroot (West, 400, 515, near necro guild)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* groove nocks (3), bow staff (5), whittling blade, planing tool, standard bow cam, twine (3), fletching kit, A Bowyer's Guide - Klok Gogon (East, 132, -200) <br>
+* arrowheads (3), shafts (4), fletch (3), vane (3), groove nock (3), fletching kit - Zotalz (West, 351, 538) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* 17 gems, Legacy of Jewelcraft - Klok Ixmid (East, 655, 147) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewelers kit, fire emerald, carnelian, turquoise - Klok Oxmod (East, 641, 152) <br>
+* imbue: amber spell [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (3) - Klok Toren (East, 198, -300) <br>
+* kiln - East, 256, -224 <br>
+* pottery wheel - East, 237, -197 <br>
+* blocks of clay (3), firing sheets (3), glass shard, Basic Pottery, vial sketches - Klok Hoga (East, 250, -200) <br>
+* water - Lybar (West, 290, 531) <br>
+* sketches - Klok Grots (East, 240, -273) <br>
+* imbue: amber spell [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild)<br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* (banded) armor molds, sheet metal, Basic Blacksmithing, Armor & Weapons Guide - Klok Nalgoz (East, 230, -294) <br>
+* forge - (East) 224, -301, (East, near warrior guild) -371, -44 <br>
+* ore (3), sharpening stones - Klok Toren (East, 198, -300) <br>
+* needle mold, thimble mold - Klok Stitch (East, 125, -15) <br>
+* baking molds, Basic Blacksmithing - Klok Gritchit (East, 592, 150) <br>
+* water - Lybar (West, 290, 531) <br>
+* quest items - iron rod, steel rod, titanium rod, pike head, mancatcher crown, forging hammer, Of Pike and Mancatcher - Weaponsmith Grugal (East - near warrior guild, -422, -35) <br>
+* weapon molds (dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, shan'tok blade, fer'esh blade, sheer blade), oak shaft - Smithy Krikt (East, warrior guild, -428, -202) <br>
+* small/large bricks of skyiron, small block of skyiron, skyiron sheet - Smithy Xzatik (East, 2nd floor, warrior guild, -533, 21) <br>
+* shield molds (buckler, round shield, targ shield, kite shield, tower shield), Firepride's Guide to Shield Craft - Smithy Zern (East, 2nd floor of warrior guild, -516, 13) <br>
+* lantern casing mold, file mold, weapon molds (dual edged blade, heavy steel blade, spiked ball, hilt, pommel), Dirge of the Fireforge - Smithy Vyx (East, warrior guild, -433, -205) <br>
+* imbue: amber spell [Shaman: Cazic-Thule] - Vessel Grymm (shaman guild) <br>
+* Cabilis forge - East, 2nd floor of warrior guild, loc -530, -15 <br>
+* sandalwood - Jondin (West, -35, 511) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* all clothing patterns - Klok Wartol (East, 97, -297) <br>
+* quiver pattern (2), backpack pattern, large sewing kit, How to Sew (3) - Klok Stitch (East, 125, -15) <br>
+* small sewing kit, How to Sew Medium Sizes - Klok Tempar (East, 135, -22) <br>
+* small sewing kit, erudite sewing kit (don't ask me why!), silver/gold/platinum thread, On Terrorantula Silk - Kamzar (West, 190, 542) <br>
+* loom - East (59, -83) <br>
+* mandrake root - Klok Scaleroot (West, 400, 515, near necro guild) <br>
+<br>
+
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

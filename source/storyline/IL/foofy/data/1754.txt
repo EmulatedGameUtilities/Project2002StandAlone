@@ -1,0 +1,2 @@
+Song of Dawn
+<br><br><br><c "#66CCFF">Slot 1:</c> Decrease Hate by 181 (L53) to 187 (L65)<br><br><c "#66CCFF">Casting Time:</c> 3.0<br><c "#66CCFF">Deletable:</c> Yes<br><c "#66CCFF">Fizzle Time:</c> 0.0<br><c "#66CCFF">Range:</c> 100<br><c "#66CCFF">Recast Time:</c> 0.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Wind<br><c "#66CCFF">Spell Type:</c> Detrimental<br><c "#66CCFF">Target Type:</c> Single<br><br><c "#66CCFF">Classes:</c> BRD/53<br><c "#66CCFF">Duration:</c> Instant<br><br><c "#66CCFF">Cast on other:</c> Foofy winks.<br><br>♥<br>

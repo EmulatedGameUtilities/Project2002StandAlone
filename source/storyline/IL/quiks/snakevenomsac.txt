@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Snake Venom Sac</c><br>
+Vendor: NPC Drop<br>
+Location: Various Snakes<br>
+Poison: Cyclan Butil / Snake Venom<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

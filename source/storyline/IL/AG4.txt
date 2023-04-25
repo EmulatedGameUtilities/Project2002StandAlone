@@ -1,0 +1,99 @@
+<c "#FF2400">From Eqtraders </c><c "#FFFF00">www.eqtraders.com</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFFF00">Part 4: Pottery</c><br>
+<br>
+Skill requirement: 220 (or higher) Pottery <br>
+<br>
+Flag requirement: Tallon Zek, Vallon Zek, (These two are the Pack of Notes from Vallon Zek ??) Saryrn, Mithaniel Marr<br>
+<br>
+Editor Note: Vallon Zek's Pack of Notes, Saryn and Mithaniel Marr Flags are CONFIRMED Necessary. The last reporter's flag list included Tallon Zek Flag. Previously thought to be: Pack of Notes from Vallon Zek + (possibly Agnarr, Saryrn and/or Mithaniel Marr, not sure) <br>
+<br>
+Now Grimel will give you an urn pattern and ask you to make a Sacred Urn and fill it up with Sacred Water--to replace one that was destroyed in the Plane of War--and to cap it with your signet from the Jewelcrafting part of the quest. Pretty straightforward. After making the, start heading over to the Plane of Valor and camping "the knights in the tents in Valor" as Khoren puts it for Sacred Water. After filling up the Urn with Water and your signet, combine for the Filled Sacred Urn and turn it in for the REALLY promising Metal Signet. <br>
+<br>
+Original text: <br>
+<br>
+You say, 'I am ready to use some clay.'<br>
+Aid Grimel says 'On our last tome gathering expedition a stray arrow in the Plane of War struck our urn filled with sacred water. It was quite a waste of sacred water! Three large enchanted blocks of clay, three lacquered opals, a vial of purified mana, a ceramic lining, sculpting tools and the urn pattern should make an unfired urn. The urn is so large you will need to fire it with three divine crystalline glazes. Once you have the urn it needs to be filled with three sacred waters and the signet as a cap.' <br>
+For those who do not have the necessary pottery skill (< 220), you get a response: <br>
+<br>
+Aid Grimel says 'I once saw a house built out of sun-fired clay, with your skills I wouldn't wager you could build more than a rickety birdhouse. Please don't crush any birds' <br>
+Turn in text: <br>
+<br>
+Aid Grimel says 'Outstanding work _____! I can feel the purity of the water radiating through the clay. Are ye skilled with the needle as well as an accomplished potter?' <br>
+Item statistics: <br>
+<br>
+<c "#FFFF00">Metal Signet</c><br>
+LORE ITEM NO DROP <br>
+Slot: EAR<br>
+AC: 8<br>
+STR: +8   STA: +8   WIS: +8   INT: +8   HP: +35   MANA: +35   <br>
+SV FIRE: +3   SV DISEASE: +3   SV COLD: +3   SV MAGIC: +3   <br>
+SV POISON: +3   <br>
+WT: 1.5   Size: TINY<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<c "#FFFF00">Items given to you by Grimel: </c><br>
+<br>
+Urn Pattern<br>
+NO DROP <br>
+WT: 0.1   Size: SMALL<br>
+Class: ALL<br>
+Race: ALL<br>
+<br>
+<c "#FFFF00">Recipes </c><br><br>
+<c "#FFFF00">Lacquered Opal: (Jewelry Kit, Trivial = 120) </c><br>
+Opal<br>
+Jar of Lacquer <br><br>
+<c "#FFFF00">Unfired Ceramic Lining:(Pottery Wheel, Trivial = 36)</c> <br>
+Small Block of Clay<br>
+Ceramic Lining Sketch<br>
+Flask of Water <br><br>
+<c "#FFFF00">Ceramic Lining: (Kiln, Trivial = 36)</c> <br>
+Unfired Ceramic Lining<br>
+Quality Firing Sheet <br><br>
+<c "#FFFF00">Unfired Sacred Urn: (Tanaan Pottery Wheel, Trivial > 250)</c> <br>
+Lacquered Opal<br>
+Lacquered Opal<br>
+Lacquered Opal<br>
+Large Block of Enchanted Clay<br>
+Large Block of Enchanted Clay<br>
+Large Block of Enchanted Clay<br>
+Sculpting Tools<br>
+Vial of Purified Mana<br>
+Ceramic Lining<br>
+Urn Pattern <br><br>
+
+<c "#FFFF00">Sacred Urn: (Tanaan Kiln, Trivial > 250)</c> <br>
+Unfired Sacred Urn<br>
+Divine Crystalline Glaze<br>
+Divine Crystalline Glaze<br>
+Divine Crystalline Glaze <br>
+Filled Sacred Urn: (Sacred Urn, no known skill check) <br>
+Sacred Water<br>
+Sacred Water<br>
+Sacred Water<br>
+Wooden Signet (from part 3) <br>
+<br>
+
+
+
+
+
+Other parts of the Quest: <br>
+<a href="file:///storyline/IL/AG0.txt">Introduction</a><br>
+<a href="file:///storyline/IL/AG1.txt">Part 1 Smithing</a><br>
+<a href="file:///storyline/IL/AG2.txt">Part 2 Brewing</a><br>
+<a href="file:///storyline/IL/AG3.txt">Part 3 Jewelcraft</a><br>
+<a href="file:///storyline/IL/AG4.txt">Part 4 Pottery</a><br>
+<a href="file:///storyline/IL/AG5.txt">Part 5 Tailoring</a><br>
+<a href="file:///storyline/IL/AG6.txt">Part 6 Fletching</a><br>
+<a href="file:///storyline/IL/AG7.txt">Part 7 Baking</a><br>
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

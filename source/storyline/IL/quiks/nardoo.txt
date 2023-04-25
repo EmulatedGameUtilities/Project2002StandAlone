@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Nardoo</c><br>
+Vendor: NPC Drop<br>
+Location: Sun Revenants in The Grey<br>
+Poison:  Mental Burn / Mental Implosion<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Main Listing</a>

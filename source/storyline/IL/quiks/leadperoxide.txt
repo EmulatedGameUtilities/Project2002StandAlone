@@ -1,0 +1,8 @@
+Ingredient: <c "#FF0000">Lead Peroxide</c><br>
+Skill: Poison Making<br>
+Combine: 1x Tumpy Tonic & 1x Lead Sulphide<br>
+Vendor: N/A<br>
+Location: N/A<br>
+Poison: Metallic Alkaloid<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

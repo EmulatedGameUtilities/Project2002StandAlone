@@ -1,0 +1,141 @@
+Freeport Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Olyna Midel , Torlig Mudel (79, -899, W. Freeport) <br>
+* medicine bag - Klan Smith (Gord's Smithy, E. Freeport, loc -174, -162), Gord Smith (Gord's Smithy, E. Freeport, loc -175, -137) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* chunk of meat, short beer - Nesin Tapper (Chops & Hops, E. Freeport, loc -276,-203) <br>
+* oven - in empty shop near Torligs Herbs & Medicines (W. Freeport, loc -50, -1011), inside Grub & Grog Tavern (E. Freeport, loc 68, -750, tall folk will need to circle the building and enter from the back), inside Traders Holiday (E. Freeport, loc 98, -242), inside Chops & Hops (E. Freeport, loc -297, -187) inside unlabeled inn near bank (N. Freeport, loc -145, -33), outside empty building diagonal from Tassel's Tavern (N. Freeport, -66, -41) <br>
+* spices, garnish, jug of sauces, vinegar, frosting, cup of flour, milk, spit, mixing bowl, bread - Pincia Brownloe (unlabled building next to monk's guild, W. Freeport, loc -274, -699) <br>
+* Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelen's Quick Treats, Binelen's Succulence, Xectia's Favored Flavors, Xectia's Hot Pie, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Ghumim's Delights, Ghumim's Classical Dishes, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go, Sorin's Tasty Kills - Ran Brownloe (unlabled building next to monk's guild, W. Freeport, loc -243, -710) <br>
+* bread, mixing bowl, water flask, Mixxy's Delicacies Vol 1, Mixxy's Delicacies Vol 2, Binelin's Quick Treats, Binelin's Succlence, Delivered Note - Roshinda Elore (2nd floor, Office of Landholders, N. Freeport, loc 289, 300) <br>
+* bread, water flask, short beer - Innkeep Evelona & Innkeep Rille (Jade Tigers Den, N. Freeport, loc 70, 67), Gern Tassel (upstairs, Tassels Tavern, N. Freeport, loc 67, -56), Innkeep Paola (-175, -58, N. Freeport) <br>
+* water, bread - Innkeep Palola (unlabeled inn near bank, N. Freeport, loc -175, -58), Innkeep Nasumi (Freeport Inn, E. Freeport loc -76, -716) , Innkeep Hunter (Freeport Inn, E. Freeport, loc -76, -693); Innkeep Rastle (Condemned building, E. Freeport, loc -20, -287), Innkeep Paggie (Condemned building, E. Freeport, loc -5, -230), Winda Lylil (Grub N Grog, E. Freeport, loc 45, -729) <br>
+* spit - Tislan (Traders Holiday, E. Freeport, loc 136, -296) <br>
+* short beer - Nesin Tapper, Lynda Tapper (upstairs in Chops N Hops, E. Freeport, loc -295,-214), Cloud Alemaker (3rd floor Trader's Holiday, loc 121, -259), River Alemaker (Traders Holiday, E. Freeport, loc 127, -266), Sun Alemaker (Traders Holiday, E. Freeport, loc 125,-251) <br>
+* bat wings, fire beetle eyes - Lysa Truegreen (2nd floor, Academy of Arcane Sciences, W. Freeport, loc 119, -718) <br>
+* bat wings - Zasrin Blueflame (3rd floor, Academy of Arcane Sciences, W. Freeport, loc 148, -764) <br>
+* fish - Tanlok Harson (upstairs in Port Authority, E. Freeport, loc 85, -847), Iseba Gargurd & Tarker Gargurd (Port Authority, E. Freeport, loc 58, -892) <br>
+* milk, water flask - Yellus Gravien & Gibbon Morfield (Office of Landholders, N. Freeport, loc 291, 272), Alec Greenglade (blue building next to bank, N. Freeport, loc -92, -128), Ran Greenglade (blue building next to bank, N. Freeport, loc -111, -119) <br>
+* short beer - Swin Blackeye (Hog Caller's Inn, W. Freeport, loc -116, -472), Drona Whystlethin (Hog Caller's Inn, W. Freeport, loc -154, -526); Judicia Riverfield & Shonia Tassel (Tassel's Tavern, N. Freeport, loc 77, -33) <br>
+* water flask, short beer - Gregor Nasin (Seafarer's Roost, loc -235, -833) <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* barley, hops, rice, malt, yeast, wine yeast, Natures Beverages, bottle, shotglass, cask, grapes - Krystin Charcoal (between West Gate and zone to North Freeport) <br>
+* brew barrel - outside Hog Callers Inn (W. Freeport, loc -175, -483), inside Seafarers Roost (E. Freeport, loc -206, -856), inside Grub & Grog Tavern (E. Freeport, loc 19, -722), inside Traders Holiday (E. Freeport, loc 140, -328), inside Tassel's Tavern (N. Freeport, loc 65, 6), inside unlabeled inn near bank (N. Freeport, loc -202, -59) <br>
+* grapes, bottle, cask, shot glass, packet of kiola sap, red wine, short beer, short ale, mead, red wine, white wine, brandy, fish wine - Cloud Alemaker (3rd floor Trader's Holiday, loc 121, -259), River Alemaker (Traders Holiday, E. Freeport, loc 127, -266), Sun Alemaker (Traders Holiday, E. Freeport, loc 125,-251) ; Judicia Riverfield (Tassel's Tavern, N. Freeport, loc 67, -23), Shonia Tassel (Tassel's Tavern, N. Freeport, loc 86, -25); Swin Blackeye & Drona Whystlethin (Hog Caller's Inn, W. Freeport); Lynda Tapper (Chops N Hops, E. Freeport) <br>
+* bottle, water flask, mead - Tradesman Lyna, Tradesman Tulan (Coalition of Tradesfolk, N. Freeport),Yellus Gravien & Gibbon Morfield (Office of Landholders, N. Freeport), Alec & Ran Greenglade (blue building next to bank, N. Freeport) <br>
+* bottle, cask, short beer, mead - Jaleel Hoglomp (Grub N Grog - East Freeport, loc 32, -741) <br>
+* white wine, gnomish spirits, dwarven ale, elven wine, ogre swill - Myrissa O'Donner (Velithe & Bardo's Imported Goods, E. Freeport, loc 91, -437), Ston O'Donner (upstairs Velithe & Bardo's Imported Goods, E. Freeport, loc 95, -416), Monita O'Donner (Velithe & Bardo's Imported Goods, E. Freeport, loc 104, -387) <br>
+* water flask, short beer - Innkeep Evelona, Innkeep Rille (Jade Tigers Den, N. Freeport), Innkeep Paola (-175, -58, N. Freeport) <br>
+* water flask, short beer, mead - Gern Tassel (upstairs, Tassels Tavern, N. Freeport, loc 67, -56) <br>
+* bottle, shotglass, mead - Galio (-177, -36, N. Freeport) <br>
+* short beer, red wine, white wine, mead, brandy, fish wine - Nesin Tapper (Chops & Hops, E. Freeport, loc -276, -213), Lunce Nasin (upstairs Seafarer's Roost, loc -243, -862) <br>
+* keg - Tanlok Harson, Iseba Gargurd, Tarker Gargurd (Port Authority, E. Freeport) <br>
+* mistletoe - Olyna Midel , Torlig Mudel (79, -899, W. Freeport) <br>
+* fish wine - Tanlok Harson (upstairs Port Authority, E. Freeport, loc 87, -846), Iseba Gargurd (Port Authority, E. Freeport, loc 62, -883), Tarker Gargurd (Port Authority, E. Freeport, loc 64, -888) <br>
+* water flask, mead, red wine, white wine, short beer, brandy, elven wine, dwarven ale, gnomish spirits, ogre swill, fish wine - Gregor Nasin (Seafarer's Roost, loc -228, -835)<br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* bait & fishing poles - Tanlok Harson (upstairs Port Authority, E. Freeport, loc 87, -846), Iseba Gargurd (Port Authority, E. Freeport, loc 62, -883), Tarker Gargurd (Port Authority, E. Freeport, loc 64, -888), Yellus Gravien (Office of Landholders, N. Freeport, loc 301, 283), Gibbon Morfield (Office of Landholders, N. Freeport, loc 292, 285)<br>
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyers Guide - Timor Strongbranch (-98, -55, N. Freeport) <br>
+* arrowheads (field point, hooked, silver tipped), bundled arrow shafts (wooden, bone, ceramic, steel), fletchings (shield cut, round cut, parabolic cut), arrow vanes (wooden, bone, ceramic), Fletching, groove nocks (small, medium, large), fletching kit - Valla Strongbranch (-79, -41, N. Freeport)<br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* carnelian, malachite, peridot, lapis lazuli, turquoise, bloodstone, star rose quartz, amber, cats eye agate, wolf's eye agate, aquamarine - Lysin Smokkan (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, star rose quartz - Lysa Truegreen (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, wolf's eye agate, malachite, aquamarine - Mekoma Buma (Academy of Arcane Sciences, W. Freeport) <br>
+* peridot, lapis, hematite, bloodstone, jasper, carneliam - Zasrin Blueflame (Academy of Arcane Sciences, W. Freeport)<br> 
+* cats eye agate, bloodstone, jasper, peridot, star rose quartz - Dulia Jestes <br>
+* cats eye agate, bloodstone, jasper, peridot - Voglan Dransed (Academy of Arcane Sciences, W. Freeport) <br>
+* silver/electrum/gold/platinum bars, Legacy of Jewelcraft, jewellers kit, star ruby, fire opal, fire emerald - Amber (upstairs in unlabeled blue building just outside the Freeport Market, N. Freeport, loc -167, 195) <br>
+* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Cleric/pally guild, N. Freeport) <br>
+* carneliam, malachite, lapis lazuli, turquoise, hematite, bloodstone, jasper, star rose quartz, amber, jade, pearl, topaz, cat's eye agate, onyx, peridot, emerald, opal, fire opal, sapphire, ruby - Jade (unlabeled blue building just outside the Freeport Market, N. Freeport, loc -167, 195), Aimie Moonspin (bank, N. Freeport, loc -54, -240) <br>
+* jar of lacquer - Trudie Steelbone (Groflah's Forge, N. Freeport)<br>
+<br>
+
+
+<c "#00CC00">Make Poison </c><br>
+* mortar/pestle, suspension, constrict suspension, larent suspension, poison vial, lined poison vial, sealed poison vial - Toxdil (In Sewers in W. Freeport - head out the gate, hug the right wall until you find the secret sewer entrance)<br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* blocks of clay (sm/med/lg) - Kyrin Steelbone (Groflah's Forge, N. Freeport, loc -21, 474) <br>
+* kiln - near monk's guild (W. Freeport, loc -214, -670), across from Hogcaller's Inn (W. Freeport, loc -241, -348), outside unlabeled inn near bank (N. Freeport, loc -171, 35), outside condemned building (E. Freeport, -112, -214) <br>
+* pottery wheel - near monk's guild (W. Freeport, loc -220, -671), inside unlabeled weapon shop (W. Freeport, across from Hogcaller's Inn, loc -223, -339), outside unlabeled inn near bank (N. Freeport, loc -148, 39), outside condemned building (E. Freeport, -122, -231) <br>
+* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Temple of Marr, N. Freeport, loc 105, 287) <br>
+* sketches: skewers, small jar, medium jar, large jar, bowl, pot, small diety, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, barbarian template, gnome template, troll template, animal template, idol sketch - Jynsa Smithson (W. Freeport, -172, -338), Winoyn (inside unmarked building to south of bank, N Freeport) <br>
+* clay (small block, block, large block), firing sheets (firing, quality firing, high quality firing), glass shard, Basic Pottery, vial sketches (vial, lined vial, sealed vial), sculpting tools, glaze mortar, idol sketch, ceramic lining sketch, small deity sketch - Gurb Smithson (W. Freeport, -178, -329) <br>
+* enchant steel [enchanter] spell - Voglan Dransed (Academy of Arcane Sciences, W. Freeport) <br>
+* jar of acid - Trudie Steelbone (Groflah's Forge, N. Freeport, loc -31, 472) <br>
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* molds (container base & lids in small, {medium} and large, file, lantern, needle, thimble, toolbox) - Jilian Dayson (Vilithe & Bardo's Imported Goods, E. Freeport, loc 153, -373) <br>
+* cooking molds (cookie, muffin tin, cake round, skewer, pot, bread tin, smoker support, standing legs, smoker base, hinge, scaler, pie tin), lantern casing mold, Basic Blacksmithing - Tislan (Traders Holiday, E. Freeport, loc 136, -296) <br>
+* (medium) banded armor molds, Basic Blacksmithing, Armor & Weapons Guide, sheet metal - Issilyn Ristan (Armor by Ithkar, E. Freeport) <br>
+* ore (sm & lg bricks, small pieces), sharpening stone, smithy hammer, smithing chisel, forging hammer - Kyrin Steelbone (Groflah's Forge, N. Freeport, loc -21, 474) <br>
+* medium quality sheet metal, medium quality ore (small piece, small brick, large brick, block), smithy hammer, How to Dye and Stain, jar of lacquer, resin, empty vial, jar of acid (Trudie Steelbone, Groflah's Forge, N. Freeport, loc -31, 472) <br>
+* forge - outside Groflah's Forge (N. Freeport, loc -53, 534), outside Armor by Ithkar (E. Freeport), outside The Emporium (N. Freeport), 2nd floor of Freeport Militia (W. Freeport), behind the Warrior's Guild (W. Freeport), outside Gord's Smithy (E. Freeport) <br>
+* Freeport (cultural) forge - on a platform behind the Warrior's Guild (W. Freeport) <br>
+* Shield molds (buckler, round, targ, kite, tower) in large, medium and small sizes, Firepride's Guide to Shield Craft, "Rings, Chains & Arrowheads" - Kif (Armor by Ithkar, East Freeport, loc 52, -182) <br>
+* weapon molds (Dagger blade, thin blade, short blade, axe head, halberd head, curved blade, throwing knife, mace head, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head, hilt) and oak shaft - Jenna Smith (upstairs, Gord's Smithy, E. Freeport, loc -169, -168) <br>
+* (medium) Plate armor molds, Ikthar's Fine Steel Skin, Fireprides Guide to Shieldcraft - Valentin Fireheart (2nd floor of Ikthar's Forge, E. Freeport, loc 56, -170) <br>
+* imbue diamond spell [cleric: Mithaniel Marr], imbue rose quartz spell [cleric: Erollisi Marr] - Locarme Zennix (Cleric/pally guild, N. Freeport) <br>
+* information on Seafarers' weapons and Seafarers' Buckler [hail him] - Gord Smith (Gord's Smithy, E. Freeport, loc -175, -137) <br>
+* arrow shaft mold - Valla Strongbranch (-79, -41, N. Freeport) <br>
+* (medium) chainmail patterns - Daria Smith (2nd floor of Ikthar's Forge, E. Freeport, loc 48, -219) <br>
+* rusty weapons - Tohsan Hallard (Hallard's Resales, E. Freeport, loc -79, -455), Harg Tonicka (Hallard's Resales, E. Freeport, loc -41, -489), Rolfic Gohar (Slums, E. Freeport, loc -185, -279) <br>
+* sandalwood - Olyna Midel , Torlig Mudel (Torligs Herbs & Medicines, loc 79, -899, W. Freeport) <br>
+* (medium) leather armor for seafarer's armor (skullcap, mask, gorget, tunic, shoulderpads, cloak, belt, sleeves, wristbands, gloves, leggings) - Winlar Tanner (Leather & Hide, E. Freeport, loc 42, -562), Winsa Tanner (Leather & Hide, E. Freeport, loc 40, -542), Sanhan Tanner (Leather & Hide, E. Freeport, loc 69, -568)<br>
+<br>
+
+
+<c "#00CC00">Spell Research </c><br>
+* parchment, quill, elemental grimoire, mage spell research books - Mekoma Buma (Academy of Arcane Sciences, W. Freeport) <br>
+* lexicon, wizard spell research books - Voglan Dransed (Academy of Arcane Sciences, W. Freeport) <br>
+* Tome of Endless Enchantments, Book of Ancient Restoration - Dulia Jestes (outside Academy of Arcane Sciences, W. Freeport) <br>
+* parchment, quill, Book of Dark Bindings, necromancer spell research books - Banor Raglesin (necromancer guild, E. Freeport)<br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* all tailoring patterns, large sewing kit - Winsa Tanner (Leather & Hide, E. Freeport) <br>
+* basic patterns (cap, gorget, tunic, sleeve, glove, pant, boot), small sewing kit, How To Sew: Medium - Winlar Tanner, Sanhan Tanner, Sissin Tanner (Leather & Hide, E. Freeport) <br>
+* small sewing kit, How To Sew - Svinal Wyspin (The Emporium, N. Freeport, loc 66, -143), Lystin Wyspin (The Emporium, N. Freeport, loc 34, -138), Wahnig Nooz (2nd floor unlabeled building South of bank, N. Freeport, loc -88, -182), Jallen Nooz (unlabeled building South of bank, N. Freeport, loc -107, -198), Winlar Tanner (Leather & Hide, E. Freeport, loc 42, -562), Winsa Tanner (Leather & Hide, E. Freeport, loc 40, -542), Sanhan Tanner (Leather & Hide, E. Freeport, loc 69, -568), Sissin Tanner (upstairs Leather & Hide, E. Freeport, loc 49, -548) <br>
+* 10-slot loom - second floor, Velithe & Bardo's Imported Goods (E. Freeport, loc 69, -450) <br>
+* Tailoring Quivers (book) - Valla Strongbranch (-79, -41, N. Freeport)<br>
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern, bottle - Alec & Ran Greenglade (blue building next to bank, N. Freeport), Yellus Gravien & Gibbon Morfield (Office of Landholders, N. Freeport) <br>
+* gnomish spirits - Myrissa O'Donner, Ston O'Donner, Monita O'Donner (Velithe & Bardo's Imported Goods, E. Freeport) <br>
+* medium platemail helm - Ikthar Fireheart (Armor by Ikthar, E. Freeport)<br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

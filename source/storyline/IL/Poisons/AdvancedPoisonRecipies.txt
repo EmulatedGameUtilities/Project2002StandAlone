@@ -1,0 +1,58 @@
+Advanced Poison Recipies <br>
+Last Updated <c "#FF0000">8/1/03</c><br>
+Created for the EverQuest StoryWindow by: <br>
+<c "#FFFF00">Faennil Triestecuore</c> - Legion of the Dead - Zebuxoruk <br>
+<br>
+All information comes from: <br>
+www.eqtraders.com <br>
+www.thesafehouse.org <br>
+http://home.comcast.net/~corinari/index.htm<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br> 
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<c "#00CC00"> Tier one (10 minute) </c> <br>
+<c "#00CC00"> AAdvanced Poison Vial, Celestial Suspension and Amber Resin </c> <br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+Name (Descrpition) - Recipe - Sketch<br>
+<br>
+<c "#33CC33">Anger of Incapacitation (Hate Reduction (150)/Dexterity Debuff (30))</c> - Wax flower - Sluggish or Master <br>
+<c "#33CC33">Bixie Sting (Spell Interruption/Direct Damage (50))</c> - Phosphorous powder - None <br>
+<c "#33CC33">Confusing Dreams (Hate Reduction (150))</c> - Nodding blue lily - Remiss or Master <br>
+<c "#33CC33">Crushed Vein (Strength Debuff(30)/Hate Reduction (150))</c> - Dust of decay - None <br>
+<c "#33CC33">Itching Madness (All Resist Debuff)</c> - Rock fern - Dip Resist or Master <br>
+<c "#33CC33">Mental Burn (Mana Burn (150))</c> - Nardoo - None <br>
+<c "#33CC33">Minor Irritation (Direct Damage (35)/Damage Over Time (210))</c> - Clump of fungus - None <br>
+<c "#33CC33">Spine Bruiser (Reduce Movement Speed (41%-55%))</c> - Crystallized Sulfur - None <br>
+<c "#33CC33">Sting of the Shissar (Direct Damage Poison(75)/1 Foot Push Back)</c> - Shissar venom sack and Tainted planar essense - None <br>
+<c "#33CC33">Whithering Flesh (Damage Over Time (360))</c> - Ocean ink - Vein Rot or Master <br>
+<c "#33CC33">Zombie Bane (Undead Only Direct Damage (125))</c> - Undead shissar venom sack - None <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<c "#00CC00"> Tier two (15 minute) </c> <br>
+<c "#00CC00"> Advanced Poison Vial, Celestial Suspension and Drop of Mercury </c> <br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+Name (Descrpition) - Recipe - Sketch<br>
+<br>
+<c "#33CC33">Bite of the Shissar (Direct Damage (125)/1 Foot Push Back)</c> - Shissar Venom Sack or Tainted Planar Essence and Phosphorus Powder - None <br>
+<c "#33CC33">Dreams of Drusella (Hate Reduction (250))</c> - Nodding Blue Lilly and Twilight Worms - Remiss <br>
+<c "#33CC33">Mangled Tendon (Strength Debuff (60)/Hate Reducing (150))</c> - Dust of Decay and Plague Mites - None <br>
+<c "#33CC33">Mayong's Bane (Undead Only Direct Damage (175))</c> - Undead Shissar Venom Sack and Acrylia Grubs - None <br>
+<c "#33CC33">Mental Implosion (Mana Burn (300))</c> - Nardoo, Autumn Crocus, Dust of Decay, and Smashed War Grubs - None <br>
+<c "#33CC33">Oozing Irritation (Direct Damage (55)/Damage Over Time (330))</c> - Clump of Fungus and Twilight Worms - None <br>
+<c "#33CC33">Rage of Incapacitation (Hate Reduction (150)/Dexterity Debuff (60))</c> - Wax Flower and Golden Ember Powder - Sluggish <br>
+<c "#33CC33">Scoriae Bite (Spell Interruption/Direct Damage (75))</c> - Phosphorous powder and Golden Ember Powder - None <br>
+<c "#33CC33">Scratching Madness (All Resist Debuff (10))</c> - Rock Fern and Autumn Crocus - Dip or Master <br>
+<c "#33CC33">Spine Rend (Reduce Movement Speed(41% - 55%))</c> - Crystallized Sulfur and Mistletoe - None <br>
+<c "#33CC33">Wasted Flesh (Damage Over Time (540))</c> - Ocean Ink and Plague Mites - Vein Rot <br>
+<br>
+<c "#00CC00"> ========================= </c> <br>
+<br>
+<br>
+=====================<br>
+<a HREF="file:///storyline/il/storyPoisonRecipies.txt">Table of Contents</a> <br>
+===================== <br>

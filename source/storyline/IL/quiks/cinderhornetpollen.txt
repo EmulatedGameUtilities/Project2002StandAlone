@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Cinder Hornet Pollen</c><br>
+Vendor: NPC Drop<br>
+Location: Cinder Hornets in Burning Woods<br>
+Poison: Xegonie's Curse<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

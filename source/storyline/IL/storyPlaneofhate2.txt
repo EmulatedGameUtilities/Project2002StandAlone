@@ -1,0 +1,225 @@
+Plane of Hate - v.2
+
+<br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+last updated 5/30/03 <br><br>
+
+===================== <br><br>
+
+Section 1: <c "#00CC00"> Epic drops  </C> <br>
+Section 2: <c "#00CC00"> Greater Faydark Hate quests </C> <br><br>
+
+Please note that this mod is still under construction pending confirmation of all epic drops and completion of the Hate/GFay quests. Please check back for updates. Thanks for downloading! Corrections etc can be sent to feedback@meryddian.net <br><br>
+
+===================== <br>
+===================== <br><br>
+
+<c "#00CC00"> SECTION 1: EPIC DROPS </C> <br><br>
+
+The following epics have pieces which drop in Hate -  will be adding confirmation dates as the pieces are found to drop on Live servers <br><br>
+
+(2) = MQ'able <BR>
+(3) = tradeable <br><br>
+
+CLASS - EPIC NAME - HATE PIECE, MOB DROPPED FROM (footnotes) <BR><br>
+
+RANGER EPIC - Earthcaller - Shattered Emerald of Corruption, undetermined at this time, no longer drops from Innoruuk (2) <BR><br>
+
+SHADOWKNIGHT EPIC - Innoruuk's Curse - Decrepit Hide, ashbone drakes (TBC) (2)  <BR><br>
+
+PALADIN EPIC - The Fiery Defender - Tainted Darksteel Breastplate, Thought Corruptor (TBC) (2) <BR><br>
+
+PALADIN "ALT" EPIC - Nature's Defender* - Fleshless Skull, Corrupter of Life (2) (confirmed dropping 5/11/03)   <BR>
+-- Note: requires you are NOT KOS in the Plane of Growth, and level 55, to complete <BR><br>
+
+MAGICIAN EPIC - Orb of Mastery - Magi T'Pasa/Mistress of Scorn (TBC) <BR><br>
+
+NECRO EPIC - Scythe of the Shadowed Soul - Eye of Innoruuk, undetermined at this time, no longer drops from Innoruuk (2)   <BR><br>
+
+ENCHANTER EPIC - Staff of the Serpent, 4th piece - Essence of a Vampire, forsaken revenants (any) (confirmed dropping 5/11/03) <BR><br>
+
+WARRIOR EPIC - The Jagged Blade of War - Hand of the Maestro (2) (confirmed dropping 5/13/03)  <BR><br>
+
+ROGUE EPIC - Ragebringer - Book of Souls, spawns on table in house directly opposite Cathedral doors. Loc approx 175, -330 (confirmed 5/6/03 - spawn rate = ?) <br><br>
+
+========================== <br>
+========================== <br><br>
+
+<c "#00CC00"> SECTION 2: GREATER FAYDARK HATE QUESTS </C>
+
+The following quests are completed in Greater Faydark. Seana Marsinger is located just north of the wizard spires. When you hail her, this dialogue follows:  <br><br>
+
+You say, 'Hail, Seana Marsinger' <br><br>
+
+Seana Marsinger says 'Hello, my name is Seana Marsinger. I am here representing my loyalty to the League of Antonican Bards. It matters not to me whether you support the League or loathe it propaganda is not my objective. Everyone must find their own truths in this life path, so says Quellious. To business then, are you [familiar with the Plane of Hate?]' <br><br>
+
+You say, 'I am familiar with the Plane of Hate' <br><br>
+
+Seana Marsinger says 'Good, I need someone that has a bit of an eye for how things should look up there. My brother and I have been studying Innoruuk and his intricate dealings for years. Being raised in New Tanaan may lend us certain neutrality towards all people, yet the values our parents have instilled in us do not allow us to let him go unwatched. In fact, I have begun to believe that my paranoia may prove useful not only to the League, but to the Citizens of Tranquility and New Tanaan itself as well. We have received a simple [piece of intelligence] that may conceivably upset the entire balance of the Pantheon and have most dire repercussions here in Norrath.' <br><br>
+
+You say, 'what piece of intelligence' <br><br>
+
+Seana Marsinger says 'An old friend of our father's in Qeynos, Jusean Evanesque, has been very busy sorting out the information that is coming to him in droves.  The first clue came from Kardin Nillic in Gunthak, and then in bits and pieces from many travelers moving through Qeynos. Piracy on the seas has grown, and somehow the Broken Skull Clan has gained power that should have been out of their grasp. Our informants there say that it can only come from Innoruuk. I am afraid that the Plane itself has shifted with this power. I do not believe that we will be able to uncover all that we need [alone] in time to warn people of the dangers.' <br><br>
+
+You say, 'why are you alone' <br><br>
+
+Seana Marsinger says 'Our parents are back in Qeynos assisting Jusean with all that needs to be verified and ensuring that the League's network contacts are all still viable. They will need to stay there in case we must get the word out quickly. I do not believe that any of the residents of Tanaan would approve of our little quest, and would view it as biased. Thus we are here alone. Does this type of project [interest] you?' <br><br>
+
+You say, 'I am interested' <br><br><br>
+
+At this point, depending on what variety of class you are (INT caster, priest, hybrid, or pure melee), Stefan will then "size you up" and give you your class-appropriate quest, telling you which type of mobs you need to hunt in Hate. The quests consist of three parts, related to the three sections of the zone: north (lowest level), middle/cathedral area (midlevel), south/Innoruuk's stronghold (highest level).   <br><br>
+
+Even if you are still working on the first level of this quest, if you kill a mid-ranged or high level mob of the same line (lich, ghast, etc), you can determine whether a drop will be something you need, because the mob/class lines do not change. <br><br>
+
+===================== <br><br>
+
+IF YOU ARE A <c "#00CC00"> HYBRID </C> SHE ASKS:  <br><br>
+
+Stefan Marsinger takes a moment to size you up. 'You appear to study both magic and might, am I correct?' <br><br>
+
+You say, 'Yes' <br><br>
+
+Stefan Marsinger says 'I believe it is safest if you study those who have similar interests as yourself. Travel to the Plane of Hate and observe the GHASTS, SCORN BANSHEES, and HAUNTED CHESTS. They seem to share some qualities of your art and lie in the least dangerous areas. My interaction with these creatures has been mostly at a distance, and I am not as familiar with them as I would like. If you survive long enough to uncover some sort of MINOR SIGNET that verifies you have been studying these creatures, and truly wish to aid with this cause, bring it to me along with some ABHORRENT POWDER and a JACINTH. I can craft you protective item and may have some further work for you to do.' <br><br>
+
+Once you hand her the signet, abhorrent powder and jacinth, you receive the GEM OF COURAGE. <br><br>
+
+GEM OF COURAGE: Slot - range, lore/magic/nodrop, RNG PAL BST BRD SHD, race all - AC10 STR5 STA5 WIS5 INT5 CHAT5 MR5 FR5 CR5 HP35 Mana35, wt 0.0 size small <br><br>
+
+You say, 'what work?'  <br><br>
+
+Stefan Marsinger says 'Wonderful. Return to the plane and continue your studies of the hybrid demons. With the new information you have brought I believe we have a good framework of reference for the lower rankings of these beings, however there is a higher echelon of power that I will need to be familiar with. Seek out the Tier'Dal KNIGHTS and GRAVE LORDS OF HATE. All of these creatures should be within your area of study, but take care! Make sure to keep your protection with you at all times. Some of them should have a kind of KNIGHT'S CREST symbolizing their rank; bring me this crest and some GHAST FINGERBONES, along with your GEM OF COURAGE. If you succeed in this task you are more valuable than I could have imagined, and I may need your skill with a final reconnaissance errand.' <br><br>
+
+Turn in Knight's Crest, Ghast Fingerbones, Gem of Courage, and receive the GEM OF DARING. <BR><BR>
+
+GEM OF DARING: Slot - range, lore/magic/nodrop, RNG PAL BST BRD SHD, race all - AC10 STR5 STA10 WIS5 INT5 CHAT5 SvM5 SvF5 SvC5 HP50 Mana50, wt 0.0 size small  <br><br>
+
+You say 'What final task?' <br><br>
+
+Stefan Marsinger says 'In my personal studies I have heard rumor that there are four archaic tomes that contain some of Innoruuk's darkest secrets. I cannot ask you to uncover all four, I am not even certain that they exist. The fabled tomes are the COMPENDIUM OF CLASSIC TORTURE, Texts on Pain, Writ of Agony, and Tactical Hatred. If they do indeed exist and you manage to find them, you are far grander than I. The tome that I do seek will most likely lie in the hands of one of Innoruuk's own confidantes, and they seldom seem to show their faces. It is possible the Prince of Hate himself holds the tomes close. Find me the Compendium of Classic Torture; return it to me with your Gem of Courage and your work is finished.'  <br><br>
+
+Turn in Compendium of Classic Torture and Gem of Daring and receive the GEM OF HEROISM <BR><BR>
+
+GEM OF HEROISM - range, lore/magic/nodrop, RNG PAL BST BRD SHD, race all -  AC15 STR10 STA15 WIS5 INT5 SvM15 SvF5 SvC5 SvP5 SvD5 HP75 Mana75, range slot, weight 0.0, permanent effect Vengence III (+15 ATK) <br><br>
+
+===================== <br><br>
+
+IF YOU ARE A <c "#00CC00"> PRIEST CLASS </C> SHE ASKS:  <br><br>
+
+Stefan Marsinger takes a moment to size you up. 'You appear to be a priest of some sort, am I correct?' <br><br>
+
+You say, 'Yes' <br><br>
+
+Stefan Marsinger says 'I believe it is safest if you study those who have similar interests as yourself. Travel to the Plane of Hate and observe the CLERICS OF HATE and the SPITE GOLEMS. They seem to be the main practitioners of your art in the least dangerous area. My interaction with these creatures has been mostly at a distance, and I am not as familiar with them as I would like. If you survive long enough to uncover SOME TYPE OF SIGNET that proves you have been studying these creatures, and truly wish to aid with this cause, bring it to me along with some VAMPIRE DUST and a DIAMOND. I can craft you protective item and may have some further work for you to do.' <br><br>
+
+Once you hand her the signet, the vampire dust and a diamond, you receive the GEM OF FAITH. <br><br>
+
+GEM OF FAITH: magic/lore/nodrop, CLR DRU SHM, race all, AC10, STA5, WIS10, HP35, Mana35, SvF5, SvC5, SvM5, slot - range wt 0.0, size small,  <br><br>
+
+Stefan Marsinger says 'Wonderful. Return to the plane and continue your studies of the priestly demons. With the new information you have brought I believe we have a good framework of reference for the lower rankings of these beings, however there is another echelon of power that I will need to be familiar with. Seek out the VENGENCE GOLEMS, and the higher priests of hate, the VICARS, TEMPLARS, and HIGH PRIESTS. All of these creatures should be within your area of study, but take care! You may even find some that follow your particular discipline if that makes you more comfortable. Make sure to keep your protection with you at all times. Some of them should have a kind of CREST symbolizing their rank; bring me this crest and some VENGENCE DUST from the GOLEMS, along with your GEM OF FAITH.  If you succeed in this task you are more valuable than I could have imagined, and I may need your skill with a final reconnaissance errand.'  <br><br>
+
+Bring her these three items; this results in the GEM OF PIETY.  <br><br>
+
+GEM OF PIETY - magic/lore/nodrop, CLR DRU SHM, race all, AC10 STA5 WIS10 HP50 Mana50, SvF5, SvC5, SvM5, slot - range wt 0.0, size small (need to confirm stats)  <br><br>
+
+You say, 'What final task?' <br><br>
+
+Seana Marsinger says 'In my personal studies I have heard rumor that there are four archaic tomes that contain some of Innoruuk's darkest secrets. I cannot ask you to uncover all four, I am not even certain that they exist. The fabled writings are the TOME OF DARK HEALING, Teachings of Innoruuk, Book of the Dead, and Applications of Suffering. If they do indeed exist and you manage to find them, you are far grander than I. The tome that I do seek will most likely lie in the hands of one of Innoruuk's own priests, and they seldom seem to leave their studies. It is possible the Prince of Hate himself holds the tomes close. Find me the TOME OF DARK HEALING; return it to me with your Gem of Piety and your work is finished.'  <br><br>
+
+Turn in Tome of Dark Healing and Gem of Piety.
+
+This results in the GEM OF TRANSCENDANCE, Lore/magic/nodrop, range slot - CLR DRU SHM all races - AC15 STA10 INT15 CHA5 SvM15 SvC5 SvF5 SvP5 SvD5 HP75 Mana75 wt 0.0, with permanent effect Flowing Thought III (3m/tick) <br><br>  
+
+===================== <br><br>
+
+IF YOU ARE AN <c "#00CC00"> INT CASTER </C> SHE ASKS:  <br><br>
+
+Stefan Marsinger takes a moment to size you up. 'You appear to be a practitioner of pure magic, am I correct?' <br><br>
+
+You say, 'Yes' <br><br>
+
+Stefan Marsinger says 'I believe it is safest if you study those who have similar interests as yourself. Travel to the Plane of Hate and observe the REVENANT, the ASHENBONE DRAKE, and the LOATHING LICH. They seem to be the main practitioners of your art in the least dangerous area. My interaction with these creatures has been mostly at a distance, and I am not as familiar with them as I would like. If you survive long enough to uncover SOME TYPE OF SIGNET that proves you have been studying these creatures, and truly wish to aid with this cause, bring it to me along with some VAMPIRE DUST and a DIAMOND. I can craft you protective item and may have some further work for you to do.' <br><br>
+
+Once you hand her the signet, the vampire dust and a diamond, you receive the GEM OF SORCERY <br><br>
+
+GEM OF SORCERY -  magic/lore/no drop - ENC MAG WIZ NEC all races - AC10, STA5, INT10, HP35, Mana35, SvF5, SvC5, SvM5, slot - range wt 0.0, size small,  <br><br>
+
+You say, 'what work' <br><br>
+
+Stefan Marsinger says 'Wonderful. Return to the plane and continue your studies of the demons of magic. With the new information you have brought I believe we have a good framework of reference for the lower rankings of these beings, however there is another echelon of power that I will need to be familiar with. Seek out the minions of magic that seem to take Dark Elven form. These would be the SAGES, WARLOCKS, and SORCERERS. All of these creatures should be within your area of study, but take care! You may even find some that follow your particular discipline if that makes you more comfortable. Make sure to keep your protection with you at all times. Some of them should have a kind of ETCHED SORCERER'S CREST symbolizing their rank; bring me this crest and some HATEBONE DRAKE BONES, along with your GEM OF SORCERY.  If you succeed in this task you are more valuable than I could have imagined, and I may need your skill with a final reconnaissance errand.'  <br><br>
+
+Turn in the crest, bones and Gem of Sorcery. You receive the GEM OF ENCHANTMENT. <br><br>
+
+GEM OF ENCHANTMENT - lore/magic/nodrop - ENC MAG NEC WIZ - race all, AC10 STA5 INT10 HP50 Mana50 SvF5 SvC5 SvM5, slot - range wt 0.0, size small (need to confirm stats) <br><br>
+
+You say, 'What final task' <br><br>
+
+Stefan Marsinger says 'In my personal studies I have heard rumor that there are four archaic tomes that contain some of Innoruuk's darkest secrets. I cannot ask you to uncover all four, I am not even certain that they exist. The CONCORDANCE OF BLACK MAGIC, Teachings of Innoruuk, Book of the Dead, and Applications of Suffering are the fabled tomes.  If they do indeed exist and you manage to find them, you are far grander than I. The tome that I do seek will most likely lie in the hands of one of Innoruuk's own advisors, and they seldom seem to leave their studies. It is possible the Prince of Hate himself holds the tomes close. Find me the Concordance of Black Magic; return it to me with your Gem of Enchantment and your work is finished.' <br><br>
+
+Turn in your Gem of Enchantment and the Concordance of Black Magic. <br><br>
+
+This results in the GEM OF CONQUEST, Lore/magic/nodrop, range slot - ENC NEC MAG WIZ all races - AC15 STA10 WIS15 CHA5 SvM15 SvC5 SvF5 SvP5 SvD5 HP75 Mana75 wt 0.0, with permanent effect Flowing Thought III (3m/tick) <br><br>  
+ 
+===================== <br><br>
+
+IF YOU ARE A <c "#00CC00"> PURE MELEE </C> SHE ASKS:  <br><br>
+
+Seana Marsinger takes a moment to size you up. 'You appear to be a practitioner of physical combat, am I correct?' <br><br>
+
+You say, 'Yes' <br><br>
+
+Seana Marsinger says 'I believe it is safest if you study those who have similar interests as yourself. Travel to the Plane of Hate and observe the ABHORRENT, the REPULSIVE RAT, and the KIRAIKUEI. They seem to be the main practitioners of your art in the least dangerous area. My interaction with these creatures has been mostly at a distance, and I am not as familiar with them as I would like. If you survive long enough to uncover a MINOR SIGNET that shows you have indeed studied these creatures, and truly wish to aid with this cause, bring it to me along with some ABHORRENT POWDER and a JACINTH. I can craft you protective item and may have some further work for you to do.' <br><br>
+
+Once you hand her the signet, the powder and the jacinth, you receive the GEM OF WAR. <br><br>
+
+GEM OF WAR - magic/lore/no drop - MNK ROG WAR all races, AC10 STR5 STA5 SvM5 SvF5 SvC5 HP35, range slot wt 0.0 <br><br>
+
+You say, 'What work?'
+
+Stefan Marsinger says 'Wonderful. Return to the plane and continue your studies of the tactical demons. With the new information you have brought I believe we have a good framework of reference for the lower rankings of these beings, however there is another echelon of power that I will need to be familiar with. Seek out the Tier'Dal CHAMPIONS and WARLORDS OF HATE, as well as the AGENTS and ASSASSINS. All of these creatures should be within your area of study, but take care! You may even find some that follow your particular discipline if that makes you more comfortable. Make sure to keep your protection with you at all times. Some of them should have a kind of SOLDIERS CREST symbolizing their rank; bring me this crest and some KIRAIKUEI FLESH, along with your GEM OF WAR.  If you succeed in this task you are more valuable than I could have imagined, and I may need your skill with a final reconnaissance errand.'  <br><br>
+
+Turn in the crest, flesh and Gem of War and get the GEM OF CONTENTION. <br><br>
+
+GEM OF CONTENTION - magic/lore/nodrop - MNK ROG WAR all races, AC10 STR5 STA10 SvM5 SvF5 SvC5 HP50, range slot, wt 0.0 <br><br>
+
+You say 'what final task?' <br><br>
+
+Seana Marsinger says 'In my personal studies I have heard rumor that there are four archaic tomes that contain some of Innoruuk's darkest secrets. I cannot ask you to uncover all four, I am not even certain that they exist. The fabled tomes are the DISSERTATION OF DARK WAR, Texts on Pain, Writ of Agony, and Tactical Hatred. If they do indeed exist and you manage to find them, you are far grander than I. The tome that I do seek will most likely lie in the hands of one of Innoruuk's own assassins or guards, and they seldom seem to cease training. It is possible the Prince of Hate himself holds the tomes close. Find me the Dissertation of Dark War; return it to me with your Gem of Contention and your work is finished.'  <br><br>
+
+Turn in Dissertation of Dark War and Gem of Contention to receive the GEM OF VICTORY <BR><BR>
+
+GEM OF VICTORY - magic/lore/nodrop - MNK ROG WAR all races, AC15 STR10 STA15 SvM15 SvF5 SvC5 SvP5 SvD5 HP75, range slot, weight 0.0, permanent effect Vengence III (+15 ATK) <br><br>
+
+===================== <br><br>
+
+<c "#00CC00"> ALL CLASSES: </C> <br><br>
+
+Once you have completed your 2nd level of this quest, you ask Seana 'What final task' <br><br>
+
+It has been reported that saying You say, 'I am ready for the final reconnaissance errand' also works <br><br>
+
+The pieces to complete the 1st part of the quest drop in the north end of this zone, between the zone-in and the Cathedral. <br><br>
+
+The pieces to complete the 2nd part of the quest drop in the central/south area of the zone, from the mobs in/around the Cathedral, and those mobs south of the cathedral, including Innoruuk's citadel. <br><br>
+
+The pieces to complete the 3rd part of the quest drop off the Maestro (spawns in Cathedral in the middle of the zone) and off Innoruuk (spawns in the Citadel at the south end of the zone). <br><br>
+
+
+===================== <br><br>
+
+UPDATE 5/30 - A 4TH PART HAS BEEN FOUND <BR><BR>
+
+Once you have completed the first three steps, you turn in your third gem and the three books you didn't need for the third quest to get your reward. If you can confirm WHICH TOMES (ie - either the other 3 books mentioned when speaking to Seana, or the other 3 class books mentioned) are needed for this quest, please send me an email at feedback@meryddian.net<BR><BR>
+
+Priests and Melee use Seana Marsinger <BR>
+Casters and Hybrids use Stefan Marsinger - Get Marsinger's Glimmering Gem. <BR><BR>
+
+MARSINGER'S GLIMMERING GEM - all/all ranged magic/lore/nodrop wt 0.0 - AC20 STR15 STA20 WIS20 INT20 svM20 svF10 svC10 svP10 svD10 HP100 mana100, with permanent effects Aura of Regeneration (3hp/tick) and Spell Haste IV (increase spell haste by 15%, complete/percentage healing exluded, min cast 3.0 sec) <br><br>
+
+===================== <br>
+===================== <br><br>
+
+Compiled and formatted for EQStoryWindow format by Meryddian (http://www.meryddian.net/) <br><br>
+
+<c "#00CC00"> Updates? Corrections? </C> Email feedback@meryddian.net - Last updated 5/30/03 - will update until quests are confirmed/solved. <br>
+
+

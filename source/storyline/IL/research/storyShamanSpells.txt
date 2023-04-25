@@ -1,0 +1,168 @@
+<c "#FF0000">Components are listed by Spell Level<br><br>
+<a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br><br>
+
+<c "#FF0000">Shaman Spells<br>
+
+<br><c "#00ff00">Spirit Quickening 50 <br>
+<c "#0088ff">Yaeth's Compedium Page 50 (Left) <br> 
+Etched Signet  <br>
+
+<br><c "#00ff00">Talisman of Jasinth 51 <br>
+<c "#0088ff">Coin of Xev <br>
+Words of Tenure <br> 
+
+<br><c "#00ff00">Everlasting Breath 51 <br>
+<c "#0088ff">Yaeth's Compedium Page 50 (Left)<br> 
+Sliver of Moonstone <br>
+
+<br><c "#00ff00">Levitation 51 <br>
+<c "#0088ff">Yaeth's Compedium Page 70 (Left)<br> 
+Dew Clover <br>
+
+<br><c "#00ff00">Spirit of Scale 52 <br>
+<c "#0088ff">Yaeth's Compedium Page 80 (Left) <br> 
+Dew Clover <br>
+
+<br><c "#00ff00">Insidious Decay 52 <br>
+<c "#0088ff">Words of Pain <br>
+Flake of Lodestone <br> 
+
+<br><c "#00ff00">Primal Essence 52 <br>
+<c "#0088ff">Mist of Povar <br>
+Yaeth's Compedium Page 61 (Right)<br> 
+
+<br><c "#00ff00">Talisman of Shadoo 53 <br>
+<c "#0088ff">Card of Bristlebane <br>
+Yaeth's Compedium Page 78 (Right)<br> 
+
+<br><c "#00ff00">Cripple 53 <br>
+<c "#0088ff">Words of Voiding<br> 
+Yaeth's Compedium Page 80 (Right) <br> 
+
+<br><c "#00ff00">Shroud of Spirits 54 <br>
+<c "#0088ff">Words of Apparition <br>
+Yaeth's Compedium Page 82 (Right)<br> 
+
+<br><c "#00ff00">Remove Greater Curse 54 <br>
+<c "#0088ff">Words of Apparition <br>
+Yaeth's Compedium Page 73 (Right)<br> 
+
+<br><c "#00ff00">Form of The Great Bear 55 <br>
+<c "#0088ff">Yaeth's Compedium Page 50 (Left)<br> 
+Staff Shard of Luclin <br> 
+
+<br><c "#00ff00">Spirit of The Howler 55 <br>
+<c "#0088ff">Finnok's Treatise Page 2 (Left)<br> 
+Flake of Lodestone <br>
+
+<br><c "#00ff00">Torrent of Poison 55 <br>
+<c "#0088ff">Rune of Amalgamation <br>
+Words of Distress <br>
+
+<br><c "#00ff00">Acumen 56 <br>
+<c "#0088ff">Rune of Ellipse<br> 
+Words of Knowledge <br> 
+Words of Expertise <br>
+
+<br><c "#00ff00">Bane of Nife 56 <br>
+<c "#0088ff">Words of Agony <br>
+Primordial Substance<br> 
+Words of Misery <br>
+
+<br><c "#00ff00">Regrowth of Dar`Khura 56 <br>
+<c "#0088ff">Yaeth's Compedium Page 78 (Left)<br> 
+Runed Emblem <br>
+Yaeth's Compedium Page 81 <br> 
+
+<br><c "#00ff00">Malosini 57 <br>
+<c "#0088ff">Words of Annihilation<br> 
+Words of Virtue <br>
+
+<br><c "#00ff00">Talisman of The Cat 57 <br>
+<c "#0088ff">Yaeth's Compedium Page 50 (Left)<br> 
+Runed Emblem <br>
+Rune of Divergency<br> 
+
+<br><c "#00ff00">Talisman of The Brute 57 <br>
+<c "#0088ff">Yaeth's Compedium Page 50 (Left)<br>
+Words of Comprehension <br>
+Words of Capacity <br>
+
+<br><c "#00ff00">Cannibalize IV 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 63 (Left)<br> 
+Words of Exhiliration <br>
+Rune of Divergency <br>
+
+<br><c "#00ff00">Talisman of The Rhino 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 65 (Left)<br> 
+Words of Simulation <br>
+Words of Capacity <br>
+
+<br><c "#00ff00">Talisman of the Serpent 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 73 (Left)<br> 
+Words of Sapience <br>
+Etched Signet <br>
+
+<br><c "#00ff00">Tigir's Insects 58 <br>
+<c "#0088ff">Words of Anguish <br>
+Words of Expertise <br> 
+
+<br><c "#00ff00">Talisman of Epuration 58 <br>
+<c "#0088ff">Yaeth's Compedium Page 82 (Left)<br> 
+Dew Clover <br>
+Words of Invigoration<br> 
+
+<br><c "#00ff00">Acumen of Dar'khura 58 <br>
+<c "#0088ff">Rune of Alternation <br>
+Words of Intent <br>
+Words of Capacity <br>
+
+<br><c "#00ff00">Talisman of the Raptor 59 <br>
+<c "#0088ff">Yaeth's Compedium Page 91 (Left)<br> 
+Dew Clover <br>
+Words of Immunity<br> 
+
+<br><c "#00ff00">Pox of Bertoxxulous 59 <br>
+<c "#0088ff">Words of Agony <br>
+Flake of Lodestone <br>
+Words of Revenant <br>
+
+<br><c "#00ff00">Voice of the Berserker 59 <br>
+<c "#0088ff">Rune of Incitement <br>
+Sliver of Moonstone <br>
+Words of Propriety <br>
+
+<br><c "#00ff00">Primal Avatar 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 102 (Left)<br> 
+Runed Emblem <br>
+Rune of Association<br> 
+
+<br><c "#00ff00">Focus of Spirit 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 104 (Left)<br> 
+Words of Energy <br>
+Yaeth's Compedium Page 105<br> 
+
+<br><c "#00ff00">Topor 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 107 (Left) <br>
+Words of Sapience <br>
+Words of Revenant <br>
+Yaeth's Compedium 118 (Right) <br> 
+
+<br><c "#00ff00">Malo 60 <br>
+<c "#0088ff">Staff Shard of Luclin<br> 
+Words of Energy <br>
+Yaeth's Compedium Page 108<br> 
+Words of Retention <br>
+
+<br><c "#00ff00">Avatar 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 112 (Left) <br>
+Yaeth's Compedium Page 112 (Right) <br>
+Words of Virtue <br>
+
+<br><c "#00ff00">Khura's Focusing 60 <br>
+<c "#0088ff">Yaeth's Compedium Page 114 (Left)<br> 
+Etched Signet <br>
+Yaeth's Compedium Page 115 <br> 
+<br><a href="file:///storyline/il/storyResearch.txt"> <c "#00ff00">Return to Main Research Menu</a>
+<br>

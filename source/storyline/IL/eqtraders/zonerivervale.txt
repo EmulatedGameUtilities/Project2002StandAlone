@@ -1,0 +1,98 @@
+Rivervale Trade Supplies <br><br>
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>
+=====================
+<br><br>
+
+<c "#00CC00">Alchemy </c><br>
+* sandalwood - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) <br>
+<br>
+
+
+<c "#00CC00">Baking </c><br>
+* oven - /loc -188, -157; /loc -75, -420 (druid area) <br>
+* milk, water flask - Wibble Bramblebush (next to dock) <br>
+* fresh fish - Fiddy Bobbick (next to dock), dock merchant (214, -223) <br>
+* recipe books (Mixxy's Delicacies Vol 1 & 2, Binelin's Quick Treats, Binelin's Succulence, Xectia's Favored Flavors, Xectia's Hot Pies, Vaashar's Sweet Treats, Vaashar's Sweet Revenge, Ghumim's Delights, Ghumim's Classical Dishes, Rohand's Sea Treats, Rohand's Edibles, Sorin's Treats on the Go, Sorin's Tasty Kills) - Uma Sweetcookie (-180, -145) <br>
+* spit - Yola Sweetcookie (-218, -131) <br>
+* spices, garnish, jug of sauces, vinegar, frosting, cup of flour, bottle of milk, spit, mixing bowl, bread - Bartle Barnick (druid area, -138, -350) <br>
+* water flask, jumjum stalk, lettuce - Daleen Leafsway - druid area <br>
+<br>
+
+
+<c "#00CC00">Brewing </c><br>
+* brew barrel - next to Meeka Diggs (near Fools Gold), on second floor of Fools Gold <br>
+* bottle, mead, water flask - Wibble Bramblebush (next to dock) <br>
+* bottle, cask - bag merchant (across river from dock, 214, -223) <br>
+* mead, red wine, white wine, packet of kiola sap, bottle, cask, shot glass, grapes - Mac Deeppockets & Flyndia Deeppockets (Fools Gold) <br>
+* barley, hops, rice, malt, yeast, wine yeast, Nature's Beverages, bottle, shotglass, cask, grapes - Burtle Barrelbelly (2nd floor, Fools Gold) <br>
+* water flask - Daleen Leafsway - druid area <br>
+* mistletoe - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) <br>
+<br>
+
+
+<c "#00CC00">Fishing </c><br>
+* fishing pole, bait - Fiddy Bobbick and Wibble Bramblebush (next to dock), dock merchant (across river from dock, 214, -223) 
+<br>
+
+
+<c "#00CC00">Fletching </c><br>
+* bow staff (hickory, elm, ashwood, oak, darkwood, shadewood), whittling blade, planing tool, standard bow cam, hemp twine, linen string, silk string, fletching kit, A Bowyers Guide - Gerb Jinklebelly (-211, -80) <br>
+* arrowheads (filed point, hooked, silver tipped), bundled arrow shafts (wooden, bone, ceramic, steel), fletchings (round cut, parabolic, shield cut), arrow vanes (wooden, bone, ceramic), Fletching, groove nocks (small, medium, large), fletching kit - Joana Jinklebelly (-229, -79) <br>
+<br>
+
+
+<c "#00CC00">Jewelcraft </c><br>
+* Imbue Peridot spell [Bristlebane] - Blippo Stumbletoe (Cleric guild) <br>
+<br>
+
+
+<c "#00CC00">Pottery </c><br>
+* pottery wheel - /loc -159.08, -77.75 <br>
+* pottery wheel & kiln - /loc 391.65, -468.49 (near deputy Shelmy) <br>
+* Imbue Peridot spell [Bristlebane] - Blippo Stumbletoe (Cleric guild) <br>
+* sketches (skewers, small jar, medium jar, large jar, bowl, pot, small deity, smoker, pie tin, cake round, muffin tin, medium bowl, large bowl, ceramic lining, idol) and cookie cutter templates (barbarian, gnome, troll, animal) - Marta Claytoe (-160. -84) <br>
+* water flask - Daleen Leafsway - druid area, Wibble Bramblebush (next to dock) <br>
+* clay (small block, block, large block) - Bodbin Gimple (druid guild, -87, -367) <br>
+* spell: lesser succor - Staria Longhair (druid guild, -65, -403) <br>
+
+<br>
+
+
+<c "#00CC00">Smithing </c><br>
+* forge - next to druid's guild <br>
+* Imbue Peridot spell [Bristlebane] - Blippo Stumbletoe (Cleric guild) <br>
+* small chainmail patterns - Charlotte Diggs (-180, -230, near Kevlin Diggs) <br>
+* books: Basic Blacksmithing, Armor and Weapons Guide, Dirge of the Forgefire, Ikthar's Fine Steel Skin, Firepride's Guide to Shieldcraft; Rings, Chains and Arrowheads - Frankle Ironhair (-250, -109) <br>
+* small plate armor molds - Jimji Bottletoe (-258, -116) <br>
+* molds (barbarian cookie, gnome cookie, troll cookie, animal cookie, muffin tin, pie tin, cake round, skewer, bread tin, pot, standing legs, smoker base, smoker support, hinge, scaler, lantern casing), Basic Blacksmithing - Yola Sweetcookie (-218, -131) <br>
+* molds (hinge, container base, small container base, small container lid, large container base, large container lid, lantern casing, file, thimble, needle, toolbox) - Betty Brickbaker (-280, -122) <br>
+* molds (dual-edged blade, heavy steel blade, spiked ball, hilt, pommel, dagger blade, thin blade, short blade, axe head, halberd head, curved blade, mace head, throwing knife, javelin, shuriken, throwing axe, long blade, hammer head, spear head, pick head) - Bipdo Hargin (-218, -70) <br>
+* arrow shaft mold - Joana Jinklebelly (-229, -79) <br>
+* water flask - Daleen Leafsway - druid area, Wibble Bramblebush (next to dock) <br>
+* Vale forge - 178, -176 (near bard) <br>
+* ore (small piece, small brick, large brick), sharpening stone, smithy hammer, oak shaft, smithing chisel - Bodbin Gimple (druid guild, -87, -367) <br>
+* sandalwood - Bimble Babbinsbort (-163, -120), Byle Babbinsbort (-146, -115), Kizzie Mintopp (-231, -211) <br>
+<br>
+
+
+<c "#00CC00">Tailoring </c><br>
+* basic armor patterns, small sewing kit, Leathers of the Vale - Twippie Diggs (near Fools Gold) <br>
+* small sewing kit, recipe book for silk thread, etc. - Meeka Diggs (near Fools Gold) <br>
+* 10-slot loom - next to Meeka Diggs (loc 0, -234) <br>
+* Tailoring Quivers - Joana Jinklebelly (-229, -79) <br>
+
+<br>
+
+
+<c "#00CC00">Tinkering </c><br>
+* large lantern - Wibble Bramblebush (near dock) <br>
+* lockpicks - Gaffin Deeppocket (3rd floor, Fools Gold) <br>
+<br>
+
+=====================
+<br>
+<a HREF="file:///storyline/il/storyEQtraders.txt">Table of Contents</a>
+<br>

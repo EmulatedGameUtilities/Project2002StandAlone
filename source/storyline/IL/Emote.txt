@@ -1,0 +1,108 @@
+<c "#FFff00">from allakhazam.com </c><c "#FF8000">Emotes</c><br><br>
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a><br><br>
+
+<c "#FFff00">%T </c> -  Returns the current target.  (for example if you hotkey "/g I am heading in with a %T in hot pursuit" the Mob you have targetted will be filled in for the %T) <br>
+<c "#FFff00">%S </c> -  Returns the subjective genderspecific pronoun for the target (He, She, It). <br>
+<c "#FFff00">%O </c> -  Returns the objective genderspecific pronoun for the target (Him, Her, It). <br>
+<c "#FFff00">%P </c> -  Returns the posessive genderspecific pronoun for the target (His, Her, Its). <br>
+<c "#FFff00">%R </c> -  Returns the race of the target (only works on Player characters). <br>
+<c "#FFff00">/agree </c> -  you agree with the targeted person <br>
+<c "#FFff00">/amaze </c> -  Amazed, you asp at targeted person, or you are amazed <br>
+<c "#FFff00">/apologize </c> -  You apologize to targetted person whole heartedly or apologize to everyone in the room <br>
+<c "#FFff00">/applaud </c> -  you applaud the performance of the targeted person or give a round of applause <br>
+<c "#FFff00">/bird </c> -  you make a rude gesture <br>
+<c "#FFff00">/bite </c> -  you bite the targeted person on the leg, or you look around for someone to bite <br>
+<c "#FFff00">/bleed </c> -  you bleed quietly, or all over the targeted person <br>
+<c "#FFff00">/blink </c> -  you blink in disbelief <br>
+<c "#FFff00">/blush </c> -  you blush at the targeted person or your cheeks are burning <br>
+<c "#FFff00">/boggle </c> -  you boggle at the target, shaking your head in disbelief. <br>
+<c "#FFff00">/bonk </c> -  you bonk the targeted person on the head <br>
+<c "#FFff00">/bored </c> -  you express that you are bored <br>
+<c "#FFff00">/bounce </c> -  you bounce around the targeted person, or just in place if no target. <br>
+<c "#FFff00">/bow  </c> -   You bow to the targeted person. <br>
+<c "#FFff00">/brb </c> -  you say that you will be right back <br>
+<c "#FFff00">/burp </c> -  you burp loudly <br>
+<c "#FFff00">/bye </c> -  you say goodbye <br>
+<c "#FFff00">/cackle </c> -  you cackle gleefully <br>
+<c "#FFff00">/calm </c> -  you try to calm the targeted person or you feel peaceful and calm <br>
+<c "#FFff00">/cheer  </c> -   Your character cheers.  An animated emote. <br>
+<c "#FFff00">/chuckle </c> -   You chuckle <br>
+<c "#FFff00">/clap </c> -  you clap happily <br>
+<c "#FFff00">/comfort </c> -  you comfort the targeted person <br>
+<c "#FFff00">/congratulate </c> -  you congratulate the targeted person on a job well done <br>
+<c "#FFff00">/cough </c> -  you cough <br>
+<c "#FFff00">/cringe </c> -  you cringe away from the targeted person <br>
+<c "#FFff00">/cry  </c> -   your character cries. <br>
+<c "#FFff00">/curious </c> -  you look at the targeted person curiously, or  look around curiously <br>
+<c "#FFff00">/dance </c> -  you stand on your tip toes and dance, or you grab the targeted person and dance with him <br>
+<c "#FFff00">/disbelief </c> -  you shake your head in disbelief.  [may be broken] <br>
+<c "#FFff00">/drool </c> -  you drool <br>
+<c "#FFff00">/duck </c> -  you duck <br>
+<c "#FFff00">/emote (text) or /em or : (text) or /e </c> -  emotes the text.  This is used to add fun to the game.  For example, after a big battle, you can type /emote cleans the gore off his sword.  Everyone around you will see "AllaKhazam cleans the gore off his sword."  More people should use this command. <br>
+<c "#FFff00">/eye </c> -  you raise and eyebrow inquiringly (at the targeted person) <br>
+<c "#FFff00">/finger </c> -  You make a rude gesture at the targeted individual. <br>
+<c "#FFff00">/flipoff  </c> -   You make a rude gesture at the targeted individual. <br>
+<c "#FFff00">/frown </c> -  You frown. <br>
+<c "#FFff00">/gasp </c> -  you gasp in astonishment <br>
+<c "#FFff00">/gesture  </c> -   You make a rude gesture at the targeted individual. <br>
+<c "#FFff00">/giggle </c> -  you giggle <br>
+<c "#FFff00">/glare </c> -  you turn an icy glare at the targeted person, or you glare at nothing in particular <br>
+<c "#FFff00">/grin </c> -  you grin evilly <br>
+<c "#FFff00">/groan </c> -  you groan <br>
+<c "#FFff00">/grovel </c> -  you grovel before the targeted person <br>
+<c "#FFff00">/happy </c> -  you say you are very happy with the targeted person, or are so happy <br>
+<c "#FFff00">/hungry </c> -  you say you need food badly <br>
+<c "#FFff00">/hug </c> -  You hug the targeted person. <br>
+<c "#FFff00">/introduce </c> -  you introduce the targeted person or introduce yourself to everyone <br>
+<c "#FFff00">/jk </c> -  you say you are just kidding <br>
+<c "#FFff00">/kneel </c> -  you kneel down, or you kneel before the targeted person in humility and reverence. <br>
+<c "#FFff00">/laugh </c> -  You laugh (at targeted person). <br>
+<c "#FFff00">/lost </c> -  you say you are completely lost <br>
+<c "#FFff00">/massage </c> -  you massage the targeted person's shoulders, or look around for someone to massage <br>
+<c "#FFff00">/moan </c> -  you moan <br>
+<c "#FFff00">/mourn </c> -  you lower your head and mourn the targeted person, or the dead <br>
+<c "#FFff00">/nod  </c> -   You nod to the highlighted person <br>
+<c "#FFff00">/panic  </c> -   You scream in panic. <br>
+<c "#FFff00">/peer </c> -  you peer at the targeted person intently, looking him up and down, or you peer around intently <br>
+<c "#FFff00">/plead </c> -   you plead desperately with the targeted person <br>
+<c "#FFff00">/point </c> -  you point at the targeted creature/person or straight ahead <br>
+<c "#FFff00">/poke </c> -  You poke the highlighted person. <br>
+<c "#FFff00">/ponder </c> -  you ponder the targeted person, what is going on with him. <br>
+<c "#FFff00">/puzzled </c> -  you look puzzled <br>
+<c "#FFff00">/raise </c> -  you raise your hand <br>
+<c "#FFff00">/ready </c> -  you let everyone (or targeted person) know you are ready <br>
+<c "#FFff00">/roar </c> -  You emit a low rumble and roar like a lion <br>
+<c "#FFff00">/rofl or /rof  </c> -   You roll on the floor laughing (at targeted person). <br>
+<c "#FFff00">/rude </c> -  You make a rude gesture at the targeted person. <br>
+<c "#FFff00">/salute </c> -  you salute the targeted person or the gods in pure admiration <br>
+<c "#FFff00">/shiver </c> -  you shiver.. brrr. <br>
+<c "#FFff00">/shrug </c> -  you shrug <br>
+<c "#FFff00">/sigh </c> -  you sigh at the targeted person, or you sigh, clearly disappointed <br>
+<c "#FFff00">/smile </c> -  You beam a smile at the targeted person. <br>
+<c "#FFff00">/smirk </c> -  you smirk mischieviously <br>
+<c "#FFff00">/snarl </c> -  you snarl at the targeted person, or you bare your teeth in a terrible snarl <br>
+<c "#FFff00">/snicker </c> -  you snicker softly <br>
+<c "#FFff00">/stare </c> -  you stare dreamily at the targeted person, completely lost in her eyes, or you stare at the ground <br>
+<c "#FFff00">/tap </c> -  you tap your foot impatiently <br>
+<c "#FFff00">/tease </c> -  you tease the targeted person mercilessly, or you look around for someone to tease <br>
+<c "#FFff00">/thanks </c> -  you thank the targeted person <br>
+<c "#FFff00">/thirsty </c> -  you state that you are thirsty <br>
+<c "#FFff00">/shiver </c> -  you shiver ... brrr.  Or you shiver at the thought of messing with the targetted person. <br>
+<c "#FFff00">/veto </c> -  you veto the (targeted person's) idea <br>
+<c "#FFff00">/wave  </c> -   Your character waves. <br>
+<c "#FFff00">/welcome </c> -  you welcome the targeted person <br>
+<c "#FFff00">/whine </c> -  you whine pitifully <br>
+<c "#FFff00">/whistles </c> -  you whistle at the targeted person appreciatively, or you whistle a little tune <br>
+<c "#FFff00">/yawn </c> -  you yawn rudely in targeted  person's face, or you open your mouth wide and yawn <br>
+<c "#FFff00">/yell (or /y) </c> -  You yell for help.  People around you will hear "XXX yelled for help from your [direction].  This is a very useful emote/command which you may want to consider hot keying. <br>
+
+
+
+
+
+<br>
+<c "#FF2400">Vulcon Mastercrafter</c><br>
+<c "#FFFF00"> Enchanter</c><br><br>
+
+<a HREF="file:///storyline/storyIL.txt">Table of Contents</a>
+<br>

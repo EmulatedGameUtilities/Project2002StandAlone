@@ -1,0 +1,6 @@
+Ingredient: <c "#FF0000">Black Henbane</c><br>
+Vendor: NPC Drop<br>
+Location: Kobolds in Solusek A & B<br>
+Poison: Crippling Peptide / Carnivore Mortis / Twisting Disorientation<br>
+<br><br>
+<a href="file:///storyline/il/storyPoisons.txt">Back to Main</a>

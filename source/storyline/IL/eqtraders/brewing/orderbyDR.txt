@@ -1,0 +1,10 @@
+<c "#66CCFF">Recipes Listed By Stat (DR)<br>
+=============================================================================<br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stats<br>
+=============================================================================</c><br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/686.txt">Planar Blood Brew</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(225 or 226)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STR: 3 STA: 3 CHA: -10 PR: 10 DR: <c "#66CCFF">10</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/679.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: 2 DR: <c "#66CCFF">10</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/678.txt">Spiced Hollow Palm Tea</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(162)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WIS: 2 DR: <c "#66CCFF">10</c>)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/637.txt">Kaladim Constitutional</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 5 PR: 5 MR: 5 DR: <c "#66CCFF">5</c> FR: 5 CR: 5)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/685.txt">Twice Brewed Constitutional</a></c>  &nbsp;&nbsp;&nbsp;(>250)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STA: 5 PR: 5 MR: 5 DR: <c "#66CCFF">5</c> FR: 5 CR: 5)<br>
+<c "#66CCFF"><a HREF="file:///storyline/il/eqtraders/Brewing/items/633.txt">Flask of Orange Juice</a></c>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DR: <c "#66CCFF">1</c>)<br>

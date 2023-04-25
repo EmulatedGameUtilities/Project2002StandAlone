@@ -1,0 +1,2 @@
+Resurrection
+<br><br><br><c "#66CCFF">Slot 1:</c> Resurrect and restore 90% experience<br><br><c "#66CCFF">Casting Time:</c> 6.0<br><c "#66CCFF">Deletable:</c> Yes<br><c "#66CCFF">Fizzle Time:</c> 2.25<br><c "#66CCFF">Mana:</c> 700<br><c "#66CCFF">Range:</c> 200<br><c "#66CCFF">Recast Time:</c> 20.0<br><c "#66CCFF">Resist:</c> Unresistable<br><c "#66CCFF">Skill:</c> Alteration<br><c "#66CCFF">Spell Type:</c> Beneficial<br><c "#66CCFF">Target Type:</c> Corpse<br><br><c "#66CCFF">Classes:</c> CLR/49 PAL/59<br><c "#66CCFF">Duration:</c> Instant<br><br><br>♥<br>
