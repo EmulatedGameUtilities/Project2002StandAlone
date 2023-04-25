@@ -1,0 +1,1758 @@
+<?xml version = "1.0"?>
+<XML ID = "EQInterfaceDefinitionLanguage">
+	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+
+<!-- spell icons (used in buff bar and spell book) -->
+	<TextureInfo item = "pot_spells01.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "pot_spells02.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "pot_spells03.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+
+
+<!-- BlueIconBackground and RedIconBackground - HARDCODED -->
+<!-- used in EQUI_BuffWindow.xml and EQUI_SpellBookWnd.xml -->
+
+	<Ui2DAnimation item = "BlueIconBackground">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_iconbackground.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>128</CX>
+				<CY>32</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+
+	<Ui2DAnimation item = "RedIconBackground">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_iconbackground.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>128</CX>
+				<CY>32</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+
+
+<!-- spell icons - 32x32 horizontal -->
+<!--	<Ui2DAnimation item = "A_SpellIcons">
+		<Cycle>false</Cycle>
+		<Grid>true</Grid>
+		<Vertical>false</Vertical>
+		<CellHeight>32</CellHeight>
+		<CellWidth>32</CellWidth>
+		<Frames>
+			<Texture>pot_spells01.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>256</CX>
+				<CY>256</CY>
+			</Size>
+		</Frames>
+		<Frames>
+			<Texture>pot_spells02.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>256</CX>
+				<CY>256</CY>
+			</Size>
+		</Frames>
+		<Frames>
+			<Texture>pot_spells03.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>256</CX>
+				<CY>256</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation> -->
+
+
+<!-- the buffs themselves -->
+	<Button item = "BW_Buff0_Button">
+		<ScreenID>Buff0</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff1_Button">
+		<ScreenID>Buff1</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff2_Button">
+		<ScreenID>Buff2</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff3_Button">
+		<ScreenID>Buff3</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff4_Button">
+		<ScreenID>Buff4</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff5_Button">
+		<ScreenID>Buff5</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff6_Button">
+		<ScreenID>Buff6</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff7_Button">
+		<ScreenID>Buff7</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff8_Button">
+		<ScreenID>Buff8</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff9_Button">
+		<ScreenID>Buff9</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff10_Button">
+		<ScreenID>Buff10</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff11_Button">
+		<ScreenID>Buff11</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff12_Button">
+		<ScreenID>Buff12</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff13_Button">
+		<ScreenID>Buff13</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+	<Button item = "BW_Buff14_Button">
+		<ScreenID>Buff14</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>128</CX>
+			<CY>32</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>96</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>32</CX>
+			<CY>32</CY>
+		</DecalSize>
+	</Button>
+
+<!-- Unsued items -->
+	<Button item="BW_Buff15_Button">
+		<ScreenID>Buff15</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff16_Button">
+		<ScreenID>Buff16</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff17_Button">
+		<ScreenID>Buff17</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff18_Button">
+		<ScreenID>Buff18</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff19_Button">
+		<ScreenID>Buff19</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff20_Button">
+		<ScreenID>Buff20</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff21_Button">
+		<ScreenID>Buff21</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff22_Button">
+		<ScreenID>Buff22</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff23_Button">
+		<ScreenID>Buff23</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+	<Button item="BW_Buff24_Button">
+		<ScreenID>Buff24</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+		<Button item="BW_Buff25_Button">
+		<ScreenID>Buff25</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+		<Button item="BW_Buff26_Button">
+		<ScreenID>Buff26</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+		<Button item="BW_Buff27_Button">
+		<ScreenID>Buff27</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+		<Button item="BW_Buff28_Button">
+		<ScreenID>Buff28</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+		<Button item="BW_Buff29_Button">
+		<ScreenID>Buff29</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>A_SpellIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>0</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>0</CX>
+			<CY>0</CY>
+		</DecalSize>
+	</Button>
+<!-- square box to act as placeholder for no buff in a slot -->
+
+	<StaticAnimation item = "BW_Buff0_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff1_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>33</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff2_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>66</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff3_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>99</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff4_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>132</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff5_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>165</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff6_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>198</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff7_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>231</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff8_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>264</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff9_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>297</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff10_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>330</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff11_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>363</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff12_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>396</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff13_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>429</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+	<StaticAnimation item = "BW_Buff14_PH">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>462</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>32</CY>
+		</Size>
+		<Animation>A_SquareBtnPressed</Animation>
+	</StaticAnimation>
+
+<!-- the numerals -->
+	<Label item ="BW_Buff0_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>10</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>1</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff1_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>43</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>2</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff2_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>76</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>3</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff3_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>109</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>4</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff4_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>142</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>5</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff5_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>175</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>6</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff6_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>208</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>7</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff7_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>241</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>8</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff8_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>274</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>9</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff9_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>307</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>10</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff10_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>340</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>11</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff11_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>373</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>12</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff12_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>406</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>13</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff13_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>439</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>14</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+	<Label item ="BW_Buff14_Number">
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>99</X>
+			<Y>472</Y>
+		</Location>
+		<Size>
+			<CX>32</CX>
+			<CY>10</CY>
+		</Size>
+		<Text>15</Text>
+		<TextColor>
+				<R>150</R>
+				<G>150</G>
+				<B>150</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+
+<!-- the buff names -->
+
+	<Label item ="BW_Buff0_Name">
+		<ScreenID>Buff0Label</ScreenID>
+		<EQType>45</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>5</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+	<Label item ="BW_Buff1_Name">
+		<ScreenID>Buff1Label</ScreenID>
+		<EQType>46</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>38</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+	<Label item ="BW_Buff2_Name">
+		<ScreenID>Buff2Label</ScreenID>
+		<EQType>47</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>71</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+	<Label item ="BW_Buff3_Name">
+		<ScreenID>Buff3Label</ScreenID>
+		<EQType>48</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>104</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+	<Label item ="BW_Buff4_Name">
+		<ScreenID>Buff4Label</ScreenID>
+		<EQType>49</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>137</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff5_Name">
+		<ScreenID>Buff5Label</ScreenID>
+		<EQType>50</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>170</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff6_Name">
+		<ScreenID>Buff6Label</ScreenID>
+		<EQType>51</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>203</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff7_Name">
+		<ScreenID>Buff7Label</ScreenID>
+		<EQType>52</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>236</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff8_Name">
+		<ScreenID>Buff8Label</ScreenID>
+		<EQType>53</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>269</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff9_Name">
+		<ScreenID>Buff9Label</ScreenID>
+		<EQType>54</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>302</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff10_Name">
+		<ScreenID>Buff10Label</ScreenID>
+		<EQType>55</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>335</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff11_Name">
+		<ScreenID>Buff11Label</ScreenID>
+		<EQType>56</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>368</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff12_Name">
+		<ScreenID>Buff12Label</ScreenID>
+		<EQType>57</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>401</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+	
+	<Label item ="BW_Buff13_Name">
+		<ScreenID>Buff13Label</ScreenID>
+		<EQType>58</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>434</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+	<Label item ="BW_Buff14_Name">
+		<ScreenID>Buff14Label</ScreenID>
+		<EQType>59</EQType>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>467</Y>
+		</Location>
+		<Size>
+			<CX>90</CX>
+			<CY>22</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+	</Label>
+
+
+	<Screen item = "BuffWindow">
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>415</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>140</CX>
+			<CY>504</CY>
+		</Size>
+		<Style_Transparent>false</Style_Transparent>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>true</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+        
+<!-- box to act as placeholder for no buff in a slot -->
+		<Pieces>BW_Buff0_PH</Pieces>
+		<Pieces>BW_Buff1_PH</Pieces>
+		<Pieces>BW_Buff2_PH</Pieces>
+		<Pieces>BW_Buff3_PH</Pieces>
+		<Pieces>BW_Buff4_PH</Pieces>
+		<Pieces>BW_Buff5_PH</Pieces>
+		<Pieces>BW_Buff6_PH</Pieces>
+		<Pieces>BW_Buff7_PH</Pieces>
+		<Pieces>BW_Buff8_PH</Pieces>
+		<Pieces>BW_Buff9_PH</Pieces>
+		<Pieces>BW_Buff10_PH</Pieces>
+		<Pieces>BW_Buff11_PH</Pieces>
+		<Pieces>BW_Buff12_PH</Pieces>
+		<Pieces>BW_Buff13_PH</Pieces>
+		<Pieces>BW_Buff14_PH</Pieces>
+
+<!-- the numerals -->
+		<Pieces>BW_Buff0_Number</Pieces>
+		<Pieces>BW_Buff1_Number</Pieces>
+		<Pieces>BW_Buff2_Number</Pieces>
+		<Pieces>BW_Buff3_Number</Pieces>
+		<Pieces>BW_Buff4_Number</Pieces>
+		<Pieces>BW_Buff5_Number</Pieces>
+		<Pieces>BW_Buff6_Number</Pieces>
+		<Pieces>BW_Buff7_Number</Pieces>
+		<Pieces>BW_Buff8_Number</Pieces>
+		<Pieces>BW_Buff9_Number</Pieces>
+		<Pieces>BW_Buff10_Number</Pieces>
+		<Pieces>BW_Buff11_Number</Pieces>
+		<Pieces>BW_Buff12_Number</Pieces>
+		<Pieces>BW_Buff13_Number</Pieces>
+		<Pieces>BW_Buff14_Number</Pieces>
+
+<!-- the buff names -->
+		<Pieces>BW_Buff0_Name</Pieces>
+		<Pieces>BW_Buff1_Name</Pieces>
+		<Pieces>BW_Buff2_Name</Pieces>
+		<Pieces>BW_Buff3_Name</Pieces>
+		<Pieces>BW_Buff4_Name</Pieces>
+		<Pieces>BW_Buff5_Name</Pieces>
+		<Pieces>BW_Buff6_Name</Pieces>
+		<Pieces>BW_Buff7_Name</Pieces>
+		<Pieces>BW_Buff8_Name</Pieces>
+		<Pieces>BW_Buff9_Name</Pieces>
+		<Pieces>BW_Buff10_Name</Pieces>
+		<Pieces>BW_Buff11_Name</Pieces>
+		<Pieces>BW_Buff12_Name</Pieces>
+		<Pieces>BW_Buff13_Name</Pieces>
+		<Pieces>BW_Buff14_Name</Pieces>
+
+<!-- the buff icons -->
+		<Pieces>BW_Buff0_Button</Pieces>
+		<Pieces>BW_Buff1_Button</Pieces>
+		<Pieces>BW_Buff2_Button</Pieces>
+		<Pieces>BW_Buff3_Button</Pieces>
+		<Pieces>BW_Buff4_Button</Pieces>
+		<Pieces>BW_Buff5_Button</Pieces>
+		<Pieces>BW_Buff6_Button</Pieces>
+		<Pieces>BW_Buff7_Button</Pieces>
+		<Pieces>BW_Buff8_Button</Pieces>
+		<Pieces>BW_Buff9_Button</Pieces>
+		<Pieces>BW_Buff10_Button</Pieces>
+		<Pieces>BW_Buff11_Button</Pieces>
+		<Pieces>BW_Buff12_Button</Pieces>
+		<Pieces>BW_Buff13_Button</Pieces>
+		<Pieces>BW_Buff14_Button</Pieces>
+		<Pieces>BW_Buff15_Button</Pieces>
+		<Pieces>BW_Buff16_Button</Pieces>
+		<Pieces>BW_Buff17_Button</Pieces>
+		<Pieces>BW_Buff18_Button</Pieces>
+		<Pieces>BW_Buff19_Button</Pieces>
+		<Pieces>BW_Buff20_Button</Pieces>
+		<Pieces>BW_Buff21_Button</Pieces>
+		<Pieces>BW_Buff22_Button</Pieces>
+		<Pieces>BW_Buff23_Button</Pieces>
+		<Pieces>BW_Buff24_Button</Pieces>
+		<Pieces>BW_Buff25_Button</Pieces>
+		<Pieces>BW_Buff26_Button</Pieces>
+		<Pieces>BW_Buff27_Button</Pieces>
+		<Pieces>BW_Buff28_Button</Pieces>
+		<Pieces>BW_Buff29_Button</Pieces>
+	</Screen>
+
+</XML>

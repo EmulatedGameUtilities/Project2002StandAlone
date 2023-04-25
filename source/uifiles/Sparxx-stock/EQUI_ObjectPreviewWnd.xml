@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <Screen item="OPW_ViewRenderArea">
+    <ScreenID>OPW_ViewRenderArea</ScreenID>
+    <AutoStretch>true</AutoStretch>
+    <LeftAnchorOffset>10</LeftAnchorOffset>
+    <TopAnchorOffset>10</TopAnchorOffset>
+    <RightAnchorOffset>10</RightAnchorOffset>
+    <BottomAnchorOffset>10</BottomAnchorOffset>
+    <TopAnchorToTop>true</TopAnchorToTop>
+    <BottomAnchorToTop>false</BottomAnchorToTop>
+    <LeftAnchorToLeft>true</LeftAnchorToLeft>
+    <RightAnchorToLeft>false</RightAnchorToLeft>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>true</Style_Transparent>
+  </Screen>
+  <Screen item="ObjectPreviewWnd">
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>400</X>
+      <Y>200</Y>
+    </Location>
+    <Size>
+      <CX>300</CX>
+      <CY>400</CY>
+    </Size>
+    <NoWrap>false</NoWrap>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <TooltipReference>Object Preview</TooltipReference>
+    <DrawTemplate>WDT_Rounded</DrawTemplate>
+    <Style_Titlebar>true</Style_Titlebar>
+    <Style_Closebox>true</Style_Closebox>
+    <Style_Minimizebox>true</Style_Minimizebox>
+    <Style_Border>true</Style_Border>
+    <Style_Sizable>true</Style_Sizable>
+    <Text>Object Preview</Text>
+    <Pieces>Screen:OPW_ViewRenderArea</Pieces>
+  </Screen>
+</XML>

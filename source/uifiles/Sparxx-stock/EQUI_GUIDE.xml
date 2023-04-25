@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<!-- Monolithic Parameter File -->
+<!-- The composite section must come first and be followed by the schema -->
+<XML ID = "EQInterfaceDefinitionLanguage">
+    <Composite>
+        <Include>EQUI.xml</Include>
+        <Include>EQUI_GUIDE_PetitionQWnd.xml</Include>
+        <Include>EQUI_GUIDE_SoulmarkWnd.xml</Include>
+		<Include>EQUI_GUIDE_ZoneWnd.xml</Include>	
+    </Composite>
+    <Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+</XML>

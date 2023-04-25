@@ -1,0 +1,5 @@
+P 1460.0000, 2286.0000, 0.0000,  0, 0, 0,  3,  Zone_to_Nobles'_Causeway
+P -1350.7200, -1712.7419, 119.3610,  0, 0, 0,  3,  Zone_to_Citadel_of_Anguish
+P 1696.0000, -1980.0000, 105.4140,  0, 0, 0,  3,  Zone_to_Muramite_Proving_Grounds
+P 741.6813, 231.3823, -12.8147,  240, 0, 0,  3,  Cipheron
+P 114.8537, 32.5717, -4.4817,  240, 0, 0,  3,  Velitorkin

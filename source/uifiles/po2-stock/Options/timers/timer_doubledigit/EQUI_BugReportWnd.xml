@@ -1,0 +1,588 @@
+<?xml version = "1.0"?>
+<XML ID = "EQInterfaceDefinitionLanguage">
+	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+
+<!-- TEXTURE declaration -->
+
+	<TextureInfo item = "pot_timer.tga">
+		<Size>
+			<CX>128</CX>
+			<CY>64</CY>
+		</Size>
+	</TextureInfo>
+    
+<!-- UNIT seconds texture -->
+
+	<Ui2DAnimation item = "pot_timersecondunits">
+		<Cycle>true</Cycle>
+        
+        <!-- 1 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 2 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>16</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 3 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>32</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 4 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>48</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 5 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>64</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 6 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>80</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 7 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>96</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 8 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>112</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 9 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+        
+        <!-- 0 -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>16</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>
+
+<!-- TENS seconds texture -->
+
+	<Ui2DAnimation item = "pot_timersecondtens">
+		<Cycle>true</Cycle>
+        
+        <!-- blank for 9s  -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>112</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>9000</Duration>
+		</Frames>
+        
+        <!-- 1 for 10s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>10000</Duration>
+		</Frames>
+        
+        <!-- 2 for 10s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>16</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>10000</Duration>
+		</Frames>
+        
+        <!-- 3 for 10s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>32</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>10000</Duration>
+		</Frames>
+        
+        <!-- 4 for 10s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>48</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>10000</Duration>
+		</Frames>
+        
+        <!-- 5 for 10s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>64</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>10000</Duration>
+		</Frames>
+        
+        <!-- 6 for 1s -->
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>80</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>
+
+<!-- timer close button texture -->
+
+	<Ui2DAnimation item = "pot_TimerCloseBtnNormal">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>32</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>16</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	<Ui2DAnimation item = "pot_TimerCloseBtnFlyby">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>32</X>
+				<Y>48</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>16</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	<Ui2DAnimation item = "pot_TimerCloseBtnPressed">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>48</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>16</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	<Ui2DAnimation item = "pot_TimerCloseBtnDisabled">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>48</X>
+				<Y>48</Y>
+			</Location>
+			<Size>	
+				<CX>16</CX>
+				<CY>16</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	<Ui2DAnimation item = "pot_TimerCloseBtnPressedFlyby">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>pot_timer.tga</Texture>
+			<Location>
+				<X>48</X>
+				<Y>32</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>16</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+
+<!-- UNIT seconds -->
+
+	<StaticAnimation item="BUGW_TimerSecondUnits">
+			<Location>
+				<X>18</X>
+				<Y>2</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+		<Animation>pot_timersecondunits</Animation>
+	</StaticAnimation>
+
+<!-- TEN seconds -->
+
+	<StaticAnimation item="BUGW_TimerSecondTens">
+			<Location>
+				<X>2</X>
+				<Y>2</Y>
+			</Location>
+			<Size>
+				<CX>16</CX>
+				<CY>32</CY>
+			</Size>
+		<Animation>pot_timersecondtens</Animation>
+	</StaticAnimation>
+
+
+<!-- CLOSE button -->
+
+	<Button item = "BUGW_CancelButton">
+		<ScreenID>BUGW_CancelButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>42</X>
+			<Y>10</Y>
+		</Location>
+		<Size>
+			<CX>16</CX>
+			<CY>16</CY>
+		</Size>
+		<ButtonDrawTemplate>
+			<Normal>pot_TimerCloseBtnNormal</Normal>
+			<Pressed>pot_TimerCloseBtnPressed</Pressed>
+			<Flyby>pot_TimerCloseBtnFlyby</Flyby>
+			<Disabled>pot_TimerCloseBtnDisabled</Disabled>
+			<PressedFlyby>pot_TimerCloseBtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+<!-- redundant items required by schema do not delete -->
+
+	<Label item ="BUGW_UserName">
+		<ScreenID>BUGW_UserName</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+	</Label>
+
+	<Editbox item = "BUGW_FeedbackInput">
+		<ScreenID>BUGW_FeedbackInput</ScreenID>
+		<DrawTemplate>WDT_Inner</DrawTemplate>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+	</Editbox>
+	
+	<Button item = "BUGW_CannotDuplicateButton">
+		<ScreenID>BUGW_CannotDuplicateButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+	<Button item = "BUGW_CanDuplicateButton">
+		<ScreenID>BUGW_CanDuplicateButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+	<Button item = "BUGW_NonCrashBugButton">
+		<ScreenID>BUGW_NonCrashBugButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+	<Button item = "BUGW_CrashBugButton">
+		<ScreenID>BUGW_CrashBugButton</ScreenID>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+	<Button item = "BUGW_SendButton">
+		<ScreenID>BUGW_SendButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
+
+<!-- window definition -->
+
+	<Screen item = "BugReportWindow">
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>70</X>
+			<Y>70</Y>
+		</Location>
+		<Size>
+			<CX>68</CX>
+			<CY>44</CY>
+		</Size>
+		<Style_Transparent>false</Style_Transparent>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>true</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+
+		<Pieces>BUGW_TimerSecondTens</Pieces>
+		<Pieces>BUGW_TimerSecondUnits</Pieces>
+		<Pieces>BUGW_CancelButton</Pieces>
+        
+<!-- redundant pieces required by schema - do not delete -->
+        
+		<Pieces>BUGW_UserName</Pieces>
+		<Pieces>BUGW_FeedbackInput</Pieces>
+		<Pieces>BUGW_CannotDuplicateButton</Pieces>
+		<Pieces>BUGW_CanDuplicateButton</Pieces>
+		<Pieces>BUGW_NonCrashBugButton</Pieces>
+		<Pieces>BUGW_CrashBugButton</Pieces>
+		<Pieces>BUGW_SendButton</Pieces>
+	</Screen>
+
+</XML>
